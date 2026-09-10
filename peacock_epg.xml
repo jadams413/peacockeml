@@ -99,12 +99,6 @@
   <channel id="Peacock_098"><display-name>Peacock 098</display-name></channel>
   <channel id="Peacock_099"><display-name>Peacock 099</display-name></channel>
   <channel id="Peacock_100"><display-name>Peacock 100</display-name></channel>
-  <programme start="20260910083000 +0000" stop="20260910123000 +0000" channel="Peacock_013">
-    <title>La Vuelta a España: Stage 18 (2026-09-10 08:30:00)</title>
-  </programme>
-  <programme start="20260910083000 +0000" stop="20260910160000 +0000" channel="Peacock_013">
-    <title>La Vuelta a España: Stage 18 (2026-09-10 08:30:00)</title>
-  </programme>
   <programme start="20260910160000 +0000" stop="20260910200000 +0000" channel="Peacock_014">
     <title>Away Feed: TEX at SEA (2026-09-10 16:00:00)</title>
   </programme>
@@ -155,12 +149,6 @@
   </programme>
   <programme start="20260911213000 +0000" stop="20260912043000 +0000" channel="Peacock_022">
     <title>Home Feed: TEX at AZ (2026-09-11 21:30:00)</title>
-  </programme>
-  <programme start="20260910083000 +0000" stop="20260910123000 +0000" channel="Peacock_023">
-    <title>La Vuelta a España: Stage 18 (2026-09-10 08:30:00)</title>
-  </programme>
-  <programme start="20260910083000 +0000" stop="20260910160000 +0000" channel="Peacock_023">
-    <title>La Vuelta a España: Stage 18 (2026-09-10 08:30:00)</title>
   </programme>
   <programme start="20260911213005 +0000" stop="20260912013005 +0000" channel="Peacock_023">
     <title>Away Feed: TEX at AZ (2026-09-11 21:30:05)</title>
@@ -324,12 +312,6 @@
   <programme start="20260912180000 +0000" stop="20260913000000 +0000" channel="Peacock_036">
     <title>Sun FC v. FTL United (2026-09-12 18:00:00)</title>
   </programme>
-  <programme start="20260910083000 +0000" stop="20260910123000 +0000" channel="Peacock_037">
-    <title>La Vuelta a España: Stage 18 (2026-09-10 08:30:00)</title>
-  </programme>
-  <programme start="20260910083000 +0000" stop="20260910160000 +0000" channel="Peacock_037">
-    <title>La Vuelta a España: Stage 18 (2026-09-10 08:30:00)</title>
-  </programme>
   <programme start="20260912120000 +0000" stop="20260912190000 +0000" channel="Peacock_037">
     <title>Ultimate Championship: Day 2 (2026-09-12 12:00:00)</title>
   </programme>
@@ -386,12 +368,6 @@
   </programme>
   <programme start="20260913085500 +0000" stop="20260913153500 +0000" channel="Peacock_040">
     <title>Aerobic Gymnastics Champs: Day 2 (2026-09-13 08:55:00)</title>
-  </programme>
-  <programme start="20260910083000 +0000" stop="20260910123000 +0000" channel="Peacock_041">
-    <title>La Vuelta a España: Stage 18 (2026-09-10 08:30:00)</title>
-  </programme>
-  <programme start="20260910083000 +0000" stop="20260910160000 +0000" channel="Peacock_041">
-    <title>La Vuelta a España: Stage 18 (2026-09-10 08:30:00)</title>
   </programme>
   <programme start="20260911193000 +0000" stop="20260911233000 +0000" channel="Peacock_041">
     <title>Lexington SC v. Ascent FC (2026-09-11 19:30:00)</title>
@@ -498,12 +474,6 @@
   <programme start="20260913133005 +0000" stop="20260913203000 +0000" channel="Peacock_045">
     <title>Home Feed: NYM at NYY (2026-09-13 13:30:05)</title>
   </programme>
-  <programme start="20260910083000 +0000" stop="20260910123000 +0000" channel="Peacock_046">
-    <title>La Vuelta a España: Stage 18 (2026-09-10 08:30:00)</title>
-  </programme>
-  <programme start="20260910083000 +0000" stop="20260910160000 +0000" channel="Peacock_046">
-    <title>La Vuelta a España: Stage 18 (2026-09-10 08:30:00)</title>
-  </programme>
   <programme start="20260911200000 +0000" stop="20260912000000 +0000" channel="Peacock_046">
     <title>Home Feed: CLE at MIN (2026-09-11 20:00:00)</title>
   </programme>
@@ -521,12 +491,6 @@
   </programme>
   <programme start="20260913120000 +0000" stop="20260913190000 +0000" channel="Peacock_046">
     <title>Ultimate Championship: Day 3 (2026-09-13 12:00:00)</title>
-  </programme>
-  <programme start="20260910083000 +0000" stop="20260910123000 +0000" channel="Peacock_047">
-    <title>La Vuelta a España: Stage 18 (2026-09-10 08:30:00)</title>
-  </programme>
-  <programme start="20260910083000 +0000" stop="20260910160000 +0000" channel="Peacock_047">
-    <title>La Vuelta a España: Stage 18 (2026-09-10 08:30:00)</title>
   </programme>
   <programme start="20260910160000 +0000" stop="20260910200000 +0000" channel="Peacock_047">
     <title>Away Feed: TEX at SEA (2026-09-10 16:00:00)</title>
@@ -591,12 +555,6 @@
   <programme start="20260913190005 +0000" stop="20260914043000 +0000" channel="Peacock_048">
     <title>Cowboys vs. Giants (2026-09-13 19:00:05)</title>
   </programme>
-  <programme start="20260910083000 +0000" stop="20260910123000 +0000" channel="Peacock_049">
-    <title>La Vuelta a España: Stage 18 (2026-09-10 08:30:00)</title>
-  </programme>
-  <programme start="20260910083000 +0000" stop="20260910160000 +0000" channel="Peacock_049">
-    <title>La Vuelta a España: Stage 18 (2026-09-10 08:30:00)</title>
-  </programme>
   <programme start="20260910160005 +0000" stop="20260910200005 +0000" channel="Peacock_049">
     <title>Home Feed: TEX at SEA (2026-09-10 16:00:05)</title>
   </programme>
@@ -632,12 +590,6 @@
   </programme>
   <programme start="20260913233000 +0000" stop="20260914043000 +0000" channel="Peacock_049">
     <title>Sunday Night Football Final (2026-09-13 23:30:00)</title>
-  </programme>
-  <programme start="20260910083000 +0000" stop="20260910123000 +0000" channel="Peacock_050">
-    <title>La Vuelta a España: Stage 18 (2026-09-10 08:30:00)</title>
-  </programme>
-  <programme start="20260910083000 +0000" stop="20260910160000 +0000" channel="Peacock_050">
-    <title>La Vuelta a España: Stage 18 (2026-09-10 08:30:00)</title>
   </programme>
   <programme start="20260910160000 +0000" stop="20260910200000 +0000" channel="Peacock_050">
     <title>Away Feed: TEX at SEA (2026-09-10 16:00:00)</title>
@@ -975,12 +927,6 @@
   <programme start="20260913133000 +0000" stop="20260913203000 +0000" channel="Peacock_058">
     <title>Away Feed: NYM at NYY (2026-09-13 13:30:00)</title>
   </programme>
-  <programme start="20260910083000 +0000" stop="20260910123000 +0000" channel="Peacock_059">
-    <title>La Vuelta a España: Stage 18 (2026-09-10 08:30:00)</title>
-  </programme>
-  <programme start="20260910083000 +0000" stop="20260910160000 +0000" channel="Peacock_059">
-    <title>La Vuelta a España: Stage 18 (2026-09-10 08:30:00)</title>
-  </programme>
   <programme start="20260912143000 +0000" stop="20260912183000 +0000" channel="Peacock_059">
     <title>Rd. 29 Playoff 1: Columbus (2026-09-12 14:30:00)</title>
   </programme>
@@ -1013,12 +959,6 @@
   </programme>
   <programme start="20260913133005 +0000" stop="20260913203000 +0000" channel="Peacock_059">
     <title>Home Feed: NYM at NYY (2026-09-13 13:30:05)</title>
-  </programme>
-  <programme start="20260910083000 +0000" stop="20260910123000 +0000" channel="Peacock_060">
-    <title>La Vuelta a España: Stage 18 (2026-09-10 08:30:00)</title>
-  </programme>
-  <programme start="20260910083000 +0000" stop="20260910160000 +0000" channel="Peacock_060">
-    <title>La Vuelta a España: Stage 18 (2026-09-10 08:30:00)</title>
   </programme>
   <programme start="20260911070000 +0000" stop="20260911110000 +0000" channel="Peacock_060">
     <title>La Vuelta a España: Stage 19 (2026-09-11 07:00:00)</title>
@@ -1055,12 +995,6 @@
   </programme>
   <programme start="20260913150000 +0000" stop="20260913210000 +0000" channel="Peacock_060">
     <title>Brooklyn FC v. Sporting JAX (2026-09-13 15:00:00)</title>
-  </programme>
-  <programme start="20260910083000 +0000" stop="20260910123000 +0000" channel="Peacock_061">
-    <title>La Vuelta a España: Stage 18 (2026-09-10 08:30:00)</title>
-  </programme>
-  <programme start="20260910083000 +0000" stop="20260910160000 +0000" channel="Peacock_061">
-    <title>La Vuelta a España: Stage 18 (2026-09-10 08:30:00)</title>
   </programme>
   <programme start="20260910160000 +0000" stop="20260910200000 +0000" channel="Peacock_061">
     <title>Away Feed: TEX at SEA (2026-09-10 16:00:00)</title>
@@ -1494,12 +1428,6 @@
   <programme start="20260914190000 +0000" stop="20260915020000 +0000" channel="Peacock_070">
     <title>Away Feed: DET at TOR (2026-09-14 19:00:00)</title>
   </programme>
-  <programme start="20260910083000 +0000" stop="20260910123000 +0000" channel="Peacock_071">
-    <title>La Vuelta a España: Stage 18 (2026-09-10 08:30:00)</title>
-  </programme>
-  <programme start="20260910083000 +0000" stop="20260910160000 +0000" channel="Peacock_071">
-    <title>La Vuelta a España: Stage 18 (2026-09-10 08:30:00)</title>
-  </programme>
   <programme start="20260912180000 +0000" stop="20260912220000 +0000" channel="Peacock_071">
     <title>Sun FC v. FTL United (2026-09-12 18:00:00)</title>
   </programme>
@@ -1592,12 +1520,6 @@
   </programme>
   <programme start="20260913100000 +0000" stop="20260913183000 +0000" channel="Peacock_075">
     <title>La Vuelta a España: Stage 21 (2026-09-13 10:00:00)</title>
-  </programme>
-  <programme start="20260910083000 +0000" stop="20260910123000 +0000" channel="Peacock_076">
-    <title>La Vuelta a España: Stage 18 (2026-09-10 08:30:00)</title>
-  </programme>
-  <programme start="20260910083000 +0000" stop="20260910160000 +0000" channel="Peacock_076">
-    <title>La Vuelta a España: Stage 18 (2026-09-10 08:30:00)</title>
   </programme>
   <programme start="20260911200000 +0000" stop="20260912000000 +0000" channel="Peacock_076">
     <title>Away Feed: CLE at MIN (2026-09-11 20:00:00)</title>
@@ -1802,12 +1724,6 @@
   </programme>
   <programme start="20260913190000 +0000" stop="20260914043000 +0000" channel="Peacock_085">
     <title>Cowboys vs. Giants (2026-09-13 19:00:00)</title>
-  </programme>
-  <programme start="20260910083000 +0000" stop="20260910123000 +0000" channel="Peacock_086">
-    <title>La Vuelta a España: Stage 18 (2026-09-10 08:30:00)</title>
-  </programme>
-  <programme start="20260910083000 +0000" stop="20260910160000 +0000" channel="Peacock_086">
-    <title>La Vuelta a España: Stage 18 (2026-09-10 08:30:00)</title>
   </programme>
   <programme start="20260913100000 +0000" stop="20260913140000 +0000" channel="Peacock_086">
     <title>La Vuelta a España: Stage 21 (2026-09-13 10:00:00)</title>
