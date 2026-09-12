@@ -99,65 +99,11 @@
   <channel id="Peacock_098"><display-name>Peacock 098</display-name></channel>
   <channel id="Peacock_099"><display-name>Peacock 099</display-name></channel>
   <channel id="Peacock_100"><display-name>Peacock 100</display-name></channel>
-  <programme start="20260911130000 +0000" stop="20260911170000 +0000" channel="Peacock_008">
-    <title>Ultimate Championship: Day 1 (2026-09-11 13:00:00)</title>
-  </programme>
-  <programme start="20260911130000 +0000" stop="20260911200000 +0000" channel="Peacock_008">
-    <title>Ultimate Championship: Day 1 (2026-09-11 13:00:00)</title>
-  </programme>
-  <programme start="20260911170000 +0000" stop="20260911210000 +0000" channel="Peacock_009">
-    <title>Group Stage: BRA vs. USA (2026-09-11 17:00:00)</title>
-  </programme>
-  <programme start="20260911170000 +0000" stop="20260911230000 +0000" channel="Peacock_009">
-    <title>Group Stage: BRA vs. USA (2026-09-11 17:00:00)</title>
-  </programme>
-  <programme start="20260911193000 +0000" stop="20260911233000 +0000" channel="Peacock_010">
-    <title>Lexington SC v. Ascent FC (2026-09-11 19:30:00)</title>
-  </programme>
-  <programme start="20260911193000 +0000" stop="20260912013000 +0000" channel="Peacock_010">
-    <title>Lexington SC v. Ascent FC (2026-09-11 19:30:00)</title>
-  </programme>
-  <programme start="20260911200000 +0000" stop="20260912000000 +0000" channel="Peacock_011">
-    <title>Away Feed: CLE at MIN (2026-09-11 20:00:00)</title>
-  </programme>
-  <programme start="20260911200000 +0000" stop="20260912030000 +0000" channel="Peacock_011">
-    <title>Away Feed: CLE at MIN (2026-09-11 20:00:00)</title>
-  </programme>
-  <programme start="20260911200005 +0000" stop="20260912000005 +0000" channel="Peacock_012">
-    <title>Home Feed: CLE at MIN (2026-09-11 20:00:05)</title>
-  </programme>
-  <programme start="20260911200005 +0000" stop="20260912030000 +0000" channel="Peacock_012">
-    <title>Home Feed: CLE at MIN (2026-09-11 20:00:05)</title>
-  </programme>
-  <programme start="20260911210000 +0000" stop="20260912010000 +0000" channel="Peacock_013">
-    <title>NFL Kickoff Spotlight (2026-09-11 21:00:00)</title>
-  </programme>
-  <programme start="20260911210000 +0000" stop="20260912020000 +0000" channel="Peacock_013">
-    <title>NFL Kickoff Spotlight (2026-09-11 21:00:00)</title>
-  </programme>
-  <programme start="20260911213000 +0000" stop="20260912013000 +0000" channel="Peacock_014">
-    <title>Home Feed: TEX at AZ (2026-09-11 21:30:00)</title>
-  </programme>
-  <programme start="20260911213000 +0000" stop="20260912043000 +0000" channel="Peacock_014">
-    <title>Home Feed: TEX at AZ (2026-09-11 21:30:00)</title>
-  </programme>
-  <programme start="20260911213005 +0000" stop="20260912013005 +0000" channel="Peacock_015">
-    <title>Away Feed: TEX at AZ (2026-09-11 21:30:05)</title>
-  </programme>
-  <programme start="20260911213005 +0000" stop="20260912043000 +0000" channel="Peacock_015">
-    <title>Away Feed: TEX at AZ (2026-09-11 21:30:05)</title>
-  </programme>
   <programme start="20260912060000 +0000" stop="20260912100000 +0000" channel="Peacock_016">
     <title>La Vuelta a España: Stage 20 (2026-09-12 06:00:00)</title>
   </programme>
   <programme start="20260912060000 +0000" stop="20260912160000 +0000" channel="Peacock_016">
     <title>La Vuelta a España: Stage 20 (2026-09-12 06:00:00)</title>
-  </programme>
-  <programme start="20260911130000 +0000" stop="20260911170000 +0000" channel="Peacock_017">
-    <title>Ultimate Championship: Day 1 (2026-09-11 13:00:00)</title>
-  </programme>
-  <programme start="20260911130000 +0000" stop="20260911200000 +0000" channel="Peacock_017">
-    <title>Ultimate Championship: Day 1 (2026-09-11 13:00:00)</title>
   </programme>
   <programme start="20260912090000 +0000" stop="20260912130000 +0000" channel="Peacock_017">
     <title>Race Day Live: Columbus (2026-09-12 09:00:00)</title>
@@ -165,32 +111,14 @@
   <programme start="20260912090000 +0000" stop="20260912163000 +0000" channel="Peacock_017">
     <title>Race Day Live: Columbus (2026-09-12 09:00:00)</title>
   </programme>
-  <programme start="20260911193000 +0000" stop="20260911233000 +0000" channel="Peacock_018">
-    <title>Lexington SC v. Ascent FC (2026-09-11 19:30:00)</title>
-  </programme>
-  <programme start="20260911193000 +0000" stop="20260912013000 +0000" channel="Peacock_018">
-    <title>Lexington SC v. Ascent FC (2026-09-11 19:30:00)</title>
-  </programme>
   <programme start="20260912095000 +0000" stop="20260912135000 +0000" channel="Peacock_018">
     <title>Goal Rush: Matchweek 4 (2026-09-12 09:50:00)</title>
   </programme>
   <programme start="20260912095000 +0000" stop="20260912160000 +0000" channel="Peacock_018">
     <title>Goal Rush: Matchweek 4 (2026-09-12 09:50:00)</title>
   </programme>
-  <programme start="20260911200000 +0000" stop="20260912000000 +0000" channel="Peacock_019">
-    <title>Away Feed: CLE at MIN (2026-09-11 20:00:00)</title>
-  </programme>
-  <programme start="20260911200000 +0000" stop="20260912030000 +0000" channel="Peacock_019">
-    <title>Away Feed: CLE at MIN (2026-09-11 20:00:00)</title>
-  </programme>
   <programme start="20260912095005 +0000" stop="20260912135005 +0000" channel="Peacock_019">
     <title>Aston Villa v. Nott`m Forest (2026-09-12 09:50:05)</title>
-  </programme>
-  <programme start="20260911200005 +0000" stop="20260912000005 +0000" channel="Peacock_020">
-    <title>Home Feed: CLE at MIN (2026-09-11 20:00:05)</title>
-  </programme>
-  <programme start="20260911200005 +0000" stop="20260912030000 +0000" channel="Peacock_020">
-    <title>Home Feed: CLE at MIN (2026-09-11 20:00:05)</title>
   </programme>
   <programme start="20260912095010 +0000" stop="20260912135010 +0000" channel="Peacock_020">
     <title>Crystal Palace v. Ipswich (2026-09-12 09:50:10)</title>
@@ -198,35 +126,17 @@
   <programme start="20260912095010 +0000" stop="20260912160000 +0000" channel="Peacock_020">
     <title>Crystal Palace v. Ipswich (2026-09-12 09:50:10)</title>
   </programme>
-  <programme start="20260911210000 +0000" stop="20260912010000 +0000" channel="Peacock_021">
-    <title>NFL Kickoff Spotlight (2026-09-11 21:00:00)</title>
-  </programme>
-  <programme start="20260911210000 +0000" stop="20260912020000 +0000" channel="Peacock_021">
-    <title>NFL Kickoff Spotlight (2026-09-11 21:00:00)</title>
-  </programme>
   <programme start="20260912095015 +0000" stop="20260912135015 +0000" channel="Peacock_021">
     <title>Liverpool v. Fulham (2026-09-12 09:50:15)</title>
   </programme>
   <programme start="20260912095015 +0000" stop="20260912160000 +0000" channel="Peacock_021">
     <title>Liverpool v. Fulham (2026-09-12 09:50:15)</title>
   </programme>
-  <programme start="20260911213000 +0000" stop="20260912013000 +0000" channel="Peacock_022">
-    <title>Home Feed: TEX at AZ (2026-09-11 21:30:00)</title>
-  </programme>
-  <programme start="20260911213000 +0000" stop="20260912043000 +0000" channel="Peacock_022">
-    <title>Home Feed: TEX at AZ (2026-09-11 21:30:00)</title>
-  </programme>
   <programme start="20260912095020 +0000" stop="20260912135020 +0000" channel="Peacock_022">
     <title>Bournemouth v. Brentford (2026-09-12 09:50:20)</title>
   </programme>
   <programme start="20260912095020 +0000" stop="20260912160000 +0000" channel="Peacock_022">
     <title>Bournemouth v. Brentford (2026-09-12 09:50:20)</title>
-  </programme>
-  <programme start="20260911213005 +0000" stop="20260912013005 +0000" channel="Peacock_023">
-    <title>Away Feed: TEX at AZ (2026-09-11 21:30:05)</title>
-  </programme>
-  <programme start="20260911213005 +0000" stop="20260912043000 +0000" channel="Peacock_023">
-    <title>Away Feed: TEX at AZ (2026-09-11 21:30:05)</title>
   </programme>
   <programme start="20260912101500 +0000" stop="20260912141500 +0000" channel="Peacock_023">
     <title>Group Stage: ALG vs. USA (2026-09-12 10:15:00)</title>
@@ -270,12 +180,6 @@
   <programme start="20260912123000 +0000" stop="20260912190000 +0000" channel="Peacock_026">
     <title>Spurs v. Everton (2026-09-12 12:30:00)</title>
   </programme>
-  <programme start="20260911130000 +0000" stop="20260911170000 +0000" channel="Peacock_027">
-    <title>Ultimate Championship: Day 1 (2026-09-11 13:00:00)</title>
-  </programme>
-  <programme start="20260911130000 +0000" stop="20260911200000 +0000" channel="Peacock_027">
-    <title>Ultimate Championship: Day 1 (2026-09-11 13:00:00)</title>
-  </programme>
   <programme start="20260912095005 +0000" stop="20260912135005 +0000" channel="Peacock_027">
     <title>Aston Villa v. Nott`m Forest (2026-09-12 09:50:05)</title>
   </programme>
@@ -287,12 +191,6 @@
   </programme>
   <programme start="20260912143000 +0000" stop="20260912223000 +0000" channel="Peacock_027">
     <title>Rd. 29 Playoff 1: Columbus (2026-09-12 14:30:00)</title>
-  </programme>
-  <programme start="20260911193000 +0000" stop="20260911233000 +0000" channel="Peacock_028">
-    <title>Lexington SC v. Ascent FC (2026-09-11 19:30:00)</title>
-  </programme>
-  <programme start="20260911193000 +0000" stop="20260912013000 +0000" channel="Peacock_028">
-    <title>Lexington SC v. Ascent FC (2026-09-11 19:30:00)</title>
   </programme>
   <programme start="20260912095010 +0000" stop="20260912135010 +0000" channel="Peacock_028">
     <title>Bournemouth v. Brentford (2026-09-12 09:50:10)</title>
@@ -306,12 +204,6 @@
   <programme start="20260912150000 +0000" stop="20260912230000 +0000" channel="Peacock_028">
     <title>Rice vs. Notre Dame (2026-09-12 15:00:00)</title>
   </programme>
-  <programme start="20260911200000 +0000" stop="20260912000000 +0000" channel="Peacock_029">
-    <title>Away Feed: CLE at MIN (2026-09-11 20:00:00)</title>
-  </programme>
-  <programme start="20260911200000 +0000" stop="20260912030000 +0000" channel="Peacock_029">
-    <title>Away Feed: CLE at MIN (2026-09-11 20:00:00)</title>
-  </programme>
   <programme start="20260912095015 +0000" stop="20260912135015 +0000" channel="Peacock_029">
     <title>Crystal Palace v. Ipswich (2026-09-12 09:50:15)</title>
   </programme>
@@ -323,12 +215,6 @@
   </programme>
   <programme start="20260912180000 +0000" stop="20260913000000 +0000" channel="Peacock_029">
     <title>Sun FC v. FTL United (2026-09-12 18:00:00)</title>
-  </programme>
-  <programme start="20260911200005 +0000" stop="20260912000005 +0000" channel="Peacock_030">
-    <title>Home Feed: CLE at MIN (2026-09-11 20:00:05)</title>
-  </programme>
-  <programme start="20260911200005 +0000" stop="20260912030000 +0000" channel="Peacock_030">
-    <title>Home Feed: CLE at MIN (2026-09-11 20:00:05)</title>
   </programme>
   <programme start="20260912095020 +0000" stop="20260912135020 +0000" channel="Peacock_030">
     <title>Liverpool v. Fulham (2026-09-12 09:50:20)</title>
@@ -342,12 +228,6 @@
   <programme start="20260912190000 +0000" stop="20260913020000 +0000" channel="Peacock_030">
     <title>Away Feed: PHI at ATL (2026-09-12 19:00:00)</title>
   </programme>
-  <programme start="20260911210000 +0000" stop="20260912010000 +0000" channel="Peacock_031">
-    <title>NFL Kickoff Spotlight (2026-09-11 21:00:00)</title>
-  </programme>
-  <programme start="20260911210000 +0000" stop="20260912020000 +0000" channel="Peacock_031">
-    <title>NFL Kickoff Spotlight (2026-09-11 21:00:00)</title>
-  </programme>
   <programme start="20260912105500 +0000" stop="20260912145500 +0000" channel="Peacock_031">
     <title>Aerobic Gymnastics Champs: Day 1 (2026-09-12 10:55:00)</title>
   </programme>
@@ -360,12 +240,6 @@
   <programme start="20260912190005 +0000" stop="20260913020000 +0000" channel="Peacock_031">
     <title>Home Feed: PHI at ATL (2026-09-12 19:00:05)</title>
   </programme>
-  <programme start="20260911213000 +0000" stop="20260912013000 +0000" channel="Peacock_032">
-    <title>Home Feed: TEX at AZ (2026-09-11 21:30:00)</title>
-  </programme>
-  <programme start="20260911213000 +0000" stop="20260912043000 +0000" channel="Peacock_032">
-    <title>Home Feed: TEX at AZ (2026-09-11 21:30:00)</title>
-  </programme>
   <programme start="20260912120000 +0000" stop="20260912160000 +0000" channel="Peacock_032">
     <title>Ultimate Championship: Day 2 (2026-09-12 12:00:00)</title>
   </programme>
@@ -374,12 +248,6 @@
   </programme>
   <programme start="20260912190010 +0000" stop="20260912230010 +0000" channel="Peacock_032">
     <title>Iowa State vs. Iowa (2026-09-12 19:00:10)</title>
-  </programme>
-  <programme start="20260911213005 +0000" stop="20260912013005 +0000" channel="Peacock_033">
-    <title>Away Feed: TEX at AZ (2026-09-11 21:30:05)</title>
-  </programme>
-  <programme start="20260911213005 +0000" stop="20260912043000 +0000" channel="Peacock_033">
-    <title>Away Feed: TEX at AZ (2026-09-11 21:30:05)</title>
   </programme>
   <programme start="20260912123000 +0000" stop="20260912163000 +0000" channel="Peacock_033">
     <title>Spurs v. Everton (2026-09-12 12:30:00)</title>
@@ -513,12 +381,6 @@
   <programme start="20260913150000 +0000" stop="20260913210000 +0000" channel="Peacock_040">
     <title>Brooklyn FC v. Sporting JAX (2026-09-13 15:00:00)</title>
   </programme>
-  <programme start="20260911193000 +0000" stop="20260911233000 +0000" channel="Peacock_041">
-    <title>Lexington SC v. Ascent FC (2026-09-11 19:30:00)</title>
-  </programme>
-  <programme start="20260911193000 +0000" stop="20260912013000 +0000" channel="Peacock_041">
-    <title>Lexington SC v. Ascent FC (2026-09-11 19:30:00)</title>
-  </programme>
   <programme start="20260912190000 +0000" stop="20260912230000 +0000" channel="Peacock_041">
     <title>Away Feed: PHI at ATL (2026-09-12 19:00:00)</title>
   </programme>
@@ -537,12 +399,6 @@
   <programme start="20260913190000 +0000" stop="20260914020000 +0000" channel="Peacock_041">
     <title>Padres at Giants (2026-09-13 19:00:00)</title>
   </programme>
-  <programme start="20260911200000 +0000" stop="20260912000000 +0000" channel="Peacock_042">
-    <title>Away Feed: CLE at MIN (2026-09-11 20:00:00)</title>
-  </programme>
-  <programme start="20260911200000 +0000" stop="20260912030000 +0000" channel="Peacock_042">
-    <title>Away Feed: CLE at MIN (2026-09-11 20:00:00)</title>
-  </programme>
   <programme start="20260912190005 +0000" stop="20260912230005 +0000" channel="Peacock_042">
     <title>Home Feed: PHI at ATL (2026-09-12 19:00:05)</title>
   </programme>
@@ -557,12 +413,6 @@
   </programme>
   <programme start="20260913190005 +0000" stop="20260913230005 +0000" channel="Peacock_042">
     <title>Cowboys vs. Giants (2026-09-13 19:00:05)</title>
-  </programme>
-  <programme start="20260911200005 +0000" stop="20260912000005 +0000" channel="Peacock_043">
-    <title>Home Feed: CLE at MIN (2026-09-11 20:00:05)</title>
-  </programme>
-  <programme start="20260911200005 +0000" stop="20260912030000 +0000" channel="Peacock_043">
-    <title>Home Feed: CLE at MIN (2026-09-11 20:00:05)</title>
   </programme>
   <programme start="20260912190010 +0000" stop="20260912230010 +0000" channel="Peacock_043">
     <title>Iowa State vs. Iowa (2026-09-12 19:00:10)</title>
@@ -579,12 +429,6 @@
   <programme start="20260913193000 +0000" stop="20260914013000 +0000" channel="Peacock_043">
     <title>Trinity FC v. Power FC (2026-09-13 19:30:00)</title>
   </programme>
-  <programme start="20260911210000 +0000" stop="20260912010000 +0000" channel="Peacock_044">
-    <title>NFL Kickoff Spotlight (2026-09-11 21:00:00)</title>
-  </programme>
-  <programme start="20260911210000 +0000" stop="20260912020000 +0000" channel="Peacock_044">
-    <title>NFL Kickoff Spotlight (2026-09-11 21:00:00)</title>
-  </programme>
   <programme start="20260913085500 +0000" stop="20260913125500 +0000" channel="Peacock_044">
     <title>Aerobic Gymnastics Champs: Day 2 (2026-09-13 08:55:00)</title>
   </programme>
@@ -599,12 +443,6 @@
   </programme>
   <programme start="20260913233000 +0000" stop="20260914043000 +0000" channel="Peacock_044">
     <title>Sunday Night Football Final (2026-09-13 23:30:00)</title>
-  </programme>
-  <programme start="20260911193000 +0000" stop="20260911233000 +0000" channel="Peacock_045">
-    <title>Lexington SC v. Ascent FC (2026-09-11 19:30:00)</title>
-  </programme>
-  <programme start="20260911193000 +0000" stop="20260912013000 +0000" channel="Peacock_045">
-    <title>Lexington SC v. Ascent FC (2026-09-11 19:30:00)</title>
   </programme>
   <programme start="20260913100000 +0000" stop="20260913140000 +0000" channel="Peacock_045">
     <title>La Vuelta a España: Stage 21 (2026-09-13 10:00:00)</title>
@@ -624,18 +462,6 @@
   <programme start="20260914190000 +0000" stop="20260915020000 +0000" channel="Peacock_045">
     <title>Home Feed: DET at TOR (2026-09-14 19:00:00)</title>
   </programme>
-  <programme start="20260911200000 +0000" stop="20260912000000 +0000" channel="Peacock_046">
-    <title>Home Feed: CLE at MIN (2026-09-11 20:00:00)</title>
-  </programme>
-  <programme start="20260911200000 +0000" stop="20260912030000 +0000" channel="Peacock_046">
-    <title>Home Feed: CLE at MIN (2026-09-11 20:00:00)</title>
-  </programme>
-  <programme start="20260911213005 +0000" stop="20260912013005 +0000" channel="Peacock_046">
-    <title>Away Feed: TEX at AZ (2026-09-11 21:30:05)</title>
-  </programme>
-  <programme start="20260911213005 +0000" stop="20260912043000 +0000" channel="Peacock_046">
-    <title>Away Feed: TEX at AZ (2026-09-11 21:30:05)</title>
-  </programme>
   <programme start="20260913120000 +0000" stop="20260913160000 +0000" channel="Peacock_046">
     <title>Ultimate Championship: Day 3 (2026-09-13 12:00:00)</title>
   </programme>
@@ -647,12 +473,6 @@
   </programme>
   <programme start="20260914190005 +0000" stop="20260915020000 +0000" channel="Peacock_046">
     <title>Away Feed: DET at TOR (2026-09-14 19:00:05)</title>
-  </programme>
-  <programme start="20260911200005 +0000" stop="20260912000005 +0000" channel="Peacock_047">
-    <title>Away Feed: CLE at MIN (2026-09-11 20:00:05)</title>
-  </programme>
-  <programme start="20260911200005 +0000" stop="20260912030000 +0000" channel="Peacock_047">
-    <title>Away Feed: CLE at MIN (2026-09-11 20:00:05)</title>
   </programme>
   <programme start="20260912060000 +0000" stop="20260912100000 +0000" channel="Peacock_047">
     <title>La Vuelta a España: Stage 20 (2026-09-12 06:00:00)</title>
@@ -672,11 +492,11 @@
   <programme start="20260913190000 +0000" stop="20260914020000 +0000" channel="Peacock_047">
     <title>Padres at Giants (2026-09-13 19:00:00)</title>
   </programme>
-  <programme start="20260911213000 +0000" stop="20260912013000 +0000" channel="Peacock_048">
-    <title>Home Feed: TEX at AZ (2026-09-11 21:30:00)</title>
+  <programme start="20260917123000 +0000" stop="20260917163000 +0000" channel="Peacock_047">
+    <title>Home Feed: MIL at PIT (2026-09-17 12:30:00)</title>
   </programme>
-  <programme start="20260911213000 +0000" stop="20260912043000 +0000" channel="Peacock_048">
-    <title>Home Feed: TEX at AZ (2026-09-11 21:30:00)</title>
+  <programme start="20260917123000 +0000" stop="20260917193000 +0000" channel="Peacock_047">
+    <title>Home Feed: MIL at PIT (2026-09-17 12:30:00)</title>
   </programme>
   <programme start="20260912090000 +0000" stop="20260912130000 +0000" channel="Peacock_048">
     <title>Race Day Live: Columbus (2026-09-12 09:00:00)</title>
@@ -696,11 +516,11 @@
   <programme start="20260913190005 +0000" stop="20260914043000 +0000" channel="Peacock_048">
     <title>Cowboys vs. Giants (2026-09-13 19:00:05)</title>
   </programme>
-  <programme start="20260911213005 +0000" stop="20260912013005 +0000" channel="Peacock_049">
-    <title>Away Feed: TEX at AZ (2026-09-11 21:30:05)</title>
+  <programme start="20260917123005 +0000" stop="20260917163005 +0000" channel="Peacock_048">
+    <title>Away Feed: MIL at PIT (2026-09-17 12:30:05)</title>
   </programme>
-  <programme start="20260911213005 +0000" stop="20260912043000 +0000" channel="Peacock_049">
-    <title>Away Feed: TEX at AZ (2026-09-11 21:30:05)</title>
+  <programme start="20260917123005 +0000" stop="20260917193000 +0000" channel="Peacock_048">
+    <title>Away Feed: MIL at PIT (2026-09-17 12:30:05)</title>
   </programme>
   <programme start="20260912105500 +0000" stop="20260912145500 +0000" channel="Peacock_049">
     <title>Aerobic Gymnastics Champs: Day 1 (2026-09-12 10:55:00)</title>
@@ -719,12 +539,6 @@
   </programme>
   <programme start="20260913233000 +0000" stop="20260914043000 +0000" channel="Peacock_049">
     <title>Sunday Night Football Final (2026-09-13 23:30:00)</title>
-  </programme>
-  <programme start="20260911193000 +0000" stop="20260911233000 +0000" channel="Peacock_050">
-    <title>Lexington SC v. Ascent FC (2026-09-11 19:30:00)</title>
-  </programme>
-  <programme start="20260911193000 +0000" stop="20260912013000 +0000" channel="Peacock_050">
-    <title>Lexington SC v. Ascent FC (2026-09-11 19:30:00)</title>
   </programme>
   <programme start="20260912060000 +0000" stop="20260912100000 +0000" channel="Peacock_050">
     <title>La Vuelta a España: Stage 20 (2026-09-12 06:00:00)</title>
@@ -747,18 +561,6 @@
   <programme start="20260914190000 +0000" stop="20260914230000 +0000" channel="Peacock_050">
     <title>Home Feed: DET at TOR (2026-09-14 19:00:00)</title>
   </programme>
-  <programme start="20260911193000 +0000" stop="20260911233000 +0000" channel="Peacock_051">
-    <title>Lexington SC v. Ascent FC (2026-09-11 19:30:00)</title>
-  </programme>
-  <programme start="20260911193000 +0000" stop="20260912013000 +0000" channel="Peacock_051">
-    <title>Lexington SC v. Ascent FC (2026-09-11 19:30:00)</title>
-  </programme>
-  <programme start="20260911200000 +0000" stop="20260912000000 +0000" channel="Peacock_051">
-    <title>Home Feed: CLE at MIN (2026-09-11 20:00:00)</title>
-  </programme>
-  <programme start="20260911200000 +0000" stop="20260912030000 +0000" channel="Peacock_051">
-    <title>Home Feed: CLE at MIN (2026-09-11 20:00:00)</title>
-  </programme>
   <programme start="20260912090000 +0000" stop="20260912130000 +0000" channel="Peacock_051">
     <title>Race Day Live: Columbus (2026-09-12 09:00:00)</title>
   </programme>
@@ -780,15 +582,6 @@
   <programme start="20260914190005 +0000" stop="20260914230005 +0000" channel="Peacock_051">
     <title>Away Feed: DET at TOR (2026-09-14 19:00:05)</title>
   </programme>
-  <programme start="20260911200000 +0000" stop="20260912000000 +0000" channel="Peacock_052">
-    <title>Away Feed: CLE at MIN (2026-09-11 20:00:00)</title>
-  </programme>
-  <programme start="20260911200000 +0000" stop="20260912030000 +0000" channel="Peacock_052">
-    <title>Away Feed: CLE at MIN (2026-09-11 20:00:00)</title>
-  </programme>
-  <programme start="20260911200005 +0000" stop="20260912000005 +0000" channel="Peacock_052">
-    <title>Away Feed: CLE at MIN (2026-09-11 20:00:05)</title>
-  </programme>
   <programme start="20260912105500 +0000" stop="20260912145500 +0000" channel="Peacock_052">
     <title>Aerobic Gymnastics Champs: Day 1 (2026-09-12 10:55:00)</title>
   </programme>
@@ -807,17 +600,11 @@
   <programme start="20260913233000 +0000" stop="20260914043000 +0000" channel="Peacock_052">
     <title>Sunday Night Football Final (2026-09-13 23:30:00)</title>
   </programme>
-  <programme start="20260911193000 +0000" stop="20260911233000 +0000" channel="Peacock_053">
-    <title>Lexington SC v. Ascent FC (2026-09-11 19:30:00)</title>
+  <programme start="20260917123000 +0000" stop="20260917163000 +0000" channel="Peacock_052">
+    <title>Home Feed: MIL at PIT (2026-09-17 12:30:00)</title>
   </programme>
-  <programme start="20260911193000 +0000" stop="20260912013000 +0000" channel="Peacock_053">
-    <title>Lexington SC v. Ascent FC (2026-09-11 19:30:00)</title>
-  </programme>
-  <programme start="20260911200005 +0000" stop="20260912000005 +0000" channel="Peacock_053">
-    <title>Home Feed: CLE at MIN (2026-09-11 20:00:05)</title>
-  </programme>
-  <programme start="20260911200005 +0000" stop="20260912030000 +0000" channel="Peacock_053">
-    <title>Home Feed: CLE at MIN (2026-09-11 20:00:05)</title>
+  <programme start="20260917123000 +0000" stop="20260917193000 +0000" channel="Peacock_052">
+    <title>Home Feed: MIL at PIT (2026-09-17 12:30:00)</title>
   </programme>
   <programme start="20260912143000 +0000" stop="20260912183000 +0000" channel="Peacock_053">
     <title>Rd. 29 Playoff 1: Columbus (2026-09-12 14:30:00)</title>
@@ -837,23 +624,11 @@
   <programme start="20260914190000 +0000" stop="20260915020000 +0000" channel="Peacock_053">
     <title>Home Feed: DET at TOR (2026-09-14 19:00:00)</title>
   </programme>
-  <programme start="20260911193000 +0000" stop="20260911233000 +0000" channel="Peacock_054">
-    <title>Lexington SC v. Ascent FC (2026-09-11 19:30:00)</title>
+  <programme start="20260917123005 +0000" stop="20260917163005 +0000" channel="Peacock_053">
+    <title>Away Feed: MIL at PIT (2026-09-17 12:30:05)</title>
   </programme>
-  <programme start="20260911193000 +0000" stop="20260912013000 +0000" channel="Peacock_054">
-    <title>Lexington SC v. Ascent FC (2026-09-11 19:30:00)</title>
-  </programme>
-  <programme start="20260911200000 +0000" stop="20260912000000 +0000" channel="Peacock_054">
-    <title>Away Feed: CLE at MIN (2026-09-11 20:00:00)</title>
-  </programme>
-  <programme start="20260911200000 +0000" stop="20260912030000 +0000" channel="Peacock_054">
-    <title>Away Feed: CLE at MIN (2026-09-11 20:00:00)</title>
-  </programme>
-  <programme start="20260911213005 +0000" stop="20260912013005 +0000" channel="Peacock_054">
-    <title>Away Feed: TEX at AZ (2026-09-11 21:30:05)</title>
-  </programme>
-  <programme start="20260911213005 +0000" stop="20260912043000 +0000" channel="Peacock_054">
-    <title>Away Feed: TEX at AZ (2026-09-11 21:30:05)</title>
+  <programme start="20260917123005 +0000" stop="20260917193000 +0000" channel="Peacock_053">
+    <title>Away Feed: MIL at PIT (2026-09-17 12:30:05)</title>
   </programme>
   <programme start="20260912060000 +0000" stop="20260912100000 +0000" channel="Peacock_054">
     <title>La Vuelta a España: Stage 20 (2026-09-12 06:00:00)</title>
@@ -879,15 +654,6 @@
   <programme start="20260914190005 +0000" stop="20260915020000 +0000" channel="Peacock_054">
     <title>Away Feed: DET at TOR (2026-09-14 19:00:05)</title>
   </programme>
-  <programme start="20260911200000 +0000" stop="20260912000000 +0000" channel="Peacock_055">
-    <title>Away Feed: CLE at MIN (2026-09-11 20:00:00)</title>
-  </programme>
-  <programme start="20260911200000 +0000" stop="20260912030000 +0000" channel="Peacock_055">
-    <title>Away Feed: CLE at MIN (2026-09-11 20:00:00)</title>
-  </programme>
-  <programme start="20260911200005 +0000" stop="20260912000005 +0000" channel="Peacock_055">
-    <title>Home Feed: CLE at MIN (2026-09-11 20:00:05)</title>
-  </programme>
   <programme start="20260912060000 +0000" stop="20260912100000 +0000" channel="Peacock_055">
     <title>La Vuelta a España: Stage 20 (2026-09-12 06:00:00)</title>
   </programme>
@@ -912,11 +678,11 @@
   <programme start="20260912190010 +0000" stop="20260913030000 +0000" channel="Peacock_055">
     <title>Iowa State vs. Iowa (2026-09-12 19:00:10)</title>
   </programme>
-  <programme start="20260911200005 +0000" stop="20260912000005 +0000" channel="Peacock_056">
-    <title>Home Feed: CLE at MIN (2026-09-11 20:00:05)</title>
+  <programme start="20260917123000 +0000" stop="20260917163000 +0000" channel="Peacock_055">
+    <title>Home Feed: MIL at PIT (2026-09-17 12:30:00)</title>
   </programme>
-  <programme start="20260911200005 +0000" stop="20260912030000 +0000" channel="Peacock_056">
-    <title>Home Feed: CLE at MIN (2026-09-11 20:00:05)</title>
+  <programme start="20260917123000 +0000" stop="20260917193000 +0000" channel="Peacock_055">
+    <title>Home Feed: MIL at PIT (2026-09-17 12:30:00)</title>
   </programme>
   <programme start="20260912060000 +0000" stop="20260912100000 +0000" channel="Peacock_056">
     <title>La Vuelta a España: Stage 20 (2026-09-12 06:00:00)</title>
@@ -947,6 +713,12 @@
   </programme>
   <programme start="20260913085500 +0000" stop="20260913153500 +0000" channel="Peacock_056">
     <title>Aerobic Gymnastics Champs: Day 2 (2026-09-13 08:55:00)</title>
+  </programme>
+  <programme start="20260917123005 +0000" stop="20260917163005 +0000" channel="Peacock_056">
+    <title>Away Feed: MIL at PIT (2026-09-17 12:30:05)</title>
+  </programme>
+  <programme start="20260917123005 +0000" stop="20260917193000 +0000" channel="Peacock_056">
+    <title>Away Feed: MIL at PIT (2026-09-17 12:30:05)</title>
   </programme>
   <programme start="20260912060000 +0000" stop="20260912100000 +0000" channel="Peacock_057">
     <title>La Vuelta a España: Stage 20 (2026-09-12 06:00:00)</title>
@@ -1218,12 +990,6 @@
   <programme start="20260913233000 +0000" stop="20260914043000 +0000" channel="Peacock_063">
     <title>Sunday Night Football Final (2026-09-13 23:30:00)</title>
   </programme>
-  <programme start="20260911193000 +0000" stop="20260911233000 +0000" channel="Peacock_064">
-    <title>Lexington SC v. Ascent FC (2026-09-11 19:30:00)</title>
-  </programme>
-  <programme start="20260911193000 +0000" stop="20260912013000 +0000" channel="Peacock_064">
-    <title>Lexington SC v. Ascent FC (2026-09-11 19:30:00)</title>
-  </programme>
   <programme start="20260912090000 +0000" stop="20260912130000 +0000" channel="Peacock_064">
     <title>Race Day Live: Columbus (2026-09-12 09:00:00)</title>
   </programme>
@@ -1272,12 +1038,6 @@
   <programme start="20260914190000 +0000" stop="20260915020000 +0000" channel="Peacock_064">
     <title>Home Feed: DET at TOR (2026-09-14 19:00:00)</title>
   </programme>
-  <programme start="20260911200000 +0000" stop="20260912000000 +0000" channel="Peacock_065">
-    <title>Away Feed: CLE at MIN (2026-09-11 20:00:00)</title>
-  </programme>
-  <programme start="20260911200000 +0000" stop="20260912030000 +0000" channel="Peacock_065">
-    <title>Away Feed: CLE at MIN (2026-09-11 20:00:00)</title>
-  </programme>
   <programme start="20260912143000 +0000" stop="20260912183000 +0000" channel="Peacock_065">
     <title>Rd. 29 Playoff 1: Columbus (2026-09-12 14:30:00)</title>
   </programme>
@@ -1316,12 +1076,6 @@
   </programme>
   <programme start="20260914190005 +0000" stop="20260915020000 +0000" channel="Peacock_065">
     <title>Away Feed: DET at TOR (2026-09-14 19:00:05)</title>
-  </programme>
-  <programme start="20260911200005 +0000" stop="20260912000005 +0000" channel="Peacock_066">
-    <title>Home Feed: CLE at MIN (2026-09-11 20:00:05)</title>
-  </programme>
-  <programme start="20260911200005 +0000" stop="20260912030000 +0000" channel="Peacock_066">
-    <title>Home Feed: CLE at MIN (2026-09-11 20:00:05)</title>
   </programme>
   <programme start="20260912150000 +0000" stop="20260912190000 +0000" channel="Peacock_066">
     <title>Rice vs. Notre Dame (2026-09-12 15:00:00)</title>
@@ -1362,6 +1116,12 @@
   <programme start="20260913233000 +0000" stop="20260914033000 +0000" channel="Peacock_066">
     <title>Sunday Night Football Final (2026-09-13 23:30:00)</title>
   </programme>
+  <programme start="20260917123000 +0000" stop="20260917163000 +0000" channel="Peacock_066">
+    <title>Home Feed: MIL at PIT (2026-09-17 12:30:00)</title>
+  </programme>
+  <programme start="20260917123000 +0000" stop="20260917193000 +0000" channel="Peacock_066">
+    <title>Home Feed: MIL at PIT (2026-09-17 12:30:00)</title>
+  </programme>
   <programme start="20260912060000 +0000" stop="20260912100000 +0000" channel="Peacock_067">
     <title>La Vuelta a España: Stage 20 (2026-09-12 06:00:00)</title>
   </programme>
@@ -1394,6 +1154,12 @@
   </programme>
   <programme start="20260914190000 +0000" stop="20260915020000 +0000" channel="Peacock_067">
     <title>Home Feed: DET at TOR (2026-09-14 19:00:00)</title>
+  </programme>
+  <programme start="20260917123005 +0000" stop="20260917163005 +0000" channel="Peacock_067">
+    <title>Away Feed: MIL at PIT (2026-09-17 12:30:05)</title>
+  </programme>
+  <programme start="20260917123005 +0000" stop="20260917193000 +0000" channel="Peacock_067">
+    <title>Away Feed: MIL at PIT (2026-09-17 12:30:05)</title>
   </programme>
   <programme start="20260912090000 +0000" stop="20260912130000 +0000" channel="Peacock_068">
     <title>Race Day Live: Columbus (2026-09-12 09:00:00)</title>
@@ -1458,6 +1224,12 @@
   <programme start="20260914190005 +0000" stop="20260915020000 +0000" channel="Peacock_069">
     <title>Home Feed: DET at TOR (2026-09-14 19:00:05)</title>
   </programme>
+  <programme start="20260917123000 +0000" stop="20260917163000 +0000" channel="Peacock_069">
+    <title>Home Feed: MIL at PIT (2026-09-17 12:30:00)</title>
+  </programme>
+  <programme start="20260917123000 +0000" stop="20260917193000 +0000" channel="Peacock_069">
+    <title>Home Feed: MIL at PIT (2026-09-17 12:30:00)</title>
+  </programme>
   <programme start="20260912143000 +0000" stop="20260912223000 +0000" channel="Peacock_070">
     <title>Rd. 29 Playoff 1: Columbus (2026-09-12 14:30:00)</title>
   </programme>
@@ -1484,6 +1256,12 @@
   </programme>
   <programme start="20260914190000 +0000" stop="20260915020000 +0000" channel="Peacock_070">
     <title>Away Feed: DET at TOR (2026-09-14 19:00:00)</title>
+  </programme>
+  <programme start="20260917123005 +0000" stop="20260917163005 +0000" channel="Peacock_070">
+    <title>Away Feed: MIL at PIT (2026-09-17 12:30:05)</title>
+  </programme>
+  <programme start="20260917123005 +0000" stop="20260917193000 +0000" channel="Peacock_070">
+    <title>Away Feed: MIL at PIT (2026-09-17 12:30:05)</title>
   </programme>
   <programme start="20260912180000 +0000" stop="20260912220000 +0000" channel="Peacock_071">
     <title>Sun FC v. FTL United (2026-09-12 18:00:00)</title>
@@ -1515,6 +1293,12 @@
   <programme start="20260914190005 +0000" stop="20260915020000 +0000" channel="Peacock_072">
     <title>Home Feed: DET at TOR (2026-09-14 19:00:05)</title>
   </programme>
+  <programme start="20260917123000 +0000" stop="20260917163000 +0000" channel="Peacock_072">
+    <title>Away Feed: MIL at PIT (2026-09-17 12:30:00)</title>
+  </programme>
+  <programme start="20260917123000 +0000" stop="20260917193000 +0000" channel="Peacock_072">
+    <title>Away Feed: MIL at PIT (2026-09-17 12:30:00)</title>
+  </programme>
   <programme start="20260912060000 +0000" stop="20260912100000 +0000" channel="Peacock_073">
     <title>La Vuelta a España: Stage 20 (2026-09-12 06:00:00)</title>
   </programme>
@@ -1526,6 +1310,12 @@
   </programme>
   <programme start="20260912190005 +0000" stop="20260913020000 +0000" channel="Peacock_073">
     <title>Away Feed: PHI at ATL (2026-09-12 19:00:05)</title>
+  </programme>
+  <programme start="20260917123005 +0000" stop="20260917163005 +0000" channel="Peacock_073">
+    <title>Home Feed: MIL at PIT (2026-09-17 12:30:05)</title>
+  </programme>
+  <programme start="20260917123005 +0000" stop="20260917193000 +0000" channel="Peacock_073">
+    <title>Home Feed: MIL at PIT (2026-09-17 12:30:05)</title>
   </programme>
   <programme start="20260912090000 +0000" stop="20260912130000 +0000" channel="Peacock_074">
     <title>Race Day Live: Columbus (2026-09-12 09:00:00)</title>
@@ -1539,12 +1329,6 @@
   <programme start="20260912190010 +0000" stop="20260913030000 +0000" channel="Peacock_074">
     <title>Iowa State vs. Iowa (2026-09-12 19:00:10)</title>
   </programme>
-  <programme start="20260911193000 +0000" stop="20260911233000 +0000" channel="Peacock_075">
-    <title>Lexington SC v. Ascent FC (2026-09-11 19:30:00)</title>
-  </programme>
-  <programme start="20260911193000 +0000" stop="20260912013000 +0000" channel="Peacock_075">
-    <title>Lexington SC v. Ascent FC (2026-09-11 19:30:00)</title>
-  </programme>
   <programme start="20260912143000 +0000" stop="20260912223000 +0000" channel="Peacock_075">
     <title>Rd. 29 Playoff 1: Columbus (2026-09-12 14:30:00)</title>
   </programme>
@@ -1553,12 +1337,6 @@
   </programme>
   <programme start="20260913100000 +0000" stop="20260913183000 +0000" channel="Peacock_075">
     <title>La Vuelta a España: Stage 21 (2026-09-13 10:00:00)</title>
-  </programme>
-  <programme start="20260911200000 +0000" stop="20260912000000 +0000" channel="Peacock_076">
-    <title>Away Feed: CLE at MIN (2026-09-11 20:00:00)</title>
-  </programme>
-  <programme start="20260911200000 +0000" stop="20260912030000 +0000" channel="Peacock_076">
-    <title>Away Feed: CLE at MIN (2026-09-11 20:00:00)</title>
   </programme>
   <programme start="20260912090000 +0000" stop="20260912163000 +0000" channel="Peacock_076">
     <title>Race Day Live: Columbus (2026-09-12 09:00:00)</title>
@@ -1572,12 +1350,6 @@
   <programme start="20260913133000 +0000" stop="20260913203000 +0000" channel="Peacock_076">
     <title>Away Feed: NYM at NYY (2026-09-13 13:30:00)</title>
   </programme>
-  <programme start="20260911200005 +0000" stop="20260912000005 +0000" channel="Peacock_077">
-    <title>Home Feed: CLE at MIN (2026-09-11 20:00:05)</title>
-  </programme>
-  <programme start="20260911200005 +0000" stop="20260912030000 +0000" channel="Peacock_077">
-    <title>Home Feed: CLE at MIN (2026-09-11 20:00:05)</title>
-  </programme>
   <programme start="20260912143000 +0000" stop="20260912223000 +0000" channel="Peacock_077">
     <title>Rd. 29 Playoff 1: Columbus (2026-09-12 14:30:00)</title>
   </programme>
@@ -1589,12 +1361,6 @@
   </programme>
   <programme start="20260913133005 +0000" stop="20260913203000 +0000" channel="Peacock_077">
     <title>Home Feed: NYM at NYY (2026-09-13 13:30:05)</title>
-  </programme>
-  <programme start="20260911193000 +0000" stop="20260911233000 +0000" channel="Peacock_078">
-    <title>Lexington SC v. Ascent FC (2026-09-11 19:30:00)</title>
-  </programme>
-  <programme start="20260911193000 +0000" stop="20260912013000 +0000" channel="Peacock_078">
-    <title>Lexington SC v. Ascent FC (2026-09-11 19:30:00)</title>
   </programme>
   <programme start="20260912060000 +0000" stop="20260912100000 +0000" channel="Peacock_078">
     <title>La Vuelta a España: Stage 20 (2026-09-12 06:00:00)</title>
