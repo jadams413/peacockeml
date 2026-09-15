@@ -99,11 +99,95 @@
   <channel id="Peacock_098"><display-name>Peacock 098</display-name></channel>
   <channel id="Peacock_099"><display-name>Peacock 099</display-name></channel>
   <channel id="Peacock_100"><display-name>Peacock 100</display-name></channel>
+  <programme start="20260917123000 +0000" stop="20260917163000 +0000" channel="Peacock_005">
+    <title>Away Feed: MIL at PIT (2026-09-17 12:30:00)</title>
+  </programme>
+  <programme start="20260917123000 +0000" stop="20260917193000 +0000" channel="Peacock_005">
+    <title>Away Feed: MIL at PIT (2026-09-17 12:30:00)</title>
+  </programme>
+  <programme start="20260917123005 +0000" stop="20260917163005 +0000" channel="Peacock_006">
+    <title>Home Feed: MIL at PIT (2026-09-17 12:30:05)</title>
+  </programme>
+  <programme start="20260917123005 +0000" stop="20260917193000 +0000" channel="Peacock_006">
+    <title>Home Feed: MIL at PIT (2026-09-17 12:30:05)</title>
+  </programme>
+  <programme start="20260918190000 +0000" stop="20260918230000 +0000" channel="Peacock_007">
+    <title>Power FC v. Sun FC (2026-09-18 19:00:00)</title>
+  </programme>
+  <programme start="20260918190000 +0000" stop="20260919010000 +0000" channel="Peacock_007">
+    <title>Power FC v. Sun FC (2026-09-18 19:00:00)</title>
+  </programme>
+  <programme start="20260918193000 +0000" stop="20260918233000 +0000" channel="Peacock_008">
+    <title>FTL United v. Trinity FC (2026-09-18 19:30:00)</title>
+  </programme>
+  <programme start="20260918193000 +0000" stop="20260919013000 +0000" channel="Peacock_008">
+    <title>FTL United v. Trinity FC (2026-09-18 19:30:00)</title>
+  </programme>
+  <programme start="20260918200000 +0000" stop="20260919000000 +0000" channel="Peacock_009">
+    <title>Home Feed: ATL at HOU (2026-09-18 20:00:00)</title>
+  </programme>
+  <programme start="20260918200000 +0000" stop="20260919030000 +0000" channel="Peacock_009">
+    <title>Home Feed: ATL at HOU (2026-09-18 20:00:00)</title>
+  </programme>
+  <programme start="20260918200005 +0000" stop="20260919000005 +0000" channel="Peacock_010">
+    <title>Away Feed: ATL at HOU (2026-09-18 20:00:05)</title>
+  </programme>
+  <programme start="20260918200005 +0000" stop="20260919030000 +0000" channel="Peacock_010">
+    <title>Away Feed: ATL at HOU (2026-09-18 20:00:05)</title>
+  </programme>
+  <programme start="20260919120000 +0000" stop="20260919160000 +0000" channel="Peacock_011">
+    <title>Eastern Michigan vs. Wisconsin (2026-09-19 12:00:00)</title>
+  </programme>
+  <programme start="20260919120000 +0000" stop="20260919200000 +0000" channel="Peacock_011">
+    <title>Eastern Michigan vs. Wisconsin (2026-09-19 12:00:00)</title>
+  </programme>
+  <programme start="20260919130000 +0000" stop="20260919170000 +0000" channel="Peacock_012">
+    <title>Race Day Live: Los Angeles (2026-09-19 13:00:00)</title>
+  </programme>
+  <programme start="20260919130000 +0000" stop="20260919203000 +0000" channel="Peacock_012">
+    <title>Race Day Live: Los Angeles (2026-09-19 13:00:00)</title>
+  </programme>
+  <programme start="20260919140000 +0000" stop="20260919180000 +0000" channel="Peacock_013">
+    <title>Southern Illinois vs. Illinois (2026-09-19 14:00:00)</title>
+  </programme>
+  <programme start="20260919140000 +0000" stop="20260919213000 +0000" channel="Peacock_013">
+    <title>Southern Illinois vs. Illinois (2026-09-19 14:00:00)</title>
+  </programme>
+  <programme start="20260919160000 +0000" stop="20260919200000 +0000" channel="Peacock_014">
+    <title>Home Feed: BOS at TB (2026-09-19 16:00:00)</title>
+  </programme>
+  <programme start="20260919160000 +0000" stop="20260919230000 +0000" channel="Peacock_014">
+    <title>Home Feed: BOS at TB (2026-09-19 16:00:00)</title>
+  </programme>
+  <programme start="20260919160005 +0000" stop="20260919200005 +0000" channel="Peacock_015">
+    <title>Away Feed: BOS at TB (2026-09-19 16:00:05)</title>
+  </programme>
+  <programme start="20260919160005 +0000" stop="20260919230000 +0000" channel="Peacock_015">
+    <title>Away Feed: BOS at TB (2026-09-19 16:00:05)</title>
+  </programme>
+  <programme start="20260919160010 +0000" stop="20260919200010 +0000" channel="Peacock_016">
+    <title>Western Kentucky vs. Indiana (2026-09-19 16:00:10)</title>
+  </programme>
+  <programme start="20260919160010 +0000" stop="20260919233000 +0000" channel="Peacock_016">
+    <title>Western Kentucky vs. Indiana (2026-09-19 16:00:10)</title>
+  </programme>
+  <programme start="20260919170000 +0000" stop="20260919210000 +0000" channel="Peacock_017">
+    <title>Rd. 30 Playoff 2: Los Angeles (2026-09-19 17:00:00)</title>
+  </programme>
+  <programme start="20260919170000 +0000" stop="20260920023000 +0000" channel="Peacock_017">
+    <title>Rd. 30 Playoff 2: Los Angeles (2026-09-19 17:00:00)</title>
+  </programme>
   <programme start="20260917123000 +0000" stop="20260917163000 +0000" channel="Peacock_018">
     <title>Away Feed: MIL at PIT (2026-09-17 12:30:00)</title>
   </programme>
   <programme start="20260917123000 +0000" stop="20260917193000 +0000" channel="Peacock_018">
     <title>Away Feed: MIL at PIT (2026-09-17 12:30:00)</title>
+  </programme>
+  <programme start="20260919184000 +0000" stop="20260919224000 +0000" channel="Peacock_018">
+    <title>IMSA Lambo Indianapolis R1 (2026-09-19 18:40:00)</title>
+  </programme>
+  <programme start="20260919184000 +0000" stop="20260919233500 +0000" channel="Peacock_018">
+    <title>IMSA Lambo Indianapolis R1 (2026-09-19 18:40:00)</title>
   </programme>
   <programme start="20260917123005 +0000" stop="20260917163005 +0000" channel="Peacock_019">
     <title>Home Feed: MIL at PIT (2026-09-17 12:30:05)</title>
@@ -111,11 +195,23 @@
   <programme start="20260917123005 +0000" stop="20260917193000 +0000" channel="Peacock_019">
     <title>Home Feed: MIL at PIT (2026-09-17 12:30:05)</title>
   </programme>
+  <programme start="20260919190000 +0000" stop="20260919230000 +0000" channel="Peacock_019">
+    <title>Ascent FC v. Brooklyn FC (2026-09-19 19:00:00)</title>
+  </programme>
+  <programme start="20260919190000 +0000" stop="20260920010000 +0000" channel="Peacock_019">
+    <title>Ascent FC v. Brooklyn FC (2026-09-19 19:00:00)</title>
+  </programme>
   <programme start="20260918190000 +0000" stop="20260918230000 +0000" channel="Peacock_020">
     <title>Power FC v. Sun FC (2026-09-18 19:00:00)</title>
   </programme>
   <programme start="20260918190000 +0000" stop="20260919010000 +0000" channel="Peacock_020">
     <title>Power FC v. Sun FC (2026-09-18 19:00:00)</title>
+  </programme>
+  <programme start="20260919190005 +0000" stop="20260919230005 +0000" channel="Peacock_020">
+    <title>Michigan State vs. Notre Dame (2026-09-19 19:00:05)</title>
+  </programme>
+  <programme start="20260919190005 +0000" stop="20260920030000 +0000" channel="Peacock_020">
+    <title>Michigan State vs. Notre Dame (2026-09-19 19:00:05)</title>
   </programme>
   <programme start="20260918193000 +0000" stop="20260918233000 +0000" channel="Peacock_021">
     <title>FTL United v. Trinity FC (2026-09-18 19:30:00)</title>
@@ -123,11 +219,23 @@
   <programme start="20260918193000 +0000" stop="20260919013000 +0000" channel="Peacock_021">
     <title>FTL United v. Trinity FC (2026-09-18 19:30:00)</title>
   </programme>
+  <programme start="20260919200000 +0000" stop="20260920000000 +0000" channel="Peacock_021">
+    <title>Home Feed: NYY at AZ (2026-09-19 20:00:00)</title>
+  </programme>
+  <programme start="20260919200000 +0000" stop="20260920030000 +0000" channel="Peacock_021">
+    <title>Home Feed: NYY at AZ (2026-09-19 20:00:00)</title>
+  </programme>
   <programme start="20260918200000 +0000" stop="20260919000000 +0000" channel="Peacock_022">
     <title>Home Feed: ATL at HOU (2026-09-18 20:00:00)</title>
   </programme>
   <programme start="20260918200000 +0000" stop="20260919030000 +0000" channel="Peacock_022">
     <title>Home Feed: ATL at HOU (2026-09-18 20:00:00)</title>
+  </programme>
+  <programme start="20260919200005 +0000" stop="20260920000005 +0000" channel="Peacock_022">
+    <title>Away Feed: NYY at AZ (2026-09-19 20:00:05)</title>
+  </programme>
+  <programme start="20260919200005 +0000" stop="20260920030000 +0000" channel="Peacock_022">
+    <title>Away Feed: NYY at AZ (2026-09-19 20:00:05)</title>
   </programme>
   <programme start="20260918200005 +0000" stop="20260919000005 +0000" channel="Peacock_023">
     <title>Away Feed: ATL at HOU (2026-09-18 20:00:05)</title>
@@ -135,11 +243,23 @@
   <programme start="20260918200005 +0000" stop="20260919030000 +0000" channel="Peacock_023">
     <title>Away Feed: ATL at HOU (2026-09-18 20:00:05)</title>
   </programme>
+  <programme start="20260920121500 +0000" stop="20260920161500 +0000" channel="Peacock_023">
+    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
+  </programme>
+  <programme start="20260920121500 +0000" stop="20260920171000 +0000" channel="Peacock_023">
+    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
+  </programme>
   <programme start="20260919120000 +0000" stop="20260919160000 +0000" channel="Peacock_024">
     <title>Eastern Michigan vs. Wisconsin (2026-09-19 12:00:00)</title>
   </programme>
   <programme start="20260919120000 +0000" stop="20260919200000 +0000" channel="Peacock_024">
     <title>Eastern Michigan vs. Wisconsin (2026-09-19 12:00:00)</title>
+  </programme>
+  <programme start="20260920133000 +0000" stop="20260920173000 +0000" channel="Peacock_024">
+    <title>Home Feed: CHC at CIN (2026-09-20 13:30:00)</title>
+  </programme>
+  <programme start="20260920133000 +0000" stop="20260920203000 +0000" channel="Peacock_024">
+    <title>Home Feed: CHC at CIN (2026-09-20 13:30:00)</title>
   </programme>
   <programme start="20260919130000 +0000" stop="20260919170000 +0000" channel="Peacock_025">
     <title>Race Day Live: Los Angeles (2026-09-19 13:00:00)</title>
@@ -147,11 +267,23 @@
   <programme start="20260919130000 +0000" stop="20260919203000 +0000" channel="Peacock_025">
     <title>Race Day Live: Los Angeles (2026-09-19 13:00:00)</title>
   </programme>
+  <programme start="20260920133005 +0000" stop="20260920173005 +0000" channel="Peacock_025">
+    <title>Away Feed: CHC at CIN (2026-09-20 13:30:05)</title>
+  </programme>
+  <programme start="20260920133005 +0000" stop="20260920203000 +0000" channel="Peacock_025">
+    <title>Away Feed: CHC at CIN (2026-09-20 13:30:05)</title>
+  </programme>
   <programme start="20260919140000 +0000" stop="20260919180000 +0000" channel="Peacock_026">
     <title>Southern Illinois vs. Illinois (2026-09-19 14:00:00)</title>
   </programme>
   <programme start="20260919140000 +0000" stop="20260919213000 +0000" channel="Peacock_026">
     <title>Southern Illinois vs. Illinois (2026-09-19 14:00:00)</title>
+  </programme>
+  <programme start="20260920170000 +0000" stop="20260920210000 +0000" channel="Peacock_026">
+    <title>Sporting JAX v. Lexington SC (2026-09-20 17:00:00)</title>
+  </programme>
+  <programme start="20260920170000 +0000" stop="20260920230000 +0000" channel="Peacock_026">
+    <title>Sporting JAX v. Lexington SC (2026-09-20 17:00:00)</title>
   </programme>
   <programme start="20260919160000 +0000" stop="20260919200000 +0000" channel="Peacock_027">
     <title>Home Feed: BOS at TB (2026-09-19 16:00:00)</title>
@@ -159,17 +291,35 @@
   <programme start="20260919160000 +0000" stop="20260919230000 +0000" channel="Peacock_027">
     <title>Home Feed: BOS at TB (2026-09-19 16:00:00)</title>
   </programme>
+  <programme start="20260920190000 +0000" stop="20260920230000 +0000" channel="Peacock_027">
+    <title>Colts vs. Chiefs (2026-09-20 19:00:00)</title>
+  </programme>
+  <programme start="20260920190000 +0000" stop="20260921033000 +0000" channel="Peacock_027">
+    <title>Colts vs. Chiefs (2026-09-20 19:00:00)</title>
+  </programme>
   <programme start="20260919160005 +0000" stop="20260919200005 +0000" channel="Peacock_028">
     <title>Away Feed: BOS at TB (2026-09-19 16:00:05)</title>
   </programme>
   <programme start="20260919160005 +0000" stop="20260919230000 +0000" channel="Peacock_028">
     <title>Away Feed: BOS at TB (2026-09-19 16:00:05)</title>
   </programme>
+  <programme start="20260920190005 +0000" stop="20260920230005 +0000" channel="Peacock_028">
+    <title>Brewers at Orioles (2026-09-20 19:00:05)</title>
+  </programme>
+  <programme start="20260920190005 +0000" stop="20260921020000 +0000" channel="Peacock_028">
+    <title>Brewers at Orioles (2026-09-20 19:00:05)</title>
+  </programme>
   <programme start="20260919160010 +0000" stop="20260919200010 +0000" channel="Peacock_029">
     <title>Western Kentucky vs. Indiana (2026-09-19 16:00:10)</title>
   </programme>
   <programme start="20260919160010 +0000" stop="20260919233000 +0000" channel="Peacock_029">
     <title>Western Kentucky vs. Indiana (2026-09-19 16:00:10)</title>
+  </programme>
+  <programme start="20260920233000 +0000" stop="20260921033000 +0000" channel="Peacock_029">
+    <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
+  </programme>
+  <programme start="20260920233000 +0000" stop="20260921043000 +0000" channel="Peacock_029">
+    <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
   </programme>
   <programme start="20260919170000 +0000" stop="20260919210000 +0000" channel="Peacock_030">
     <title>Rd. 30 Playoff 2: Los Angeles (2026-09-19 17:00:00)</title>
