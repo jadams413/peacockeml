@@ -135,23 +135,11 @@
   <programme start="20260920190005 +0000" stop="20260921020000 +0000" channel="Peacock_028">
     <title>Brewers at Orioles (2026-09-20 19:00:05)</title>
   </programme>
-  <programme start="20260920111500 +0000" stop="20260920151500 +0000" channel="Peacock_029">
-    <title>IMSA Carrera Cup Indianapolis 2 (2026-09-20 11:15:00)</title>
-  </programme>
-  <programme start="20260920111500 +0000" stop="20260920160000 +0000" channel="Peacock_029">
-    <title>IMSA Carrera Cup Indianapolis 2 (2026-09-20 11:15:00)</title>
-  </programme>
   <programme start="20260920233000 +0000" stop="20260921033000 +0000" channel="Peacock_029">
     <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
   </programme>
   <programme start="20260920233000 +0000" stop="20260921043000 +0000" channel="Peacock_029">
     <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
-  </programme>
-  <programme start="20260920031000 +0000" stop="20260920071000 +0000" channel="Peacock_030">
-    <title>Men &amp; Women`s Half Marathon (2026-09-20 03:10:00)</title>
-  </programme>
-  <programme start="20260920031000 +0000" stop="20260920082000 +0000" channel="Peacock_030">
-    <title>Men &amp; Women`s Half Marathon (2026-09-20 03:10:00)</title>
   </programme>
   <programme start="20260920121500 +0000" stop="20260920161500 +0000" channel="Peacock_030">
     <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
@@ -165,11 +153,8 @@
   <programme start="20260921183000 +0000" stop="20260922013000 +0000" channel="Peacock_030">
     <title>Away Feed: WAS at DET (2026-09-21 18:30:00)</title>
   </programme>
-  <programme start="20260920085000 +0000" stop="20260920125000 +0000" channel="Peacock_031">
-    <title>Goal Rush: Matchweek 5 (2026-09-20 08:50:00)</title>
-  </programme>
-  <programme start="20260920085000 +0000" stop="20260920150000 +0000" channel="Peacock_031">
-    <title>Goal Rush: Matchweek 5 (2026-09-20 08:50:00)</title>
+  <programme start="20260920113000 +0000" stop="20260920180000 +0000" channel="Peacock_031">
+    <title>Fulham v. Man United (2026-09-20 11:30:00)</title>
   </programme>
   <programme start="20260920133000 +0000" stop="20260920173000 +0000" channel="Peacock_031">
     <title>Home Feed: CHC at CIN (2026-09-20 13:30:00)</title>
@@ -183,11 +168,11 @@
   <programme start="20260921183005 +0000" stop="20260922013000 +0000" channel="Peacock_031">
     <title>Home Feed: WAS at DET (2026-09-21 18:30:05)</title>
   </programme>
-  <programme start="20260920085005 +0000" stop="20260920125005 +0000" channel="Peacock_032">
-    <title>Leeds United v. Crystal Palace (2026-09-20 08:50:05)</title>
+  <programme start="20260920121500 +0000" stop="20260920161500 +0000" channel="Peacock_032">
+    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
   </programme>
-  <programme start="20260920085005 +0000" stop="20260920150000 +0000" channel="Peacock_032">
-    <title>Leeds United v. Crystal Palace (2026-09-20 08:50:05)</title>
+  <programme start="20260920121500 +0000" stop="20260920171000 +0000" channel="Peacock_032">
+    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
   </programme>
   <programme start="20260920133005 +0000" stop="20260920173005 +0000" channel="Peacock_032">
     <title>Away Feed: CHC at CIN (2026-09-20 13:30:05)</title>
@@ -201,11 +186,11 @@
   <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_032">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
   </programme>
-  <programme start="20260920085010 +0000" stop="20260920125010 +0000" channel="Peacock_033">
-    <title>Man City v. Sunderland (2026-09-20 08:50:10)</title>
+  <programme start="20260920133000 +0000" stop="20260920173000 +0000" channel="Peacock_033">
+    <title>Away Feed: CHC at CIN (2026-09-20 13:30:00)</title>
   </programme>
-  <programme start="20260920085010 +0000" stop="20260920150000 +0000" channel="Peacock_033">
-    <title>Man City v. Sunderland (2026-09-20 08:50:10)</title>
+  <programme start="20260920133000 +0000" stop="20260920203000 +0000" channel="Peacock_033">
+    <title>Away Feed: CHC at CIN (2026-09-20 13:30:00)</title>
   </programme>
   <programme start="20260920150000 +0000" stop="20260920190000 +0000" channel="Peacock_033">
     <title>IMSA Indianapolis 6 Hour (2026-09-20 15:00:00)</title>
@@ -219,11 +204,11 @@
   <programme start="20260922110000 +0000" stop="20260922170000 +0000" channel="Peacock_033">
     <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
   </programme>
-  <programme start="20260920111500 +0000" stop="20260920151500 +0000" channel="Peacock_034">
-    <title>IMSA Carrera Cup Indianapolis 2 (2026-09-20 11:15:00)</title>
+  <programme start="20260920133005 +0000" stop="20260920173005 +0000" channel="Peacock_034">
+    <title>Home Feed: CHC at CIN (2026-09-20 13:30:05)</title>
   </programme>
-  <programme start="20260920111500 +0000" stop="20260920160000 +0000" channel="Peacock_034">
-    <title>IMSA Carrera Cup Indianapolis 2 (2026-09-20 11:15:00)</title>
+  <programme start="20260920133005 +0000" stop="20260920203000 +0000" channel="Peacock_034">
+    <title>Home Feed: CHC at CIN (2026-09-20 13:30:05)</title>
   </programme>
   <programme start="20260920170000 +0000" stop="20260920210000 +0000" channel="Peacock_034">
     <title>Sporting JAX v. Lexington SC (2026-09-20 17:00:00)</title>
@@ -237,17 +222,14 @@
   <programme start="20260923153000 +0000" stop="20260923223000 +0000" channel="Peacock_034">
     <title>Home Feed: MIN at SF (2026-09-23 15:30:00)</title>
   </programme>
-  <programme start="20260920085000 +0000" stop="20260920125000 +0000" channel="Peacock_035">
-    <title>Man City v. Sunderland (2026-09-20 08:50:00)</title>
-  </programme>
-  <programme start="20260920085000 +0000" stop="20260920150000 +0000" channel="Peacock_035">
-    <title>Man City v. Sunderland (2026-09-20 08:50:00)</title>
-  </programme>
-  <programme start="20260920113000 +0000" stop="20260920153000 +0000" channel="Peacock_035">
-    <title>Fulham v. Man United (2026-09-20 11:30:00)</title>
-  </programme>
   <programme start="20260920113000 +0000" stop="20260920180000 +0000" channel="Peacock_035">
     <title>Fulham v. Man United (2026-09-20 11:30:00)</title>
+  </programme>
+  <programme start="20260920150000 +0000" stop="20260920190000 +0000" channel="Peacock_035">
+    <title>IMSA Indianapolis (2026-09-20 15:00:00)</title>
+  </programme>
+  <programme start="20260920150000 +0000" stop="20260920220000 +0000" channel="Peacock_035">
+    <title>IMSA Indianapolis (2026-09-20 15:00:00)</title>
   </programme>
   <programme start="20260920190000 +0000" stop="20260920230000 +0000" channel="Peacock_035">
     <title>Brewers at Orioles (2026-09-20 19:00:00)</title>
@@ -261,23 +243,17 @@
   <programme start="20260923153005 +0000" stop="20260923223000 +0000" channel="Peacock_035">
     <title>Away Feed: MIN at SF (2026-09-23 15:30:05)</title>
   </programme>
-  <programme start="20260920031000 +0000" stop="20260920071000 +0000" channel="Peacock_036">
-    <title>Men &amp; Women`s Half Marathon (2026-09-20 03:10:00)</title>
-  </programme>
-  <programme start="20260920031000 +0000" stop="20260920082000 +0000" channel="Peacock_036">
-    <title>Men &amp; Women`s Half Marathon (2026-09-20 03:10:00)</title>
-  </programme>
-  <programme start="20260920085005 +0000" stop="20260920125005 +0000" channel="Peacock_036">
-    <title>Leeds United v. Crystal Palace (2026-09-20 08:50:05)</title>
-  </programme>
-  <programme start="20260920085005 +0000" stop="20260920150000 +0000" channel="Peacock_036">
-    <title>Leeds United v. Crystal Palace (2026-09-20 08:50:05)</title>
-  </programme>
   <programme start="20260920121500 +0000" stop="20260920161500 +0000" channel="Peacock_036">
     <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
   </programme>
   <programme start="20260920121500 +0000" stop="20260920171000 +0000" channel="Peacock_036">
     <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
+  </programme>
+  <programme start="20260920170000 +0000" stop="20260920210000 +0000" channel="Peacock_036">
+    <title>Sporting JAX v. Lexington SC (2026-09-20 17:00:00)</title>
+  </programme>
+  <programme start="20260920170000 +0000" stop="20260920230000 +0000" channel="Peacock_036">
+    <title>Sporting JAX v. Lexington SC (2026-09-20 17:00:00)</title>
   </programme>
   <programme start="20260920190005 +0000" stop="20260920230005 +0000" channel="Peacock_036">
     <title>Colts vs. Chiefs (2026-09-20 19:00:05)</title>
@@ -291,20 +267,14 @@
   <programme start="20260924143000 +0000" stop="20260924213000 +0000" channel="Peacock_036">
     <title>Away Feed: NYM at TEX (2026-09-24 14:30:00)</title>
   </programme>
-  <programme start="20260920085000 +0000" stop="20260920125000 +0000" channel="Peacock_037">
-    <title>Leeds United v. Crystal Palace (2026-09-20 08:50:00)</title>
-  </programme>
-  <programme start="20260920085010 +0000" stop="20260920125010 +0000" channel="Peacock_037">
-    <title>Goal Rush: Matchweek 5 (2026-09-20 08:50:10)</title>
-  </programme>
-  <programme start="20260920085010 +0000" stop="20260920150000 +0000" channel="Peacock_037">
-    <title>Goal Rush: Matchweek 5 (2026-09-20 08:50:10)</title>
-  </programme>
   <programme start="20260920133000 +0000" stop="20260920173000 +0000" channel="Peacock_037">
     <title>Home Feed: CHC at CIN (2026-09-20 13:30:00)</title>
   </programme>
   <programme start="20260920133000 +0000" stop="20260920203000 +0000" channel="Peacock_037">
     <title>Home Feed: CHC at CIN (2026-09-20 13:30:00)</title>
+  </programme>
+  <programme start="20260920190000 +0000" stop="20260920230000 +0000" channel="Peacock_037">
+    <title>Colts vs. Chiefs (2026-09-20 19:00:00)</title>
   </programme>
   <programme start="20260920233000 +0000" stop="20260921033000 +0000" channel="Peacock_037">
     <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
@@ -318,23 +288,17 @@
   <programme start="20260924143005 +0000" stop="20260924213000 +0000" channel="Peacock_037">
     <title>Home Feed: NYM at TEX (2026-09-24 14:30:05)</title>
   </programme>
-  <programme start="20260920085005 +0000" stop="20260920125005 +0000" channel="Peacock_038">
-    <title>Man City v. Sunderland (2026-09-20 08:50:05)</title>
-  </programme>
-  <programme start="20260920085005 +0000" stop="20260920150000 +0000" channel="Peacock_038">
-    <title>Man City v. Sunderland (2026-09-20 08:50:05)</title>
-  </programme>
-  <programme start="20260920111500 +0000" stop="20260920151500 +0000" channel="Peacock_038">
-    <title>IMSA Carrera Cup Indianapolis 2 (2026-09-20 11:15:00)</title>
-  </programme>
-  <programme start="20260920111500 +0000" stop="20260920160000 +0000" channel="Peacock_038">
-    <title>IMSA Carrera Cup Indianapolis 2 (2026-09-20 11:15:00)</title>
-  </programme>
   <programme start="20260920133005 +0000" stop="20260920173005 +0000" channel="Peacock_038">
     <title>Away Feed: CHC at CIN (2026-09-20 13:30:05)</title>
   </programme>
   <programme start="20260920133005 +0000" stop="20260920203000 +0000" channel="Peacock_038">
     <title>Away Feed: CHC at CIN (2026-09-20 13:30:05)</title>
+  </programme>
+  <programme start="20260920190005 +0000" stop="20260920230005 +0000" channel="Peacock_038">
+    <title>Brewers at Orioles (2026-09-20 19:00:05)</title>
+  </programme>
+  <programme start="20260920190005 +0000" stop="20260921020000 +0000" channel="Peacock_038">
+    <title>Brewers at Orioles (2026-09-20 19:00:05)</title>
   </programme>
   <programme start="20260921183000 +0000" stop="20260921223000 +0000" channel="Peacock_038">
     <title>Away Feed: WAS at DET (2026-09-21 18:30:00)</title>
@@ -348,15 +312,6 @@
   <programme start="20260925183000 +0000" stop="20260926013000 +0000" channel="Peacock_038">
     <title>Home Feed: TB at PHI (2026-09-25 18:30:00)</title>
   </programme>
-  <programme start="20260920085010 +0000" stop="20260920125010 +0000" channel="Peacock_039">
-    <title>Goal Rush: Matchweek 5 (2026-09-20 08:50:10)</title>
-  </programme>
-  <programme start="20260920085010 +0000" stop="20260920150000 +0000" channel="Peacock_039">
-    <title>Goal Rush: Matchweek 5 (2026-09-20 08:50:10)</title>
-  </programme>
-  <programme start="20260920113000 +0000" stop="20260920153000 +0000" channel="Peacock_039">
-    <title>Fulham v. Man United (2026-09-20 11:30:00)</title>
-  </programme>
   <programme start="20260920113000 +0000" stop="20260920180000 +0000" channel="Peacock_039">
     <title>Fulham v. Man United (2026-09-20 11:30:00)</title>
   </programme>
@@ -369,6 +324,12 @@
   <programme start="20260920170000 +0000" stop="20260920210000 +0000" channel="Peacock_039">
     <title>Sporting JAX v. Lexington SC (2026-09-20 17:00:00)</title>
   </programme>
+  <programme start="20260920233000 +0000" stop="20260921033000 +0000" channel="Peacock_039">
+    <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
+  </programme>
+  <programme start="20260920233000 +0000" stop="20260921043000 +0000" channel="Peacock_039">
+    <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
+  </programme>
   <programme start="20260921183005 +0000" stop="20260921223005 +0000" channel="Peacock_039">
     <title>Home Feed: WAS at DET (2026-09-21 18:30:05)</title>
   </programme>
@@ -380,12 +341,6 @@
   </programme>
   <programme start="20260925183005 +0000" stop="20260926013000 +0000" channel="Peacock_039">
     <title>Away Feed: TB at PHI (2026-09-25 18:30:05)</title>
-  </programme>
-  <programme start="20260920111500 +0000" stop="20260920151500 +0000" channel="Peacock_040">
-    <title>IMSA Carrera Cup Indianapolis 2 (2026-09-20 11:15:00)</title>
-  </programme>
-  <programme start="20260920111500 +0000" stop="20260920160000 +0000" channel="Peacock_040">
-    <title>IMSA Carrera Cup Indianapolis 2 (2026-09-20 11:15:00)</title>
   </programme>
   <programme start="20260920121500 +0000" stop="20260920161500 +0000" channel="Peacock_040">
     <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
@@ -402,14 +357,17 @@
   <programme start="20260920190000 +0000" stop="20260921033000 +0000" channel="Peacock_040">
     <title>Colts vs. Chiefs (2026-09-20 19:00:00)</title>
   </programme>
+  <programme start="20260921183000 +0000" stop="20260921223000 +0000" channel="Peacock_040">
+    <title>Away Feed: WAS at DET (2026-09-21 18:30:00)</title>
+  </programme>
+  <programme start="20260921183000 +0000" stop="20260922013000 +0000" channel="Peacock_040">
+    <title>Away Feed: WAS at DET (2026-09-21 18:30:00)</title>
+  </programme>
   <programme start="20260921200000 +0000" stop="20260922000000 +0000" channel="Peacock_040">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
   </programme>
   <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_040">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
-  </programme>
-  <programme start="20260920113000 +0000" stop="20260920153000 +0000" channel="Peacock_041">
-    <title>Fulham v. Man United (2026-09-20 11:30:00)</title>
   </programme>
   <programme start="20260920113000 +0000" stop="20260920180000 +0000" channel="Peacock_041">
     <title>Fulham v. Man United (2026-09-20 11:30:00)</title>
@@ -428,6 +386,9 @@
   </programme>
   <programme start="20260920190005 +0000" stop="20260921020000 +0000" channel="Peacock_041">
     <title>Brewers at Orioles (2026-09-20 19:00:05)</title>
+  </programme>
+  <programme start="20260921183005 +0000" stop="20260921223005 +0000" channel="Peacock_041">
+    <title>Home Feed: WAS at DET (2026-09-21 18:30:05)</title>
   </programme>
   <programme start="20260922110000 +0000" stop="20260922150000 +0000" channel="Peacock_041">
     <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
@@ -455,6 +416,9 @@
   </programme>
   <programme start="20260920233000 +0000" stop="20260921043000 +0000" channel="Peacock_042">
     <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
+  </programme>
+  <programme start="20260921200000 +0000" stop="20260922000000 +0000" channel="Peacock_042">
+    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
   </programme>
   <programme start="20260923153000 +0000" stop="20260923193000 +0000" channel="Peacock_042">
     <title>Home Feed: MIN at SF (2026-09-23 15:30:00)</title>
@@ -486,6 +450,12 @@
   <programme start="20260921183000 +0000" stop="20260922013000 +0000" channel="Peacock_043">
     <title>Away Feed: WAS at DET (2026-09-21 18:30:00)</title>
   </programme>
+  <programme start="20260922110000 +0000" stop="20260922150000 +0000" channel="Peacock_043">
+    <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
+  </programme>
+  <programme start="20260922110000 +0000" stop="20260922170000 +0000" channel="Peacock_043">
+    <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
+  </programme>
   <programme start="20260923153005 +0000" stop="20260923193005 +0000" channel="Peacock_043">
     <title>Away Feed: MIN at SF (2026-09-23 15:30:05)</title>
   </programme>
@@ -512,6 +482,12 @@
   </programme>
   <programme start="20260921183005 +0000" stop="20260922013000 +0000" channel="Peacock_044">
     <title>Home Feed: WAS at DET (2026-09-21 18:30:05)</title>
+  </programme>
+  <programme start="20260923153000 +0000" stop="20260923193000 +0000" channel="Peacock_044">
+    <title>Away Feed: MIN at SF (2026-09-23 15:30:00)</title>
+  </programme>
+  <programme start="20260923153000 +0000" stop="20260923223000 +0000" channel="Peacock_044">
+    <title>Away Feed: MIN at SF (2026-09-23 15:30:00)</title>
   </programme>
   <programme start="20260924143000 +0000" stop="20260924183000 +0000" channel="Peacock_044">
     <title>Away Feed: NYM at TEX (2026-09-24 14:30:00)</title>
@@ -540,6 +516,12 @@
   <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_045">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
   </programme>
+  <programme start="20260923153005 +0000" stop="20260923193005 +0000" channel="Peacock_045">
+    <title>Home Feed: MIN at SF (2026-09-23 15:30:05)</title>
+  </programme>
+  <programme start="20260923153005 +0000" stop="20260923223000 +0000" channel="Peacock_045">
+    <title>Home Feed: MIN at SF (2026-09-23 15:30:05)</title>
+  </programme>
   <programme start="20260924143005 +0000" stop="20260924183005 +0000" channel="Peacock_045">
     <title>Home Feed: NYM at TEX (2026-09-24 14:30:05)</title>
   </programme>
@@ -566,6 +548,12 @@
   </programme>
   <programme start="20260922110000 +0000" stop="20260922170000 +0000" channel="Peacock_046">
     <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
+  </programme>
+  <programme start="20260924143000 +0000" stop="20260924183000 +0000" channel="Peacock_046">
+    <title>Home Feed: NYM at TEX (2026-09-24 14:30:00)</title>
+  </programme>
+  <programme start="20260924143000 +0000" stop="20260924213000 +0000" channel="Peacock_046">
+    <title>Home Feed: NYM at TEX (2026-09-24 14:30:00)</title>
   </programme>
   <programme start="20260925183000 +0000" stop="20260925223000 +0000" channel="Peacock_046">
     <title>Home Feed: TB at PHI (2026-09-25 18:30:00)</title>
@@ -594,6 +582,12 @@
   <programme start="20260923153000 +0000" stop="20260923223000 +0000" channel="Peacock_047">
     <title>Home Feed: MIN at SF (2026-09-23 15:30:00)</title>
   </programme>
+  <programme start="20260924143005 +0000" stop="20260924183005 +0000" channel="Peacock_047">
+    <title>Away Feed: NYM at TEX (2026-09-24 14:30:05)</title>
+  </programme>
+  <programme start="20260924143005 +0000" stop="20260924213000 +0000" channel="Peacock_047">
+    <title>Away Feed: NYM at TEX (2026-09-24 14:30:05)</title>
+  </programme>
   <programme start="20260925183005 +0000" stop="20260925223005 +0000" channel="Peacock_047">
     <title>Away Feed: TB at PHI (2026-09-25 18:30:05)</title>
   </programme>
@@ -621,6 +615,12 @@
   <programme start="20260923153005 +0000" stop="20260923223000 +0000" channel="Peacock_048">
     <title>Away Feed: MIN at SF (2026-09-23 15:30:05)</title>
   </programme>
+  <programme start="20260925183000 +0000" stop="20260925223000 +0000" channel="Peacock_048">
+    <title>Away Feed: TB at PHI (2026-09-25 18:30:00)</title>
+  </programme>
+  <programme start="20260925183000 +0000" stop="20260926013000 +0000" channel="Peacock_048">
+    <title>Away Feed: TB at PHI (2026-09-25 18:30:00)</title>
+  </programme>
   <programme start="20260920233000 +0000" stop="20260921033000 +0000" channel="Peacock_049">
     <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
   </programme>
@@ -645,6 +645,12 @@
   <programme start="20260924143000 +0000" stop="20260924213000 +0000" channel="Peacock_049">
     <title>Away Feed: NYM at TEX (2026-09-24 14:30:00)</title>
   </programme>
+  <programme start="20260925183005 +0000" stop="20260925223005 +0000" channel="Peacock_049">
+    <title>Home Feed: TB at PHI (2026-09-25 18:30:05)</title>
+  </programme>
+  <programme start="20260925183005 +0000" stop="20260926013000 +0000" channel="Peacock_049">
+    <title>Home Feed: TB at PHI (2026-09-25 18:30:05)</title>
+  </programme>
   <programme start="20260921183000 +0000" stop="20260921223000 +0000" channel="Peacock_050">
     <title>Home Feed: WAS at DET (2026-09-21 18:30:00)</title>
   </programme>
@@ -662,6 +668,12 @@
   </programme>
   <programme start="20260924143005 +0000" stop="20260924213000 +0000" channel="Peacock_050">
     <title>Home Feed: NYM at TEX (2026-09-24 14:30:05)</title>
+  </programme>
+  <programme start="20260925193000 +0000" stop="20260925233000 +0000" channel="Peacock_050">
+    <title>Lexington SC v. Trinity FC (2026-09-25 19:30:00)</title>
+  </programme>
+  <programme start="20260925193000 +0000" stop="20260926013000 +0000" channel="Peacock_050">
+    <title>Lexington SC v. Trinity FC (2026-09-25 19:30:00)</title>
   </programme>
   <programme start="20260921183005 +0000" stop="20260921223005 +0000" channel="Peacock_051">
     <title>Away Feed: WAS at DET (2026-09-21 18:30:05)</title>
@@ -683,6 +695,12 @@
   </programme>
   <programme start="20260925183000 +0000" stop="20260926013000 +0000" channel="Peacock_051">
     <title>Home Feed: TB at PHI (2026-09-25 18:30:00)</title>
+  </programme>
+  <programme start="20260926050000 +0000" stop="20260926090000 +0000" channel="Peacock_051">
+    <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
+  </programme>
+  <programme start="20260926050000 +0000" stop="20260926105000 +0000" channel="Peacock_051">
+    <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
   </programme>
   <programme start="20260921200000 +0000" stop="20260922000000 +0000" channel="Peacock_052">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
@@ -768,6 +786,12 @@
   <programme start="20260924143005 +0000" stop="20260924213000 +0000" channel="Peacock_055">
     <title>Home Feed: NYM at TEX (2026-09-24 14:30:05)</title>
   </programme>
+  <programme start="20260926050000 +0000" stop="20260926090000 +0000" channel="Peacock_055">
+    <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
+  </programme>
+  <programme start="20260926050000 +0000" stop="20260926105000 +0000" channel="Peacock_055">
+    <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
+  </programme>
   <programme start="20260920170000 +0000" stop="20260920210000 +0000" channel="Peacock_056">
     <title>Sporting JAX v. Lexington SC (2026-09-20 17:00:00)</title>
   </programme>
@@ -816,6 +840,12 @@
   <programme start="20260925183000 +0000" stop="20260926013000 +0000" channel="Peacock_058">
     <title>Away Feed: TB at PHI (2026-09-25 18:30:00)</title>
   </programme>
+  <programme start="20260926050000 +0000" stop="20260926090000 +0000" channel="Peacock_058">
+    <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
+  </programme>
+  <programme start="20260926050000 +0000" stop="20260926105000 +0000" channel="Peacock_058">
+    <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
+  </programme>
   <programme start="20260920121500 +0000" stop="20260920161500 +0000" channel="Peacock_059">
     <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
   </programme>
@@ -863,6 +893,12 @@
   </programme>
   <programme start="20260921183005 +0000" stop="20260922013000 +0000" channel="Peacock_061">
     <title>Home Feed: WAS at DET (2026-09-21 18:30:05)</title>
+  </programme>
+  <programme start="20260926050000 +0000" stop="20260926090000 +0000" channel="Peacock_061">
+    <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
+  </programme>
+  <programme start="20260926050000 +0000" stop="20260926105000 +0000" channel="Peacock_061">
+    <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
   </programme>
   <programme start="20260920121500 +0000" stop="20260920161500 +0000" channel="Peacock_062">
     <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
