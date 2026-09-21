@@ -99,68 +99,11 @@
   <channel id="Peacock_098"><display-name>Peacock 098</display-name></channel>
   <channel id="Peacock_099"><display-name>Peacock 099</display-name></channel>
   <channel id="Peacock_100"><display-name>Peacock 100</display-name></channel>
-  <programme start="20260920121500 +0000" stop="20260920161500 +0000" channel="Peacock_023">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
-  </programme>
-  <programme start="20260920121500 +0000" stop="20260920171000 +0000" channel="Peacock_023">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
-  </programme>
-  <programme start="20260920133000 +0000" stop="20260920173000 +0000" channel="Peacock_024">
-    <title>Home Feed: CHC at CIN (2026-09-20 13:30:00)</title>
-  </programme>
-  <programme start="20260920133000 +0000" stop="20260920203000 +0000" channel="Peacock_024">
-    <title>Home Feed: CHC at CIN (2026-09-20 13:30:00)</title>
-  </programme>
-  <programme start="20260920133005 +0000" stop="20260920173005 +0000" channel="Peacock_025">
-    <title>Away Feed: CHC at CIN (2026-09-20 13:30:05)</title>
-  </programme>
-  <programme start="20260920133005 +0000" stop="20260920203000 +0000" channel="Peacock_025">
-    <title>Away Feed: CHC at CIN (2026-09-20 13:30:05)</title>
-  </programme>
-  <programme start="20260920170000 +0000" stop="20260920210000 +0000" channel="Peacock_026">
-    <title>Sporting JAX v. Lexington SC (2026-09-20 17:00:00)</title>
-  </programme>
-  <programme start="20260920170000 +0000" stop="20260920230000 +0000" channel="Peacock_026">
-    <title>Sporting JAX v. Lexington SC (2026-09-20 17:00:00)</title>
-  </programme>
-  <programme start="20260920190000 +0000" stop="20260920230000 +0000" channel="Peacock_027">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:00)</title>
-  </programme>
-  <programme start="20260920190000 +0000" stop="20260921033000 +0000" channel="Peacock_027">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:00)</title>
-  </programme>
-  <programme start="20260920190005 +0000" stop="20260920230005 +0000" channel="Peacock_028">
-    <title>Brewers at Orioles (2026-09-20 19:00:05)</title>
-  </programme>
-  <programme start="20260920190005 +0000" stop="20260921020000 +0000" channel="Peacock_028">
-    <title>Brewers at Orioles (2026-09-20 19:00:05)</title>
-  </programme>
-  <programme start="20260920233000 +0000" stop="20260921033000 +0000" channel="Peacock_029">
-    <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
-  </programme>
-  <programme start="20260920233000 +0000" stop="20260921043000 +0000" channel="Peacock_029">
-    <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
-  </programme>
-  <programme start="20260920121500 +0000" stop="20260920161500 +0000" channel="Peacock_030">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
-  </programme>
-  <programme start="20260920121500 +0000" stop="20260920171000 +0000" channel="Peacock_030">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
-  </programme>
   <programme start="20260921183000 +0000" stop="20260921223000 +0000" channel="Peacock_030">
     <title>Away Feed: WAS at DET (2026-09-21 18:30:00)</title>
   </programme>
   <programme start="20260921183000 +0000" stop="20260922013000 +0000" channel="Peacock_030">
     <title>Away Feed: WAS at DET (2026-09-21 18:30:00)</title>
-  </programme>
-  <programme start="20260920113000 +0000" stop="20260920180000 +0000" channel="Peacock_031">
-    <title>Fulham v. Man United (2026-09-20 11:30:00)</title>
-  </programme>
-  <programme start="20260920133000 +0000" stop="20260920173000 +0000" channel="Peacock_031">
-    <title>Home Feed: CHC at CIN (2026-09-20 13:30:00)</title>
-  </programme>
-  <programme start="20260920133000 +0000" stop="20260920203000 +0000" channel="Peacock_031">
-    <title>Home Feed: CHC at CIN (2026-09-20 13:30:00)</title>
   </programme>
   <programme start="20260921183005 +0000" stop="20260921223005 +0000" channel="Peacock_031">
     <title>Home Feed: WAS at DET (2026-09-21 18:30:05)</title>
@@ -168,35 +111,11 @@
   <programme start="20260921183005 +0000" stop="20260922013000 +0000" channel="Peacock_031">
     <title>Home Feed: WAS at DET (2026-09-21 18:30:05)</title>
   </programme>
-  <programme start="20260920121500 +0000" stop="20260920161500 +0000" channel="Peacock_032">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
-  </programme>
-  <programme start="20260920121500 +0000" stop="20260920171000 +0000" channel="Peacock_032">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
-  </programme>
-  <programme start="20260920133005 +0000" stop="20260920173005 +0000" channel="Peacock_032">
-    <title>Away Feed: CHC at CIN (2026-09-20 13:30:05)</title>
-  </programme>
-  <programme start="20260920133005 +0000" stop="20260920203000 +0000" channel="Peacock_032">
-    <title>Away Feed: CHC at CIN (2026-09-20 13:30:05)</title>
-  </programme>
   <programme start="20260921200000 +0000" stop="20260922000000 +0000" channel="Peacock_032">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
   </programme>
   <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_032">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
-  </programme>
-  <programme start="20260920133000 +0000" stop="20260920173000 +0000" channel="Peacock_033">
-    <title>Away Feed: CHC at CIN (2026-09-20 13:30:00)</title>
-  </programme>
-  <programme start="20260920133000 +0000" stop="20260920203000 +0000" channel="Peacock_033">
-    <title>Away Feed: CHC at CIN (2026-09-20 13:30:00)</title>
-  </programme>
-  <programme start="20260920150000 +0000" stop="20260920190000 +0000" channel="Peacock_033">
-    <title>IMSA Indianapolis 6 Hour (2026-09-20 15:00:00)</title>
-  </programme>
-  <programme start="20260920150000 +0000" stop="20260920220000 +0000" channel="Peacock_033">
-    <title>IMSA Indianapolis 6 Hour (2026-09-20 15:00:00)</title>
   </programme>
   <programme start="20260922110000 +0000" stop="20260922150000 +0000" channel="Peacock_033">
     <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
@@ -204,38 +123,11 @@
   <programme start="20260922110000 +0000" stop="20260922170000 +0000" channel="Peacock_033">
     <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
   </programme>
-  <programme start="20260920133005 +0000" stop="20260920173005 +0000" channel="Peacock_034">
-    <title>Home Feed: CHC at CIN (2026-09-20 13:30:05)</title>
-  </programme>
-  <programme start="20260920133005 +0000" stop="20260920203000 +0000" channel="Peacock_034">
-    <title>Home Feed: CHC at CIN (2026-09-20 13:30:05)</title>
-  </programme>
-  <programme start="20260920170000 +0000" stop="20260920210000 +0000" channel="Peacock_034">
-    <title>Sporting JAX v. Lexington SC (2026-09-20 17:00:00)</title>
-  </programme>
-  <programme start="20260920170000 +0000" stop="20260920230000 +0000" channel="Peacock_034">
-    <title>Sporting JAX v. Lexington SC (2026-09-20 17:00:00)</title>
-  </programme>
   <programme start="20260923153000 +0000" stop="20260923193000 +0000" channel="Peacock_034">
     <title>Home Feed: MIN at SF (2026-09-23 15:30:00)</title>
   </programme>
   <programme start="20260923153000 +0000" stop="20260923223000 +0000" channel="Peacock_034">
     <title>Home Feed: MIN at SF (2026-09-23 15:30:00)</title>
-  </programme>
-  <programme start="20260920113000 +0000" stop="20260920180000 +0000" channel="Peacock_035">
-    <title>Fulham v. Man United (2026-09-20 11:30:00)</title>
-  </programme>
-  <programme start="20260920150000 +0000" stop="20260920190000 +0000" channel="Peacock_035">
-    <title>IMSA Indianapolis (2026-09-20 15:00:00)</title>
-  </programme>
-  <programme start="20260920150000 +0000" stop="20260920220000 +0000" channel="Peacock_035">
-    <title>IMSA Indianapolis (2026-09-20 15:00:00)</title>
-  </programme>
-  <programme start="20260920190000 +0000" stop="20260920230000 +0000" channel="Peacock_035">
-    <title>Brewers at Orioles (2026-09-20 19:00:00)</title>
-  </programme>
-  <programme start="20260920190000 +0000" stop="20260921020000 +0000" channel="Peacock_035">
-    <title>Brewers at Orioles (2026-09-20 19:00:00)</title>
   </programme>
   <programme start="20260923153005 +0000" stop="20260923193005 +0000" channel="Peacock_035">
     <title>Away Feed: MIN at SF (2026-09-23 15:30:05)</title>
@@ -243,62 +135,17 @@
   <programme start="20260923153005 +0000" stop="20260923223000 +0000" channel="Peacock_035">
     <title>Away Feed: MIN at SF (2026-09-23 15:30:05)</title>
   </programme>
-  <programme start="20260920121500 +0000" stop="20260920161500 +0000" channel="Peacock_036">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
-  </programme>
-  <programme start="20260920121500 +0000" stop="20260920171000 +0000" channel="Peacock_036">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
-  </programme>
-  <programme start="20260920170000 +0000" stop="20260920210000 +0000" channel="Peacock_036">
-    <title>Sporting JAX v. Lexington SC (2026-09-20 17:00:00)</title>
-  </programme>
-  <programme start="20260920170000 +0000" stop="20260920230000 +0000" channel="Peacock_036">
-    <title>Sporting JAX v. Lexington SC (2026-09-20 17:00:00)</title>
-  </programme>
-  <programme start="20260920190005 +0000" stop="20260920230005 +0000" channel="Peacock_036">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:05)</title>
-  </programme>
-  <programme start="20260920190005 +0000" stop="20260921033000 +0000" channel="Peacock_036">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:05)</title>
-  </programme>
   <programme start="20260924143000 +0000" stop="20260924183000 +0000" channel="Peacock_036">
     <title>Away Feed: NYM at TEX (2026-09-24 14:30:00)</title>
   </programme>
   <programme start="20260924143000 +0000" stop="20260924213000 +0000" channel="Peacock_036">
     <title>Away Feed: NYM at TEX (2026-09-24 14:30:00)</title>
   </programme>
-  <programme start="20260920133000 +0000" stop="20260920173000 +0000" channel="Peacock_037">
-    <title>Home Feed: CHC at CIN (2026-09-20 13:30:00)</title>
-  </programme>
-  <programme start="20260920133000 +0000" stop="20260920203000 +0000" channel="Peacock_037">
-    <title>Home Feed: CHC at CIN (2026-09-20 13:30:00)</title>
-  </programme>
-  <programme start="20260920190000 +0000" stop="20260920230000 +0000" channel="Peacock_037">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:00)</title>
-  </programme>
-  <programme start="20260920233000 +0000" stop="20260921033000 +0000" channel="Peacock_037">
-    <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
-  </programme>
-  <programme start="20260920233000 +0000" stop="20260921043000 +0000" channel="Peacock_037">
-    <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
-  </programme>
   <programme start="20260924143005 +0000" stop="20260924183005 +0000" channel="Peacock_037">
     <title>Home Feed: NYM at TEX (2026-09-24 14:30:05)</title>
   </programme>
   <programme start="20260924143005 +0000" stop="20260924213000 +0000" channel="Peacock_037">
     <title>Home Feed: NYM at TEX (2026-09-24 14:30:05)</title>
-  </programme>
-  <programme start="20260920133005 +0000" stop="20260920173005 +0000" channel="Peacock_038">
-    <title>Away Feed: CHC at CIN (2026-09-20 13:30:05)</title>
-  </programme>
-  <programme start="20260920133005 +0000" stop="20260920203000 +0000" channel="Peacock_038">
-    <title>Away Feed: CHC at CIN (2026-09-20 13:30:05)</title>
-  </programme>
-  <programme start="20260920190005 +0000" stop="20260920230005 +0000" channel="Peacock_038">
-    <title>Brewers at Orioles (2026-09-20 19:00:05)</title>
-  </programme>
-  <programme start="20260920190005 +0000" stop="20260921020000 +0000" channel="Peacock_038">
-    <title>Brewers at Orioles (2026-09-20 19:00:05)</title>
   </programme>
   <programme start="20260921183000 +0000" stop="20260921223000 +0000" channel="Peacock_038">
     <title>Away Feed: WAS at DET (2026-09-21 18:30:00)</title>
@@ -312,24 +159,6 @@
   <programme start="20260925183000 +0000" stop="20260926013000 +0000" channel="Peacock_038">
     <title>Home Feed: TB at PHI (2026-09-25 18:30:00)</title>
   </programme>
-  <programme start="20260920113000 +0000" stop="20260920180000 +0000" channel="Peacock_039">
-    <title>Fulham v. Man United (2026-09-20 11:30:00)</title>
-  </programme>
-  <programme start="20260920150000 +0000" stop="20260920190000 +0000" channel="Peacock_039">
-    <title>IMSA Indianapolis (2026-09-20 15:00:00)</title>
-  </programme>
-  <programme start="20260920150000 +0000" stop="20260920220000 +0000" channel="Peacock_039">
-    <title>IMSA Indianapolis (2026-09-20 15:00:00)</title>
-  </programme>
-  <programme start="20260920170000 +0000" stop="20260920210000 +0000" channel="Peacock_039">
-    <title>Sporting JAX v. Lexington SC (2026-09-20 17:00:00)</title>
-  </programme>
-  <programme start="20260920233000 +0000" stop="20260921033000 +0000" channel="Peacock_039">
-    <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
-  </programme>
-  <programme start="20260920233000 +0000" stop="20260921043000 +0000" channel="Peacock_039">
-    <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
-  </programme>
   <programme start="20260921183005 +0000" stop="20260921223005 +0000" channel="Peacock_039">
     <title>Home Feed: WAS at DET (2026-09-21 18:30:05)</title>
   </programme>
@@ -341,21 +170,6 @@
   </programme>
   <programme start="20260925183005 +0000" stop="20260926013000 +0000" channel="Peacock_039">
     <title>Away Feed: TB at PHI (2026-09-25 18:30:05)</title>
-  </programme>
-  <programme start="20260920121500 +0000" stop="20260920161500 +0000" channel="Peacock_040">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
-  </programme>
-  <programme start="20260920121500 +0000" stop="20260920171000 +0000" channel="Peacock_040">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
-  </programme>
-  <programme start="20260920170000 +0000" stop="20260920210000 +0000" channel="Peacock_040">
-    <title>Sporting JAX v. Lexington SC (2026-09-20 17:00:00)</title>
-  </programme>
-  <programme start="20260920190000 +0000" stop="20260920230000 +0000" channel="Peacock_040">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:00)</title>
-  </programme>
-  <programme start="20260920190000 +0000" stop="20260921033000 +0000" channel="Peacock_040">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:00)</title>
   </programme>
   <programme start="20260921183000 +0000" stop="20260921223000 +0000" channel="Peacock_040">
     <title>Away Feed: WAS at DET (2026-09-21 18:30:00)</title>
@@ -369,23 +183,11 @@
   <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_040">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
   </programme>
-  <programme start="20260920113000 +0000" stop="20260920180000 +0000" channel="Peacock_041">
-    <title>Fulham v. Man United (2026-09-20 11:30:00)</title>
+  <programme start="20260926113000 +0000" stop="20260926153000 +0000" channel="Peacock_040">
+    <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
   </programme>
-  <programme start="20260920133000 +0000" stop="20260920173000 +0000" channel="Peacock_041">
-    <title>Home Feed: CHC at CIN (2026-09-20 13:30:00)</title>
-  </programme>
-  <programme start="20260920133000 +0000" stop="20260920203000 +0000" channel="Peacock_041">
-    <title>Home Feed: CHC at CIN (2026-09-20 13:30:00)</title>
-  </programme>
-  <programme start="20260920190000 +0000" stop="20260920230000 +0000" channel="Peacock_041">
-    <title>Brewers at Orioles (2026-09-20 19:00:00)</title>
-  </programme>
-  <programme start="20260920190005 +0000" stop="20260920230005 +0000" channel="Peacock_041">
-    <title>Brewers at Orioles (2026-09-20 19:00:05)</title>
-  </programme>
-  <programme start="20260920190005 +0000" stop="20260921020000 +0000" channel="Peacock_041">
-    <title>Brewers at Orioles (2026-09-20 19:00:05)</title>
+  <programme start="20260926113000 +0000" stop="20260926193000 +0000" channel="Peacock_040">
+    <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
   </programme>
   <programme start="20260921183005 +0000" stop="20260921223005 +0000" channel="Peacock_041">
     <title>Home Feed: WAS at DET (2026-09-21 18:30:05)</title>
@@ -396,26 +198,11 @@
   <programme start="20260922110000 +0000" stop="20260922170000 +0000" channel="Peacock_041">
     <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
   </programme>
-  <programme start="20260920121500 +0000" stop="20260920161500 +0000" channel="Peacock_042">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
+  <programme start="20260926130000 +0000" stop="20260926170000 +0000" channel="Peacock_041">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
-  <programme start="20260920121500 +0000" stop="20260920171000 +0000" channel="Peacock_042">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
-  </programme>
-  <programme start="20260920133005 +0000" stop="20260920173005 +0000" channel="Peacock_042">
-    <title>Away Feed: CHC at CIN (2026-09-20 13:30:05)</title>
-  </programme>
-  <programme start="20260920133005 +0000" stop="20260920203000 +0000" channel="Peacock_042">
-    <title>Away Feed: CHC at CIN (2026-09-20 13:30:05)</title>
-  </programme>
-  <programme start="20260920190005 +0000" stop="20260920230005 +0000" channel="Peacock_042">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:05)</title>
-  </programme>
-  <programme start="20260920233000 +0000" stop="20260921033000 +0000" channel="Peacock_042">
-    <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
-  </programme>
-  <programme start="20260920233000 +0000" stop="20260921043000 +0000" channel="Peacock_042">
-    <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
+  <programme start="20260926130000 +0000" stop="20260926203000 +0000" channel="Peacock_041">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
   <programme start="20260921200000 +0000" stop="20260922000000 +0000" channel="Peacock_042">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
@@ -426,23 +213,11 @@
   <programme start="20260923153000 +0000" stop="20260923223000 +0000" channel="Peacock_042">
     <title>Home Feed: MIN at SF (2026-09-23 15:30:00)</title>
   </programme>
-  <programme start="20260920133000 +0000" stop="20260920173000 +0000" channel="Peacock_043">
-    <title>Home Feed: CHC at CIN (2026-09-20 13:30:00)</title>
+  <programme start="20260926153000 +0000" stop="20260926193000 +0000" channel="Peacock_042">
+    <title>B1G Saturday: Week 4 (2026-09-26 15:30:00)</title>
   </programme>
-  <programme start="20260920133000 +0000" stop="20260920203000 +0000" channel="Peacock_043">
-    <title>Home Feed: CHC at CIN (2026-09-20 13:30:00)</title>
-  </programme>
-  <programme start="20260920150000 +0000" stop="20260920190000 +0000" channel="Peacock_043">
-    <title>IMSA Indianapolis (2026-09-20 15:00:00)</title>
-  </programme>
-  <programme start="20260920150000 +0000" stop="20260920220000 +0000" channel="Peacock_043">
-    <title>IMSA Indianapolis (2026-09-20 15:00:00)</title>
-  </programme>
-  <programme start="20260920233000 +0000" stop="20260921033000 +0000" channel="Peacock_043">
-    <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
-  </programme>
-  <programme start="20260920233000 +0000" stop="20260921043000 +0000" channel="Peacock_043">
-    <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
+  <programme start="20260926153000 +0000" stop="20260926230000 +0000" channel="Peacock_042">
+    <title>B1G Saturday: Week 4 (2026-09-26 15:30:00)</title>
   </programme>
   <programme start="20260921183000 +0000" stop="20260921223000 +0000" channel="Peacock_043">
     <title>Away Feed: WAS at DET (2026-09-21 18:30:00)</title>
@@ -462,17 +237,11 @@
   <programme start="20260923153005 +0000" stop="20260923223000 +0000" channel="Peacock_043">
     <title>Away Feed: MIN at SF (2026-09-23 15:30:05)</title>
   </programme>
-  <programme start="20260920133005 +0000" stop="20260920173005 +0000" channel="Peacock_044">
-    <title>Away Feed: CHC at CIN (2026-09-20 13:30:05)</title>
+  <programme start="20260926160000 +0000" stop="20260926200000 +0000" channel="Peacock_043">
+    <title>Away Feed: LAD at SF (2026-09-26 16:00:00)</title>
   </programme>
-  <programme start="20260920133005 +0000" stop="20260920203000 +0000" channel="Peacock_044">
-    <title>Away Feed: CHC at CIN (2026-09-20 13:30:05)</title>
-  </programme>
-  <programme start="20260920170000 +0000" stop="20260920210000 +0000" channel="Peacock_044">
-    <title>Sporting JAX v. Lexington SC (2026-09-20 17:00:00)</title>
-  </programme>
-  <programme start="20260920170000 +0000" stop="20260920230000 +0000" channel="Peacock_044">
-    <title>Sporting JAX v. Lexington SC (2026-09-20 17:00:00)</title>
+  <programme start="20260926160000 +0000" stop="20260926230000 +0000" channel="Peacock_043">
+    <title>Away Feed: LAD at SF (2026-09-26 16:00:00)</title>
   </programme>
   <programme start="20260921183000 +0000" stop="20260921223000 +0000" channel="Peacock_044">
     <title>Away Feed: WAS at DET (2026-09-21 18:30:00)</title>
@@ -495,17 +264,11 @@
   <programme start="20260924143000 +0000" stop="20260924213000 +0000" channel="Peacock_044">
     <title>Away Feed: NYM at TEX (2026-09-24 14:30:00)</title>
   </programme>
-  <programme start="20260920150000 +0000" stop="20260920190000 +0000" channel="Peacock_045">
-    <title>IMSA Indianapolis (2026-09-20 15:00:00)</title>
+  <programme start="20260926160005 +0000" stop="20260926200005 +0000" channel="Peacock_044">
+    <title>Home Feed: LAD at SF (2026-09-26 16:00:05)</title>
   </programme>
-  <programme start="20260920150000 +0000" stop="20260920220000 +0000" channel="Peacock_045">
-    <title>IMSA Indianapolis (2026-09-20 15:00:00)</title>
-  </programme>
-  <programme start="20260920190000 +0000" stop="20260920230000 +0000" channel="Peacock_045">
-    <title>Brewers at Orioles (2026-09-20 19:00:00)</title>
-  </programme>
-  <programme start="20260920190000 +0000" stop="20260921020000 +0000" channel="Peacock_045">
-    <title>Brewers at Orioles (2026-09-20 19:00:00)</title>
+  <programme start="20260926160005 +0000" stop="20260926230000 +0000" channel="Peacock_044">
+    <title>Home Feed: LAD at SF (2026-09-26 16:00:05)</title>
   </programme>
   <programme start="20260921183005 +0000" stop="20260921223005 +0000" channel="Peacock_045">
     <title>Home Feed: WAS at DET (2026-09-21 18:30:05)</title>
@@ -528,17 +291,11 @@
   <programme start="20260924143005 +0000" stop="20260924213000 +0000" channel="Peacock_045">
     <title>Home Feed: NYM at TEX (2026-09-24 14:30:05)</title>
   </programme>
-  <programme start="20260920170000 +0000" stop="20260920210000 +0000" channel="Peacock_046">
-    <title>Sporting JAX v. Lexington SC (2026-09-20 17:00:00)</title>
+  <programme start="20260926183000 +0000" stop="20260926223000 +0000" channel="Peacock_045">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
-  <programme start="20260920170000 +0000" stop="20260920230000 +0000" channel="Peacock_046">
-    <title>Sporting JAX v. Lexington SC (2026-09-20 17:00:00)</title>
-  </programme>
-  <programme start="20260920190005 +0000" stop="20260920230005 +0000" channel="Peacock_046">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:05)</title>
-  </programme>
-  <programme start="20260920190005 +0000" stop="20260921033000 +0000" channel="Peacock_046">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:05)</title>
+  <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_045">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
   <programme start="20260921200000 +0000" stop="20260922000000 +0000" channel="Peacock_046">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
@@ -561,14 +318,11 @@
   <programme start="20260925183000 +0000" stop="20260926013000 +0000" channel="Peacock_046">
     <title>Home Feed: TB at PHI (2026-09-25 18:30:00)</title>
   </programme>
-  <programme start="20260920190000 +0000" stop="20260921020000 +0000" channel="Peacock_047">
-    <title>Brewers at Orioles (2026-09-20 19:00:00)</title>
+  <programme start="20260926190000 +0000" stop="20260926230000 +0000" channel="Peacock_046">
+    <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
   </programme>
-  <programme start="20260920233000 +0000" stop="20260921033000 +0000" channel="Peacock_047">
-    <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
-  </programme>
-  <programme start="20260920233000 +0000" stop="20260921043000 +0000" channel="Peacock_047">
-    <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
+  <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_046">
+    <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
   </programme>
   <programme start="20260922110000 +0000" stop="20260922150000 +0000" channel="Peacock_047">
     <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
@@ -594,12 +348,6 @@
   <programme start="20260925183005 +0000" stop="20260926013000 +0000" channel="Peacock_047">
     <title>Away Feed: TB at PHI (2026-09-25 18:30:05)</title>
   </programme>
-  <programme start="20260920190005 +0000" stop="20260920230005 +0000" channel="Peacock_048">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:05)</title>
-  </programme>
-  <programme start="20260920190005 +0000" stop="20260921033000 +0000" channel="Peacock_048">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:05)</title>
-  </programme>
   <programme start="20260921183000 +0000" stop="20260921223000 +0000" channel="Peacock_048">
     <title>Away Feed: WAS at DET (2026-09-21 18:30:00)</title>
   </programme>
@@ -621,11 +369,11 @@
   <programme start="20260925183000 +0000" stop="20260926013000 +0000" channel="Peacock_048">
     <title>Away Feed: TB at PHI (2026-09-25 18:30:00)</title>
   </programme>
-  <programme start="20260920233000 +0000" stop="20260921033000 +0000" channel="Peacock_049">
-    <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
+  <programme start="20260926130000 +0000" stop="20260926170000 +0000" channel="Peacock_048">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
-  <programme start="20260920233000 +0000" stop="20260921043000 +0000" channel="Peacock_049">
-    <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
+  <programme start="20260926130000 +0000" stop="20260926203000 +0000" channel="Peacock_048">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
   <programme start="20260921183005 +0000" stop="20260921223005 +0000" channel="Peacock_049">
     <title>Home Feed: WAS at DET (2026-09-21 18:30:05)</title>
@@ -651,6 +399,12 @@
   <programme start="20260925183005 +0000" stop="20260926013000 +0000" channel="Peacock_049">
     <title>Home Feed: TB at PHI (2026-09-25 18:30:05)</title>
   </programme>
+  <programme start="20260926133000 +0000" stop="20260926173000 +0000" channel="Peacock_049">
+    <title>Notre Dame vs. Purdue (2026-09-26 13:30:00)</title>
+  </programme>
+  <programme start="20260926133000 +0000" stop="20260926213000 +0000" channel="Peacock_049">
+    <title>Notre Dame vs. Purdue (2026-09-26 13:30:00)</title>
+  </programme>
   <programme start="20260921183000 +0000" stop="20260921223000 +0000" channel="Peacock_050">
     <title>Home Feed: WAS at DET (2026-09-21 18:30:00)</title>
   </programme>
@@ -674,6 +428,12 @@
   </programme>
   <programme start="20260925193000 +0000" stop="20260926013000 +0000" channel="Peacock_050">
     <title>Lexington SC v. Trinity FC (2026-09-25 19:30:00)</title>
+  </programme>
+  <programme start="20260926160000 +0000" stop="20260926200000 +0000" channel="Peacock_050">
+    <title>Away Feed: LAD at SF (2026-09-26 16:00:00)</title>
+  </programme>
+  <programme start="20260926160000 +0000" stop="20260926230000 +0000" channel="Peacock_050">
+    <title>Away Feed: LAD at SF (2026-09-26 16:00:00)</title>
   </programme>
   <programme start="20260921183005 +0000" stop="20260921223005 +0000" channel="Peacock_051">
     <title>Away Feed: WAS at DET (2026-09-21 18:30:05)</title>
@@ -702,6 +462,12 @@
   <programme start="20260926050000 +0000" stop="20260926105000 +0000" channel="Peacock_051">
     <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
   </programme>
+  <programme start="20260926160005 +0000" stop="20260926200005 +0000" channel="Peacock_051">
+    <title>Home Feed: LAD at SF (2026-09-26 16:00:05)</title>
+  </programme>
+  <programme start="20260926160005 +0000" stop="20260926230000 +0000" channel="Peacock_051">
+    <title>Home Feed: LAD at SF (2026-09-26 16:00:05)</title>
+  </programme>
   <programme start="20260921200000 +0000" stop="20260922000000 +0000" channel="Peacock_052">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
   </programme>
@@ -720,11 +486,17 @@
   <programme start="20260925183005 +0000" stop="20260926013000 +0000" channel="Peacock_052">
     <title>Away Feed: TB at PHI (2026-09-25 18:30:05)</title>
   </programme>
-  <programme start="20260920121500 +0000" stop="20260920161500 +0000" channel="Peacock_053">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
+  <programme start="20260926100000 +0000" stop="20260926140000 +0000" channel="Peacock_052">
+    <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
   </programme>
-  <programme start="20260920121500 +0000" stop="20260920171000 +0000" channel="Peacock_053">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
+  <programme start="20260926100000 +0000" stop="20260926175000 +0000" channel="Peacock_052">
+    <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
+  </programme>
+  <programme start="20260926170000 +0000" stop="20260926210000 +0000" channel="Peacock_052">
+    <title>Wisconsin vs. Penn State (2026-09-26 17:00:00)</title>
+  </programme>
+  <programme start="20260926170000 +0000" stop="20260927003000 +0000" channel="Peacock_052">
+    <title>Wisconsin vs. Penn State (2026-09-26 17:00:00)</title>
   </programme>
   <programme start="20260922110000 +0000" stop="20260922150000 +0000" channel="Peacock_053">
     <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
@@ -744,11 +516,23 @@
   <programme start="20260925183005 +0000" stop="20260926013000 +0000" channel="Peacock_053">
     <title>Home Feed: TB at PHI (2026-09-25 18:30:05)</title>
   </programme>
-  <programme start="20260920133000 +0000" stop="20260920173000 +0000" channel="Peacock_054">
-    <title>Home Feed: CHC at CIN (2026-09-20 13:30:00)</title>
+  <programme start="20260926113000 +0000" stop="20260926153000 +0000" channel="Peacock_053">
+    <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
   </programme>
-  <programme start="20260920133000 +0000" stop="20260920203000 +0000" channel="Peacock_054">
-    <title>Home Feed: CHC at CIN (2026-09-20 13:30:00)</title>
+  <programme start="20260926113000 +0000" stop="20260926193000 +0000" channel="Peacock_053">
+    <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
+  </programme>
+  <programme start="20260926130000 +0000" stop="20260926170000 +0000" channel="Peacock_053">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
+  </programme>
+  <programme start="20260926130000 +0000" stop="20260926203000 +0000" channel="Peacock_053">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
+  </programme>
+  <programme start="20260926183000 +0000" stop="20260926223000 +0000" channel="Peacock_053">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
+  </programme>
+  <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_053">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
   <programme start="20260923153000 +0000" stop="20260923193000 +0000" channel="Peacock_054">
     <title>Home Feed: MIN at SF (2026-09-23 15:30:00)</title>
@@ -768,11 +552,23 @@
   <programme start="20260925193000 +0000" stop="20260926013000 +0000" channel="Peacock_054">
     <title>Lexington SC v. Trinity FC (2026-09-25 19:30:00)</title>
   </programme>
-  <programme start="20260920133005 +0000" stop="20260920173005 +0000" channel="Peacock_055">
-    <title>Away Feed: CHC at CIN (2026-09-20 13:30:05)</title>
+  <programme start="20260926130000 +0000" stop="20260926170000 +0000" channel="Peacock_054">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
-  <programme start="20260920133005 +0000" stop="20260920203000 +0000" channel="Peacock_055">
-    <title>Away Feed: CHC at CIN (2026-09-20 13:30:05)</title>
+  <programme start="20260926130000 +0000" stop="20260926203000 +0000" channel="Peacock_054">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
+  </programme>
+  <programme start="20260926133000 +0000" stop="20260926173000 +0000" channel="Peacock_054">
+    <title>Notre Dame vs. Purdue (2026-09-26 13:30:00)</title>
+  </programme>
+  <programme start="20260926133000 +0000" stop="20260926213000 +0000" channel="Peacock_054">
+    <title>Notre Dame vs. Purdue (2026-09-26 13:30:00)</title>
+  </programme>
+  <programme start="20260926190000 +0000" stop="20260926230000 +0000" channel="Peacock_054">
+    <title>Oregon vs. USC (2026-09-26 19:00:00)</title>
+  </programme>
+  <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_054">
+    <title>Oregon vs. USC (2026-09-26 19:00:00)</title>
   </programme>
   <programme start="20260923153005 +0000" stop="20260923193005 +0000" channel="Peacock_055">
     <title>Away Feed: MIN at SF (2026-09-23 15:30:05)</title>
@@ -792,11 +588,14 @@
   <programme start="20260926050000 +0000" stop="20260926105000 +0000" channel="Peacock_055">
     <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
   </programme>
-  <programme start="20260920170000 +0000" stop="20260920210000 +0000" channel="Peacock_056">
-    <title>Sporting JAX v. Lexington SC (2026-09-20 17:00:00)</title>
+  <programme start="20260926153000 +0000" stop="20260926193000 +0000" channel="Peacock_055">
+    <title>B1G Saturday: Week 4 (2026-09-26 15:30:00)</title>
   </programme>
-  <programme start="20260920170000 +0000" stop="20260920230000 +0000" channel="Peacock_056">
-    <title>Sporting JAX v. Lexington SC (2026-09-20 17:00:00)</title>
+  <programme start="20260926153000 +0000" stop="20260926230000 +0000" channel="Peacock_055">
+    <title>B1G Saturday: Week 4 (2026-09-26 15:30:00)</title>
+  </programme>
+  <programme start="20260926160000 +0000" stop="20260926200000 +0000" channel="Peacock_055">
+    <title>Away Feed: LAD at SF (2026-09-26 16:00:00)</title>
   </programme>
   <programme start="20260924143000 +0000" stop="20260924183000 +0000" channel="Peacock_056">
     <title>Home Feed: NYM at TEX (2026-09-24 14:30:00)</title>
@@ -810,11 +609,20 @@
   <programme start="20260925183000 +0000" stop="20260926013000 +0000" channel="Peacock_056">
     <title>Home Feed: TB at PHI (2026-09-25 18:30:00)</title>
   </programme>
-  <programme start="20260920190000 +0000" stop="20260920230000 +0000" channel="Peacock_057">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:00)</title>
+  <programme start="20260926100000 +0000" stop="20260926140000 +0000" channel="Peacock_056">
+    <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
   </programme>
-  <programme start="20260920190000 +0000" stop="20260921033000 +0000" channel="Peacock_057">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:00)</title>
+  <programme start="20260926100000 +0000" stop="20260926175000 +0000" channel="Peacock_056">
+    <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
+  </programme>
+  <programme start="20260926160000 +0000" stop="20260926200000 +0000" channel="Peacock_056">
+    <title>Away Feed: LAD at SF (2026-09-26 16:00:00)</title>
+  </programme>
+  <programme start="20260926160000 +0000" stop="20260926230000 +0000" channel="Peacock_056">
+    <title>Away Feed: LAD at SF (2026-09-26 16:00:00)</title>
+  </programme>
+  <programme start="20260926160005 +0000" stop="20260926200005 +0000" channel="Peacock_056">
+    <title>Home Feed: LAD at SF (2026-09-26 16:00:05)</title>
   </programme>
   <programme start="20260924143005 +0000" stop="20260924183005 +0000" channel="Peacock_057">
     <title>Away Feed: NYM at TEX (2026-09-24 14:30:05)</title>
@@ -828,11 +636,23 @@
   <programme start="20260925183005 +0000" stop="20260926013000 +0000" channel="Peacock_057">
     <title>Away Feed: TB at PHI (2026-09-25 18:30:05)</title>
   </programme>
-  <programme start="20260920190005 +0000" stop="20260920230005 +0000" channel="Peacock_058">
-    <title>Brewers at Orioles (2026-09-20 19:00:05)</title>
+  <programme start="20260926130000 +0000" stop="20260926170000 +0000" channel="Peacock_057">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
-  <programme start="20260920190005 +0000" stop="20260921020000 +0000" channel="Peacock_058">
-    <title>Brewers at Orioles (2026-09-20 19:00:05)</title>
+  <programme start="20260926130000 +0000" stop="20260926203000 +0000" channel="Peacock_057">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
+  </programme>
+  <programme start="20260926160005 +0000" stop="20260926200005 +0000" channel="Peacock_057">
+    <title>Home Feed: LAD at SF (2026-09-26 16:00:05)</title>
+  </programme>
+  <programme start="20260926160005 +0000" stop="20260926230000 +0000" channel="Peacock_057">
+    <title>Home Feed: LAD at SF (2026-09-26 16:00:05)</title>
+  </programme>
+  <programme start="20260926170000 +0000" stop="20260926210000 +0000" channel="Peacock_057">
+    <title>Wisconsin vs. Penn State (2026-09-26 17:00:00)</title>
+  </programme>
+  <programme start="20260926170000 +0000" stop="20260927003000 +0000" channel="Peacock_057">
+    <title>Wisconsin vs. Penn State (2026-09-26 17:00:00)</title>
   </programme>
   <programme start="20260925183000 +0000" stop="20260925223000 +0000" channel="Peacock_058">
     <title>Away Feed: TB at PHI (2026-09-25 18:30:00)</title>
@@ -846,17 +666,17 @@
   <programme start="20260926050000 +0000" stop="20260926105000 +0000" channel="Peacock_058">
     <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
   </programme>
-  <programme start="20260920121500 +0000" stop="20260920161500 +0000" channel="Peacock_059">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
+  <programme start="20260926133000 +0000" stop="20260926173000 +0000" channel="Peacock_058">
+    <title>Notre Dame vs. Purdue (2026-09-26 13:30:00)</title>
   </programme>
-  <programme start="20260920121500 +0000" stop="20260920171000 +0000" channel="Peacock_059">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
+  <programme start="20260926133000 +0000" stop="20260926213000 +0000" channel="Peacock_058">
+    <title>Notre Dame vs. Purdue (2026-09-26 13:30:00)</title>
   </programme>
-  <programme start="20260920233000 +0000" stop="20260921033000 +0000" channel="Peacock_059">
-    <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
+  <programme start="20260926183000 +0000" stop="20260926223000 +0000" channel="Peacock_058">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
-  <programme start="20260920233000 +0000" stop="20260921043000 +0000" channel="Peacock_059">
-    <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
+  <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_058">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
   <programme start="20260925183005 +0000" stop="20260925223005 +0000" channel="Peacock_059">
     <title>Home Feed: TB at PHI (2026-09-25 18:30:05)</title>
@@ -864,11 +684,20 @@
   <programme start="20260925183005 +0000" stop="20260926013000 +0000" channel="Peacock_059">
     <title>Home Feed: TB at PHI (2026-09-25 18:30:05)</title>
   </programme>
-  <programme start="20260920133000 +0000" stop="20260920173000 +0000" channel="Peacock_060">
-    <title>Home Feed: CHC at CIN (2026-09-20 13:30:00)</title>
+  <programme start="20260926100000 +0000" stop="20260926140000 +0000" channel="Peacock_059">
+    <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
   </programme>
-  <programme start="20260920133000 +0000" stop="20260920203000 +0000" channel="Peacock_060">
-    <title>Home Feed: CHC at CIN (2026-09-20 13:30:00)</title>
+  <programme start="20260926100000 +0000" stop="20260926175000 +0000" channel="Peacock_059">
+    <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
+  </programme>
+  <programme start="20260926160000 +0000" stop="20260926200000 +0000" channel="Peacock_059">
+    <title>Away Feed: LAD at SF (2026-09-26 16:00:00)</title>
+  </programme>
+  <programme start="20260926190000 +0000" stop="20260926230000 +0000" channel="Peacock_059">
+    <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
+  </programme>
+  <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_059">
+    <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
   </programme>
   <programme start="20260921183000 +0000" stop="20260921223000 +0000" channel="Peacock_060">
     <title>Away Feed: WAS at DET (2026-09-21 18:30:00)</title>
@@ -882,11 +711,23 @@
   <programme start="20260925193000 +0000" stop="20260926013000 +0000" channel="Peacock_060">
     <title>Lexington SC v. Trinity FC (2026-09-25 19:30:00)</title>
   </programme>
-  <programme start="20260920133005 +0000" stop="20260920173005 +0000" channel="Peacock_061">
-    <title>Away Feed: CHC at CIN (2026-09-20 13:30:05)</title>
+  <programme start="20260926130000 +0000" stop="20260926170000 +0000" channel="Peacock_060">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
-  <programme start="20260920133005 +0000" stop="20260920203000 +0000" channel="Peacock_061">
-    <title>Away Feed: CHC at CIN (2026-09-20 13:30:05)</title>
+  <programme start="20260926130000 +0000" stop="20260926203000 +0000" channel="Peacock_060">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
+  </programme>
+  <programme start="20260926160005 +0000" stop="20260926200005 +0000" channel="Peacock_060">
+    <title>Home Feed: LAD at SF (2026-09-26 16:00:05)</title>
+  </programme>
+  <programme start="20260926160005 +0000" stop="20260926230000 +0000" channel="Peacock_060">
+    <title>Home Feed: LAD at SF (2026-09-26 16:00:05)</title>
+  </programme>
+  <programme start="20260926190005 +0000" stop="20260926230005 +0000" channel="Peacock_060">
+    <title>Ascent FC v. Sporting JAX (2026-09-26 19:00:05)</title>
+  </programme>
+  <programme start="20260926190005 +0000" stop="20260927010000 +0000" channel="Peacock_060">
+    <title>Ascent FC v. Sporting JAX (2026-09-26 19:00:05)</title>
   </programme>
   <programme start="20260921183005 +0000" stop="20260921223005 +0000" channel="Peacock_061">
     <title>Home Feed: WAS at DET (2026-09-21 18:30:05)</title>
@@ -900,14 +741,17 @@
   <programme start="20260926050000 +0000" stop="20260926105000 +0000" channel="Peacock_061">
     <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
   </programme>
-  <programme start="20260920121500 +0000" stop="20260920161500 +0000" channel="Peacock_062">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
+  <programme start="20260926133000 +0000" stop="20260926173000 +0000" channel="Peacock_061">
+    <title>Notre Dame vs. Purdue (2026-09-26 13:30:00)</title>
   </programme>
-  <programme start="20260920121500 +0000" stop="20260920171000 +0000" channel="Peacock_062">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
+  <programme start="20260926133000 +0000" stop="20260926213000 +0000" channel="Peacock_061">
+    <title>Notre Dame vs. Purdue (2026-09-26 13:30:00)</title>
   </programme>
-  <programme start="20260920170000 +0000" stop="20260920210000 +0000" channel="Peacock_062">
-    <title>Sporting JAX v. Lexington SC (2026-09-20 17:00:00)</title>
+  <programme start="20260926170000 +0000" stop="20260926210000 +0000" channel="Peacock_061">
+    <title>Wisconsin vs. Penn State (2026-09-26 17:00:00)</title>
+  </programme>
+  <programme start="20260926170000 +0000" stop="20260927003000 +0000" channel="Peacock_061">
+    <title>Wisconsin vs. Penn State (2026-09-26 17:00:00)</title>
   </programme>
   <programme start="20260921200000 +0000" stop="20260922000000 +0000" channel="Peacock_062">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
@@ -915,17 +759,23 @@
   <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_062">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
   </programme>
-  <programme start="20260920133000 +0000" stop="20260920173000 +0000" channel="Peacock_063">
-    <title>Home Feed: CHC at CIN (2026-09-20 13:30:00)</title>
+  <programme start="20260926100000 +0000" stop="20260926140000 +0000" channel="Peacock_062">
+    <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
   </programme>
-  <programme start="20260920133000 +0000" stop="20260920203000 +0000" channel="Peacock_063">
-    <title>Home Feed: CHC at CIN (2026-09-20 13:30:00)</title>
+  <programme start="20260926100000 +0000" stop="20260926175000 +0000" channel="Peacock_062">
+    <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
   </programme>
-  <programme start="20260920190000 +0000" stop="20260920230000 +0000" channel="Peacock_063">
-    <title>Brewers at Orioles (2026-09-20 19:00:00)</title>
+  <programme start="20260926160000 +0000" stop="20260926200000 +0000" channel="Peacock_062">
+    <title>Away Feed: LAD at SF (2026-09-26 16:00:00)</title>
   </programme>
-  <programme start="20260920190000 +0000" stop="20260921020000 +0000" channel="Peacock_063">
-    <title>Brewers at Orioles (2026-09-20 19:00:00)</title>
+  <programme start="20260926160000 +0000" stop="20260926230000 +0000" channel="Peacock_062">
+    <title>Away Feed: LAD at SF (2026-09-26 16:00:00)</title>
+  </programme>
+  <programme start="20260926183000 +0000" stop="20260926223000 +0000" channel="Peacock_062">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
+  </programme>
+  <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_062">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
   <programme start="20260922110000 +0000" stop="20260922150000 +0000" channel="Peacock_063">
     <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
@@ -933,17 +783,17 @@
   <programme start="20260922110000 +0000" stop="20260922170000 +0000" channel="Peacock_063">
     <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
   </programme>
-  <programme start="20260920133005 +0000" stop="20260920173005 +0000" channel="Peacock_064">
-    <title>Away Feed: CHC at CIN (2026-09-20 13:30:05)</title>
+  <programme start="20260926130000 +0000" stop="20260926170000 +0000" channel="Peacock_063">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
-  <programme start="20260920133005 +0000" stop="20260920203000 +0000" channel="Peacock_064">
-    <title>Away Feed: CHC at CIN (2026-09-20 13:30:05)</title>
+  <programme start="20260926130000 +0000" stop="20260926203000 +0000" channel="Peacock_063">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
-  <programme start="20260920190005 +0000" stop="20260920230005 +0000" channel="Peacock_064">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:05)</title>
+  <programme start="20260926160005 +0000" stop="20260926200005 +0000" channel="Peacock_063">
+    <title>Home Feed: LAD at SF (2026-09-26 16:00:05)</title>
   </programme>
-  <programme start="20260920190005 +0000" stop="20260921033000 +0000" channel="Peacock_064">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:05)</title>
+  <programme start="20260926160005 +0000" stop="20260926230000 +0000" channel="Peacock_063">
+    <title>Home Feed: LAD at SF (2026-09-26 16:00:05)</title>
   </programme>
   <programme start="20260923153000 +0000" stop="20260923193000 +0000" channel="Peacock_064">
     <title>Home Feed: MIN at SF (2026-09-23 15:30:00)</title>
@@ -951,17 +801,23 @@
   <programme start="20260923153000 +0000" stop="20260923223000 +0000" channel="Peacock_064">
     <title>Home Feed: MIN at SF (2026-09-23 15:30:00)</title>
   </programme>
-  <programme start="20260920190000 +0000" stop="20260920230000 +0000" channel="Peacock_065">
-    <title>Brewers at Orioles (2026-09-20 19:00:00)</title>
+  <programme start="20260926133000 +0000" stop="20260926173000 +0000" channel="Peacock_064">
+    <title>Notre Dame vs. Purdue (2026-09-26 13:30:00)</title>
   </programme>
-  <programme start="20260920190000 +0000" stop="20260921020000 +0000" channel="Peacock_065">
-    <title>Brewers at Orioles (2026-09-20 19:00:00)</title>
+  <programme start="20260926133000 +0000" stop="20260926213000 +0000" channel="Peacock_064">
+    <title>Notre Dame vs. Purdue (2026-09-26 13:30:00)</title>
   </programme>
-  <programme start="20260920233000 +0000" stop="20260921033000 +0000" channel="Peacock_065">
-    <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
+  <programme start="20260926170000 +0000" stop="20260926210000 +0000" channel="Peacock_064">
+    <title>Wisconsin vs. Penn State (2026-09-26 17:00:00)</title>
   </programme>
-  <programme start="20260920233000 +0000" stop="20260921043000 +0000" channel="Peacock_065">
-    <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
+  <programme start="20260926170000 +0000" stop="20260927003000 +0000" channel="Peacock_064">
+    <title>Wisconsin vs. Penn State (2026-09-26 17:00:00)</title>
+  </programme>
+  <programme start="20260926190005 +0000" stop="20260926230005 +0000" channel="Peacock_064">
+    <title>Oregon vs. USC (2026-09-26 19:00:05)</title>
+  </programme>
+  <programme start="20260926190005 +0000" stop="20260927030000 +0000" channel="Peacock_064">
+    <title>Oregon vs. USC (2026-09-26 19:00:05)</title>
   </programme>
   <programme start="20260923153005 +0000" stop="20260923193005 +0000" channel="Peacock_065">
     <title>Away Feed: MIN at SF (2026-09-23 15:30:05)</title>
@@ -969,11 +825,17 @@
   <programme start="20260923153005 +0000" stop="20260923223000 +0000" channel="Peacock_065">
     <title>Away Feed: MIN at SF (2026-09-23 15:30:05)</title>
   </programme>
-  <programme start="20260920190005 +0000" stop="20260920230005 +0000" channel="Peacock_066">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:05)</title>
+  <programme start="20260926160000 +0000" stop="20260926200000 +0000" channel="Peacock_065">
+    <title>Home Feed: LAD at SF (2026-09-26 16:00:00)</title>
   </programme>
-  <programme start="20260920190005 +0000" stop="20260921033000 +0000" channel="Peacock_066">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:05)</title>
+  <programme start="20260926160000 +0000" stop="20260926230000 +0000" channel="Peacock_065">
+    <title>Home Feed: LAD at SF (2026-09-26 16:00:00)</title>
+  </programme>
+  <programme start="20260926183000 +0000" stop="20260926223000 +0000" channel="Peacock_065">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
+  </programme>
+  <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_065">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
   <programme start="20260921200000 +0000" stop="20260922000000 +0000" channel="Peacock_066">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
@@ -984,17 +846,14 @@
   <programme start="20260924143000 +0000" stop="20260924213000 +0000" channel="Peacock_066">
     <title>Away Feed: NYM at TEX (2026-09-24 14:30:00)</title>
   </programme>
-  <programme start="20260920121500 +0000" stop="20260920161500 +0000" channel="Peacock_067">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
+  <programme start="20260926160005 +0000" stop="20260926200005 +0000" channel="Peacock_066">
+    <title>Away Feed: LAD at SF (2026-09-26 16:00:05)</title>
   </programme>
-  <programme start="20260920121500 +0000" stop="20260920171000 +0000" channel="Peacock_067">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
+  <programme start="20260926190000 +0000" stop="20260926230000 +0000" channel="Peacock_066">
+    <title>Oregon vs. USC (2026-09-26 19:00:00)</title>
   </programme>
-  <programme start="20260920233000 +0000" stop="20260921033000 +0000" channel="Peacock_067">
-    <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
-  </programme>
-  <programme start="20260920233000 +0000" stop="20260921043000 +0000" channel="Peacock_067">
-    <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
+  <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_066">
+    <title>Oregon vs. USC (2026-09-26 19:00:00)</title>
   </programme>
   <programme start="20260922110000 +0000" stop="20260922150000 +0000" channel="Peacock_067">
     <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
@@ -1008,11 +867,11 @@
   <programme start="20260924143005 +0000" stop="20260924213000 +0000" channel="Peacock_067">
     <title>Home Feed: NYM at TEX (2026-09-24 14:30:05)</title>
   </programme>
-  <programme start="20260920133000 +0000" stop="20260920173000 +0000" channel="Peacock_068">
-    <title>Home Feed: CHC at CIN (2026-09-20 13:30:00)</title>
+  <programme start="20260926170000 +0000" stop="20260926210000 +0000" channel="Peacock_067">
+    <title>Wisconsin vs. Penn State (2026-09-26 17:00:00)</title>
   </programme>
-  <programme start="20260920133000 +0000" stop="20260920203000 +0000" channel="Peacock_068">
-    <title>Home Feed: CHC at CIN (2026-09-20 13:30:00)</title>
+  <programme start="20260926170000 +0000" stop="20260927003000 +0000" channel="Peacock_067">
+    <title>Wisconsin vs. Penn State (2026-09-26 17:00:00)</title>
   </programme>
   <programme start="20260921200000 +0000" stop="20260922000000 +0000" channel="Peacock_068">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
@@ -1026,11 +885,17 @@
   <programme start="20260925183000 +0000" stop="20260926013000 +0000" channel="Peacock_068">
     <title>Home Feed: TB at PHI (2026-09-25 18:30:00)</title>
   </programme>
-  <programme start="20260920133005 +0000" stop="20260920173005 +0000" channel="Peacock_069">
-    <title>Away Feed: CHC at CIN (2026-09-20 13:30:05)</title>
+  <programme start="20260926113000 +0000" stop="20260926153000 +0000" channel="Peacock_068">
+    <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
   </programme>
-  <programme start="20260920133005 +0000" stop="20260920203000 +0000" channel="Peacock_069">
-    <title>Away Feed: CHC at CIN (2026-09-20 13:30:05)</title>
+  <programme start="20260926113000 +0000" stop="20260926193000 +0000" channel="Peacock_068">
+    <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
+  </programme>
+  <programme start="20260926183000 +0000" stop="20260926223000 +0000" channel="Peacock_068">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
+  </programme>
+  <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_068">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
   <programme start="20260925183005 +0000" stop="20260925223005 +0000" channel="Peacock_069">
     <title>Away Feed: TB at PHI (2026-09-25 18:30:05)</title>
@@ -1038,47 +903,77 @@
   <programme start="20260925183005 +0000" stop="20260926013000 +0000" channel="Peacock_069">
     <title>Away Feed: TB at PHI (2026-09-25 18:30:05)</title>
   </programme>
-  <programme start="20260920121500 +0000" stop="20260920161500 +0000" channel="Peacock_070">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
+  <programme start="20260926113000 +0000" stop="20260926153000 +0000" channel="Peacock_069">
+    <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
   </programme>
-  <programme start="20260920121500 +0000" stop="20260920171000 +0000" channel="Peacock_070">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
+  <programme start="20260926113000 +0000" stop="20260926193000 +0000" channel="Peacock_069">
+    <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
   </programme>
-  <programme start="20260920190000 +0000" stop="20260920230000 +0000" channel="Peacock_070">
-    <title>Brewers at Orioles (2026-09-20 19:00:00)</title>
+  <programme start="20260926130000 +0000" stop="20260926170000 +0000" channel="Peacock_069">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
-  <programme start="20260920190000 +0000" stop="20260921020000 +0000" channel="Peacock_070">
-    <title>Brewers at Orioles (2026-09-20 19:00:00)</title>
+  <programme start="20260926130000 +0000" stop="20260926203000 +0000" channel="Peacock_069">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
-  <programme start="20260920133000 +0000" stop="20260920173000 +0000" channel="Peacock_071">
-    <title>Home Feed: CHC at CIN (2026-09-20 13:30:00)</title>
+  <programme start="20260926190000 +0000" stop="20260926230000 +0000" channel="Peacock_069">
+    <title>Oregon vs. USC (2026-09-26 19:00:00)</title>
   </programme>
-  <programme start="20260920133000 +0000" stop="20260920203000 +0000" channel="Peacock_071">
-    <title>Home Feed: CHC at CIN (2026-09-20 13:30:00)</title>
+  <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_069">
+    <title>Oregon vs. USC (2026-09-26 19:00:00)</title>
   </programme>
-  <programme start="20260920190005 +0000" stop="20260920230005 +0000" channel="Peacock_071">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:05)</title>
+  <programme start="20260926113000 +0000" stop="20260926153000 +0000" channel="Peacock_070">
+    <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
   </programme>
-  <programme start="20260920190005 +0000" stop="20260921043000 +0000" channel="Peacock_071">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:05)</title>
+  <programme start="20260926130000 +0000" stop="20260926170000 +0000" channel="Peacock_070">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
-  <programme start="20260920133005 +0000" stop="20260920173005 +0000" channel="Peacock_072">
-    <title>Away Feed: CHC at CIN (2026-09-20 13:30:05)</title>
+  <programme start="20260926130000 +0000" stop="20260926203000 +0000" channel="Peacock_070">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
-  <programme start="20260920133005 +0000" stop="20260920203000 +0000" channel="Peacock_072">
-    <title>Away Feed: CHC at CIN (2026-09-20 13:30:05)</title>
+  <programme start="20260926153000 +0000" stop="20260926193000 +0000" channel="Peacock_070">
+    <title>B1G Saturday: Week 4 (2026-09-26 15:30:00)</title>
   </programme>
-  <programme start="20260920233000 +0000" stop="20260921033000 +0000" channel="Peacock_072">
-    <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
+  <programme start="20260926153000 +0000" stop="20260926230000 +0000" channel="Peacock_070">
+    <title>B1G Saturday: Week 4 (2026-09-26 15:30:00)</title>
   </programme>
-  <programme start="20260920233000 +0000" stop="20260921043000 +0000" channel="Peacock_072">
-    <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
+  <programme start="20260926190005 +0000" stop="20260926230005 +0000" channel="Peacock_070">
+    <title>Ascent FC v. Sporting JAX (2026-09-26 19:00:05)</title>
   </programme>
-  <programme start="20260920121500 +0000" stop="20260920171000 +0000" channel="Peacock_073">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
+  <programme start="20260926190005 +0000" stop="20260927010000 +0000" channel="Peacock_070">
+    <title>Ascent FC v. Sporting JAX (2026-09-26 19:00:05)</title>
   </programme>
-  <programme start="20260920190000 +0000" stop="20260921020000 +0000" channel="Peacock_073">
-    <title>Brewers at Orioles (2026-09-20 19:00:00)</title>
+  <programme start="20260926130000 +0000" stop="20260926170000 +0000" channel="Peacock_071">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
+  </programme>
+  <programme start="20260926130000 +0000" stop="20260926203000 +0000" channel="Peacock_071">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
+  </programme>
+  <programme start="20260926153000 +0000" stop="20260926193000 +0000" channel="Peacock_071">
+    <title>B1G Saturday: Week 4 (2026-09-26 15:30:00)</title>
+  </programme>
+  <programme start="20260926153000 +0000" stop="20260926230000 +0000" channel="Peacock_071">
+    <title>B1G Saturday: Week 4 (2026-09-26 15:30:00)</title>
+  </programme>
+  <programme start="20260926183000 +0000" stop="20260926223000 +0000" channel="Peacock_071">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
+  </programme>
+  <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_071">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
+  </programme>
+  <programme start="20260926153000 +0000" stop="20260926193000 +0000" channel="Peacock_072">
+    <title>B1G Saturday: Week 4 (2026-09-26 15:30:00)</title>
+  </programme>
+  <programme start="20260926183000 +0000" stop="20260926223000 +0000" channel="Peacock_072">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
+  </programme>
+  <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_072">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
+  </programme>
+  <programme start="20260926190000 +0000" stop="20260926230000 +0000" channel="Peacock_072">
+    <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
+  </programme>
+  <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_072">
+    <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
   </programme>
   <programme start="20260921200000 +0000" stop="20260922000000 +0000" channel="Peacock_073">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
@@ -1086,161 +981,143 @@
   <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_073">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
   </programme>
-  <programme start="20260920190000 +0000" stop="20260921043000 +0000" channel="Peacock_074">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:00)</title>
+  <programme start="20260926160000 +0000" stop="20260926200000 +0000" channel="Peacock_073">
+    <title>Away Feed: LAD at SF (2026-09-26 16:00:00)</title>
   </programme>
-  <programme start="20260920190005 +0000" stop="20260920230005 +0000" channel="Peacock_074">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:05)</title>
+  <programme start="20260926190000 +0000" stop="20260926230000 +0000" channel="Peacock_073">
+    <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
   </programme>
-  <programme start="20260920121500 +0000" stop="20260920171000 +0000" channel="Peacock_075">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
+  <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_073">
+    <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
   </programme>
-  <programme start="20260920233000 +0000" stop="20260921033000 +0000" channel="Peacock_075">
-    <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
+  <programme start="20260926113000 +0000" stop="20260926153000 +0000" channel="Peacock_074">
+    <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
   </programme>
-  <programme start="20260920233000 +0000" stop="20260921043000 +0000" channel="Peacock_075">
-    <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
+  <programme start="20260926113000 +0000" stop="20260926193000 +0000" channel="Peacock_074">
+    <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
+  </programme>
+  <programme start="20260926160005 +0000" stop="20260926200005 +0000" channel="Peacock_074">
+    <title>Home Feed: LAD at SF (2026-09-26 16:00:05)</title>
+  </programme>
+  <programme start="20260926160005 +0000" stop="20260926230000 +0000" channel="Peacock_074">
+    <title>Home Feed: LAD at SF (2026-09-26 16:00:05)</title>
   </programme>
   <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_075">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
   </programme>
-  <programme start="20260920190000 +0000" stop="20260921043000 +0000" channel="Peacock_076">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:00)</title>
+  <programme start="20260926130000 +0000" stop="20260926170000 +0000" channel="Peacock_075">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
+  </programme>
+  <programme start="20260926130000 +0000" stop="20260926203000 +0000" channel="Peacock_075">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
+  </programme>
+  <programme start="20260926183000 +0000" stop="20260926223000 +0000" channel="Peacock_075">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
+  </programme>
+  <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_075">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
   <programme start="20260921200000 +0000" stop="20260922000000 +0000" channel="Peacock_076">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
   </programme>
-  <programme start="20260920121500 +0000" stop="20260920171000 +0000" channel="Peacock_077">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
+  <programme start="20260926113000 +0000" stop="20260926193000 +0000" channel="Peacock_076">
+    <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
+  </programme>
+  <programme start="20260926130000 +0000" stop="20260926201500 +0000" channel="Peacock_076">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
+  </programme>
+  <programme start="20260926190000 +0000" stop="20260926230000 +0000" channel="Peacock_076">
+    <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
   </programme>
   <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_077">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
   </programme>
-  <programme start="20260920121500 +0000" stop="20260920171000 +0000" channel="Peacock_078">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
+  <programme start="20260926113000 +0000" stop="20260926193000 +0000" channel="Peacock_077">
+    <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
   </programme>
-  <programme start="20260920121500 +0000" stop="20260920161500 +0000" channel="Peacock_079">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
+  <programme start="20260926130000 +0000" stop="20260926201500 +0000" channel="Peacock_077">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
-  <programme start="20260920121500 +0000" stop="20260920171000 +0000" channel="Peacock_079">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
+  <programme start="20260926183000 +0000" stop="20260926223000 +0000" channel="Peacock_077">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
-  <programme start="20260920190000 +0000" stop="20260921043000 +0000" channel="Peacock_079">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:00)</title>
+  <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_077">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
-  <programme start="20260920121500 +0000" stop="20260920161500 +0000" channel="Peacock_080">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
+  <programme start="20260926130000 +0000" stop="20260926203000 +0000" channel="Peacock_078">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
-  <programme start="20260920121500 +0000" stop="20260920171000 +0000" channel="Peacock_080">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
+  <programme start="20260926153000 +0000" stop="20260926230000 +0000" channel="Peacock_078">
+    <title>B1G Saturday: Week 4 (2026-09-26 15:30:00)</title>
   </programme>
-  <programme start="20260920190000 +0000" stop="20260920230000 +0000" channel="Peacock_080">
-    <title>Brewers at Orioles (2026-09-20 19:00:00)</title>
+  <programme start="20260926130000 +0000" stop="20260926201500 +0000" channel="Peacock_079">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
-  <programme start="20260920190005 +0000" stop="20260921020000 +0000" channel="Peacock_080">
-    <title>Brewers at Orioles (2026-09-20 19:00:05)</title>
+  <programme start="20260926153000 +0000" stop="20260926230000 +0000" channel="Peacock_079">
+    <title>B1G Saturday: Week 4 (2026-09-26 15:30:00)</title>
+  </programme>
+  <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_079">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
   <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_080">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
   </programme>
-  <programme start="20260920121500 +0000" stop="20260920161500 +0000" channel="Peacock_081">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
+  <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_080">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
-  <programme start="20260920121500 +0000" stop="20260920171000 +0000" channel="Peacock_081">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
-  </programme>
-  <programme start="20260920190000 +0000" stop="20260920230000 +0000" channel="Peacock_081">
-    <title>Brewers at Orioles (2026-09-20 19:00:00)</title>
-  </programme>
-  <programme start="20260920190000 +0000" stop="20260921043000 +0000" channel="Peacock_081">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:00)</title>
-  </programme>
-  <programme start="20260920190005 +0000" stop="20260920230005 +0000" channel="Peacock_081">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:05)</title>
+  <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_080">
+    <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
   </programme>
   <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_081">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
   </programme>
-  <programme start="20260920133000 +0000" stop="20260920173000 +0000" channel="Peacock_082">
-    <title>Home Feed: CHC at CIN (2026-09-20 13:30:00)</title>
+  <programme start="20260926113000 +0000" stop="20260926193000 +0000" channel="Peacock_081">
+    <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
   </programme>
-  <programme start="20260920133000 +0000" stop="20260920203000 +0000" channel="Peacock_082">
-    <title>Home Feed: CHC at CIN (2026-09-20 13:30:00)</title>
+  <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_081">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
-  <programme start="20260920190005 +0000" stop="20260920230005 +0000" channel="Peacock_082">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:05)</title>
-  </programme>
-  <programme start="20260920190005 +0000" stop="20260921043000 +0000" channel="Peacock_082">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:05)</title>
-  </programme>
-  <programme start="20260920233000 +0000" stop="20260921033000 +0000" channel="Peacock_082">
-    <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
+  <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_081">
+    <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
   </programme>
   <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_082">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
   </programme>
-  <programme start="20260920133005 +0000" stop="20260920173005 +0000" channel="Peacock_083">
-    <title>Away Feed: CHC at CIN (2026-09-20 13:30:05)</title>
+  <programme start="20260926113000 +0000" stop="20260926193000 +0000" channel="Peacock_082">
+    <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
   </programme>
-  <programme start="20260920133005 +0000" stop="20260920203000 +0000" channel="Peacock_083">
-    <title>Away Feed: CHC at CIN (2026-09-20 13:30:05)</title>
+  <programme start="20260926130000 +0000" stop="20260926203000 +0000" channel="Peacock_082">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
-  <programme start="20260920121500 +0000" stop="20260920161500 +0000" channel="Peacock_084">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
+  <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_082">
+    <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
   </programme>
-  <programme start="20260920121500 +0000" stop="20260920171000 +0000" channel="Peacock_084">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
+  <programme start="20260926130000 +0000" stop="20260926201500 +0000" channel="Peacock_083">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
-  <programme start="20260920190000 +0000" stop="20260920230000 +0000" channel="Peacock_084">
-    <title>Brewers at Orioles (2026-09-20 19:00:00)</title>
+  <programme start="20260926153000 +0000" stop="20260926230000 +0000" channel="Peacock_083">
+    <title>B1G Saturday: Week 4 (2026-09-26 15:30:00)</title>
   </programme>
-  <programme start="20260920190000 +0000" stop="20260921043000 +0000" channel="Peacock_084">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:00)</title>
+  <programme start="20260926153000 +0000" stop="20260926230000 +0000" channel="Peacock_084">
+    <title>B1G Saturday: Week 4 (2026-09-26 15:30:00)</title>
   </programme>
-  <programme start="20260920121500 +0000" stop="20260920171000 +0000" channel="Peacock_085">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
+  <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_084">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
-  <programme start="20260920133000 +0000" stop="20260920173000 +0000" channel="Peacock_085">
-    <title>Home Feed: CHC at CIN (2026-09-20 13:30:00)</title>
+  <programme start="20260926130000 +0000" stop="20260926203000 +0000" channel="Peacock_085">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
-  <programme start="20260920133000 +0000" stop="20260920203000 +0000" channel="Peacock_085">
-    <title>Home Feed: CHC at CIN (2026-09-20 13:30:00)</title>
+  <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_085">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
-  <programme start="20260920190005 +0000" stop="20260920230005 +0000" channel="Peacock_085">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:05)</title>
-  </programme>
-  <programme start="20260920190005 +0000" stop="20260921043000 +0000" channel="Peacock_085">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:05)</title>
-  </programme>
-  <programme start="20260920200000 +0000" stop="20260921033000 +0000" channel="Peacock_085">
-    <title>Colts vs. Chiefs (Español) (2026-09-20 20:00:00)</title>
-  </programme>
-  <programme start="20260920133005 +0000" stop="20260920173005 +0000" channel="Peacock_086">
-    <title>Away Feed: CHC at CIN (2026-09-20 13:30:05)</title>
-  </programme>
-  <programme start="20260920133005 +0000" stop="20260920203000 +0000" channel="Peacock_086">
-    <title>Away Feed: CHC at CIN (2026-09-20 13:30:05)</title>
-  </programme>
-  <programme start="20260920190000 +0000" stop="20260921043000 +0000" channel="Peacock_086">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:00)</title>
-  </programme>
-  <programme start="20260920233000 +0000" stop="20260921033000 +0000" channel="Peacock_086">
-    <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
+  <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_085">
+    <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
   </programme>
   <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_086">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
   </programme>
-  <programme start="20260920121500 +0000" stop="20260920161500 +0000" channel="Peacock_087">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
-  </programme>
-  <programme start="20260920121500 +0000" stop="20260920171000 +0000" channel="Peacock_087">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
-  </programme>
-  <programme start="20260920190000 +0000" stop="20260920230000 +0000" channel="Peacock_087">
-    <title>Brewers at Orioles (2026-09-20 19:00:00)</title>
-  </programme>
-  <programme start="20260920190000 +0000" stop="20260921043000 +0000" channel="Peacock_087">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:00)</title>
+  <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_086">
+    <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
   </programme>
   <programme start="20260921200000 +0000" stop="20260922000000 +0000" channel="Peacock_087">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
@@ -1248,44 +1125,35 @@
   <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_087">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
   </programme>
-  <programme start="20260920133000 +0000" stop="20260920173000 +0000" channel="Peacock_088">
-    <title>Away Feed: CHC at CIN (2026-09-20 13:30:00)</title>
+  <programme start="20260926130000 +0000" stop="20260926201500 +0000" channel="Peacock_087">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
-  <programme start="20260920133000 +0000" stop="20260920203000 +0000" channel="Peacock_088">
-    <title>Away Feed: CHC at CIN (2026-09-20 13:30:00)</title>
-  </programme>
-  <programme start="20260920190000 +0000" stop="20260921043000 +0000" channel="Peacock_088">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:00)</title>
-  </programme>
-  <programme start="20260920190005 +0000" stop="20260920230005 +0000" channel="Peacock_088">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:05)</title>
+  <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_087">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
   <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_088">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
   </programme>
-  <programme start="20260920133005 +0000" stop="20260920173005 +0000" channel="Peacock_089">
-    <title>Home Feed: CHC at CIN (2026-09-20 13:30:05)</title>
+  <programme start="20260926113000 +0000" stop="20260926193000 +0000" channel="Peacock_088">
+    <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
   </programme>
-  <programme start="20260920133005 +0000" stop="20260920203000 +0000" channel="Peacock_089">
-    <title>Home Feed: CHC at CIN (2026-09-20 13:30:05)</title>
+  <programme start="20260926130000 +0000" stop="20260926201500 +0000" channel="Peacock_088">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
-  <programme start="20260920233000 +0000" stop="20260921033000 +0000" channel="Peacock_089">
-    <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
+  <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_088">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
-  <programme start="20260920233000 +0000" stop="20260921043000 +0000" channel="Peacock_089">
-    <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
+  <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_088">
+    <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
   </programme>
   <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_089">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
   </programme>
-  <programme start="20260920121500 +0000" stop="20260920171000 +0000" channel="Peacock_090">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
+  <programme start="20260926130000 +0000" stop="20260926201500 +0000" channel="Peacock_089">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
-  <programme start="20260920190000 +0000" stop="20260920230000 +0000" channel="Peacock_090">
-    <title>Brewers at Orioles (2026-09-20 19:00:00)</title>
-  </programme>
-  <programme start="20260920190000 +0000" stop="20260921020000 +0000" channel="Peacock_090">
-    <title>Brewers at Orioles (2026-09-20 19:00:00)</title>
+  <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_089">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
   <programme start="20260921200000 +0000" stop="20260922000000 +0000" channel="Peacock_090">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
@@ -1293,64 +1161,85 @@
   <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_090">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
   </programme>
-  <programme start="20260920190000 +0000" stop="20260921020000 +0000" channel="Peacock_091">
-    <title>Brewers at Orioles (2026-09-20 19:00:00)</title>
+  <programme start="20260926130000 +0000" stop="20260926201500 +0000" channel="Peacock_090">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
-  <programme start="20260920190005 +0000" stop="20260920230005 +0000" channel="Peacock_091">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:05)</title>
+  <programme start="20260926153000 +0000" stop="20260926230000 +0000" channel="Peacock_090">
+    <title>B1G Saturday: Week 4 (2026-09-26 15:30:00)</title>
   </programme>
-  <programme start="20260920190005 +0000" stop="20260921043000 +0000" channel="Peacock_091">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:05)</title>
+  <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_090">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
-  <programme start="20260920190005 +0000" stop="20260921043000 +0000" channel="Peacock_092">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:05)</title>
+  <programme start="20260926113000 +0000" stop="20260926193000 +0000" channel="Peacock_091">
+    <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
   </programme>
-  <programme start="20260920233000 +0000" stop="20260921033000 +0000" channel="Peacock_092">
-    <title>Sunday Night Football Final (2026-09-20 23:30:00)</title>
+  <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_091">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
-  <programme start="20260920190000 +0000" stop="20260921043000 +0000" channel="Peacock_093">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:00)</title>
+  <programme start="20260926130000 +0000" stop="20260926203000 +0000" channel="Peacock_092">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
+  </programme>
+  <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_092">
+    <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
   </programme>
   <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_093">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
   </programme>
-  <programme start="20260920190000 +0000" stop="20260921043000 +0000" channel="Peacock_094">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:00)</title>
+  <programme start="20260926153000 +0000" stop="20260926230000 +0000" channel="Peacock_093">
+    <title>B1G Saturday: Week 4 (2026-09-26 15:30:00)</title>
   </programme>
   <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_094">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
   </programme>
-  <programme start="20260920200000 +0000" stop="20260921033000 +0000" channel="Peacock_095">
-    <title>Colts vs. Chiefs (Español) (2026-09-20 20:00:00)</title>
+  <programme start="20260926113000 +0000" stop="20260926193000 +0000" channel="Peacock_094">
+    <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
   </programme>
-  <programme start="20260920121500 +0000" stop="20260920171000 +0000" channel="Peacock_096">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
+  <programme start="20260926130000 +0000" stop="20260926201500 +0000" channel="Peacock_094">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
+  </programme>
+  <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_094">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
+  </programme>
+  <programme start="20260926130000 +0000" stop="20260926201500 +0000" channel="Peacock_095">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
+  </programme>
+  <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_095">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
+  </programme>
+  <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_095">
+    <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
   </programme>
   <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_096">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
   </programme>
-  <programme start="20260920190000 +0000" stop="20260921043000 +0000" channel="Peacock_097">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:00)</title>
+  <programme start="20260926153000 +0000" stop="20260926230000 +0000" channel="Peacock_096">
+    <title>B1G Saturday: Week 4 (2026-09-26 15:30:00)</title>
   </programme>
-  <programme start="20260920190000 +0000" stop="20260921043000 +0000" channel="Peacock_098">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:00)</title>
+  <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_096">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
-  <programme start="20260920190005 +0000" stop="20260921020000 +0000" channel="Peacock_098">
-    <title>Brewers at Orioles (2026-09-20 19:00:05)</title>
+  <programme start="20260926130000 +0000" stop="20260926201500 +0000" channel="Peacock_097">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
-  <programme start="20260920190000 +0000" stop="20260921043000 +0000" channel="Peacock_099">
-    <title>Colts vs. Chiefs (2026-09-20 19:00:00)</title>
+  <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_097">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
+  </programme>
+  <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_098">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
+  </programme>
+  <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_098">
+    <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
   </programme>
   <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_099">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
   </programme>
-  <programme start="20260920121500 +0000" stop="20260920171000 +0000" channel="Peacock_100">
-    <title>IMSA Lambo Indianapolis R2 (2026-09-20 12:15:00)</title>
-  </programme>
-  <programme start="20260920200000 +0000" stop="20260921033000 +0000" channel="Peacock_100">
-    <title>Colts vs. Chiefs (Español) (2026-09-20 20:00:00)</title>
-  </programme>
   <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_100">
     <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
+  </programme>
+  <programme start="20260926113000 +0000" stop="20260926193000 +0000" channel="Peacock_100">
+    <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
+  </programme>
+  <programme start="20260926130000 +0000" stop="20260926201500 +0000" channel="Peacock_100">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
 </tv>
