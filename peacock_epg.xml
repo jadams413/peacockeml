@@ -99,24 +99,6 @@
   <channel id="Peacock_098"><display-name>Peacock 098</display-name></channel>
   <channel id="Peacock_099"><display-name>Peacock 099</display-name></channel>
   <channel id="Peacock_100"><display-name>Peacock 100</display-name></channel>
-  <programme start="20260921183000 +0000" stop="20260921223000 +0000" channel="Peacock_015">
-    <title>Away Feed: WAS at DET (2026-09-21 18:30:00)</title>
-  </programme>
-  <programme start="20260921183000 +0000" stop="20260922013000 +0000" channel="Peacock_015">
-    <title>Away Feed: WAS at DET (2026-09-21 18:30:00)</title>
-  </programme>
-  <programme start="20260921183005 +0000" stop="20260921223005 +0000" channel="Peacock_016">
-    <title>Home Feed: WAS at DET (2026-09-21 18:30:05)</title>
-  </programme>
-  <programme start="20260921183005 +0000" stop="20260922013000 +0000" channel="Peacock_016">
-    <title>Home Feed: WAS at DET (2026-09-21 18:30:05)</title>
-  </programme>
-  <programme start="20260921200000 +0000" stop="20260922000000 +0000" channel="Peacock_017">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
-  </programme>
-  <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_017">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
-  </programme>
   <programme start="20260922110000 +0000" stop="20260922150000 +0000" channel="Peacock_018">
     <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
   </programme>
@@ -186,35 +168,17 @@
   <programme start="20260926133000 +0000" stop="20260926213000 +0000" channel="Peacock_029">
     <title>Notre Dame vs. Purdue (2026-09-26 13:30:00)</title>
   </programme>
-  <programme start="20260921183000 +0000" stop="20260921223000 +0000" channel="Peacock_030">
-    <title>Away Feed: WAS at DET (2026-09-21 18:30:00)</title>
-  </programme>
-  <programme start="20260921183000 +0000" stop="20260922013000 +0000" channel="Peacock_030">
-    <title>Away Feed: WAS at DET (2026-09-21 18:30:00)</title>
-  </programme>
   <programme start="20260926160000 +0000" stop="20260926200000 +0000" channel="Peacock_030">
     <title>Away Feed: LAD at SF (2026-09-26 16:00:00)</title>
   </programme>
   <programme start="20260926160000 +0000" stop="20260926230000 +0000" channel="Peacock_030">
     <title>Away Feed: LAD at SF (2026-09-26 16:00:00)</title>
   </programme>
-  <programme start="20260921183005 +0000" stop="20260921223005 +0000" channel="Peacock_031">
-    <title>Home Feed: WAS at DET (2026-09-21 18:30:05)</title>
-  </programme>
-  <programme start="20260921183005 +0000" stop="20260922013000 +0000" channel="Peacock_031">
-    <title>Home Feed: WAS at DET (2026-09-21 18:30:05)</title>
-  </programme>
   <programme start="20260926160005 +0000" stop="20260926200005 +0000" channel="Peacock_031">
     <title>Home Feed: LAD at SF (2026-09-26 16:00:05)</title>
   </programme>
   <programme start="20260926160005 +0000" stop="20260926230000 +0000" channel="Peacock_031">
     <title>Home Feed: LAD at SF (2026-09-26 16:00:05)</title>
-  </programme>
-  <programme start="20260921200000 +0000" stop="20260922000000 +0000" channel="Peacock_032">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
-  </programme>
-  <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_032">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
   </programme>
   <programme start="20260926170000 +0000" stop="20260926210000 +0000" channel="Peacock_032">
     <title>Wisconsin vs. Penn State (2026-09-26 17:00:00)</title>
@@ -276,11 +240,11 @@
   <programme start="20260924143005 +0000" stop="20260924213000 +0000" channel="Peacock_037">
     <title>Home Feed: NYM at TEX (2026-09-24 14:30:05)</title>
   </programme>
-  <programme start="20260921183000 +0000" stop="20260921223000 +0000" channel="Peacock_038">
-    <title>Away Feed: WAS at DET (2026-09-21 18:30:00)</title>
+  <programme start="20260927090000 +0000" stop="20260927130000 +0000" channel="Peacock_037">
+    <title>Acrobatic Champs: Finals Day 2 (2026-09-27 09:00:00)</title>
   </programme>
-  <programme start="20260921183000 +0000" stop="20260922013000 +0000" channel="Peacock_038">
-    <title>Away Feed: WAS at DET (2026-09-21 18:30:00)</title>
+  <programme start="20260927090000 +0000" stop="20260927164500 +0000" channel="Peacock_037">
+    <title>Acrobatic Champs: Finals Day 2 (2026-09-27 09:00:00)</title>
   </programme>
   <programme start="20260925183000 +0000" stop="20260925223000 +0000" channel="Peacock_038">
     <title>Home Feed: TB at PHI (2026-09-25 18:30:00)</title>
@@ -288,11 +252,11 @@
   <programme start="20260925183000 +0000" stop="20260926013000 +0000" channel="Peacock_038">
     <title>Home Feed: TB at PHI (2026-09-25 18:30:00)</title>
   </programme>
-  <programme start="20260921183005 +0000" stop="20260921223005 +0000" channel="Peacock_039">
-    <title>Home Feed: WAS at DET (2026-09-21 18:30:05)</title>
+  <programme start="20260927150000 +0000" stop="20260927190000 +0000" channel="Peacock_038">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
   </programme>
-  <programme start="20260921183005 +0000" stop="20260922013000 +0000" channel="Peacock_039">
-    <title>Home Feed: WAS at DET (2026-09-21 18:30:05)</title>
+  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_038">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
   </programme>
   <programme start="20260925183005 +0000" stop="20260925223005 +0000" channel="Peacock_039">
     <title>Away Feed: TB at PHI (2026-09-25 18:30:05)</title>
@@ -300,17 +264,11 @@
   <programme start="20260925183005 +0000" stop="20260926013000 +0000" channel="Peacock_039">
     <title>Away Feed: TB at PHI (2026-09-25 18:30:05)</title>
   </programme>
-  <programme start="20260921183000 +0000" stop="20260921223000 +0000" channel="Peacock_040">
-    <title>Away Feed: WAS at DET (2026-09-21 18:30:00)</title>
+  <programme start="20260927190000 +0000" stop="20260927230000 +0000" channel="Peacock_039">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
   </programme>
-  <programme start="20260921183000 +0000" stop="20260922013000 +0000" channel="Peacock_040">
-    <title>Away Feed: WAS at DET (2026-09-21 18:30:00)</title>
-  </programme>
-  <programme start="20260921200000 +0000" stop="20260922000000 +0000" channel="Peacock_040">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
-  </programme>
-  <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_040">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
+  <programme start="20260927190000 +0000" stop="20260928033000 +0000" channel="Peacock_039">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
   </programme>
   <programme start="20260926113000 +0000" stop="20260926153000 +0000" channel="Peacock_040">
     <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
@@ -318,8 +276,11 @@
   <programme start="20260926113000 +0000" stop="20260926193000 +0000" channel="Peacock_040">
     <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
   </programme>
-  <programme start="20260921183005 +0000" stop="20260921223005 +0000" channel="Peacock_041">
-    <title>Home Feed: WAS at DET (2026-09-21 18:30:05)</title>
+  <programme start="20260927233000 +0000" stop="20260928033000 +0000" channel="Peacock_040">
+    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
+  </programme>
+  <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_040">
+    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
   </programme>
   <programme start="20260922110000 +0000" stop="20260922150000 +0000" channel="Peacock_041">
     <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
@@ -333,9 +294,6 @@
   <programme start="20260926130000 +0000" stop="20260926203000 +0000" channel="Peacock_041">
     <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
-  <programme start="20260921200000 +0000" stop="20260922000000 +0000" channel="Peacock_042">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
-  </programme>
   <programme start="20260923153000 +0000" stop="20260923193000 +0000" channel="Peacock_042">
     <title>Home Feed: MIN at SF (2026-09-23 15:30:00)</title>
   </programme>
@@ -347,12 +305,6 @@
   </programme>
   <programme start="20260926153000 +0000" stop="20260926230000 +0000" channel="Peacock_042">
     <title>B1G Saturday: Week 4 (2026-09-26 15:30:00)</title>
-  </programme>
-  <programme start="20260921183000 +0000" stop="20260921223000 +0000" channel="Peacock_043">
-    <title>Away Feed: WAS at DET (2026-09-21 18:30:00)</title>
-  </programme>
-  <programme start="20260921183000 +0000" stop="20260922013000 +0000" channel="Peacock_043">
-    <title>Away Feed: WAS at DET (2026-09-21 18:30:00)</title>
   </programme>
   <programme start="20260922110000 +0000" stop="20260922150000 +0000" channel="Peacock_043">
     <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
@@ -372,15 +324,6 @@
   <programme start="20260926160000 +0000" stop="20260926230000 +0000" channel="Peacock_043">
     <title>Away Feed: LAD at SF (2026-09-26 16:00:00)</title>
   </programme>
-  <programme start="20260921183000 +0000" stop="20260921223000 +0000" channel="Peacock_044">
-    <title>Away Feed: WAS at DET (2026-09-21 18:30:00)</title>
-  </programme>
-  <programme start="20260921183005 +0000" stop="20260921223005 +0000" channel="Peacock_044">
-    <title>Home Feed: WAS at DET (2026-09-21 18:30:05)</title>
-  </programme>
-  <programme start="20260921183005 +0000" stop="20260922013000 +0000" channel="Peacock_044">
-    <title>Home Feed: WAS at DET (2026-09-21 18:30:05)</title>
-  </programme>
   <programme start="20260923153000 +0000" stop="20260923193000 +0000" channel="Peacock_044">
     <title>Away Feed: MIN at SF (2026-09-23 15:30:00)</title>
   </programme>
@@ -399,15 +342,6 @@
   <programme start="20260926160005 +0000" stop="20260926230000 +0000" channel="Peacock_044">
     <title>Home Feed: LAD at SF (2026-09-26 16:00:05)</title>
   </programme>
-  <programme start="20260921183005 +0000" stop="20260921223005 +0000" channel="Peacock_045">
-    <title>Home Feed: WAS at DET (2026-09-21 18:30:05)</title>
-  </programme>
-  <programme start="20260921200000 +0000" stop="20260922000000 +0000" channel="Peacock_045">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
-  </programme>
-  <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_045">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
-  </programme>
   <programme start="20260923153005 +0000" stop="20260923193005 +0000" channel="Peacock_045">
     <title>Home Feed: MIN at SF (2026-09-23 15:30:05)</title>
   </programme>
@@ -425,9 +359,6 @@
   </programme>
   <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_045">
     <title>World Championship Final (2026-09-26 18:30:00)</title>
-  </programme>
-  <programme start="20260921200000 +0000" stop="20260922000000 +0000" channel="Peacock_046">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
   </programme>
   <programme start="20260922110000 +0000" stop="20260922150000 +0000" channel="Peacock_046">
     <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
@@ -477,11 +408,11 @@
   <programme start="20260925183005 +0000" stop="20260926013000 +0000" channel="Peacock_047">
     <title>Away Feed: TB at PHI (2026-09-25 18:30:05)</title>
   </programme>
-  <programme start="20260921183000 +0000" stop="20260921223000 +0000" channel="Peacock_048">
-    <title>Away Feed: WAS at DET (2026-09-21 18:30:00)</title>
+  <programme start="20260927150000 +0000" stop="20260927190000 +0000" channel="Peacock_047">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
   </programme>
-  <programme start="20260921183000 +0000" stop="20260922013000 +0000" channel="Peacock_048">
-    <title>Away Feed: WAS at DET (2026-09-21 18:30:00)</title>
+  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_047">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
   </programme>
   <programme start="20260923153000 +0000" stop="20260923193000 +0000" channel="Peacock_048">
     <title>Away Feed: MIN at SF (2026-09-23 15:30:00)</title>
@@ -504,11 +435,11 @@
   <programme start="20260926130000 +0000" stop="20260926203000 +0000" channel="Peacock_048">
     <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
-  <programme start="20260921183005 +0000" stop="20260921223005 +0000" channel="Peacock_049">
-    <title>Home Feed: WAS at DET (2026-09-21 18:30:05)</title>
+  <programme start="20260927190000 +0000" stop="20260927230000 +0000" channel="Peacock_048">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
   </programme>
-  <programme start="20260921183005 +0000" stop="20260922013000 +0000" channel="Peacock_049">
-    <title>Home Feed: WAS at DET (2026-09-21 18:30:05)</title>
+  <programme start="20260927190000 +0000" stop="20260928033000 +0000" channel="Peacock_048">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
   </programme>
   <programme start="20260923153005 +0000" stop="20260923193005 +0000" channel="Peacock_049">
     <title>Home Feed: MIN at SF (2026-09-23 15:30:05)</title>
@@ -534,14 +465,11 @@
   <programme start="20260926133000 +0000" stop="20260926213000 +0000" channel="Peacock_049">
     <title>Notre Dame vs. Purdue (2026-09-26 13:30:00)</title>
   </programme>
-  <programme start="20260921183000 +0000" stop="20260921223000 +0000" channel="Peacock_050">
-    <title>Home Feed: WAS at DET (2026-09-21 18:30:00)</title>
+  <programme start="20260927233000 +0000" stop="20260928033000 +0000" channel="Peacock_049">
+    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
   </programme>
-  <programme start="20260921200000 +0000" stop="20260922000000 +0000" channel="Peacock_050">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
-  </programme>
-  <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_050">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
+  <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_049">
+    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
   </programme>
   <programme start="20260924143000 +0000" stop="20260924183000 +0000" channel="Peacock_050">
     <title>Home Feed: NYM at TEX (2026-09-24 14:30:00)</title>
@@ -563,9 +491,6 @@
   </programme>
   <programme start="20260926160000 +0000" stop="20260926230000 +0000" channel="Peacock_050">
     <title>Away Feed: LAD at SF (2026-09-26 16:00:00)</title>
-  </programme>
-  <programme start="20260921183005 +0000" stop="20260921223005 +0000" channel="Peacock_051">
-    <title>Away Feed: WAS at DET (2026-09-21 18:30:05)</title>
   </programme>
   <programme start="20260922110000 +0000" stop="20260922150000 +0000" channel="Peacock_051">
     <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
@@ -596,9 +521,6 @@
   </programme>
   <programme start="20260926160005 +0000" stop="20260926230000 +0000" channel="Peacock_051">
     <title>Home Feed: LAD at SF (2026-09-26 16:00:05)</title>
-  </programme>
-  <programme start="20260921200000 +0000" stop="20260922000000 +0000" channel="Peacock_052">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
   </programme>
   <programme start="20260923153000 +0000" stop="20260923193000 +0000" channel="Peacock_052">
     <title>Home Feed: MIN at SF (2026-09-23 15:30:00)</title>
@@ -726,6 +648,12 @@
   <programme start="20260926160000 +0000" stop="20260926200000 +0000" channel="Peacock_055">
     <title>Away Feed: LAD at SF (2026-09-26 16:00:00)</title>
   </programme>
+  <programme start="20260927150000 +0000" stop="20260927190000 +0000" channel="Peacock_055">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  </programme>
+  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_055">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  </programme>
   <programme start="20260924143000 +0000" stop="20260924183000 +0000" channel="Peacock_056">
     <title>Home Feed: NYM at TEX (2026-09-24 14:30:00)</title>
   </programme>
@@ -752,6 +680,12 @@
   </programme>
   <programme start="20260926160005 +0000" stop="20260926200005 +0000" channel="Peacock_056">
     <title>Home Feed: LAD at SF (2026-09-26 16:00:05)</title>
+  </programme>
+  <programme start="20260927190000 +0000" stop="20260927230000 +0000" channel="Peacock_056">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  </programme>
+  <programme start="20260927190000 +0000" stop="20260928033000 +0000" channel="Peacock_056">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
   </programme>
   <programme start="20260924143005 +0000" stop="20260924183005 +0000" channel="Peacock_057">
     <title>Away Feed: NYM at TEX (2026-09-24 14:30:05)</title>
@@ -782,6 +716,12 @@
   </programme>
   <programme start="20260926170000 +0000" stop="20260927003000 +0000" channel="Peacock_057">
     <title>Wisconsin vs. Penn State (2026-09-26 17:00:00)</title>
+  </programme>
+  <programme start="20260927233000 +0000" stop="20260928033000 +0000" channel="Peacock_057">
+    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
+  </programme>
+  <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_057">
+    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
   </programme>
   <programme start="20260925183000 +0000" stop="20260925223000 +0000" channel="Peacock_058">
     <title>Away Feed: TB at PHI (2026-09-25 18:30:00)</title>
@@ -828,12 +768,6 @@
   <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_059">
     <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
   </programme>
-  <programme start="20260921183000 +0000" stop="20260921223000 +0000" channel="Peacock_060">
-    <title>Away Feed: WAS at DET (2026-09-21 18:30:00)</title>
-  </programme>
-  <programme start="20260921183000 +0000" stop="20260922013000 +0000" channel="Peacock_060">
-    <title>Away Feed: WAS at DET (2026-09-21 18:30:00)</title>
-  </programme>
   <programme start="20260925193000 +0000" stop="20260925233000 +0000" channel="Peacock_060">
     <title>Lexington SC v. Trinity FC (2026-09-25 19:30:00)</title>
   </programme>
@@ -858,11 +792,11 @@
   <programme start="20260926190005 +0000" stop="20260927010000 +0000" channel="Peacock_060">
     <title>Ascent FC v. Sporting JAX (2026-09-26 19:00:05)</title>
   </programme>
-  <programme start="20260921183005 +0000" stop="20260921223005 +0000" channel="Peacock_061">
-    <title>Home Feed: WAS at DET (2026-09-21 18:30:05)</title>
+  <programme start="20260927150000 +0000" stop="20260927190000 +0000" channel="Peacock_060">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
   </programme>
-  <programme start="20260921183005 +0000" stop="20260922013000 +0000" channel="Peacock_061">
-    <title>Home Feed: WAS at DET (2026-09-21 18:30:05)</title>
+  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_060">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
   </programme>
   <programme start="20260926050000 +0000" stop="20260926090000 +0000" channel="Peacock_061">
     <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
@@ -888,11 +822,11 @@
   <programme start="20260927050000 +0000" stop="20260927114000 +0000" channel="Peacock_061">
     <title>Acrobatic World Champs: Day 3 (2026-09-27 05:00:00)</title>
   </programme>
-  <programme start="20260921200000 +0000" stop="20260922000000 +0000" channel="Peacock_062">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
+  <programme start="20260927190000 +0000" stop="20260927230000 +0000" channel="Peacock_061">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
   </programme>
-  <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_062">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
+  <programme start="20260927190000 +0000" stop="20260928033000 +0000" channel="Peacock_061">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
   </programme>
   <programme start="20260926100000 +0000" stop="20260926140000 +0000" channel="Peacock_062">
     <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
@@ -912,6 +846,18 @@
   <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_062">
     <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
+  <programme start="20260927090000 +0000" stop="20260927130000 +0000" channel="Peacock_062">
+    <title>Acrobatic Champs: Finals Day 2 (2026-09-27 09:00:00)</title>
+  </programme>
+  <programme start="20260927090000 +0000" stop="20260927164500 +0000" channel="Peacock_062">
+    <title>Acrobatic Champs: Finals Day 2 (2026-09-27 09:00:00)</title>
+  </programme>
+  <programme start="20260927233000 +0000" stop="20260928033000 +0000" channel="Peacock_062">
+    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
+  </programme>
+  <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_062">
+    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
+  </programme>
   <programme start="20260922110000 +0000" stop="20260922150000 +0000" channel="Peacock_063">
     <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
   </programme>
@@ -929,6 +875,12 @@
   </programme>
   <programme start="20260926160005 +0000" stop="20260926230000 +0000" channel="Peacock_063">
     <title>Home Feed: LAD at SF (2026-09-26 16:00:05)</title>
+  </programme>
+  <programme start="20260927150000 +0000" stop="20260927190000 +0000" channel="Peacock_063">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  </programme>
+  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_063">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
   </programme>
   <programme start="20260923153000 +0000" stop="20260923193000 +0000" channel="Peacock_064">
     <title>Home Feed: MIN at SF (2026-09-23 15:30:00)</title>
@@ -954,6 +906,12 @@
   <programme start="20260926190005 +0000" stop="20260927030000 +0000" channel="Peacock_064">
     <title>Oregon vs. USC (2026-09-26 19:00:05)</title>
   </programme>
+  <programme start="20260927190000 +0000" stop="20260927230000 +0000" channel="Peacock_064">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  </programme>
+  <programme start="20260927190000 +0000" stop="20260928033000 +0000" channel="Peacock_064">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  </programme>
   <programme start="20260923153005 +0000" stop="20260923193005 +0000" channel="Peacock_065">
     <title>Away Feed: MIN at SF (2026-09-23 15:30:05)</title>
   </programme>
@@ -978,8 +936,11 @@
   <programme start="20260927050000 +0000" stop="20260927114000 +0000" channel="Peacock_065">
     <title>Acrobatic World Champs: Day 3 (2026-09-27 05:00:00)</title>
   </programme>
-  <programme start="20260921200000 +0000" stop="20260922000000 +0000" channel="Peacock_066">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
+  <programme start="20260927233000 +0000" stop="20260928033000 +0000" channel="Peacock_065">
+    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
+  </programme>
+  <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_065">
+    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
   </programme>
   <programme start="20260924143000 +0000" stop="20260924183000 +0000" channel="Peacock_066">
     <title>Away Feed: NYM at TEX (2026-09-24 14:30:00)</title>
@@ -995,6 +956,12 @@
   </programme>
   <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_066">
     <title>Oregon vs. USC (2026-09-26 19:00:00)</title>
+  </programme>
+  <programme start="20260927090000 +0000" stop="20260927130000 +0000" channel="Peacock_066">
+    <title>Acrobatic Champs: Finals Day 2 (2026-09-27 09:00:00)</title>
+  </programme>
+  <programme start="20260927090000 +0000" stop="20260927164500 +0000" channel="Peacock_066">
+    <title>Acrobatic Champs: Finals Day 2 (2026-09-27 09:00:00)</title>
   </programme>
   <programme start="20260922110000 +0000" stop="20260922150000 +0000" channel="Peacock_067">
     <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
@@ -1020,11 +987,11 @@
   <programme start="20260927050000 +0000" stop="20260927114000 +0000" channel="Peacock_067">
     <title>Acrobatic World Champs: Day 3 (2026-09-27 05:00:00)</title>
   </programme>
-  <programme start="20260921200000 +0000" stop="20260922000000 +0000" channel="Peacock_068">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
+  <programme start="20260927150000 +0000" stop="20260927190000 +0000" channel="Peacock_067">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
   </programme>
-  <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_068">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
+  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_067">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
   </programme>
   <programme start="20260925183000 +0000" stop="20260925223000 +0000" channel="Peacock_068">
     <title>Home Feed: TB at PHI (2026-09-25 18:30:00)</title>
@@ -1043,6 +1010,18 @@
   </programme>
   <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_068">
     <title>World Championship Final (2026-09-26 18:30:00)</title>
+  </programme>
+  <programme start="20260927090000 +0000" stop="20260927130000 +0000" channel="Peacock_068">
+    <title>Acrobatic Champs: Finals Day 2 (2026-09-27 09:00:00)</title>
+  </programme>
+  <programme start="20260927090000 +0000" stop="20260927174500 +0000" channel="Peacock_068">
+    <title>Acrobatic Champs: Finals Day 2 (2026-09-27 09:00:00)</title>
+  </programme>
+  <programme start="20260927190000 +0000" stop="20260927230000 +0000" channel="Peacock_068">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  </programme>
+  <programme start="20260927190000 +0000" stop="20260928033000 +0000" channel="Peacock_068">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
   </programme>
   <programme start="20260925183005 +0000" stop="20260925223005 +0000" channel="Peacock_069">
     <title>Away Feed: TB at PHI (2026-09-25 18:30:05)</title>
@@ -1068,6 +1047,18 @@
   <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_069">
     <title>Oregon vs. USC (2026-09-26 19:00:00)</title>
   </programme>
+  <programme start="20260927150000 +0000" stop="20260927190000 +0000" channel="Peacock_069">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  </programme>
+  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_069">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  </programme>
+  <programme start="20260927233000 +0000" stop="20260928033000 +0000" channel="Peacock_069">
+    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
+  </programme>
+  <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_069">
+    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
+  </programme>
   <programme start="20260926113000 +0000" stop="20260926153000 +0000" channel="Peacock_070">
     <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
   </programme>
@@ -1088,6 +1079,12 @@
   </programme>
   <programme start="20260926190005 +0000" stop="20260927010000 +0000" channel="Peacock_070">
     <title>Ascent FC v. Sporting JAX (2026-09-26 19:00:05)</title>
+  </programme>
+  <programme start="20260927190000 +0000" stop="20260927230000 +0000" channel="Peacock_070">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  </programme>
+  <programme start="20260927190000 +0000" stop="20260928033000 +0000" channel="Peacock_070">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
   </programme>
   <programme start="20260926130000 +0000" stop="20260926170000 +0000" channel="Peacock_071">
     <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
@@ -1113,6 +1110,12 @@
   <programme start="20260927050000 +0000" stop="20260927114000 +0000" channel="Peacock_071">
     <title>Acrobatic World Champs: Day 3 (2026-09-27 05:00:00)</title>
   </programme>
+  <programme start="20260927233000 +0000" stop="20260928033000 +0000" channel="Peacock_071">
+    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
+  </programme>
+  <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_071">
+    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
+  </programme>
   <programme start="20260926153000 +0000" stop="20260926193000 +0000" channel="Peacock_072">
     <title>B1G Saturday: Week 4 (2026-09-26 15:30:00)</title>
   </programme>
@@ -1128,11 +1131,11 @@
   <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_072">
     <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
   </programme>
-  <programme start="20260921200000 +0000" stop="20260922000000 +0000" channel="Peacock_073">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
+  <programme start="20260927090000 +0000" stop="20260927130000 +0000" channel="Peacock_072">
+    <title>Acrobatic Champs: Finals Day 2 (2026-09-27 09:00:00)</title>
   </programme>
-  <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_073">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
+  <programme start="20260927090000 +0000" stop="20260927164500 +0000" channel="Peacock_072">
+    <title>Acrobatic Champs: Finals Day 2 (2026-09-27 09:00:00)</title>
   </programme>
   <programme start="20260926160000 +0000" stop="20260926200000 +0000" channel="Peacock_073">
     <title>Away Feed: LAD at SF (2026-09-26 16:00:00)</title>
@@ -1142,6 +1145,12 @@
   </programme>
   <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_073">
     <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
+  </programme>
+  <programme start="20260927150000 +0000" stop="20260927190000 +0000" channel="Peacock_073">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  </programme>
+  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_073">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
   </programme>
   <programme start="20260926113000 +0000" stop="20260926153000 +0000" channel="Peacock_074">
     <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
@@ -1155,8 +1164,17 @@
   <programme start="20260926160005 +0000" stop="20260926230000 +0000" channel="Peacock_074">
     <title>Home Feed: LAD at SF (2026-09-26 16:00:05)</title>
   </programme>
-  <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_075">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
+  <programme start="20260927150000 +0000" stop="20260927190000 +0000" channel="Peacock_074">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  </programme>
+  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_074">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  </programme>
+  <programme start="20260927190000 +0000" stop="20260927230000 +0000" channel="Peacock_074">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  </programme>
+  <programme start="20260927190000 +0000" stop="20260928033000 +0000" channel="Peacock_074">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
   </programme>
   <programme start="20260926130000 +0000" stop="20260926170000 +0000" channel="Peacock_075">
     <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
@@ -1170,8 +1188,11 @@
   <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_075">
     <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
-  <programme start="20260921200000 +0000" stop="20260922000000 +0000" channel="Peacock_076">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
+  <programme start="20260927190000 +0000" stop="20260927230000 +0000" channel="Peacock_075">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  </programme>
+  <programme start="20260927190000 +0000" stop="20260928033000 +0000" channel="Peacock_075">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
   </programme>
   <programme start="20260926113000 +0000" stop="20260926193000 +0000" channel="Peacock_076">
     <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
@@ -1182,8 +1203,11 @@
   <programme start="20260926190000 +0000" stop="20260926230000 +0000" channel="Peacock_076">
     <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
   </programme>
-  <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_077">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
+  <programme start="20260927233000 +0000" stop="20260928033000 +0000" channel="Peacock_076">
+    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
+  </programme>
+  <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_076">
+    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
   </programme>
   <programme start="20260926113000 +0000" stop="20260926193000 +0000" channel="Peacock_077">
     <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
@@ -1197,11 +1221,23 @@
   <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_077">
     <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
+  <programme start="20260927150000 +0000" stop="20260927190000 +0000" channel="Peacock_077">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  </programme>
+  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_077">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  </programme>
   <programme start="20260926130000 +0000" stop="20260926203000 +0000" channel="Peacock_078">
     <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
   <programme start="20260926153000 +0000" stop="20260926230000 +0000" channel="Peacock_078">
     <title>B1G Saturday: Week 4 (2026-09-26 15:30:00)</title>
+  </programme>
+  <programme start="20260927190000 +0000" stop="20260927230000 +0000" channel="Peacock_078">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  </programme>
+  <programme start="20260927190000 +0000" stop="20260928043000 +0000" channel="Peacock_078">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
   </programme>
   <programme start="20260926130000 +0000" stop="20260926201500 +0000" channel="Peacock_079">
     <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
@@ -1212,8 +1248,14 @@
   <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_079">
     <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
-  <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_080">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
+  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_079">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  </programme>
+  <programme start="20260927233000 +0000" stop="20260928033000 +0000" channel="Peacock_079">
+    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
+  </programme>
+  <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_079">
+    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
   </programme>
   <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_080">
     <title>World Championship Final (2026-09-26 18:30:00)</title>
@@ -1221,8 +1263,8 @@
   <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_080">
     <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
   </programme>
-  <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_081">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
+  <programme start="20260927190000 +0000" stop="20260928043000 +0000" channel="Peacock_080">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
   </programme>
   <programme start="20260926113000 +0000" stop="20260926193000 +0000" channel="Peacock_081">
     <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
@@ -1233,8 +1275,8 @@
   <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_081">
     <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
   </programme>
-  <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_082">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
+  <programme start="20260927190000 +0000" stop="20260928043000 +0000" channel="Peacock_081">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
   </programme>
   <programme start="20260926113000 +0000" stop="20260926193000 +0000" channel="Peacock_082">
     <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
@@ -1245,17 +1287,26 @@
   <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_082">
     <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
   </programme>
+  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_082">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  </programme>
   <programme start="20260926130000 +0000" stop="20260926201500 +0000" channel="Peacock_083">
     <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
   <programme start="20260926153000 +0000" stop="20260926230000 +0000" channel="Peacock_083">
     <title>B1G Saturday: Week 4 (2026-09-26 15:30:00)</title>
   </programme>
+  <programme start="20260927190000 +0000" stop="20260928043000 +0000" channel="Peacock_083">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  </programme>
   <programme start="20260926153000 +0000" stop="20260926230000 +0000" channel="Peacock_084">
     <title>B1G Saturday: Week 4 (2026-09-26 15:30:00)</title>
   </programme>
   <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_084">
     <title>World Championship Final (2026-09-26 18:30:00)</title>
+  </programme>
+  <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_084">
+    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
   </programme>
   <programme start="20260926130000 +0000" stop="20260926203000 +0000" channel="Peacock_085">
     <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
@@ -1266,17 +1317,14 @@
   <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_085">
     <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
   </programme>
-  <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_086">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
+  <programme start="20260927190000 +0000" stop="20260928043000 +0000" channel="Peacock_085">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
   </programme>
   <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_086">
     <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
   </programme>
-  <programme start="20260921200000 +0000" stop="20260922000000 +0000" channel="Peacock_087">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
-  </programme>
-  <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_087">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
+  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_086">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
   </programme>
   <programme start="20260926130000 +0000" stop="20260926201500 +0000" channel="Peacock_087">
     <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
@@ -1284,8 +1332,11 @@
   <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_087">
     <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
-  <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_088">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
+  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_087">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  </programme>
+  <programme start="20260927190000 +0000" stop="20260928043000 +0000" channel="Peacock_087">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
   </programme>
   <programme start="20260926113000 +0000" stop="20260926193000 +0000" channel="Peacock_088">
     <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
@@ -1299,8 +1350,8 @@
   <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_088">
     <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
   </programme>
-  <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_089">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
+  <programme start="20260927190000 +0000" stop="20260928043000 +0000" channel="Peacock_088">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
   </programme>
   <programme start="20260926130000 +0000" stop="20260926201500 +0000" channel="Peacock_089">
     <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
@@ -1308,11 +1359,11 @@
   <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_089">
     <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
-  <programme start="20260921200000 +0000" stop="20260922000000 +0000" channel="Peacock_090">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
+  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_089">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
   </programme>
-  <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_090">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
+  <programme start="20260927190000 +0000" stop="20260928043000 +0000" channel="Peacock_089">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
   </programme>
   <programme start="20260926130000 +0000" stop="20260926201500 +0000" channel="Peacock_090">
     <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
@@ -1323,11 +1374,20 @@
   <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_090">
     <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
+  <programme start="20260927190000 +0000" stop="20260928043000 +0000" channel="Peacock_090">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  </programme>
+  <programme start="20260927200000 +0000" stop="20260928033000 +0000" channel="Peacock_090">
+    <title>Rams vs. Broncos (Español) (2026-09-27 20:00:00)</title>
+  </programme>
   <programme start="20260926113000 +0000" stop="20260926193000 +0000" channel="Peacock_091">
     <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
   </programme>
   <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_091">
     <title>World Championship Final (2026-09-26 18:30:00)</title>
+  </programme>
+  <programme start="20260927190000 +0000" stop="20260928043000 +0000" channel="Peacock_091">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
   </programme>
   <programme start="20260926130000 +0000" stop="20260926203000 +0000" channel="Peacock_092">
     <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
@@ -1335,14 +1395,17 @@
   <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_092">
     <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
   </programme>
-  <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_093">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
+  <programme start="20260927190000 +0000" stop="20260928043000 +0000" channel="Peacock_092">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
   </programme>
   <programme start="20260926153000 +0000" stop="20260926230000 +0000" channel="Peacock_093">
     <title>B1G Saturday: Week 4 (2026-09-26 15:30:00)</title>
   </programme>
-  <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_094">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
+  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_093">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  </programme>
+  <programme start="20260927190000 +0000" stop="20260928043000 +0000" channel="Peacock_093">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
   </programme>
   <programme start="20260926113000 +0000" stop="20260926193000 +0000" channel="Peacock_094">
     <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
@@ -1353,6 +1416,9 @@
   <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_094">
     <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
+  <programme start="20260927190000 +0000" stop="20260928043000 +0000" channel="Peacock_094">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  </programme>
   <programme start="20260926130000 +0000" stop="20260926201500 +0000" channel="Peacock_095">
     <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
@@ -1362,8 +1428,8 @@
   <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_095">
     <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
   </programme>
-  <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_096">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
+  <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_095">
+    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
   </programme>
   <programme start="20260926153000 +0000" stop="20260926230000 +0000" channel="Peacock_096">
     <title>B1G Saturday: Week 4 (2026-09-26 15:30:00)</title>
@@ -1371,11 +1437,17 @@
   <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_096">
     <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
+  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_096">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  </programme>
   <programme start="20260926130000 +0000" stop="20260926201500 +0000" channel="Peacock_097">
     <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
   <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_097">
     <title>World Championship Final (2026-09-26 18:30:00)</title>
+  </programme>
+  <programme start="20260927190000 +0000" stop="20260928043000 +0000" channel="Peacock_097">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
   </programme>
   <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_098">
     <title>World Championship Final (2026-09-26 18:30:00)</title>
@@ -1383,16 +1455,25 @@
   <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_098">
     <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
   </programme>
-  <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_099">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
+  <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_098">
+    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
   </programme>
-  <programme start="20260921200000 +0000" stop="20260922030000 +0000" channel="Peacock_100">
-    <title>Dream vs. Liberty (2026-09-21 20:00:00)</title>
+  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_099">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  </programme>
+  <programme start="20260927190000 +0000" stop="20260928043000 +0000" channel="Peacock_099">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
   </programme>
   <programme start="20260926113000 +0000" stop="20260926193000 +0000" channel="Peacock_100">
     <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
   </programme>
   <programme start="20260926130000 +0000" stop="20260926201500 +0000" channel="Peacock_100">
     <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
+  </programme>
+  <programme start="20260927190000 +0000" stop="20260928043000 +0000" channel="Peacock_100">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  </programme>
+  <programme start="20260927200000 +0000" stop="20260928033000 +0000" channel="Peacock_100">
+    <title>Rams vs. Broncos (Español) (2026-09-27 20:00:00)</title>
   </programme>
 </tv>
