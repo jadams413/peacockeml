@@ -99,8 +99,92 @@
   <channel id="Peacock_098"><display-name>Peacock 098</display-name></channel>
   <channel id="Peacock_099"><display-name>Peacock 099</display-name></channel>
   <channel id="Peacock_100"><display-name>Peacock 100</display-name></channel>
-  <programme start="20260922110000 +0000" stop="20260922150000 +0000" channel="Peacock_018">
+  <programme start="20260922110000 +0000" stop="20260922170000 +0000" channel="Peacock_004">
     <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
+  </programme>
+  <programme start="20260923153000 +0000" stop="20260923193000 +0000" channel="Peacock_005">
+    <title>Away Feed: MIN at SF (2026-09-23 15:30:00)</title>
+  </programme>
+  <programme start="20260923153000 +0000" stop="20260923223000 +0000" channel="Peacock_005">
+    <title>Away Feed: MIN at SF (2026-09-23 15:30:00)</title>
+  </programme>
+  <programme start="20260923153005 +0000" stop="20260923193005 +0000" channel="Peacock_006">
+    <title>Home Feed: MIN at SF (2026-09-23 15:30:05)</title>
+  </programme>
+  <programme start="20260923153005 +0000" stop="20260923223000 +0000" channel="Peacock_006">
+    <title>Home Feed: MIN at SF (2026-09-23 15:30:05)</title>
+  </programme>
+  <programme start="20260924143000 +0000" stop="20260924183000 +0000" channel="Peacock_007">
+    <title>Home Feed: NYM at TEX (2026-09-24 14:30:00)</title>
+  </programme>
+  <programme start="20260924143000 +0000" stop="20260924213000 +0000" channel="Peacock_007">
+    <title>Home Feed: NYM at TEX (2026-09-24 14:30:00)</title>
+  </programme>
+  <programme start="20260924143005 +0000" stop="20260924183005 +0000" channel="Peacock_008">
+    <title>Away Feed: NYM at TEX (2026-09-24 14:30:05)</title>
+  </programme>
+  <programme start="20260924143005 +0000" stop="20260924213000 +0000" channel="Peacock_008">
+    <title>Away Feed: NYM at TEX (2026-09-24 14:30:05)</title>
+  </programme>
+  <programme start="20260925183000 +0000" stop="20260925223000 +0000" channel="Peacock_009">
+    <title>Away Feed: TB at PHI (2026-09-25 18:30:00)</title>
+  </programme>
+  <programme start="20260925183000 +0000" stop="20260926013000 +0000" channel="Peacock_009">
+    <title>Away Feed: TB at PHI (2026-09-25 18:30:00)</title>
+  </programme>
+  <programme start="20260925183005 +0000" stop="20260925223005 +0000" channel="Peacock_010">
+    <title>Home Feed: TB at PHI (2026-09-25 18:30:05)</title>
+  </programme>
+  <programme start="20260925183005 +0000" stop="20260926013000 +0000" channel="Peacock_010">
+    <title>Home Feed: TB at PHI (2026-09-25 18:30:05)</title>
+  </programme>
+  <programme start="20260925193000 +0000" stop="20260925233000 +0000" channel="Peacock_011">
+    <title>Lexington SC v. Trinity FC (2026-09-25 19:30:00)</title>
+  </programme>
+  <programme start="20260925193000 +0000" stop="20260926013000 +0000" channel="Peacock_011">
+    <title>Lexington SC v. Trinity FC (2026-09-25 19:30:00)</title>
+  </programme>
+  <programme start="20260926050000 +0000" stop="20260926090000 +0000" channel="Peacock_012">
+    <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
+  </programme>
+  <programme start="20260926050000 +0000" stop="20260926105000 +0000" channel="Peacock_012">
+    <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
+  </programme>
+  <programme start="20260926100000 +0000" stop="20260926140000 +0000" channel="Peacock_013">
+    <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
+  </programme>
+  <programme start="20260926100000 +0000" stop="20260926175000 +0000" channel="Peacock_013">
+    <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
+  </programme>
+  <programme start="20260926130000 +0000" stop="20260926170000 +0000" channel="Peacock_014">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
+  </programme>
+  <programme start="20260926130000 +0000" stop="20260926203000 +0000" channel="Peacock_014">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
+  </programme>
+  <programme start="20260926133000 +0000" stop="20260926173000 +0000" channel="Peacock_015">
+    <title>Notre Dame vs. Purdue (2026-09-26 13:30:00)</title>
+  </programme>
+  <programme start="20260926133000 +0000" stop="20260926213000 +0000" channel="Peacock_015">
+    <title>Notre Dame vs. Purdue (2026-09-26 13:30:00)</title>
+  </programme>
+  <programme start="20260926160000 +0000" stop="20260926200000 +0000" channel="Peacock_016">
+    <title>Away Feed: LAD at SF (2026-09-26 16:00:00)</title>
+  </programme>
+  <programme start="20260926160000 +0000" stop="20260926230000 +0000" channel="Peacock_016">
+    <title>Away Feed: LAD at SF (2026-09-26 16:00:00)</title>
+  </programme>
+  <programme start="20260926160005 +0000" stop="20260926200005 +0000" channel="Peacock_017">
+    <title>Home Feed: LAD at SF (2026-09-26 16:00:05)</title>
+  </programme>
+  <programme start="20260926160005 +0000" stop="20260926230000 +0000" channel="Peacock_017">
+    <title>Home Feed: LAD at SF (2026-09-26 16:00:05)</title>
+  </programme>
+  <programme start="20260926170000 +0000" stop="20260926210000 +0000" channel="Peacock_018">
+    <title>Wisconsin vs. Penn State (2026-09-26 17:00:00)</title>
+  </programme>
+  <programme start="20260926170000 +0000" stop="20260927003000 +0000" channel="Peacock_018">
+    <title>Wisconsin vs. Penn State (2026-09-26 17:00:00)</title>
   </programme>
   <programme start="20260923153000 +0000" stop="20260923193000 +0000" channel="Peacock_019">
     <title>Away Feed: MIN at SF (2026-09-23 15:30:00)</title>
@@ -108,11 +192,23 @@
   <programme start="20260923153000 +0000" stop="20260923223000 +0000" channel="Peacock_019">
     <title>Away Feed: MIN at SF (2026-09-23 15:30:00)</title>
   </programme>
+  <programme start="20260926183000 +0000" stop="20260926223000 +0000" channel="Peacock_019">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
+  </programme>
+  <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_019">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
+  </programme>
   <programme start="20260923153005 +0000" stop="20260923193005 +0000" channel="Peacock_020">
     <title>Home Feed: MIN at SF (2026-09-23 15:30:05)</title>
   </programme>
   <programme start="20260923153005 +0000" stop="20260923223000 +0000" channel="Peacock_020">
     <title>Home Feed: MIN at SF (2026-09-23 15:30:05)</title>
+  </programme>
+  <programme start="20260926190000 +0000" stop="20260926230000 +0000" channel="Peacock_020">
+    <title>Ascent FC v. Sporting JAX (2026-09-26 19:00:00)</title>
+  </programme>
+  <programme start="20260926190000 +0000" stop="20260927010000 +0000" channel="Peacock_020">
+    <title>Ascent FC v. Sporting JAX (2026-09-26 19:00:00)</title>
   </programme>
   <programme start="20260924143000 +0000" stop="20260924183000 +0000" channel="Peacock_021">
     <title>Home Feed: NYM at TEX (2026-09-24 14:30:00)</title>
@@ -120,11 +216,23 @@
   <programme start="20260924143000 +0000" stop="20260924213000 +0000" channel="Peacock_021">
     <title>Home Feed: NYM at TEX (2026-09-24 14:30:00)</title>
   </programme>
+  <programme start="20260926190005 +0000" stop="20260926230005 +0000" channel="Peacock_021">
+    <title>Oregon vs. USC (2026-09-26 19:00:05)</title>
+  </programme>
+  <programme start="20260926190005 +0000" stop="20260927030000 +0000" channel="Peacock_021">
+    <title>Oregon vs. USC (2026-09-26 19:00:05)</title>
+  </programme>
   <programme start="20260924143005 +0000" stop="20260924183005 +0000" channel="Peacock_022">
     <title>Away Feed: NYM at TEX (2026-09-24 14:30:05)</title>
   </programme>
   <programme start="20260924143005 +0000" stop="20260924213000 +0000" channel="Peacock_022">
     <title>Away Feed: NYM at TEX (2026-09-24 14:30:05)</title>
+  </programme>
+  <programme start="20260927050000 +0000" stop="20260927090000 +0000" channel="Peacock_022">
+    <title>Acrobatic World Champs: Day 3 (2026-09-27 05:00:00)</title>
+  </programme>
+  <programme start="20260927050000 +0000" stop="20260927114000 +0000" channel="Peacock_022">
+    <title>Acrobatic World Champs: Day 3 (2026-09-27 05:00:00)</title>
   </programme>
   <programme start="20260925183000 +0000" stop="20260925223000 +0000" channel="Peacock_023">
     <title>Away Feed: TB at PHI (2026-09-25 18:30:00)</title>
@@ -132,11 +240,23 @@
   <programme start="20260925183000 +0000" stop="20260926013000 +0000" channel="Peacock_023">
     <title>Away Feed: TB at PHI (2026-09-25 18:30:00)</title>
   </programme>
+  <programme start="20260927090000 +0000" stop="20260927130000 +0000" channel="Peacock_023">
+    <title>Acrobatic Champs: Finals Day 2 (2026-09-27 09:00:00)</title>
+  </programme>
+  <programme start="20260927090000 +0000" stop="20260927164500 +0000" channel="Peacock_023">
+    <title>Acrobatic Champs: Finals Day 2 (2026-09-27 09:00:00)</title>
+  </programme>
   <programme start="20260925183005 +0000" stop="20260925223005 +0000" channel="Peacock_024">
     <title>Home Feed: TB at PHI (2026-09-25 18:30:05)</title>
   </programme>
   <programme start="20260925183005 +0000" stop="20260926013000 +0000" channel="Peacock_024">
     <title>Home Feed: TB at PHI (2026-09-25 18:30:05)</title>
+  </programme>
+  <programme start="20260927150000 +0000" stop="20260927190000 +0000" channel="Peacock_024">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  </programme>
+  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_024">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
   </programme>
   <programme start="20260925193000 +0000" stop="20260925233000 +0000" channel="Peacock_025">
     <title>Lexington SC v. Trinity FC (2026-09-25 19:30:00)</title>
@@ -144,11 +264,23 @@
   <programme start="20260925193000 +0000" stop="20260926013000 +0000" channel="Peacock_025">
     <title>Lexington SC v. Trinity FC (2026-09-25 19:30:00)</title>
   </programme>
+  <programme start="20260927190000 +0000" stop="20260927230000 +0000" channel="Peacock_025">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  </programme>
+  <programme start="20260927190000 +0000" stop="20260928033000 +0000" channel="Peacock_025">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  </programme>
   <programme start="20260926050000 +0000" stop="20260926090000 +0000" channel="Peacock_026">
     <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
   </programme>
   <programme start="20260926050000 +0000" stop="20260926105000 +0000" channel="Peacock_026">
     <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
+  </programme>
+  <programme start="20260927233000 +0000" stop="20260928033000 +0000" channel="Peacock_026">
+    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
+  </programme>
+  <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_026">
+    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
   </programme>
   <programme start="20260926100000 +0000" stop="20260926140000 +0000" channel="Peacock_027">
     <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
@@ -185,9 +317,6 @@
   </programme>
   <programme start="20260926170000 +0000" stop="20260927003000 +0000" channel="Peacock_032">
     <title>Wisconsin vs. Penn State (2026-09-26 17:00:00)</title>
-  </programme>
-  <programme start="20260922110000 +0000" stop="20260922150000 +0000" channel="Peacock_033">
-    <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
   </programme>
   <programme start="20260922110000 +0000" stop="20260922170000 +0000" channel="Peacock_033">
     <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
@@ -282,9 +411,6 @@
   <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_040">
     <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
   </programme>
-  <programme start="20260922110000 +0000" stop="20260922150000 +0000" channel="Peacock_041">
-    <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
-  </programme>
   <programme start="20260922110000 +0000" stop="20260922170000 +0000" channel="Peacock_041">
     <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
   </programme>
@@ -305,9 +431,6 @@
   </programme>
   <programme start="20260926153000 +0000" stop="20260926230000 +0000" channel="Peacock_042">
     <title>B1G Saturday: Week 4 (2026-09-26 15:30:00)</title>
-  </programme>
-  <programme start="20260922110000 +0000" stop="20260922150000 +0000" channel="Peacock_043">
-    <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
   </programme>
   <programme start="20260922110000 +0000" stop="20260922170000 +0000" channel="Peacock_043">
     <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
@@ -360,9 +483,6 @@
   <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_045">
     <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
-  <programme start="20260922110000 +0000" stop="20260922150000 +0000" channel="Peacock_046">
-    <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
-  </programme>
   <programme start="20260922110000 +0000" stop="20260922170000 +0000" channel="Peacock_046">
     <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
   </programme>
@@ -383,9 +503,6 @@
   </programme>
   <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_046">
     <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
-  </programme>
-  <programme start="20260922110000 +0000" stop="20260922150000 +0000" channel="Peacock_047">
-    <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
   </programme>
   <programme start="20260922110000 +0000" stop="20260922170000 +0000" channel="Peacock_047">
     <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
@@ -492,9 +609,6 @@
   <programme start="20260926160000 +0000" stop="20260926230000 +0000" channel="Peacock_050">
     <title>Away Feed: LAD at SF (2026-09-26 16:00:00)</title>
   </programme>
-  <programme start="20260922110000 +0000" stop="20260922150000 +0000" channel="Peacock_051">
-    <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
-  </programme>
   <programme start="20260922110000 +0000" stop="20260922170000 +0000" channel="Peacock_051">
     <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
   </programme>
@@ -548,9 +662,6 @@
   </programme>
   <programme start="20260926170000 +0000" stop="20260927003000 +0000" channel="Peacock_052">
     <title>Wisconsin vs. Penn State (2026-09-26 17:00:00)</title>
-  </programme>
-  <programme start="20260922110000 +0000" stop="20260922150000 +0000" channel="Peacock_053">
-    <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
   </programme>
   <programme start="20260922110000 +0000" stop="20260922170000 +0000" channel="Peacock_053">
     <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
@@ -858,9 +969,6 @@
   <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_062">
     <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
   </programme>
-  <programme start="20260922110000 +0000" stop="20260922150000 +0000" channel="Peacock_063">
-    <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
-  </programme>
   <programme start="20260922110000 +0000" stop="20260922170000 +0000" channel="Peacock_063">
     <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
   </programme>
@@ -962,9 +1070,6 @@
   </programme>
   <programme start="20260927090000 +0000" stop="20260927164500 +0000" channel="Peacock_066">
     <title>Acrobatic Champs: Finals Day 2 (2026-09-27 09:00:00)</title>
-  </programme>
-  <programme start="20260922110000 +0000" stop="20260922150000 +0000" channel="Peacock_067">
-    <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
   </programme>
   <programme start="20260922110000 +0000" stop="20260922170000 +0000" channel="Peacock_067">
     <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
