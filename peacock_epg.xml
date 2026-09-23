@@ -99,9 +99,6 @@
   <channel id="Peacock_098"><display-name>Peacock 098</display-name></channel>
   <channel id="Peacock_099"><display-name>Peacock 099</display-name></channel>
   <channel id="Peacock_100"><display-name>Peacock 100</display-name></channel>
-  <programme start="20260922110000 +0000" stop="20260922170000 +0000" channel="Peacock_004">
-    <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
-  </programme>
   <programme start="20260923153000 +0000" stop="20260923193000 +0000" channel="Peacock_005">
     <title>Away Feed: MIN at SF (2026-09-23 15:30:00)</title>
   </programme>
@@ -318,9 +315,6 @@
   <programme start="20260926170000 +0000" stop="20260927003000 +0000" channel="Peacock_032">
     <title>Wisconsin vs. Penn State (2026-09-26 17:00:00)</title>
   </programme>
-  <programme start="20260922110000 +0000" stop="20260922170000 +0000" channel="Peacock_033">
-    <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
-  </programme>
   <programme start="20260926183000 +0000" stop="20260926223000 +0000" channel="Peacock_033">
     <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
@@ -411,9 +405,6 @@
   <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_040">
     <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
   </programme>
-  <programme start="20260922110000 +0000" stop="20260922170000 +0000" channel="Peacock_041">
-    <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
-  </programme>
   <programme start="20260926130000 +0000" stop="20260926170000 +0000" channel="Peacock_041">
     <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
@@ -431,9 +422,6 @@
   </programme>
   <programme start="20260926153000 +0000" stop="20260926230000 +0000" channel="Peacock_042">
     <title>B1G Saturday: Week 4 (2026-09-26 15:30:00)</title>
-  </programme>
-  <programme start="20260922110000 +0000" stop="20260922170000 +0000" channel="Peacock_043">
-    <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
   </programme>
   <programme start="20260923153005 +0000" stop="20260923193005 +0000" channel="Peacock_043">
     <title>Away Feed: MIN at SF (2026-09-23 15:30:05)</title>
@@ -483,9 +471,6 @@
   <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_045">
     <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
-  <programme start="20260922110000 +0000" stop="20260922170000 +0000" channel="Peacock_046">
-    <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
-  </programme>
   <programme start="20260924143000 +0000" stop="20260924183000 +0000" channel="Peacock_046">
     <title>Home Feed: NYM at TEX (2026-09-24 14:30:00)</title>
   </programme>
@@ -503,9 +488,6 @@
   </programme>
   <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_046">
     <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
-  </programme>
-  <programme start="20260922110000 +0000" stop="20260922170000 +0000" channel="Peacock_047">
-    <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
   </programme>
   <programme start="20260923153000 +0000" stop="20260923193000 +0000" channel="Peacock_047">
     <title>Home Feed: MIN at SF (2026-09-23 15:30:00)</title>
@@ -609,9 +591,6 @@
   <programme start="20260926160000 +0000" stop="20260926230000 +0000" channel="Peacock_050">
     <title>Away Feed: LAD at SF (2026-09-26 16:00:00)</title>
   </programme>
-  <programme start="20260922110000 +0000" stop="20260922170000 +0000" channel="Peacock_051">
-    <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
-  </programme>
   <programme start="20260924143005 +0000" stop="20260924183005 +0000" channel="Peacock_051">
     <title>Away Feed: NYM at TEX (2026-09-24 14:30:05)</title>
   </programme>
@@ -662,9 +641,6 @@
   </programme>
   <programme start="20260926170000 +0000" stop="20260927003000 +0000" channel="Peacock_052">
     <title>Wisconsin vs. Penn State (2026-09-26 17:00:00)</title>
-  </programme>
-  <programme start="20260922110000 +0000" stop="20260922170000 +0000" channel="Peacock_053">
-    <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
   </programme>
   <programme start="20260923153005 +0000" stop="20260923193005 +0000" channel="Peacock_053">
     <title>Away Feed: MIN at SF (2026-09-23 15:30:05)</title>
@@ -969,9 +945,6 @@
   <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_062">
     <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
   </programme>
-  <programme start="20260922110000 +0000" stop="20260922170000 +0000" channel="Peacock_063">
-    <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
-  </programme>
   <programme start="20260926130000 +0000" stop="20260926170000 +0000" channel="Peacock_063">
     <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
@@ -1070,9 +1043,6 @@
   </programme>
   <programme start="20260927090000 +0000" stop="20260927164500 +0000" channel="Peacock_066">
     <title>Acrobatic Champs: Finals Day 2 (2026-09-27 09:00:00)</title>
-  </programme>
-  <programme start="20260922110000 +0000" stop="20260922170000 +0000" channel="Peacock_067">
-    <title>Power FC v. FTL United (2026-09-22 11:00:00)</title>
   </programme>
   <programme start="20260924143005 +0000" stop="20260924183005 +0000" channel="Peacock_067">
     <title>Home Feed: NYM at TEX (2026-09-24 14:30:05)</title>
