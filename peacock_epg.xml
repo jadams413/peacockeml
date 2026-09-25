@@ -99,11 +99,26 @@
   <channel id="Peacock_098"><display-name>Peacock 098</display-name></channel>
   <channel id="Peacock_099"><display-name>Peacock 099</display-name></channel>
   <channel id="Peacock_100"><display-name>Peacock 100</display-name></channel>
+  <programme start="20260925183000 +0000" stop="20260925223000 +0000" channel="Peacock_003">
+    <title>Away Feed: TB at PHI (2026-09-25 18:30:00)</title>
+  </programme>
+  <programme start="20260925183000 +0000" stop="20260926013000 +0000" channel="Peacock_003">
+    <title>Away Feed: TB at PHI (2026-09-25 18:30:00)</title>
+  </programme>
+  <programme start="20260925183005 +0000" stop="20260925223005 +0000" channel="Peacock_004">
+    <title>Home Feed: TB at PHI (2026-09-25 18:30:05)</title>
+  </programme>
+  <programme start="20260925183005 +0000" stop="20260926013000 +0000" channel="Peacock_004">
+    <title>Home Feed: TB at PHI (2026-09-25 18:30:05)</title>
+  </programme>
   <programme start="20260925183000 +0000" stop="20260925223000 +0000" channel="Peacock_005">
     <title>Away Feed: TB at PHI (2026-09-25 18:30:00)</title>
   </programme>
   <programme start="20260925183000 +0000" stop="20260926013000 +0000" channel="Peacock_005">
     <title>Away Feed: TB at PHI (2026-09-25 18:30:00)</title>
+  </programme>
+  <programme start="20260925193000 +0000" stop="20260925233000 +0000" channel="Peacock_005">
+    <title>Lexington SC v. Trinity FC (2026-09-25 19:30:00)</title>
   </programme>
   <programme start="20260925183000 +0000" stop="20260925223000 +0000" channel="Peacock_006">
     <title>Away Feed: TB at PHI (2026-09-25 18:30:00)</title>
@@ -114,6 +129,12 @@
   <programme start="20260925183005 +0000" stop="20260925223005 +0000" channel="Peacock_006">
     <title>Home Feed: TB at PHI (2026-09-25 18:30:05)</title>
   </programme>
+  <programme start="20260926050000 +0000" stop="20260926090000 +0000" channel="Peacock_006">
+    <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
+  </programme>
+  <programme start="20260926050000 +0000" stop="20260926105000 +0000" channel="Peacock_006">
+    <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
+  </programme>
   <programme start="20260925183005 +0000" stop="20260925223005 +0000" channel="Peacock_007">
     <title>Home Feed: TB at PHI (2026-09-25 18:30:05)</title>
   </programme>
@@ -122,6 +143,12 @@
   </programme>
   <programme start="20260925193000 +0000" stop="20260925233000 +0000" channel="Peacock_007">
     <title>Lexington SC v. Trinity FC (2026-09-25 19:30:00)</title>
+  </programme>
+  <programme start="20260926090000 +0000" stop="20260926130000 +0000" channel="Peacock_007">
+    <title>Presidents Cup: Day 3 (2026-09-26 09:00:00)</title>
+  </programme>
+  <programme start="20260926090000 +0000" stop="20260926230000 +0000" channel="Peacock_007">
+    <title>Presidents Cup: Day 3 (2026-09-26 09:00:00)</title>
   </programme>
   <programme start="20260925193000 +0000" stop="20260925233000 +0000" channel="Peacock_008">
     <title>Lexington SC v. Trinity FC (2026-09-25 19:30:00)</title>
@@ -134,6 +161,12 @@
   </programme>
   <programme start="20260926050000 +0000" stop="20260926105000 +0000" channel="Peacock_008">
     <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
+  </programme>
+  <programme start="20260926100000 +0000" stop="20260926140000 +0000" channel="Peacock_008">
+    <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
+  </programme>
+  <programme start="20260926100000 +0000" stop="20260926175000 +0000" channel="Peacock_008">
+    <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
   </programme>
   <programme start="20260925183000 +0000" stop="20260925223000 +0000" channel="Peacock_009">
     <title>Away Feed: TB at PHI (2026-09-25 18:30:00)</title>
@@ -153,6 +186,12 @@
   <programme start="20260926090000 +0000" stop="20260926230000 +0000" channel="Peacock_009">
     <title>Presidents Cup: Day 3 (2026-09-26 09:00:00)</title>
   </programme>
+  <programme start="20260926130000 +0000" stop="20260926170000 +0000" channel="Peacock_009">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
+  </programme>
+  <programme start="20260926130000 +0000" stop="20260926203000 +0000" channel="Peacock_009">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
+  </programme>
   <programme start="20260925183005 +0000" stop="20260925223005 +0000" channel="Peacock_010">
     <title>Home Feed: TB at PHI (2026-09-25 18:30:05)</title>
   </programme>
@@ -170,6 +209,12 @@
   </programme>
   <programme start="20260926100000 +0000" stop="20260926175000 +0000" channel="Peacock_010">
     <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
+  </programme>
+  <programme start="20260926133000 +0000" stop="20260926173000 +0000" channel="Peacock_010">
+    <title>Notre Dame vs. Purdue (2026-09-26 13:30:00)</title>
+  </programme>
+  <programme start="20260926133000 +0000" stop="20260926213000 +0000" channel="Peacock_010">
+    <title>Notre Dame vs. Purdue (2026-09-26 13:30:00)</title>
   </programme>
   <programme start="20260925193000 +0000" stop="20260925233000 +0000" channel="Peacock_011">
     <title>Lexington SC v. Trinity FC (2026-09-25 19:30:00)</title>
@@ -189,6 +234,12 @@
   <programme start="20260926130000 +0000" stop="20260926203000 +0000" channel="Peacock_011">
     <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
+  <programme start="20260926160000 +0000" stop="20260926200000 +0000" channel="Peacock_011">
+    <title>Home Feed: LAD at SF (2026-09-26 16:00:00)</title>
+  </programme>
+  <programme start="20260926160000 +0000" stop="20260926230000 +0000" channel="Peacock_011">
+    <title>Home Feed: LAD at SF (2026-09-26 16:00:00)</title>
+  </programme>
   <programme start="20260926050000 +0000" stop="20260926090000 +0000" channel="Peacock_012">
     <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
   </programme>
@@ -206,6 +257,12 @@
   </programme>
   <programme start="20260926133000 +0000" stop="20260926213000 +0000" channel="Peacock_012">
     <title>Notre Dame vs. Purdue (2026-09-26 13:30:00)</title>
+  </programme>
+  <programme start="20260926160005 +0000" stop="20260926200005 +0000" channel="Peacock_012">
+    <title>Away Feed: LAD at SF (2026-09-26 16:00:05)</title>
+  </programme>
+  <programme start="20260926160005 +0000" stop="20260926230000 +0000" channel="Peacock_012">
+    <title>Away Feed: LAD at SF (2026-09-26 16:00:05)</title>
   </programme>
   <programme start="20260926100000 +0000" stop="20260926140000 +0000" channel="Peacock_013">
     <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
@@ -225,6 +282,12 @@
   <programme start="20260926160000 +0000" stop="20260926230000 +0000" channel="Peacock_013">
     <title>Home Feed: LAD at SF (2026-09-26 16:00:00)</title>
   </programme>
+  <programme start="20260926170000 +0000" stop="20260926210000 +0000" channel="Peacock_013">
+    <title>Wisconsin vs. Penn State (2026-09-26 17:00:00)</title>
+  </programme>
+  <programme start="20260926170000 +0000" stop="20260927003000 +0000" channel="Peacock_013">
+    <title>Wisconsin vs. Penn State (2026-09-26 17:00:00)</title>
+  </programme>
   <programme start="20260926130000 +0000" stop="20260926170000 +0000" channel="Peacock_014">
     <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
@@ -239,6 +302,12 @@
   </programme>
   <programme start="20260926160005 +0000" stop="20260926200005 +0000" channel="Peacock_014">
     <title>Away Feed: LAD at SF (2026-09-26 16:00:05)</title>
+  </programme>
+  <programme start="20260926183000 +0000" stop="20260926223000 +0000" channel="Peacock_014">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
+  </programme>
+  <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_014">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
   <programme start="20260926133000 +0000" stop="20260926173000 +0000" channel="Peacock_015">
     <title>Notre Dame vs. Purdue (2026-09-26 13:30:00)</title>
@@ -276,6 +345,12 @@
   <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_016">
     <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
+  <programme start="20260926190005 +0000" stop="20260926230005 +0000" channel="Peacock_016">
+    <title>Ascent FC v. Sporting JAX (2026-09-26 19:00:05)</title>
+  </programme>
+  <programme start="20260926190005 +0000" stop="20260927010000 +0000" channel="Peacock_016">
+    <title>Ascent FC v. Sporting JAX (2026-09-26 19:00:05)</title>
+  </programme>
   <programme start="20260926160005 +0000" stop="20260926200005 +0000" channel="Peacock_017">
     <title>Home Feed: LAD at SF (2026-09-26 16:00:05)</title>
   </programme>
@@ -287,6 +362,12 @@
   </programme>
   <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_017">
     <title>World Championship Final (2026-09-26 18:30:00)</title>
+  </programme>
+  <programme start="20260927050000 +0000" stop="20260927090000 +0000" channel="Peacock_017">
+    <title>Acrobatic World Champs: Day 3 (2026-09-27 05:00:00)</title>
+  </programme>
+  <programme start="20260927050000 +0000" stop="20260927114000 +0000" channel="Peacock_017">
+    <title>Acrobatic World Champs: Day 3 (2026-09-27 05:00:00)</title>
   </programme>
   <programme start="20260926170000 +0000" stop="20260926210000 +0000" channel="Peacock_018">
     <title>Wisconsin vs. Penn State (2026-09-26 17:00:00)</title>
@@ -302,6 +383,12 @@
   </programme>
   <programme start="20260926190005 +0000" stop="20260926230005 +0000" channel="Peacock_018">
     <title>Ascent FC v. Sporting JAX (2026-09-26 19:00:05)</title>
+  </programme>
+  <programme start="20260927090000 +0000" stop="20260927130000 +0000" channel="Peacock_018">
+    <title>Acrobatic Champs: Finals Day 2 (2026-09-27 09:00:00)</title>
+  </programme>
+  <programme start="20260927090000 +0000" stop="20260927164500 +0000" channel="Peacock_018">
+    <title>Acrobatic Champs: Finals Day 2 (2026-09-27 09:00:00)</title>
   </programme>
   <programme start="20260926183000 +0000" stop="20260926223000 +0000" channel="Peacock_019">
     <title>World Championship Final (2026-09-26 18:30:00)</title>
@@ -321,6 +408,12 @@
   <programme start="20260927050000 +0000" stop="20260927114000 +0000" channel="Peacock_019">
     <title>Acrobatic World Champs: Day 3 (2026-09-27 05:00:00)</title>
   </programme>
+  <programme start="20260927120000 +0000" stop="20260927160000 +0000" channel="Peacock_019">
+    <title>Presidents Cup: Day 4 (2026-09-27 12:00:00)</title>
+  </programme>
+  <programme start="20260927120000 +0000" stop="20260927220000 +0000" channel="Peacock_019">
+    <title>Presidents Cup: Day 4 (2026-09-27 12:00:00)</title>
+  </programme>
   <programme start="20260926190000 +0000" stop="20260926230000 +0000" channel="Peacock_020">
     <title>Ascent FC v. Sporting JAX (2026-09-26 19:00:00)</title>
   </programme>
@@ -338,6 +431,12 @@
   </programme>
   <programme start="20260927090000 +0000" stop="20260927164500 +0000" channel="Peacock_020">
     <title>Acrobatic Champs: Finals Day 2 (2026-09-27 09:00:00)</title>
+  </programme>
+  <programme start="20260927150000 +0000" stop="20260927190000 +0000" channel="Peacock_020">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  </programme>
+  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_020">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
   </programme>
   <programme start="20260926190005 +0000" stop="20260926230005 +0000" channel="Peacock_021">
     <title>Oregon vs. USC (2026-09-26 19:00:05)</title>
@@ -357,6 +456,12 @@
   <programme start="20260927120000 +0000" stop="20260927220000 +0000" channel="Peacock_021">
     <title>Presidents Cup: Day 4 (2026-09-27 12:00:00)</title>
   </programme>
+  <programme start="20260927190000 +0000" stop="20260927230000 +0000" channel="Peacock_021">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  </programme>
+  <programme start="20260927190000 +0000" stop="20260928033000 +0000" channel="Peacock_021">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  </programme>
   <programme start="20260927050000 +0000" stop="20260927090000 +0000" channel="Peacock_022">
     <title>Acrobatic World Champs: Day 3 (2026-09-27 05:00:00)</title>
   </programme>
@@ -371,6 +476,12 @@
   </programme>
   <programme start="20260927150000 +0000" stop="20260927190000 +0000" channel="Peacock_022">
     <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  </programme>
+  <programme start="20260927233000 +0000" stop="20260928033000 +0000" channel="Peacock_022">
+    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
+  </programme>
+  <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_022">
+    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
   </programme>
   <programme start="20260925183000 +0000" stop="20260925223000 +0000" channel="Peacock_023">
     <title>Away Feed: TB at PHI (2026-09-25 18:30:00)</title>
