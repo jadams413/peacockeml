@@ -99,27 +99,6 @@
   <channel id="Peacock_098"><display-name>Peacock 098</display-name></channel>
   <channel id="Peacock_099"><display-name>Peacock 099</display-name></channel>
   <channel id="Peacock_100"><display-name>Peacock 100</display-name></channel>
-  <programme start="20260924143000 +0000" stop="20260924183000 +0000" channel="Peacock_003">
-    <title>Home Feed: NYM at TEX (2026-09-24 14:30:00)</title>
-  </programme>
-  <programme start="20260924143000 +0000" stop="20260924213000 +0000" channel="Peacock_003">
-    <title>Home Feed: NYM at TEX (2026-09-24 14:30:00)</title>
-  </programme>
-  <programme start="20260924143000 +0000" stop="20260924183000 +0000" channel="Peacock_004">
-    <title>Home Feed: NYM at TEX (2026-09-24 14:30:00)</title>
-  </programme>
-  <programme start="20260924143000 +0000" stop="20260924213000 +0000" channel="Peacock_004">
-    <title>Home Feed: NYM at TEX (2026-09-24 14:30:00)</title>
-  </programme>
-  <programme start="20260924143005 +0000" stop="20260924183005 +0000" channel="Peacock_004">
-    <title>Away Feed: NYM at TEX (2026-09-24 14:30:05)</title>
-  </programme>
-  <programme start="20260924143005 +0000" stop="20260924183005 +0000" channel="Peacock_005">
-    <title>Away Feed: NYM at TEX (2026-09-24 14:30:05)</title>
-  </programme>
-  <programme start="20260924143005 +0000" stop="20260924213000 +0000" channel="Peacock_005">
-    <title>Away Feed: NYM at TEX (2026-09-24 14:30:05)</title>
-  </programme>
   <programme start="20260925183000 +0000" stop="20260925223000 +0000" channel="Peacock_005">
     <title>Away Feed: TB at PHI (2026-09-25 18:30:00)</title>
   </programme>
@@ -135,12 +114,6 @@
   <programme start="20260925183005 +0000" stop="20260925223005 +0000" channel="Peacock_006">
     <title>Home Feed: TB at PHI (2026-09-25 18:30:05)</title>
   </programme>
-  <programme start="20260924143000 +0000" stop="20260924183000 +0000" channel="Peacock_007">
-    <title>Home Feed: NYM at TEX (2026-09-24 14:30:00)</title>
-  </programme>
-  <programme start="20260924143000 +0000" stop="20260924213000 +0000" channel="Peacock_007">
-    <title>Home Feed: NYM at TEX (2026-09-24 14:30:00)</title>
-  </programme>
   <programme start="20260925183005 +0000" stop="20260925223005 +0000" channel="Peacock_007">
     <title>Home Feed: TB at PHI (2026-09-25 18:30:05)</title>
   </programme>
@@ -149,12 +122,6 @@
   </programme>
   <programme start="20260925193000 +0000" stop="20260925233000 +0000" channel="Peacock_007">
     <title>Lexington SC v. Trinity FC (2026-09-25 19:30:00)</title>
-  </programme>
-  <programme start="20260924143005 +0000" stop="20260924183005 +0000" channel="Peacock_008">
-    <title>Away Feed: NYM at TEX (2026-09-24 14:30:05)</title>
-  </programme>
-  <programme start="20260924143005 +0000" stop="20260924213000 +0000" channel="Peacock_008">
-    <title>Away Feed: NYM at TEX (2026-09-24 14:30:05)</title>
   </programme>
   <programme start="20260925193000 +0000" stop="20260925233000 +0000" channel="Peacock_008">
     <title>Lexington SC v. Trinity FC (2026-09-25 19:30:00)</title>
@@ -372,12 +339,6 @@
   <programme start="20260927090000 +0000" stop="20260927164500 +0000" channel="Peacock_020">
     <title>Acrobatic Champs: Finals Day 2 (2026-09-27 09:00:00)</title>
   </programme>
-  <programme start="20260924143000 +0000" stop="20260924183000 +0000" channel="Peacock_021">
-    <title>Home Feed: NYM at TEX (2026-09-24 14:30:00)</title>
-  </programme>
-  <programme start="20260924143000 +0000" stop="20260924213000 +0000" channel="Peacock_021">
-    <title>Home Feed: NYM at TEX (2026-09-24 14:30:00)</title>
-  </programme>
   <programme start="20260926190005 +0000" stop="20260926230005 +0000" channel="Peacock_021">
     <title>Oregon vs. USC (2026-09-26 19:00:05)</title>
   </programme>
@@ -395,12 +356,6 @@
   </programme>
   <programme start="20260927120000 +0000" stop="20260927220000 +0000" channel="Peacock_021">
     <title>Presidents Cup: Day 4 (2026-09-27 12:00:00)</title>
-  </programme>
-  <programme start="20260924143005 +0000" stop="20260924183005 +0000" channel="Peacock_022">
-    <title>Away Feed: NYM at TEX (2026-09-24 14:30:05)</title>
-  </programme>
-  <programme start="20260924143005 +0000" stop="20260924213000 +0000" channel="Peacock_022">
-    <title>Away Feed: NYM at TEX (2026-09-24 14:30:05)</title>
   </programme>
   <programme start="20260927050000 +0000" stop="20260927090000 +0000" channel="Peacock_022">
     <title>Acrobatic World Champs: Day 3 (2026-09-27 05:00:00)</title>
@@ -537,23 +492,11 @@
   <programme start="20260926190005 +0000" stop="20260927010000 +0000" channel="Peacock_035">
     <title>Ascent FC v. Sporting JAX (2026-09-26 19:00:05)</title>
   </programme>
-  <programme start="20260924143000 +0000" stop="20260924183000 +0000" channel="Peacock_036">
-    <title>Away Feed: NYM at TEX (2026-09-24 14:30:00)</title>
-  </programme>
-  <programme start="20260924143000 +0000" stop="20260924213000 +0000" channel="Peacock_036">
-    <title>Away Feed: NYM at TEX (2026-09-24 14:30:00)</title>
-  </programme>
   <programme start="20260927050000 +0000" stop="20260927090000 +0000" channel="Peacock_036">
     <title>Acrobatic World Champs: Day 3 (2026-09-27 05:00:00)</title>
   </programme>
   <programme start="20260927050000 +0000" stop="20260927114000 +0000" channel="Peacock_036">
     <title>Acrobatic World Champs: Day 3 (2026-09-27 05:00:00)</title>
-  </programme>
-  <programme start="20260924143005 +0000" stop="20260924183005 +0000" channel="Peacock_037">
-    <title>Home Feed: NYM at TEX (2026-09-24 14:30:05)</title>
-  </programme>
-  <programme start="20260924143005 +0000" stop="20260924213000 +0000" channel="Peacock_037">
-    <title>Home Feed: NYM at TEX (2026-09-24 14:30:05)</title>
   </programme>
   <programme start="20260927090000 +0000" stop="20260927130000 +0000" channel="Peacock_037">
     <title>Acrobatic Champs: Finals Day 2 (2026-09-27 09:00:00)</title>
@@ -633,12 +576,6 @@
   <programme start="20260929200000 +0000" stop="20260930030000 +0000" channel="Peacock_043">
     <title>MLB Wild Card Round (2026-09-29 20:00:00)</title>
   </programme>
-  <programme start="20260924143000 +0000" stop="20260924183000 +0000" channel="Peacock_044">
-    <title>Away Feed: NYM at TEX (2026-09-24 14:30:00)</title>
-  </programme>
-  <programme start="20260924143000 +0000" stop="20260924213000 +0000" channel="Peacock_044">
-    <title>Away Feed: NYM at TEX (2026-09-24 14:30:00)</title>
-  </programme>
   <programme start="20260926160005 +0000" stop="20260926200005 +0000" channel="Peacock_044">
     <title>Home Feed: LAD at SF (2026-09-26 16:00:05)</title>
   </programme>
@@ -651,23 +588,17 @@
   <programme start="20260929210000 +0000" stop="20260930050000 +0000" channel="Peacock_044">
     <title>MLB Wild Card Round (2026-09-29 21:00:00)</title>
   </programme>
-  <programme start="20260924143005 +0000" stop="20260924183005 +0000" channel="Peacock_045">
-    <title>Home Feed: NYM at TEX (2026-09-24 14:30:05)</title>
-  </programme>
-  <programme start="20260924143005 +0000" stop="20260924213000 +0000" channel="Peacock_045">
-    <title>Home Feed: NYM at TEX (2026-09-24 14:30:05)</title>
-  </programme>
   <programme start="20260926183000 +0000" stop="20260926223000 +0000" channel="Peacock_045">
     <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
   <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_045">
     <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
-  <programme start="20260924143000 +0000" stop="20260924183000 +0000" channel="Peacock_046">
-    <title>Home Feed: NYM at TEX (2026-09-24 14:30:00)</title>
+  <programme start="20260930133000 +0000" stop="20260930173000 +0000" channel="Peacock_045">
+    <title>MLB Wild Card Round (2026-09-30 13:30:00)</title>
   </programme>
-  <programme start="20260924143000 +0000" stop="20260924213000 +0000" channel="Peacock_046">
-    <title>Home Feed: NYM at TEX (2026-09-24 14:30:00)</title>
+  <programme start="20260930133000 +0000" stop="20260930210000 +0000" channel="Peacock_045">
+    <title>MLB Wild Card Round (2026-09-30 13:30:00)</title>
   </programme>
   <programme start="20260925183000 +0000" stop="20260925223000 +0000" channel="Peacock_046">
     <title>Home Feed: TB at PHI (2026-09-25 18:30:00)</title>
@@ -681,11 +612,11 @@
   <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_046">
     <title>B1G Saturday Night: Week 4 (2026-09-26 19:00:00)</title>
   </programme>
-  <programme start="20260924143005 +0000" stop="20260924183005 +0000" channel="Peacock_047">
-    <title>Away Feed: NYM at TEX (2026-09-24 14:30:05)</title>
+  <programme start="20260930170000 +0000" stop="20260930210000 +0000" channel="Peacock_046">
+    <title>MLB Wild Card Round (2026-09-30 17:00:00)</title>
   </programme>
-  <programme start="20260924143005 +0000" stop="20260924213000 +0000" channel="Peacock_047">
-    <title>Away Feed: NYM at TEX (2026-09-24 14:30:05)</title>
+  <programme start="20260930170000 +0000" stop="20261001010000 +0000" channel="Peacock_046">
+    <title>MLB Wild Card Round (2026-09-30 17:00:00)</title>
   </programme>
   <programme start="20260925183005 +0000" stop="20260925223005 +0000" channel="Peacock_047">
     <title>Away Feed: TB at PHI (2026-09-25 18:30:05)</title>
@@ -698,6 +629,12 @@
   </programme>
   <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_047">
     <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  </programme>
+  <programme start="20260930200000 +0000" stop="20261001000000 +0000" channel="Peacock_047">
+    <title>MLB Wild Card Round (2026-09-30 20:00:00)</title>
+  </programme>
+  <programme start="20260930200000 +0000" stop="20261001030000 +0000" channel="Peacock_047">
+    <title>MLB Wild Card Round (2026-09-30 20:00:00)</title>
   </programme>
   <programme start="20260925183000 +0000" stop="20260925223000 +0000" channel="Peacock_048">
     <title>Away Feed: TB at PHI (2026-09-25 18:30:00)</title>
@@ -717,11 +654,11 @@
   <programme start="20260927190000 +0000" stop="20260928033000 +0000" channel="Peacock_048">
     <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
   </programme>
-  <programme start="20260924143000 +0000" stop="20260924183000 +0000" channel="Peacock_049">
-    <title>Away Feed: NYM at TEX (2026-09-24 14:30:00)</title>
+  <programme start="20260930210000 +0000" stop="20261001010000 +0000" channel="Peacock_048">
+    <title>MLB Wild Card Round (2026-09-30 21:00:00)</title>
   </programme>
-  <programme start="20260924143000 +0000" stop="20260924213000 +0000" channel="Peacock_049">
-    <title>Away Feed: NYM at TEX (2026-09-24 14:30:00)</title>
+  <programme start="20260930210000 +0000" stop="20261001053000 +0000" channel="Peacock_048">
+    <title>MLB Wild Card Round (2026-09-30 21:00:00)</title>
   </programme>
   <programme start="20260925183005 +0000" stop="20260925223005 +0000" channel="Peacock_049">
     <title>Home Feed: TB at PHI (2026-09-25 18:30:05)</title>
@@ -741,15 +678,6 @@
   <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_049">
     <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
   </programme>
-  <programme start="20260924143000 +0000" stop="20260924183000 +0000" channel="Peacock_050">
-    <title>Home Feed: NYM at TEX (2026-09-24 14:30:00)</title>
-  </programme>
-  <programme start="20260924143005 +0000" stop="20260924183005 +0000" channel="Peacock_050">
-    <title>Home Feed: NYM at TEX (2026-09-24 14:30:05)</title>
-  </programme>
-  <programme start="20260924143005 +0000" stop="20260924213000 +0000" channel="Peacock_050">
-    <title>Home Feed: NYM at TEX (2026-09-24 14:30:05)</title>
-  </programme>
   <programme start="20260925193000 +0000" stop="20260925233000 +0000" channel="Peacock_050">
     <title>Lexington SC v. Trinity FC (2026-09-25 19:30:00)</title>
   </programme>
@@ -761,12 +689,6 @@
   </programme>
   <programme start="20260926160000 +0000" stop="20260926230000 +0000" channel="Peacock_050">
     <title>Away Feed: LAD at SF (2026-09-26 16:00:00)</title>
-  </programme>
-  <programme start="20260924143005 +0000" stop="20260924183005 +0000" channel="Peacock_051">
-    <title>Away Feed: NYM at TEX (2026-09-24 14:30:05)</title>
-  </programme>
-  <programme start="20260924143005 +0000" stop="20260924213000 +0000" channel="Peacock_051">
-    <title>Away Feed: NYM at TEX (2026-09-24 14:30:05)</title>
   </programme>
   <programme start="20260925183000 +0000" stop="20260925223000 +0000" channel="Peacock_051">
     <title>Home Feed: TB at PHI (2026-09-25 18:30:00)</title>
@@ -831,12 +753,6 @@
   <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_053">
     <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
-  <programme start="20260924143000 +0000" stop="20260924183000 +0000" channel="Peacock_054">
-    <title>Away Feed: NYM at TEX (2026-09-24 14:30:00)</title>
-  </programme>
-  <programme start="20260924143000 +0000" stop="20260924213000 +0000" channel="Peacock_054">
-    <title>Away Feed: NYM at TEX (2026-09-24 14:30:00)</title>
-  </programme>
   <programme start="20260925193000 +0000" stop="20260925233000 +0000" channel="Peacock_054">
     <title>Lexington SC v. Trinity FC (2026-09-25 19:30:00)</title>
   </programme>
@@ -861,12 +777,6 @@
   <programme start="20260926190000 +0000" stop="20260927030000 +0000" channel="Peacock_054">
     <title>Oregon vs. USC (2026-09-26 19:00:00)</title>
   </programme>
-  <programme start="20260924143005 +0000" stop="20260924183005 +0000" channel="Peacock_055">
-    <title>Home Feed: NYM at TEX (2026-09-24 14:30:05)</title>
-  </programme>
-  <programme start="20260924143005 +0000" stop="20260924213000 +0000" channel="Peacock_055">
-    <title>Home Feed: NYM at TEX (2026-09-24 14:30:05)</title>
-  </programme>
   <programme start="20260926050000 +0000" stop="20260926090000 +0000" channel="Peacock_055">
     <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
   </programme>
@@ -887,12 +797,6 @@
   </programme>
   <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_055">
     <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
-  </programme>
-  <programme start="20260924143000 +0000" stop="20260924183000 +0000" channel="Peacock_056">
-    <title>Home Feed: NYM at TEX (2026-09-24 14:30:00)</title>
-  </programme>
-  <programme start="20260924143000 +0000" stop="20260924213000 +0000" channel="Peacock_056">
-    <title>Home Feed: NYM at TEX (2026-09-24 14:30:00)</title>
   </programme>
   <programme start="20260925183000 +0000" stop="20260925223000 +0000" channel="Peacock_056">
     <title>Home Feed: TB at PHI (2026-09-25 18:30:00)</title>
@@ -920,12 +824,6 @@
   </programme>
   <programme start="20260927190000 +0000" stop="20260928033000 +0000" channel="Peacock_056">
     <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
-  </programme>
-  <programme start="20260924143005 +0000" stop="20260924183005 +0000" channel="Peacock_057">
-    <title>Away Feed: NYM at TEX (2026-09-24 14:30:05)</title>
-  </programme>
-  <programme start="20260924143005 +0000" stop="20260924213000 +0000" channel="Peacock_057">
-    <title>Away Feed: NYM at TEX (2026-09-24 14:30:05)</title>
   </programme>
   <programme start="20260925183005 +0000" stop="20260925223005 +0000" channel="Peacock_057">
     <title>Away Feed: TB at PHI (2026-09-25 18:30:05)</title>
@@ -1158,12 +1056,6 @@
   <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_065">
     <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
   </programme>
-  <programme start="20260924143000 +0000" stop="20260924183000 +0000" channel="Peacock_066">
-    <title>Away Feed: NYM at TEX (2026-09-24 14:30:00)</title>
-  </programme>
-  <programme start="20260924143000 +0000" stop="20260924213000 +0000" channel="Peacock_066">
-    <title>Away Feed: NYM at TEX (2026-09-24 14:30:00)</title>
-  </programme>
   <programme start="20260926160005 +0000" stop="20260926200005 +0000" channel="Peacock_066">
     <title>Away Feed: LAD at SF (2026-09-26 16:00:05)</title>
   </programme>
@@ -1184,12 +1076,6 @@
   </programme>
   <programme start="20260929133000 +0000" stop="20260929210000 +0000" channel="Peacock_066">
     <title>MLB Wild Card Round (2026-09-29 13:30:00)</title>
-  </programme>
-  <programme start="20260924143005 +0000" stop="20260924183005 +0000" channel="Peacock_067">
-    <title>Home Feed: NYM at TEX (2026-09-24 14:30:05)</title>
-  </programme>
-  <programme start="20260924143005 +0000" stop="20260924213000 +0000" channel="Peacock_067">
-    <title>Home Feed: NYM at TEX (2026-09-24 14:30:05)</title>
   </programme>
   <programme start="20260926170000 +0000" stop="20260926210000 +0000" channel="Peacock_067">
     <title>Wisconsin vs. Penn State (2026-09-26 17:00:00)</title>
@@ -1323,6 +1209,12 @@
   <programme start="20260929170000 +0000" stop="20260930010000 +0000" channel="Peacock_070">
     <title>MLB Wild Card Round (2026-09-29 17:00:00)</title>
   </programme>
+  <programme start="20260930133000 +0000" stop="20260930173000 +0000" channel="Peacock_070">
+    <title>MLB Wild Card Round (2026-09-30 13:30:00)</title>
+  </programme>
+  <programme start="20260930133000 +0000" stop="20260930210000 +0000" channel="Peacock_070">
+    <title>MLB Wild Card Round (2026-09-30 13:30:00)</title>
+  </programme>
   <programme start="20260926130000 +0000" stop="20260926170000 +0000" channel="Peacock_071">
     <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
@@ -1359,6 +1251,12 @@
   <programme start="20260929210000 +0000" stop="20260930040000 +0000" channel="Peacock_071">
     <title>MLB Wild Card Round (2026-09-29 21:00:00)</title>
   </programme>
+  <programme start="20260930170000 +0000" stop="20260930210000 +0000" channel="Peacock_071">
+    <title>MLB Wild Card Round (2026-09-30 17:00:00)</title>
+  </programme>
+  <programme start="20260930170000 +0000" stop="20261001010000 +0000" channel="Peacock_071">
+    <title>MLB Wild Card Round (2026-09-30 17:00:00)</title>
+  </programme>
   <programme start="20260926153000 +0000" stop="20260926193000 +0000" channel="Peacock_072">
     <title>B1G Saturday: Week 4 (2026-09-26 15:30:00)</title>
   </programme>
@@ -1380,6 +1278,18 @@
   <programme start="20260927090000 +0000" stop="20260927164500 +0000" channel="Peacock_072">
     <title>Acrobatic Champs: Finals Day 2 (2026-09-27 09:00:00)</title>
   </programme>
+  <programme start="20260930170000 +0000" stop="20260930210000 +0000" channel="Peacock_072">
+    <title>MLB Wild Card Round (2026-09-30 17:00:00)</title>
+  </programme>
+  <programme start="20260930170000 +0000" stop="20261001010000 +0000" channel="Peacock_072">
+    <title>MLB Wild Card Round (2026-09-30 17:00:00)</title>
+  </programme>
+  <programme start="20260930200000 +0000" stop="20261001000000 +0000" channel="Peacock_072">
+    <title>MLB Wild Card Round (2026-09-30 20:00:00)</title>
+  </programme>
+  <programme start="20260930200000 +0000" stop="20261001030000 +0000" channel="Peacock_072">
+    <title>MLB Wild Card Round (2026-09-30 20:00:00)</title>
+  </programme>
   <programme start="20260926160000 +0000" stop="20260926200000 +0000" channel="Peacock_073">
     <title>Away Feed: LAD at SF (2026-09-26 16:00:00)</title>
   </programme>
@@ -1394,6 +1304,12 @@
   </programme>
   <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_073">
     <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  </programme>
+  <programme start="20260930210000 +0000" stop="20261001010000 +0000" channel="Peacock_073">
+    <title>MLB Wild Card Round (2026-09-30 21:00:00)</title>
+  </programme>
+  <programme start="20260930210000 +0000" stop="20261001040000 +0000" channel="Peacock_073">
+    <title>MLB Wild Card Round (2026-09-30 21:00:00)</title>
   </programme>
   <programme start="20260926113000 +0000" stop="20260926153000 +0000" channel="Peacock_074">
     <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
