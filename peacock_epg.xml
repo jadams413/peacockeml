@@ -99,38 +99,29 @@
   <channel id="Peacock_098"><display-name>Peacock 098</display-name></channel>
   <channel id="Peacock_099"><display-name>Peacock 099</display-name></channel>
   <channel id="Peacock_100"><display-name>Peacock 100</display-name></channel>
-  <programme start="20260926050000 +0000" stop="20260926090000 +0000" channel="Peacock_006">
-    <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
-  </programme>
-  <programme start="20260926050000 +0000" stop="20260926105000 +0000" channel="Peacock_006">
-    <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
-  </programme>
-  <programme start="20260926090000 +0000" stop="20260926130000 +0000" channel="Peacock_007">
+  <programme start="20260926090000 +0000" stop="20260926230000 +0000" channel="Peacock_005">
     <title>Presidents Cup: Day 3 (2026-09-26 09:00:00)</title>
+  </programme>
+  <programme start="20260926100000 +0000" stop="20260926175000 +0000" channel="Peacock_006">
+    <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
   </programme>
   <programme start="20260926090000 +0000" stop="20260926230000 +0000" channel="Peacock_007">
     <title>Presidents Cup: Day 3 (2026-09-26 09:00:00)</title>
   </programme>
-  <programme start="20260926050000 +0000" stop="20260926090000 +0000" channel="Peacock_008">
-    <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
+  <programme start="20260926130000 +0000" stop="20260926170000 +0000" channel="Peacock_007">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
-  <programme start="20260926050000 +0000" stop="20260926105000 +0000" channel="Peacock_008">
-    <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
-  </programme>
-  <programme start="20260926100000 +0000" stop="20260926140000 +0000" channel="Peacock_008">
-    <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
+  <programme start="20260926130000 +0000" stop="20260926203000 +0000" channel="Peacock_007">
+    <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
   <programme start="20260926100000 +0000" stop="20260926175000 +0000" channel="Peacock_008">
     <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
   </programme>
-  <programme start="20260926050000 +0000" stop="20260926090000 +0000" channel="Peacock_009">
-    <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
+  <programme start="20260926133000 +0000" stop="20260926173000 +0000" channel="Peacock_008">
+    <title>Notre Dame vs. Purdue (2026-09-26 13:30:00)</title>
   </programme>
-  <programme start="20260926050000 +0000" stop="20260926105000 +0000" channel="Peacock_009">
-    <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
-  </programme>
-  <programme start="20260926090000 +0000" stop="20260926130000 +0000" channel="Peacock_009">
-    <title>Presidents Cup: Day 3 (2026-09-26 09:00:00)</title>
+  <programme start="20260926133000 +0000" stop="20260926213000 +0000" channel="Peacock_008">
+    <title>Notre Dame vs. Purdue (2026-09-26 13:30:00)</title>
   </programme>
   <programme start="20260926090000 +0000" stop="20260926230000 +0000" channel="Peacock_009">
     <title>Presidents Cup: Day 3 (2026-09-26 09:00:00)</title>
@@ -141,14 +132,11 @@
   <programme start="20260926130000 +0000" stop="20260926203000 +0000" channel="Peacock_009">
     <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
   </programme>
-  <programme start="20260926090000 +0000" stop="20260926130000 +0000" channel="Peacock_010">
-    <title>Presidents Cup: Day 3 (2026-09-26 09:00:00)</title>
+  <programme start="20260926160000 +0000" stop="20260926200000 +0000" channel="Peacock_009">
+    <title>Home Feed: LAD at SF (2026-09-26 16:00:00)</title>
   </programme>
   <programme start="20260926090000 +0000" stop="20260926230000 +0000" channel="Peacock_010">
     <title>Presidents Cup: Day 3 (2026-09-26 09:00:00)</title>
-  </programme>
-  <programme start="20260926100000 +0000" stop="20260926140000 +0000" channel="Peacock_010">
-    <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
   </programme>
   <programme start="20260926100000 +0000" stop="20260926175000 +0000" channel="Peacock_010">
     <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
@@ -159,8 +147,8 @@
   <programme start="20260926133000 +0000" stop="20260926213000 +0000" channel="Peacock_010">
     <title>Notre Dame vs. Purdue (2026-09-26 13:30:00)</title>
   </programme>
-  <programme start="20260926100000 +0000" stop="20260926140000 +0000" channel="Peacock_011">
-    <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
+  <programme start="20260926160005 +0000" stop="20260926200005 +0000" channel="Peacock_010">
+    <title>Away Feed: LAD at SF (2026-09-26 16:00:05)</title>
   </programme>
   <programme start="20260926100000 +0000" stop="20260926175000 +0000" channel="Peacock_011">
     <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
@@ -177,11 +165,11 @@
   <programme start="20260926160000 +0000" stop="20260926230000 +0000" channel="Peacock_011">
     <title>Home Feed: LAD at SF (2026-09-26 16:00:00)</title>
   </programme>
-  <programme start="20260926050000 +0000" stop="20260926090000 +0000" channel="Peacock_012">
-    <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
+  <programme start="20260926170000 +0000" stop="20260926210000 +0000" channel="Peacock_011">
+    <title>Wisconsin vs. Penn State (2026-09-26 17:00:00)</title>
   </programme>
-  <programme start="20260926050000 +0000" stop="20260926105000 +0000" channel="Peacock_012">
-    <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
+  <programme start="20260926170000 +0000" stop="20260927003000 +0000" channel="Peacock_011">
+    <title>Wisconsin vs. Penn State (2026-09-26 17:00:00)</title>
   </programme>
   <programme start="20260926130000 +0000" stop="20260926170000 +0000" channel="Peacock_012">
     <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
@@ -201,8 +189,11 @@
   <programme start="20260926160005 +0000" stop="20260926230000 +0000" channel="Peacock_012">
     <title>Away Feed: LAD at SF (2026-09-26 16:00:05)</title>
   </programme>
-  <programme start="20260926100000 +0000" stop="20260926140000 +0000" channel="Peacock_013">
-    <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
+  <programme start="20260926183000 +0000" stop="20260926223000 +0000" channel="Peacock_012">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
+  </programme>
+  <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_012">
+    <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
   <programme start="20260926100000 +0000" stop="20260926175000 +0000" channel="Peacock_013">
     <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
@@ -246,6 +237,12 @@
   <programme start="20260926183000 +0000" stop="20260927023000 +0000" channel="Peacock_014">
     <title>World Championship Final (2026-09-26 18:30:00)</title>
   </programme>
+  <programme start="20260926190005 +0000" stop="20260926230005 +0000" channel="Peacock_014">
+    <title>Ascent FC v. Sporting JAX (2026-09-26 19:00:05)</title>
+  </programme>
+  <programme start="20260926190005 +0000" stop="20260927010000 +0000" channel="Peacock_014">
+    <title>Ascent FC v. Sporting JAX (2026-09-26 19:00:05)</title>
+  </programme>
   <programme start="20260926133000 +0000" stop="20260926173000 +0000" channel="Peacock_015">
     <title>Notre Dame vs. Purdue (2026-09-26 13:30:00)</title>
   </programme>
@@ -263,6 +260,12 @@
   </programme>
   <programme start="20260926170000 +0000" stop="20260927003000 +0000" channel="Peacock_015">
     <title>Wisconsin vs. Penn State (2026-09-26 17:00:00)</title>
+  </programme>
+  <programme start="20260927050000 +0000" stop="20260927090000 +0000" channel="Peacock_015">
+    <title>Acrobatic World Champs: Day 3 (2026-09-27 05:00:00)</title>
+  </programme>
+  <programme start="20260927050000 +0000" stop="20260927114000 +0000" channel="Peacock_015">
+    <title>Acrobatic World Champs: Day 3 (2026-09-27 05:00:00)</title>
   </programme>
   <programme start="20260926160000 +0000" stop="20260926200000 +0000" channel="Peacock_016">
     <title>Away Feed: LAD at SF (2026-09-26 16:00:00)</title>
@@ -288,6 +291,12 @@
   <programme start="20260926190005 +0000" stop="20260927010000 +0000" channel="Peacock_016">
     <title>Ascent FC v. Sporting JAX (2026-09-26 19:00:05)</title>
   </programme>
+  <programme start="20260927090000 +0000" stop="20260927130000 +0000" channel="Peacock_016">
+    <title>Acrobatic Champs: Finals Day 2 (2026-09-27 09:00:00)</title>
+  </programme>
+  <programme start="20260927090000 +0000" stop="20260927164500 +0000" channel="Peacock_016">
+    <title>Acrobatic Champs: Finals Day 2 (2026-09-27 09:00:00)</title>
+  </programme>
   <programme start="20260926160005 +0000" stop="20260926200005 +0000" channel="Peacock_017">
     <title>Home Feed: LAD at SF (2026-09-26 16:00:05)</title>
   </programme>
@@ -305,6 +314,12 @@
   </programme>
   <programme start="20260927050000 +0000" stop="20260927114000 +0000" channel="Peacock_017">
     <title>Acrobatic World Champs: Day 3 (2026-09-27 05:00:00)</title>
+  </programme>
+  <programme start="20260927120000 +0000" stop="20260927160000 +0000" channel="Peacock_017">
+    <title>Presidents Cup: Day 4 (2026-09-27 12:00:00)</title>
+  </programme>
+  <programme start="20260927120000 +0000" stop="20260927220000 +0000" channel="Peacock_017">
+    <title>Presidents Cup: Day 4 (2026-09-27 12:00:00)</title>
   </programme>
   <programme start="20260926170000 +0000" stop="20260926210000 +0000" channel="Peacock_018">
     <title>Wisconsin vs. Penn State (2026-09-26 17:00:00)</title>
@@ -326,6 +341,12 @@
   </programme>
   <programme start="20260927090000 +0000" stop="20260927164500 +0000" channel="Peacock_018">
     <title>Acrobatic Champs: Finals Day 2 (2026-09-27 09:00:00)</title>
+  </programme>
+  <programme start="20260927150000 +0000" stop="20260927190000 +0000" channel="Peacock_018">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  </programme>
+  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_018">
+    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
   </programme>
   <programme start="20260926183000 +0000" stop="20260926223000 +0000" channel="Peacock_019">
     <title>World Championship Final (2026-09-26 18:30:00)</title>
@@ -351,6 +372,12 @@
   <programme start="20260927120000 +0000" stop="20260927220000 +0000" channel="Peacock_019">
     <title>Presidents Cup: Day 4 (2026-09-27 12:00:00)</title>
   </programme>
+  <programme start="20260927190000 +0000" stop="20260927230000 +0000" channel="Peacock_019">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  </programme>
+  <programme start="20260927190000 +0000" stop="20260928033000 +0000" channel="Peacock_019">
+    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  </programme>
   <programme start="20260926190000 +0000" stop="20260926230000 +0000" channel="Peacock_020">
     <title>Ascent FC v. Sporting JAX (2026-09-26 19:00:00)</title>
   </programme>
@@ -374,6 +401,12 @@
   </programme>
   <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_020">
     <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  </programme>
+  <programme start="20260927233000 +0000" stop="20260928033000 +0000" channel="Peacock_020">
+    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
+  </programme>
+  <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_020">
+    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
   </programme>
   <programme start="20260926190005 +0000" stop="20260926230005 +0000" channel="Peacock_021">
     <title>Oregon vs. USC (2026-09-26 19:00:05)</title>
@@ -399,6 +432,12 @@
   <programme start="20260927190000 +0000" stop="20260928033000 +0000" channel="Peacock_021">
     <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
   </programme>
+  <programme start="20261001090000 +0000" stop="20261001130000 +0000" channel="Peacock_021">
+    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
+  </programme>
+  <programme start="20261001090000 +0000" stop="20261001170000 +0000" channel="Peacock_021">
+    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
+  </programme>
   <programme start="20260927050000 +0000" stop="20260927090000 +0000" channel="Peacock_022">
     <title>Acrobatic World Champs: Day 3 (2026-09-27 05:00:00)</title>
   </programme>
@@ -419,6 +458,12 @@
   </programme>
   <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_022">
     <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
+  </programme>
+  <programme start="20261001110000 +0000" stop="20261001150000 +0000" channel="Peacock_022">
+    <title>Swimming WC: Baku Day 1 (2026-10-01 11:00:00)</title>
+  </programme>
+  <programme start="20261001110000 +0000" stop="20261001164000 +0000" channel="Peacock_022">
+    <title>Swimming WC: Baku Day 1 (2026-10-01 11:00:00)</title>
   </programme>
   <programme start="20260927090000 +0000" stop="20260927130000 +0000" channel="Peacock_023">
     <title>Acrobatic Champs: Finals Day 2 (2026-09-27 09:00:00)</title>
@@ -444,6 +489,12 @@
   <programme start="20261001090000 +0000" stop="20261001170000 +0000" channel="Peacock_023">
     <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
   </programme>
+  <programme start="20261001130500 +0000" stop="20261001170500 +0000" channel="Peacock_023">
+    <title>IMSA VPRC Road Atlanta</title>
+  </programme>
+  <programme start="20261001130500 +0000" stop="20261001175500 +0000" channel="Peacock_023">
+    <title>IMSA VPRC Road Atlanta</title>
+  </programme>
   <programme start="20260927150000 +0000" stop="20260927190000 +0000" channel="Peacock_024">
     <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
   </programme>
@@ -461,6 +512,12 @@
   </programme>
   <programme start="20261001110000 +0000" stop="20261001164000 +0000" channel="Peacock_024">
     <title>Swimming WC: Baku Day 1 (2026-10-01 11:00:00)</title>
+  </programme>
+  <programme start="20261001133000 +0000" stop="20261001173000 +0000" channel="Peacock_024">
+    <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
+  </programme>
+  <programme start="20261001133000 +0000" stop="20261001210000 +0000" channel="Peacock_024">
+    <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
   </programme>
   <programme start="20260927190000 +0000" stop="20260927230000 +0000" channel="Peacock_025">
     <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
@@ -480,11 +537,11 @@
   <programme start="20261001133000 +0000" stop="20261001210000 +0000" channel="Peacock_025">
     <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
   </programme>
-  <programme start="20260926050000 +0000" stop="20260926090000 +0000" channel="Peacock_026">
-    <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
+  <programme start="20261001172000 +0000" stop="20261001212000 +0000" channel="Peacock_025">
+    <title>IMSA Carrera Cup Road Atlanta 1 (2026-10-01 17:20:00)</title>
   </programme>
-  <programme start="20260926050000 +0000" stop="20260926105000 +0000" channel="Peacock_026">
-    <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
+  <programme start="20261001172000 +0000" stop="20261001220500 +0000" channel="Peacock_025">
+    <title>IMSA Carrera Cup Road Atlanta 1 (2026-10-01 17:20:00)</title>
   </programme>
   <programme start="20260927233000 +0000" stop="20260928033000 +0000" channel="Peacock_026">
     <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
@@ -504,8 +561,11 @@
   <programme start="20261001110000 +0000" stop="20261001164000 +0000" channel="Peacock_026">
     <title>Swimming WC: Baku Day 1 (2026-10-01 11:00:00)</title>
   </programme>
-  <programme start="20260926100000 +0000" stop="20260926140000 +0000" channel="Peacock_027">
-    <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
+  <programme start="20261002082500 +0000" stop="20261002122500 +0000" channel="Peacock_026">
+    <title>IMSA VPRC Road Atlanta</title>
+  </programme>
+  <programme start="20261002082500 +0000" stop="20261002131500 +0000" channel="Peacock_026">
+    <title>IMSA VPRC Road Atlanta</title>
   </programme>
   <programme start="20260926100000 +0000" stop="20260926175000 +0000" channel="Peacock_027">
     <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
@@ -617,9 +677,6 @@
   </programme>
   <programme start="20260927190000 +0000" stop="20260928033000 +0000" channel="Peacock_039">
     <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
-  </programme>
-  <programme start="20260926113000 +0000" stop="20260926153000 +0000" channel="Peacock_040">
-    <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
   </programme>
   <programme start="20260926113000 +0000" stop="20260926193000 +0000" channel="Peacock_040">
     <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
@@ -768,12 +825,6 @@
   <programme start="20261001095200 +0000" stop="20261001153500 +0000" channel="Peacock_050">
     <title>Swimming WC: Baku Day 1 (2026-10-01 09:52:00)</title>
   </programme>
-  <programme start="20260926050000 +0000" stop="20260926090000 +0000" channel="Peacock_051">
-    <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
-  </programme>
-  <programme start="20260926050000 +0000" stop="20260926105000 +0000" channel="Peacock_051">
-    <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
-  </programme>
   <programme start="20260926160005 +0000" stop="20260926200005 +0000" channel="Peacock_051">
     <title>Home Feed: LAD at SF (2026-09-26 16:00:05)</title>
   </programme>
@@ -792,9 +843,6 @@
   <programme start="20261001113000 +0000" stop="20261001190000 +0000" channel="Peacock_051">
     <title>MLB Wild Card Round (2026-10-01 11:30:00)</title>
   </programme>
-  <programme start="20260926100000 +0000" stop="20260926140000 +0000" channel="Peacock_052">
-    <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
-  </programme>
   <programme start="20260926100000 +0000" stop="20260926175000 +0000" channel="Peacock_052">
     <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
   </programme>
@@ -809,9 +857,6 @@
   </programme>
   <programme start="20261001133000 +0000" stop="20261001210000 +0000" channel="Peacock_052">
     <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
-  </programme>
-  <programme start="20260926113000 +0000" stop="20260926153000 +0000" channel="Peacock_053">
-    <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
   </programme>
   <programme start="20260926113000 +0000" stop="20260926193000 +0000" channel="Peacock_053">
     <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
@@ -858,12 +903,6 @@
   <programme start="20261001170000 +0000" stop="20261002000000 +0000" channel="Peacock_054">
     <title>MLB Wild Card Round (2026-10-01 17:00:00)</title>
   </programme>
-  <programme start="20260926050000 +0000" stop="20260926090000 +0000" channel="Peacock_055">
-    <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
-  </programme>
-  <programme start="20260926050000 +0000" stop="20260926105000 +0000" channel="Peacock_055">
-    <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
-  </programme>
   <programme start="20260926153000 +0000" stop="20260926193000 +0000" channel="Peacock_055">
     <title>B1G Saturday: Week 4 (2026-09-26 15:30:00)</title>
   </programme>
@@ -884,9 +923,6 @@
   </programme>
   <programme start="20261001200000 +0000" stop="20261002030000 +0000" channel="Peacock_055">
     <title>MLB Wild Card Round (2026-10-01 20:00:00)</title>
-  </programme>
-  <programme start="20260926100000 +0000" stop="20260926140000 +0000" channel="Peacock_056">
-    <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
   </programme>
   <programme start="20260926100000 +0000" stop="20260926175000 +0000" channel="Peacock_056">
     <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
@@ -930,12 +966,6 @@
   <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_057">
     <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
   </programme>
-  <programme start="20260926050000 +0000" stop="20260926090000 +0000" channel="Peacock_058">
-    <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
-  </programme>
-  <programme start="20260926050000 +0000" stop="20260926105000 +0000" channel="Peacock_058">
-    <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
-  </programme>
   <programme start="20260926133000 +0000" stop="20260926173000 +0000" channel="Peacock_058">
     <title>Notre Dame vs. Purdue (2026-09-26 13:30:00)</title>
   </programme>
@@ -953,9 +983,6 @@
   </programme>
   <programme start="20261001090000 +0000" stop="20261001170000 +0000" channel="Peacock_058">
     <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
-  </programme>
-  <programme start="20260926100000 +0000" stop="20260926140000 +0000" channel="Peacock_059">
-    <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
   </programme>
   <programme start="20260926100000 +0000" stop="20260926175000 +0000" channel="Peacock_059">
     <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
@@ -1005,12 +1032,6 @@
   <programme start="20261001133000 +0000" stop="20261001210000 +0000" channel="Peacock_060">
     <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
   </programme>
-  <programme start="20260926050000 +0000" stop="20260926090000 +0000" channel="Peacock_061">
-    <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
-  </programme>
-  <programme start="20260926050000 +0000" stop="20260926105000 +0000" channel="Peacock_061">
-    <title>Acrobatic World Champs: Day 2 (2026-09-26 05:00:00)</title>
-  </programme>
   <programme start="20260926133000 +0000" stop="20260926173000 +0000" channel="Peacock_061">
     <title>Notre Dame vs. Purdue (2026-09-26 13:30:00)</title>
   </programme>
@@ -1034,9 +1055,6 @@
   </programme>
   <programme start="20260927190000 +0000" stop="20260928033000 +0000" channel="Peacock_061">
     <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
-  </programme>
-  <programme start="20260926100000 +0000" stop="20260926140000 +0000" channel="Peacock_062">
-    <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
   </programme>
   <programme start="20260926100000 +0000" stop="20260926175000 +0000" channel="Peacock_062">
     <title>Acrobatic Champs: Finals Day 1 (2026-09-26 10:00:00)</title>
@@ -1194,9 +1212,6 @@
   <programme start="20260929170000 +0000" stop="20260930010000 +0000" channel="Peacock_067">
     <title>MLB Wild Card Round (2026-09-29 17:00:00)</title>
   </programme>
-  <programme start="20260926113000 +0000" stop="20260926153000 +0000" channel="Peacock_068">
-    <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
-  </programme>
   <programme start="20260926113000 +0000" stop="20260926193000 +0000" channel="Peacock_068">
     <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
   </programme>
@@ -1220,9 +1235,6 @@
   </programme>
   <programme start="20260929200000 +0000" stop="20260930000000 +0000" channel="Peacock_068">
     <title>MLB Wild Card Round (2026-09-29 20:00:00)</title>
-  </programme>
-  <programme start="20260926113000 +0000" stop="20260926153000 +0000" channel="Peacock_069">
-    <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
   </programme>
   <programme start="20260926113000 +0000" stop="20260926193000 +0000" channel="Peacock_069">
     <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
@@ -1256,9 +1268,6 @@
   </programme>
   <programme start="20260929210000 +0000" stop="20260930050000 +0000" channel="Peacock_069">
     <title>MLB Wild Card Round (2026-09-29 21:00:00)</title>
-  </programme>
-  <programme start="20260926113000 +0000" stop="20260926153000 +0000" channel="Peacock_070">
-    <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
   </programme>
   <programme start="20260926130000 +0000" stop="20260926170000 +0000" channel="Peacock_070">
     <title>Race Day Live: Ridgedale (2026-09-26 13:00:00)</title>
@@ -1403,9 +1412,6 @@
   </programme>
   <programme start="20261001095200 +0000" stop="20261001153500 +0000" channel="Peacock_073">
     <title>Swimming WC: Baku Day 1 (2026-10-01 09:52:00)</title>
-  </programme>
-  <programme start="20260926113000 +0000" stop="20260926153000 +0000" channel="Peacock_074">
-    <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
   </programme>
   <programme start="20260926113000 +0000" stop="20260926193000 +0000" channel="Peacock_074">
     <title>B1G Saturday: Week 4 (2026-09-26 11:30:00)</title>
