@@ -98,51 +98,11 @@
   <channel id="Peacock_097"><display-name>Peacock 097</display-name></channel>
   <channel id="Peacock_098"><display-name>Peacock 098</display-name></channel>
   <channel id="Peacock_099"><display-name>Peacock 099</display-name></channel>
-  <channel id="Peacock_100"><display-name>Peacock 100</display-name></channel>
-  <programme start="20260927120000 +0000" stop="20260927220000 +0000" channel="Peacock_014">
-    <title>Presidents Cup: Day 4 (2026-09-27 12:00:00)</title>
-  </programme>
-  <programme start="20260927150000 +0000" stop="20260927190000 +0000" channel="Peacock_015">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
-  </programme>
-  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_015">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
-  </programme>
-  <programme start="20260927190000 +0000" stop="20260927230000 +0000" channel="Peacock_016">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
-  </programme>
-  <programme start="20260927190000 +0000" stop="20260928033000 +0000" channel="Peacock_016">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
-  </programme>
-  <programme start="20260927120000 +0000" stop="20260927220000 +0000" channel="Peacock_017">
-    <title>Presidents Cup: Day 4 (2026-09-27 12:00:00)</title>
-  </programme>
-  <programme start="20260927233000 +0000" stop="20260928033000 +0000" channel="Peacock_017">
-    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
-  </programme>
-  <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_017">
-    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
-  </programme>
-  <programme start="20260927150000 +0000" stop="20260927190000 +0000" channel="Peacock_018">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
-  </programme>
-  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_018">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
-  </programme>
   <programme start="20261001090000 +0000" stop="20261001130000 +0000" channel="Peacock_018">
     <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
   </programme>
   <programme start="20261001090000 +0000" stop="20261001170000 +0000" channel="Peacock_018">
     <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
-  </programme>
-  <programme start="20260927120000 +0000" stop="20260927220000 +0000" channel="Peacock_019">
-    <title>Presidents Cup: Day 4 (2026-09-27 12:00:00)</title>
-  </programme>
-  <programme start="20260927190000 +0000" stop="20260927230000 +0000" channel="Peacock_019">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
-  </programme>
-  <programme start="20260927190000 +0000" stop="20260928033000 +0000" channel="Peacock_019">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
   </programme>
   <programme start="20261001110000 +0000" stop="20261001150000 +0000" channel="Peacock_019">
     <title>Swimming WC: Baku Day 1 (2026-10-01 11:00:00)</title>
@@ -150,32 +110,11 @@
   <programme start="20261001110000 +0000" stop="20261001164000 +0000" channel="Peacock_019">
     <title>Swimming WC: Baku Day 1 (2026-10-01 11:00:00)</title>
   </programme>
-  <programme start="20260927150000 +0000" stop="20260927190000 +0000" channel="Peacock_020">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
-  </programme>
-  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_020">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
-  </programme>
-  <programme start="20260927233000 +0000" stop="20260928033000 +0000" channel="Peacock_020">
-    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
-  </programme>
-  <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_020">
-    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
-  </programme>
   <programme start="20261001130500 +0000" stop="20261001170500 +0000" channel="Peacock_020">
     <title>IMSA VPRC Road Atlanta</title>
   </programme>
   <programme start="20261001130500 +0000" stop="20261001175500 +0000" channel="Peacock_020">
     <title>IMSA VPRC Road Atlanta</title>
-  </programme>
-  <programme start="20260927120000 +0000" stop="20260927220000 +0000" channel="Peacock_021">
-    <title>Presidents Cup: Day 4 (2026-09-27 12:00:00)</title>
-  </programme>
-  <programme start="20260927190000 +0000" stop="20260927230000 +0000" channel="Peacock_021">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
-  </programme>
-  <programme start="20260927190000 +0000" stop="20260928033000 +0000" channel="Peacock_021">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
   </programme>
   <programme start="20261001090000 +0000" stop="20261001130000 +0000" channel="Peacock_021">
     <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
@@ -189,18 +128,6 @@
   <programme start="20261001133000 +0000" stop="20261001210000 +0000" channel="Peacock_021">
     <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
   </programme>
-  <programme start="20260927120000 +0000" stop="20260927220000 +0000" channel="Peacock_022">
-    <title>Presidents Cup: Day 4 (2026-09-27 12:00:00)</title>
-  </programme>
-  <programme start="20260927150000 +0000" stop="20260927190000 +0000" channel="Peacock_022">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
-  </programme>
-  <programme start="20260927233000 +0000" stop="20260928033000 +0000" channel="Peacock_022">
-    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
-  </programme>
-  <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_022">
-    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
-  </programme>
   <programme start="20261001110000 +0000" stop="20261001150000 +0000" channel="Peacock_022">
     <title>Swimming WC: Baku Day 1 (2026-10-01 11:00:00)</title>
   </programme>
@@ -212,18 +139,6 @@
   </programme>
   <programme start="20261001172000 +0000" stop="20261001220500 +0000" channel="Peacock_022">
     <title>IMSA Carrera Cup Road Atlanta 1 (2026-10-01 17:20:00)</title>
-  </programme>
-  <programme start="20260927150000 +0000" stop="20260927190000 +0000" channel="Peacock_023">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
-  </programme>
-  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_023">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
-  </programme>
-  <programme start="20260927190000 +0000" stop="20260927230000 +0000" channel="Peacock_023">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
-  </programme>
-  <programme start="20260927190000 +0000" stop="20260928033000 +0000" channel="Peacock_023">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
   </programme>
   <programme start="20261001090000 +0000" stop="20261001130000 +0000" channel="Peacock_023">
     <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
@@ -243,18 +158,6 @@
   <programme start="20261002082500 +0000" stop="20261002131500 +0000" channel="Peacock_023">
     <title>IMSA VPRC Road Atlanta</title>
   </programme>
-  <programme start="20260927150000 +0000" stop="20260927190000 +0000" channel="Peacock_024">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
-  </programme>
-  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_024">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
-  </programme>
-  <programme start="20260927190000 +0000" stop="20260927230000 +0000" channel="Peacock_024">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
-  </programme>
-  <programme start="20260927190000 +0000" stop="20260928033000 +0000" channel="Peacock_024">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
-  </programme>
   <programme start="20261001110000 +0000" stop="20261001150000 +0000" channel="Peacock_024">
     <title>Swimming WC: Baku Day 1 (2026-10-01 11:00:00)</title>
   </programme>
@@ -272,12 +175,6 @@
   </programme>
   <programme start="20261002100000 +0000" stop="20261002152500 +0000" channel="Peacock_024">
     <title>Swimming WC: Baku Day 2 (2026-10-02 10:00:00)</title>
-  </programme>
-  <programme start="20260927190000 +0000" stop="20260927230000 +0000" channel="Peacock_025">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
-  </programme>
-  <programme start="20260927190000 +0000" stop="20260928033000 +0000" channel="Peacock_025">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
   </programme>
   <programme start="20261001090000 +0000" stop="20261001130000 +0000" channel="Peacock_025">
     <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
@@ -302,12 +199,6 @@
   </programme>
   <programme start="20261002113500 +0000" stop="20261002174000 +0000" channel="Peacock_025">
     <title>IMSA MPC at Road Atlanta (2026-10-02 11:35:00)</title>
-  </programme>
-  <programme start="20260927233000 +0000" stop="20260928033000 +0000" channel="Peacock_026">
-    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
-  </programme>
-  <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_026">
-    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
   </programme>
   <programme start="20261001090000 +0000" stop="20261001130000 +0000" channel="Peacock_026">
     <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
@@ -405,6 +296,12 @@
   <programme start="20261002190000 +0000" stop="20261003010000 +0000" channel="Peacock_028">
     <title>Brooklyn FC v. FTL United (2026-10-02 19:00:00)</title>
   </programme>
+  <programme start="20261003100000 +0000" stop="20261003140000 +0000" channel="Peacock_028">
+    <title>Swimming WC: Baku Day 3 (2026-10-03 10:00:00)</title>
+  </programme>
+  <programme start="20261003100000 +0000" stop="20261003152500 +0000" channel="Peacock_028">
+    <title>Swimming WC: Baku Day 3 (2026-10-03 10:00:00)</title>
+  </programme>
   <programme start="20261001133000 +0000" stop="20261001173000 +0000" channel="Peacock_029">
     <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
   </programme>
@@ -423,6 +320,18 @@
   <programme start="20261002141500 +0000" stop="20261002193500 +0000" channel="Peacock_029">
     <title>IMSA Road Atlanta Qualifying (2026-10-02 14:15:00)</title>
   </programme>
+  <programme start="20261003100000 +0000" stop="20261003140000 +0000" channel="Peacock_029">
+    <title>Swimming WC: Baku Day 3 (2026-10-03 10:00:00)</title>
+  </programme>
+  <programme start="20261003100000 +0000" stop="20261003152500 +0000" channel="Peacock_029">
+    <title>Swimming WC: Baku Day 3 (2026-10-03 10:00:00)</title>
+  </programme>
+  <programme start="20261003190000 +0000" stop="20261003230000 +0000" channel="Peacock_029">
+    <title>Washington vs. USC (2026-10-03 19:00:00)</title>
+  </programme>
+  <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_029">
+    <title>Washington vs. USC (2026-10-03 19:00:00)</title>
+  </programme>
   <programme start="20261002095200 +0000" stop="20261002135200 +0000" channel="Peacock_030">
     <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
   </programme>
@@ -435,29 +344,77 @@
   <programme start="20261002155000 +0000" stop="20261002203500 +0000" channel="Peacock_030">
     <title>IMSA Carrera Cup Road Atlanta 2 (2026-10-02 15:50:00)</title>
   </programme>
+  <programme start="20261003095200 +0000" stop="20261003135200 +0000" channel="Peacock_030">
+    <title>Swimming WC: Baku Day 3 (2026-10-03 09:52:00)</title>
+  </programme>
+  <programme start="20261003095200 +0000" stop="20261003152500 +0000" channel="Peacock_030">
+    <title>Swimming WC: Baku Day 3 (2026-10-03 09:52:00)</title>
+  </programme>
+  <programme start="20261003120000 +0000" stop="20261003160000 +0000" channel="Peacock_030">
+    <title>IMSA Motul Petit Le Mans</title>
+  </programme>
+  <programme start="20261003120000 +0000" stop="20261003190000 +0000" channel="Peacock_030">
+    <title>IMSA Motul Petit Le Mans</title>
+  </programme>
+  <programme start="20261003190000 +0000" stop="20261003230000 +0000" channel="Peacock_030">
+    <title>Washington vs. USC (2026-10-03 19:00:00)</title>
+  </programme>
+  <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_030">
+    <title>Washington vs. USC (2026-10-03 19:00:00)</title>
+  </programme>
   <programme start="20261002190000 +0000" stop="20261002230000 +0000" channel="Peacock_031">
     <title>Brooklyn FC v. FTL United (2026-10-02 19:00:00)</title>
   </programme>
   <programme start="20261002190000 +0000" stop="20261003010000 +0000" channel="Peacock_031">
     <title>Brooklyn FC v. FTL United (2026-10-02 19:00:00)</title>
   </programme>
-  <programme start="20260927150000 +0000" stop="20260927190000 +0000" channel="Peacock_038">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  <programme start="20261003095200 +0000" stop="20261003135200 +0000" channel="Peacock_031">
+    <title>Swimming WC: Baku Day 3 (2026-10-03 09:52:00)</title>
   </programme>
-  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_038">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  <programme start="20261003095200 +0000" stop="20261003152500 +0000" channel="Peacock_031">
+    <title>Swimming WC: Baku Day 3 (2026-10-03 09:52:00)</title>
   </programme>
-  <programme start="20260927190000 +0000" stop="20260927230000 +0000" channel="Peacock_039">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  <programme start="20261003150000 +0000" stop="20261003190000 +0000" channel="Peacock_031">
+    <title>IMSA Motul Petit Le Mans</title>
   </programme>
-  <programme start="20260927190000 +0000" stop="20260928033000 +0000" channel="Peacock_039">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  <programme start="20261003150000 +0000" stop="20261004023000 +0000" channel="Peacock_031">
+    <title>IMSA Motul Petit Le Mans</title>
   </programme>
-  <programme start="20260927233000 +0000" stop="20260928033000 +0000" channel="Peacock_040">
-    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
+  <programme start="20261003190000 +0000" stop="20261003230000 +0000" channel="Peacock_031">
+    <title>Washington vs. USC (2026-10-03 19:00:00)</title>
   </programme>
-  <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_040">
-    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
+  <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_031">
+    <title>Washington vs. USC (2026-10-03 19:00:00)</title>
+  </programme>
+  <programme start="20261003100000 +0000" stop="20261003140000 +0000" channel="Peacock_032">
+    <title>Swimming WC: Baku Day 3 (2026-10-03 10:00:00)</title>
+  </programme>
+  <programme start="20261003100000 +0000" stop="20261003152500 +0000" channel="Peacock_032">
+    <title>Swimming WC: Baku Day 3 (2026-10-03 10:00:00)</title>
+  </programme>
+  <programme start="20261003190000 +0000" stop="20261003230000 +0000" channel="Peacock_032">
+    <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
+  </programme>
+  <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_032">
+    <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
+  </programme>
+  <programme start="20261003120000 +0000" stop="20261003160000 +0000" channel="Peacock_033">
+    <title>IMSA Motul Petit Le Mans</title>
+  </programme>
+  <programme start="20261003120000 +0000" stop="20261003190000 +0000" channel="Peacock_033">
+    <title>IMSA Motul Petit Le Mans</title>
+  </programme>
+  <programme start="20261003150000 +0000" stop="20261003190000 +0000" channel="Peacock_034">
+    <title>IMSA Motul Petit Le Mans</title>
+  </programme>
+  <programme start="20261003150000 +0000" stop="20261004023000 +0000" channel="Peacock_034">
+    <title>IMSA Motul Petit Le Mans</title>
+  </programme>
+  <programme start="20261003190000 +0000" stop="20261003230000 +0000" channel="Peacock_035">
+    <title>Washington vs. USC (2026-10-03 19:00:00)</title>
+  </programme>
+  <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_035">
+    <title>Washington vs. USC (2026-10-03 19:00:00)</title>
   </programme>
   <programme start="20260929133000 +0000" stop="20260929173000 +0000" channel="Peacock_041">
     <title>MLB Wild Card Round (2026-09-29 13:30:00)</title>
@@ -495,35 +452,17 @@
   <programme start="20260930170000 +0000" stop="20261001010000 +0000" channel="Peacock_046">
     <title>MLB Wild Card Round (2026-09-30 17:00:00)</title>
   </programme>
-  <programme start="20260927150000 +0000" stop="20260927190000 +0000" channel="Peacock_047">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
-  </programme>
-  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_047">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
-  </programme>
   <programme start="20260930200000 +0000" stop="20261001000000 +0000" channel="Peacock_047">
     <title>MLB Wild Card Round (2026-09-30 20:00:00)</title>
   </programme>
   <programme start="20260930200000 +0000" stop="20261001030000 +0000" channel="Peacock_047">
     <title>MLB Wild Card Round (2026-09-30 20:00:00)</title>
   </programme>
-  <programme start="20260927190000 +0000" stop="20260927230000 +0000" channel="Peacock_048">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
-  </programme>
-  <programme start="20260927190000 +0000" stop="20260928033000 +0000" channel="Peacock_048">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
-  </programme>
   <programme start="20260930210000 +0000" stop="20261001010000 +0000" channel="Peacock_048">
     <title>MLB Wild Card Round (2026-09-30 21:00:00)</title>
   </programme>
   <programme start="20260930210000 +0000" stop="20261001053000 +0000" channel="Peacock_048">
     <title>MLB Wild Card Round (2026-09-30 21:00:00)</title>
-  </programme>
-  <programme start="20260927233000 +0000" stop="20260928033000 +0000" channel="Peacock_049">
-    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
-  </programme>
-  <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_049">
-    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
   </programme>
   <programme start="20261001090000 +0000" stop="20261001130000 +0000" channel="Peacock_049">
     <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
@@ -579,11 +518,11 @@
   <programme start="20261001170000 +0000" stop="20261002000000 +0000" channel="Peacock_054">
     <title>MLB Wild Card Round (2026-10-01 17:00:00)</title>
   </programme>
-  <programme start="20260927150000 +0000" stop="20260927190000 +0000" channel="Peacock_055">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  <programme start="20261003095200 +0000" stop="20261003135200 +0000" channel="Peacock_054">
+    <title>Swimming WC: Baku Day 3 (2026-10-03 09:52:00)</title>
   </programme>
-  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_055">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  <programme start="20261003095200 +0000" stop="20261003152500 +0000" channel="Peacock_054">
+    <title>Swimming WC: Baku Day 3 (2026-10-03 09:52:00)</title>
   </programme>
   <programme start="20261001200000 +0000" stop="20261002000000 +0000" channel="Peacock_055">
     <title>MLB Wild Card Round (2026-10-01 20:00:00)</title>
@@ -591,11 +530,11 @@
   <programme start="20261001200000 +0000" stop="20261002030000 +0000" channel="Peacock_055">
     <title>MLB Wild Card Round (2026-10-01 20:00:00)</title>
   </programme>
-  <programme start="20260927190000 +0000" stop="20260927230000 +0000" channel="Peacock_056">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  <programme start="20261003190000 +0000" stop="20261003230000 +0000" channel="Peacock_055">
+    <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
-  <programme start="20260927190000 +0000" stop="20260928033000 +0000" channel="Peacock_056">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_055">
+    <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
   <programme start="20261002095200 +0000" stop="20261002135200 +0000" channel="Peacock_056">
     <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
@@ -603,11 +542,11 @@
   <programme start="20261002095200 +0000" stop="20261002151500 +0000" channel="Peacock_056">
     <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
   </programme>
-  <programme start="20260927233000 +0000" stop="20260928033000 +0000" channel="Peacock_057">
-    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
+  <programme start="20261003095200 +0000" stop="20261003135200 +0000" channel="Peacock_057">
+    <title>Swimming WC: Baku Day 3 (2026-10-03 09:52:00)</title>
   </programme>
-  <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_057">
-    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
+  <programme start="20261003095200 +0000" stop="20261003152500 +0000" channel="Peacock_057">
+    <title>Swimming WC: Baku Day 3 (2026-10-03 09:52:00)</title>
   </programme>
   <programme start="20261001090000 +0000" stop="20261001130000 +0000" channel="Peacock_058">
     <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
@@ -615,17 +554,17 @@
   <programme start="20261001090000 +0000" stop="20261001170000 +0000" channel="Peacock_058">
     <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
   </programme>
+  <programme start="20261003190000 +0000" stop="20261003230000 +0000" channel="Peacock_058">
+    <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
+  </programme>
+  <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_058">
+    <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
+  </programme>
   <programme start="20261001095200 +0000" stop="20261001135200 +0000" channel="Peacock_059">
     <title>Swimming WC: Baku Day 1 (2026-10-01 09:52:00)</title>
   </programme>
   <programme start="20261001095200 +0000" stop="20261001153500 +0000" channel="Peacock_059">
     <title>Swimming WC: Baku Day 1 (2026-10-01 09:52:00)</title>
-  </programme>
-  <programme start="20260927150000 +0000" stop="20260927190000 +0000" channel="Peacock_060">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
-  </programme>
-  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_060">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
   </programme>
   <programme start="20261001133000 +0000" stop="20261001173000 +0000" channel="Peacock_060">
     <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
@@ -633,29 +572,17 @@
   <programme start="20261001133000 +0000" stop="20261001210000 +0000" channel="Peacock_060">
     <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
   </programme>
-  <programme start="20260927190000 +0000" stop="20260927230000 +0000" channel="Peacock_061">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
-  </programme>
-  <programme start="20260927190000 +0000" stop="20260928033000 +0000" channel="Peacock_061">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
-  </programme>
   <programme start="20261002095200 +0000" stop="20261002135200 +0000" channel="Peacock_061">
     <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
   </programme>
   <programme start="20261002095200 +0000" stop="20261002151500 +0000" channel="Peacock_061">
     <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
   </programme>
-  <programme start="20260927233000 +0000" stop="20260928033000 +0000" channel="Peacock_062">
-    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
+  <programme start="20261003095200 +0000" stop="20261003135200 +0000" channel="Peacock_062">
+    <title>Swimming WC: Baku Day 3 (2026-10-03 09:52:00)</title>
   </programme>
-  <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_062">
-    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
-  </programme>
-  <programme start="20260927150000 +0000" stop="20260927190000 +0000" channel="Peacock_063">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
-  </programme>
-  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_063">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  <programme start="20261003095200 +0000" stop="20261003152500 +0000" channel="Peacock_062">
+    <title>Swimming WC: Baku Day 3 (2026-10-03 09:52:00)</title>
   </programme>
   <programme start="20261001090000 +0000" stop="20261001130000 +0000" channel="Peacock_063">
     <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
@@ -663,23 +590,17 @@
   <programme start="20261001090000 +0000" stop="20261001170000 +0000" channel="Peacock_063">
     <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
   </programme>
-  <programme start="20260927190000 +0000" stop="20260927230000 +0000" channel="Peacock_064">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  <programme start="20261003190000 +0000" stop="20261003230000 +0000" channel="Peacock_063">
+    <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
-  <programme start="20260927190000 +0000" stop="20260928033000 +0000" channel="Peacock_064">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_063">
+    <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
   <programme start="20261001095200 +0000" stop="20261001135200 +0000" channel="Peacock_064">
     <title>Swimming WC: Baku Day 1 (2026-10-01 09:52:00)</title>
   </programme>
   <programme start="20261001095200 +0000" stop="20261001153500 +0000" channel="Peacock_064">
     <title>Swimming WC: Baku Day 1 (2026-10-01 09:52:00)</title>
-  </programme>
-  <programme start="20260927233000 +0000" stop="20260928033000 +0000" channel="Peacock_065">
-    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
-  </programme>
-  <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_065">
-    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
   </programme>
   <programme start="20261001133000 +0000" stop="20261001173000 +0000" channel="Peacock_065">
     <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
@@ -699,53 +620,26 @@
   <programme start="20261002095200 +0000" stop="20261002151500 +0000" channel="Peacock_066">
     <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
   </programme>
-  <programme start="20260927150000 +0000" stop="20260927190000 +0000" channel="Peacock_067">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
-  </programme>
-  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_067">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
-  </programme>
   <programme start="20260929170000 +0000" stop="20260929210000 +0000" channel="Peacock_067">
     <title>MLB Wild Card Round (2026-09-29 17:00:00)</title>
   </programme>
   <programme start="20260929170000 +0000" stop="20260930010000 +0000" channel="Peacock_067">
     <title>MLB Wild Card Round (2026-09-29 17:00:00)</title>
   </programme>
-  <programme start="20260927090000 +0000" stop="20260927174500 +0000" channel="Peacock_068">
-    <title>Acrobatic Champs: Finals Day 2 (2026-09-27 09:00:00)</title>
-  </programme>
-  <programme start="20260927190000 +0000" stop="20260927230000 +0000" channel="Peacock_068">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
-  </programme>
-  <programme start="20260927190000 +0000" stop="20260928033000 +0000" channel="Peacock_068">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  <programme start="20261003095200 +0000" stop="20261003152500 +0000" channel="Peacock_067">
+    <title>Swimming WC: Baku Day 3 (2026-10-03 09:52:00)</title>
   </programme>
   <programme start="20260929200000 +0000" stop="20260930000000 +0000" channel="Peacock_068">
     <title>MLB Wild Card Round (2026-09-29 20:00:00)</title>
   </programme>
-  <programme start="20260927150000 +0000" stop="20260927190000 +0000" channel="Peacock_069">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
-  </programme>
-  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_069">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
-  </programme>
-  <programme start="20260927233000 +0000" stop="20260928033000 +0000" channel="Peacock_069">
-    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
-  </programme>
-  <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_069">
-    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
+  <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_068">
+    <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
   <programme start="20260929210000 +0000" stop="20260930010000 +0000" channel="Peacock_069">
     <title>MLB Wild Card Round (2026-09-29 21:00:00)</title>
   </programme>
   <programme start="20260929210000 +0000" stop="20260930050000 +0000" channel="Peacock_069">
     <title>MLB Wild Card Round (2026-09-29 21:00:00)</title>
-  </programme>
-  <programme start="20260927190000 +0000" stop="20260927230000 +0000" channel="Peacock_070">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
-  </programme>
-  <programme start="20260927190000 +0000" stop="20260928033000 +0000" channel="Peacock_070">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
   </programme>
   <programme start="20260929170000 +0000" stop="20260929210000 +0000" channel="Peacock_070">
     <title>MLB Wild Card Round (2026-09-29 17:00:00)</title>
@@ -758,12 +652,6 @@
   </programme>
   <programme start="20260930133000 +0000" stop="20260930210000 +0000" channel="Peacock_070">
     <title>MLB Wild Card Round (2026-09-30 13:30:00)</title>
-  </programme>
-  <programme start="20260927233000 +0000" stop="20260928033000 +0000" channel="Peacock_071">
-    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
-  </programme>
-  <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_071">
-    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
   </programme>
   <programme start="20260929210000 +0000" stop="20260930010000 +0000" channel="Peacock_071">
     <title>MLB Wild Card Round (2026-09-29 21:00:00)</title>
@@ -795,12 +683,6 @@
   <programme start="20261001090000 +0000" stop="20261001170000 +0000" channel="Peacock_072">
     <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
   </programme>
-  <programme start="20260927150000 +0000" stop="20260927190000 +0000" channel="Peacock_073">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
-  </programme>
-  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_073">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
-  </programme>
   <programme start="20260930210000 +0000" stop="20261001010000 +0000" channel="Peacock_073">
     <title>MLB Wild Card Round (2026-09-30 21:00:00)</title>
   </programme>
@@ -812,18 +694,6 @@
   </programme>
   <programme start="20261001095200 +0000" stop="20261001153500 +0000" channel="Peacock_073">
     <title>Swimming WC: Baku Day 1 (2026-10-01 09:52:00)</title>
-  </programme>
-  <programme start="20260927150000 +0000" stop="20260927190000 +0000" channel="Peacock_074">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
-  </programme>
-  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_074">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
-  </programme>
-  <programme start="20260927190000 +0000" stop="20260927230000 +0000" channel="Peacock_074">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
-  </programme>
-  <programme start="20260927190000 +0000" stop="20260928033000 +0000" channel="Peacock_074">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
   </programme>
   <programme start="20261001090000 +0000" stop="20261001130000 +0000" channel="Peacock_074">
     <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
@@ -837,12 +707,6 @@
   <programme start="20261001133000 +0000" stop="20261001210000 +0000" channel="Peacock_074">
     <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
   </programme>
-  <programme start="20260927190000 +0000" stop="20260927230000 +0000" channel="Peacock_075">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
-  </programme>
-  <programme start="20260927190000 +0000" stop="20260928033000 +0000" channel="Peacock_075">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
-  </programme>
   <programme start="20261001095200 +0000" stop="20261001135200 +0000" channel="Peacock_075">
     <title>Swimming WC: Baku Day 1 (2026-10-01 09:52:00)</title>
   </programme>
@@ -855,12 +719,6 @@
   <programme start="20261002095200 +0000" stop="20261002151500 +0000" channel="Peacock_075">
     <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
   </programme>
-  <programme start="20260927233000 +0000" stop="20260928033000 +0000" channel="Peacock_076">
-    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
-  </programme>
-  <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_076">
-    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
-  </programme>
   <programme start="20261001090000 +0000" stop="20261001170000 +0000" channel="Peacock_076">
     <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
   </programme>
@@ -870,11 +728,11 @@
   <programme start="20261001113000 +0000" stop="20261001190000 +0000" channel="Peacock_076">
     <title>MLB Wild Card Round (2026-10-01 11:30:00)</title>
   </programme>
-  <programme start="20260927150000 +0000" stop="20260927190000 +0000" channel="Peacock_077">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  <programme start="20261003095200 +0000" stop="20261003135200 +0000" channel="Peacock_076">
+    <title>Swimming WC: Baku Day 3 (2026-10-03 09:52:00)</title>
   </programme>
-  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_077">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  <programme start="20261003095200 +0000" stop="20261003152500 +0000" channel="Peacock_076">
+    <title>Swimming WC: Baku Day 3 (2026-10-03 09:52:00)</title>
   </programme>
   <programme start="20261001090000 +0000" stop="20261001170000 +0000" channel="Peacock_077">
     <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
@@ -888,26 +746,17 @@
   <programme start="20261001133000 +0000" stop="20261001210000 +0000" channel="Peacock_077">
     <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
   </programme>
-  <programme start="20260927190000 +0000" stop="20260927230000 +0000" channel="Peacock_078">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  <programme start="20261003190000 +0000" stop="20261003230000 +0000" channel="Peacock_077">
+    <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
-  <programme start="20260927190000 +0000" stop="20260928043000 +0000" channel="Peacock_078">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_077">
+    <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
   <programme start="20261001133000 +0000" stop="20261001210000 +0000" channel="Peacock_078">
     <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
   </programme>
   <programme start="20261001140000 +0000" stop="20261001180000 +0000" channel="Peacock_078">
     <title>MLB Wild Card Round (2026-10-01 14:00:00)</title>
-  </programme>
-  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_079">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
-  </programme>
-  <programme start="20260927233000 +0000" stop="20260928033000 +0000" channel="Peacock_079">
-    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
-  </programme>
-  <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_079">
-    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
   </programme>
   <programme start="20261001170000 +0000" stop="20261001210000 +0000" channel="Peacock_079">
     <title>MLB Wild Card Round (2026-10-01 17:00:00)</title>
@@ -918,8 +767,8 @@
   <programme start="20261002095200 +0000" stop="20261002151500 +0000" channel="Peacock_079">
     <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
   </programme>
-  <programme start="20260927190000 +0000" stop="20260928043000 +0000" channel="Peacock_080">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_079">
+    <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
   <programme start="20261001090000 +0000" stop="20261001130000 +0000" channel="Peacock_080">
     <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
@@ -930,8 +779,8 @@
   <programme start="20261001200000 +0000" stop="20261002000000 +0000" channel="Peacock_080">
     <title>MLB Wild Card Round (2026-10-01 20:00:00)</title>
   </programme>
-  <programme start="20260927190000 +0000" stop="20260928043000 +0000" channel="Peacock_081">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  <programme start="20261003095200 +0000" stop="20261003152500 +0000" channel="Peacock_080">
+    <title>Swimming WC: Baku Day 3 (2026-10-03 09:52:00)</title>
   </programme>
   <programme start="20261001095200 +0000" stop="20261001135200 +0000" channel="Peacock_081">
     <title>Swimming WC: Baku Day 1 (2026-10-01 09:52:00)</title>
@@ -945,8 +794,8 @@
   <programme start="20261002095200 +0000" stop="20261002151500 +0000" channel="Peacock_081">
     <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
   </programme>
-  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_082">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_081">
+    <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
   <programme start="20261001133000 +0000" stop="20261001173000 +0000" channel="Peacock_082">
     <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
@@ -954,79 +803,52 @@
   <programme start="20261001133000 +0000" stop="20261001210000 +0000" channel="Peacock_082">
     <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
   </programme>
-  <programme start="20260927190000 +0000" stop="20260928043000 +0000" channel="Peacock_083">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  <programme start="20261003095200 +0000" stop="20261003135200 +0000" channel="Peacock_082">
+    <title>Swimming WC: Baku Day 3 (2026-10-03 09:52:00)</title>
+  </programme>
+  <programme start="20261003095200 +0000" stop="20261003152500 +0000" channel="Peacock_082">
+    <title>Swimming WC: Baku Day 3 (2026-10-03 09:52:00)</title>
+  </programme>
+  <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_082">
+    <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
   <programme start="20261002095200 +0000" stop="20261002151500 +0000" channel="Peacock_083">
     <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
   </programme>
-  <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_084">
-    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
+  <programme start="20261003190000 +0000" stop="20261003230000 +0000" channel="Peacock_083">
+    <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
-  <programme start="20260927190000 +0000" stop="20260928043000 +0000" channel="Peacock_085">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_083">
+    <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
-  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_086">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  <programme start="20261003095200 +0000" stop="20261003152500 +0000" channel="Peacock_084">
+    <title>Swimming WC: Baku Day 3 (2026-10-03 09:52:00)</title>
   </programme>
-  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_087">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_084">
+    <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
-  <programme start="20260927190000 +0000" stop="20260928043000 +0000" channel="Peacock_087">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_085">
+    <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
-  <programme start="20260927190000 +0000" stop="20260928043000 +0000" channel="Peacock_088">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_088">
+    <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
-  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_089">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
+  <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_089">
+    <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
-  <programme start="20260927190000 +0000" stop="20260928043000 +0000" channel="Peacock_089">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_091">
+    <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
-  <programme start="20260927190000 +0000" stop="20260928043000 +0000" channel="Peacock_090">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_092">
+    <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
-  <programme start="20260927200000 +0000" stop="20260928033000 +0000" channel="Peacock_090">
-    <title>Rams vs. Broncos (Español) (2026-09-27 20:00:00)</title>
+  <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_094">
+    <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
-  <programme start="20260927190000 +0000" stop="20260928043000 +0000" channel="Peacock_091">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
+  <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_096">
+    <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
-  <programme start="20260927190000 +0000" stop="20260928043000 +0000" channel="Peacock_092">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
-  </programme>
-  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_093">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
-  </programme>
-  <programme start="20260927190000 +0000" stop="20260928043000 +0000" channel="Peacock_093">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
-  </programme>
-  <programme start="20260927190000 +0000" stop="20260928043000 +0000" channel="Peacock_094">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
-  </programme>
-  <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_095">
-    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
-  </programme>
-  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_096">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
-  </programme>
-  <programme start="20260927190000 +0000" stop="20260928043000 +0000" channel="Peacock_097">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
-  </programme>
-  <programme start="20260927233000 +0000" stop="20260928043000 +0000" channel="Peacock_098">
-    <title>Sunday Night Football Final (2026-09-27 23:30:00)</title>
-  </programme>
-  <programme start="20260927150000 +0000" stop="20260927220000 +0000" channel="Peacock_099">
-    <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
-  </programme>
-  <programme start="20260927190000 +0000" stop="20260928043000 +0000" channel="Peacock_099">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
-  </programme>
-  <programme start="20260927190000 +0000" stop="20260928043000 +0000" channel="Peacock_100">
-    <title>Rams vs. Broncos (2026-09-27 19:00:00)</title>
-  </programme>
-  <programme start="20260927200000 +0000" stop="20260928033000 +0000" channel="Peacock_100">
-    <title>Rams vs. Broncos (Español) (2026-09-27 20:00:00)</title>
+  <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_099">
+    <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
 </tv>
