@@ -98,6 +98,7 @@
   <channel id="Peacock_097"><display-name>Peacock 097</display-name></channel>
   <channel id="Peacock_098"><display-name>Peacock 098</display-name></channel>
   <channel id="Peacock_099"><display-name>Peacock 099</display-name></channel>
+  <channel id="Peacock_100"><display-name>Peacock 100</display-name></channel>
   <programme start="20261001090000 +0000" stop="20261001130000 +0000" channel="Peacock_010">
     <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
   </programme>
@@ -290,6 +291,12 @@
   <programme start="20261002113500 +0000" stop="20261002174000 +0000" channel="Peacock_025">
     <title>IMSA MPC at Road Atlanta (2026-10-02 11:35:00)</title>
   </programme>
+  <programme start="20261004170000 +0000" stop="20261004210000 +0000" channel="Peacock_025">
+    <title>Sun FC v. Lexington SC (2026-10-04 17:00:00)</title>
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004230000 +0000" channel="Peacock_025">
+    <title>Sun FC v. Lexington SC (2026-10-04 17:00:00)</title>
+  </programme>
   <programme start="20261001090000 +0000" stop="20261001130000 +0000" channel="Peacock_026">
     <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
   </programme>
@@ -319,6 +326,12 @@
   </programme>
   <programme start="20261002141500 +0000" stop="20261002193500 +0000" channel="Peacock_026">
     <title>IMSA Road Atlanta Qualifying (2026-10-02 14:15:00)</title>
+  </programme>
+  <programme start="20261004190000 +0000" stop="20261004230000 +0000" channel="Peacock_026">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
+  </programme>
+  <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_026">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
   </programme>
   <programme start="20261001090000 +0000" stop="20261001130000 +0000" channel="Peacock_027">
     <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
@@ -452,6 +465,12 @@
   <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_030">
     <title>Washington vs. USC (2026-10-03 19:00:00)</title>
   </programme>
+  <programme start="20261004170000 +0000" stop="20261004210000 +0000" channel="Peacock_030">
+    <title>Sun FC v. Lexington SC (2026-10-04 17:00:00)</title>
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004230000 +0000" channel="Peacock_030">
+    <title>Sun FC v. Lexington SC (2026-10-04 17:00:00)</title>
+  </programme>
   <programme start="20261002190000 +0000" stop="20261002230000 +0000" channel="Peacock_031">
     <title>Brooklyn FC v. FTL United (2026-10-02 19:00:00)</title>
   </programme>
@@ -476,6 +495,12 @@
   <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_031">
     <title>Washington vs. USC (2026-10-03 19:00:00)</title>
   </programme>
+  <programme start="20261004190000 +0000" stop="20261004230000 +0000" channel="Peacock_031">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
+  </programme>
+  <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_031">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
+  </programme>
   <programme start="20261003100000 +0000" stop="20261003140000 +0000" channel="Peacock_032">
     <title>Swimming WC: Baku Day 3 (2026-10-03 10:00:00)</title>
   </programme>
@@ -488,11 +513,26 @@
   <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_032">
     <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
+  <programme start="20261004190000 +0000" stop="20261004230000 +0000" channel="Peacock_032">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
+  </programme>
+  <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_032">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
+  </programme>
   <programme start="20261003120000 +0000" stop="20261003160000 +0000" channel="Peacock_033">
     <title>IMSA Motul Petit Le Mans</title>
   </programme>
   <programme start="20261003120000 +0000" stop="20261003190000 +0000" channel="Peacock_033">
     <title>IMSA Motul Petit Le Mans</title>
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004210000 +0000" channel="Peacock_033">
+    <title>Sun FC v. Lexington SC (2026-10-04 17:00:00)</title>
+  </programme>
+  <programme start="20261004190000 +0000" stop="20261004230000 +0000" channel="Peacock_033">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
+  </programme>
+  <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_033">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
   </programme>
   <programme start="20261003150000 +0000" stop="20261003190000 +0000" channel="Peacock_034">
     <title>IMSA Motul Petit Le Mans</title>
@@ -500,11 +540,29 @@
   <programme start="20261003150000 +0000" stop="20261004023000 +0000" channel="Peacock_034">
     <title>IMSA Motul Petit Le Mans</title>
   </programme>
+  <programme start="20261004190000 +0000" stop="20261004230000 +0000" channel="Peacock_034">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
+  </programme>
+  <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_034">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
+  </programme>
   <programme start="20261003190000 +0000" stop="20261003230000 +0000" channel="Peacock_035">
     <title>Washington vs. USC (2026-10-03 19:00:00)</title>
   </programme>
   <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_035">
     <title>Washington vs. USC (2026-10-03 19:00:00)</title>
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004210000 +0000" channel="Peacock_036">
+    <title>Sun FC v. Lexington SC (2026-10-04 17:00:00)</title>
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004230000 +0000" channel="Peacock_036">
+    <title>Sun FC v. Lexington SC (2026-10-04 17:00:00)</title>
+  </programme>
+  <programme start="20261004190000 +0000" stop="20261004230000 +0000" channel="Peacock_037">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
+  </programme>
+  <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_037">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
   </programme>
   <programme start="20260929133000 +0000" stop="20260929173000 +0000" channel="Peacock_041">
     <title>MLB Wild Card Round (2026-09-29 13:30:00)</title>
@@ -632,6 +690,9 @@
   <programme start="20261002095200 +0000" stop="20261002151500 +0000" channel="Peacock_056">
     <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
   </programme>
+  <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_056">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
+  </programme>
   <programme start="20261003095200 +0000" stop="20261003135200 +0000" channel="Peacock_057">
     <title>Swimming WC: Baku Day 3 (2026-10-03 09:52:00)</title>
   </programme>
@@ -655,6 +716,12 @@
   </programme>
   <programme start="20261001095200 +0000" stop="20261001153500 +0000" channel="Peacock_059">
     <title>Swimming WC: Baku Day 1 (2026-10-01 09:52:00)</title>
+  </programme>
+  <programme start="20261004190000 +0000" stop="20261004230000 +0000" channel="Peacock_059">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
+  </programme>
+  <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_059">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
   </programme>
   <programme start="20261001133000 +0000" stop="20261001173000 +0000" channel="Peacock_060">
     <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
@@ -691,6 +758,12 @@
   </programme>
   <programme start="20261001095200 +0000" stop="20261001153500 +0000" channel="Peacock_064">
     <title>Swimming WC: Baku Day 1 (2026-10-01 09:52:00)</title>
+  </programme>
+  <programme start="20261004190000 +0000" stop="20261004230000 +0000" channel="Peacock_064">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
+  </programme>
+  <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_064">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
   </programme>
   <programme start="20261001133000 +0000" stop="20261001173000 +0000" channel="Peacock_065">
     <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
@@ -730,6 +803,9 @@
   </programme>
   <programme start="20260929210000 +0000" stop="20260930050000 +0000" channel="Peacock_069">
     <title>MLB Wild Card Round (2026-09-29 21:00:00)</title>
+  </programme>
+  <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_069">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
   </programme>
   <programme start="20260929170000 +0000" stop="20260929210000 +0000" channel="Peacock_070">
     <title>MLB Wild Card Round (2026-09-29 17:00:00)</title>
@@ -848,6 +924,12 @@
   <programme start="20261001140000 +0000" stop="20261001180000 +0000" channel="Peacock_078">
     <title>MLB Wild Card Round (2026-10-01 14:00:00)</title>
   </programme>
+  <programme start="20261004190000 +0000" stop="20261004230000 +0000" channel="Peacock_078">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
+  </programme>
+  <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_078">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
+  </programme>
   <programme start="20261001170000 +0000" stop="20261001210000 +0000" channel="Peacock_079">
     <title>MLB Wild Card Round (2026-10-01 17:00:00)</title>
   </programme>
@@ -860,6 +942,9 @@
   <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_079">
     <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
+  <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_079">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
+  </programme>
   <programme start="20261001090000 +0000" stop="20261001130000 +0000" channel="Peacock_080">
     <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
   </programme>
@@ -871,6 +956,9 @@
   </programme>
   <programme start="20261003095200 +0000" stop="20261003152500 +0000" channel="Peacock_080">
     <title>Swimming WC: Baku Day 3 (2026-10-03 09:52:00)</title>
+  </programme>
+  <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_080">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
   </programme>
   <programme start="20261001095200 +0000" stop="20261001135200 +0000" channel="Peacock_081">
     <title>Swimming WC: Baku Day 1 (2026-10-01 09:52:00)</title>
@@ -902,6 +990,9 @@
   <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_082">
     <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
+  <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_082">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
+  </programme>
   <programme start="20261002095200 +0000" stop="20261002151500 +0000" channel="Peacock_083">
     <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
   </programme>
@@ -911,14 +1002,29 @@
   <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_083">
     <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
+  <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_083">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
+  </programme>
   <programme start="20261003095200 +0000" stop="20261003152500 +0000" channel="Peacock_084">
     <title>Swimming WC: Baku Day 3 (2026-10-03 09:52:00)</title>
   </programme>
   <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_084">
     <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
+  <programme start="20261004190000 +0000" stop="20261004230000 +0000" channel="Peacock_084">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
+  </programme>
+  <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_084">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
+  </programme>
   <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_085">
     <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
+  </programme>
+  <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_085">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
+  </programme>
+  <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_086">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
   </programme>
   <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_088">
     <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
@@ -926,19 +1032,49 @@
   <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_089">
     <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
+  <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_089">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
+  </programme>
+  <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_090">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
+  </programme>
   <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_091">
     <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
+  </programme>
+  <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_091">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
   </programme>
   <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_092">
     <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
+  <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_092">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
+  </programme>
+  <programme start="20261004200000 +0000" stop="20261005033000 +0000" channel="Peacock_092">
+    <title>Lions vs. Panthers (Español) (2026-10-04 20:00:00)</title>
+  </programme>
+  <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_093">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
+  </programme>
   <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_094">
     <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
+  </programme>
+  <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_095">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
   </programme>
   <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_096">
     <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
+  <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_097">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
+  </programme>
+  <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_098">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
+  </programme>
   <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_099">
     <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
+  </programme>
+  <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_100">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
   </programme>
 </tv>
