@@ -99,27 +99,6 @@
   <channel id="Peacock_098"><display-name>Peacock 098</display-name></channel>
   <channel id="Peacock_099"><display-name>Peacock 099</display-name></channel>
   <channel id="Peacock_100"><display-name>Peacock 100</display-name></channel>
-  <programme start="20260929133000 +0000" stop="20260929210000 +0000" channel="Peacock_001">
-    <title>Game 1: Phillies at Braves (2026-09-29 13:30:00)</title>
-  </programme>
-  <programme start="20260929170000 +0000" stop="20260929210000 +0000" channel="Peacock_002">
-    <title>Game 1: White Sox at Astros (2026-09-29 17:00:00)</title>
-  </programme>
-  <programme start="20260929170000 +0000" stop="20260930000000 +0000" channel="Peacock_002">
-    <title>Game 1: White Sox at Astros (2026-09-29 17:00:00)</title>
-  </programme>
-  <programme start="20260929200000 +0000" stop="20260930000000 +0000" channel="Peacock_003">
-    <title>Game 1: Red Sox at Yankees (2026-09-29 20:00:00)</title>
-  </programme>
-  <programme start="20260929200000 +0000" stop="20260930030000 +0000" channel="Peacock_003">
-    <title>Game 1: Red Sox at Yankees (2026-09-29 20:00:00)</title>
-  </programme>
-  <programme start="20260929220000 +0000" stop="20260930020000 +0000" channel="Peacock_004">
-    <title>Game 1: Cubs at Padres (2026-09-29 22:00:00)</title>
-  </programme>
-  <programme start="20260929220000 +0000" stop="20260930053000 +0000" channel="Peacock_004">
-    <title>Game 1: Cubs at Padres (2026-09-29 22:00:00)</title>
-  </programme>
   <programme start="20260930133000 +0000" stop="20260930173000 +0000" channel="Peacock_005">
     <title>Game 2: Phillies at Braves (2026-09-30 13:30:00)</title>
   </programme>
@@ -699,27 +678,6 @@
   <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_037">
     <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
   </programme>
-  <programme start="20260929133000 +0000" stop="20260929210000 +0000" channel="Peacock_041">
-    <title>MLB Wild Card Round (2026-09-29 13:30:00)</title>
-  </programme>
-  <programme start="20260929170000 +0000" stop="20260929210000 +0000" channel="Peacock_042">
-    <title>MLB Wild Card Round (2026-09-29 17:00:00)</title>
-  </programme>
-  <programme start="20260929170000 +0000" stop="20260930010000 +0000" channel="Peacock_042">
-    <title>MLB Wild Card Round (2026-09-29 17:00:00)</title>
-  </programme>
-  <programme start="20260929200000 +0000" stop="20260930000000 +0000" channel="Peacock_043">
-    <title>MLB Wild Card Round (2026-09-29 20:00:00)</title>
-  </programme>
-  <programme start="20260929200000 +0000" stop="20260930030000 +0000" channel="Peacock_043">
-    <title>MLB Wild Card Round (2026-09-29 20:00:00)</title>
-  </programme>
-  <programme start="20260929210000 +0000" stop="20260930010000 +0000" channel="Peacock_044">
-    <title>MLB Wild Card Round (2026-09-29 21:00:00)</title>
-  </programme>
-  <programme start="20260929210000 +0000" stop="20260930050000 +0000" channel="Peacock_044">
-    <title>MLB Wild Card Round (2026-09-29 21:00:00)</title>
-  </programme>
   <programme start="20260930133000 +0000" stop="20260930173000 +0000" channel="Peacock_045">
     <title>MLB Wild Card Round (2026-09-30 13:30:00)</title>
   </programme>
@@ -903,56 +861,26 @@
   <programme start="20261001133000 +0000" stop="20261001210000 +0000" channel="Peacock_065">
     <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
   </programme>
-  <programme start="20260929133000 +0000" stop="20260929210000 +0000" channel="Peacock_066">
-    <title>MLB Wild Card Round (2026-09-29 13:30:00)</title>
-  </programme>
   <programme start="20261002095200 +0000" stop="20261002135200 +0000" channel="Peacock_066">
     <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
   </programme>
   <programme start="20261002095200 +0000" stop="20261002151500 +0000" channel="Peacock_066">
     <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
   </programme>
-  <programme start="20260929170000 +0000" stop="20260929210000 +0000" channel="Peacock_067">
-    <title>MLB Wild Card Round (2026-09-29 17:00:00)</title>
-  </programme>
-  <programme start="20260929170000 +0000" stop="20260930010000 +0000" channel="Peacock_067">
-    <title>MLB Wild Card Round (2026-09-29 17:00:00)</title>
-  </programme>
   <programme start="20261003095200 +0000" stop="20261003152500 +0000" channel="Peacock_067">
     <title>Swimming WC: Baku Day 3 (2026-10-03 09:52:00)</title>
-  </programme>
-  <programme start="20260929200000 +0000" stop="20260930000000 +0000" channel="Peacock_068">
-    <title>MLB Wild Card Round (2026-09-29 20:00:00)</title>
   </programme>
   <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_068">
     <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
-  <programme start="20260929210000 +0000" stop="20260930010000 +0000" channel="Peacock_069">
-    <title>MLB Wild Card Round (2026-09-29 21:00:00)</title>
-  </programme>
-  <programme start="20260929210000 +0000" stop="20260930050000 +0000" channel="Peacock_069">
-    <title>MLB Wild Card Round (2026-09-29 21:00:00)</title>
-  </programme>
   <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_069">
     <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
-  </programme>
-  <programme start="20260929170000 +0000" stop="20260929210000 +0000" channel="Peacock_070">
-    <title>MLB Wild Card Round (2026-09-29 17:00:00)</title>
-  </programme>
-  <programme start="20260929170000 +0000" stop="20260930010000 +0000" channel="Peacock_070">
-    <title>MLB Wild Card Round (2026-09-29 17:00:00)</title>
   </programme>
   <programme start="20260930133000 +0000" stop="20260930173000 +0000" channel="Peacock_070">
     <title>MLB Wild Card Round (2026-09-30 13:30:00)</title>
   </programme>
   <programme start="20260930133000 +0000" stop="20260930210000 +0000" channel="Peacock_070">
     <title>MLB Wild Card Round (2026-09-30 13:30:00)</title>
-  </programme>
-  <programme start="20260929210000 +0000" stop="20260930010000 +0000" channel="Peacock_071">
-    <title>MLB Wild Card Round (2026-09-29 21:00:00)</title>
-  </programme>
-  <programme start="20260929210000 +0000" stop="20260930040000 +0000" channel="Peacock_071">
-    <title>MLB Wild Card Round (2026-09-29 21:00:00)</title>
   </programme>
   <programme start="20260930170000 +0000" stop="20260930210000 +0000" channel="Peacock_071">
     <title>MLB Wild Card Round (2026-09-30 17:00:00)</title>
