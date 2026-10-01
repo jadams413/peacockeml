@@ -99,62 +99,47 @@
   <channel id="Peacock_098"><display-name>Peacock 098</display-name></channel>
   <channel id="Peacock_099"><display-name>Peacock 099</display-name></channel>
   <channel id="Peacock_100"><display-name>Peacock 100</display-name></channel>
-  <programme start="20261001090000 +0000" stop="20261001130000 +0000" channel="Peacock_009">
-    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
+  <programme start="20261001123000 +0000" stop="20261001200000 +0000" channel="Peacock_007">
+    <title>Big East Women`s Media Day (2026-10-01 12:30:00)</title>
   </programme>
-  <programme start="20261001090000 +0000" stop="20261001170000 +0000" channel="Peacock_009">
-    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
+  <programme start="20261001133000 +0000" stop="20261001210000 +0000" channel="Peacock_009">
+    <title>Game 3 (If Nec.): Phillies at Braves (2026-10-01 13:30:00)</title>
   </programme>
-  <programme start="20261001090000 +0000" stop="20261001130000 +0000" channel="Peacock_010">
-    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
+  <programme start="20261001170000 +0000" stop="20261001210000 +0000" channel="Peacock_010">
+    <title>Game 3 (if Nec.): White Sox at Astros (2026-10-01 17:00:00)</title>
   </programme>
-  <programme start="20261001090000 +0000" stop="20261001170000 +0000" channel="Peacock_010">
-    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
+  <programme start="20261001170000 +0000" stop="20261002010000 +0000" channel="Peacock_010">
+    <title>Game 3 (if Nec.): White Sox at Astros (2026-10-01 17:00:00)</title>
   </programme>
-  <programme start="20261001110000 +0000" stop="20261001150000 +0000" channel="Peacock_010">
-    <title>Swimming WC: Baku Day 1 (2026-10-01 11:00:00)</title>
+  <programme start="20261001172000 +0000" stop="20261001212000 +0000" channel="Peacock_011">
+    <title>IMSA Carrera Cup Road Atlanta 1 (2026-10-01 17:20:00)</title>
   </programme>
-  <programme start="20261001110000 +0000" stop="20261001164000 +0000" channel="Peacock_010">
-    <title>Swimming WC: Baku Day 1 (2026-10-01 11:00:00)</title>
-  </programme>
-  <programme start="20261001110000 +0000" stop="20261001150000 +0000" channel="Peacock_011">
-    <title>Swimming WC: Baku Day 1 (2026-10-01 11:00:00)</title>
-  </programme>
-  <programme start="20261001110000 +0000" stop="20261001164000 +0000" channel="Peacock_011">
-    <title>Swimming WC: Baku Day 1 (2026-10-01 11:00:00)</title>
-  </programme>
-  <programme start="20261001130500 +0000" stop="20261001170500 +0000" channel="Peacock_011">
-    <title>IMSA VPRC Road Atlanta</title>
-  </programme>
-  <programme start="20261001130500 +0000" stop="20261001175500 +0000" channel="Peacock_011">
-    <title>IMSA VPRC Road Atlanta</title>
-  </programme>
-  <programme start="20261001130500 +0000" stop="20261001170500 +0000" channel="Peacock_012">
-    <title>IMSA VPRC Road Atlanta</title>
-  </programme>
-  <programme start="20261001130500 +0000" stop="20261001175500 +0000" channel="Peacock_012">
-    <title>IMSA VPRC Road Atlanta</title>
-  </programme>
-  <programme start="20261001133000 +0000" stop="20261001173000 +0000" channel="Peacock_012">
-    <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
+  <programme start="20261001172000 +0000" stop="20261001220500 +0000" channel="Peacock_011">
+    <title>IMSA Carrera Cup Road Atlanta 1 (2026-10-01 17:20:00)</title>
   </programme>
   <programme start="20261001133000 +0000" stop="20261001210000 +0000" channel="Peacock_012">
     <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
   </programme>
-  <programme start="20261001133000 +0000" stop="20261001173000 +0000" channel="Peacock_013">
-    <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
+  <programme start="20261001200000 +0000" stop="20261002000000 +0000" channel="Peacock_012">
+    <title>Game 3 (If Nec.): Red Sox at Yankees (2026-10-01 20:00:00)</title>
+  </programme>
+  <programme start="20261001200000 +0000" stop="20261002030000 +0000" channel="Peacock_012">
+    <title>Game 3 (If Nec.): Red Sox at Yankees (2026-10-01 20:00:00)</title>
   </programme>
   <programme start="20261001133000 +0000" stop="20261001210000 +0000" channel="Peacock_013">
     <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
-  </programme>
-  <programme start="20261001133005 +0000" stop="20261001173005 +0000" channel="Peacock_013">
-    <title>Game 3 (If Nec.): Phillies at Braves (2026-10-01 13:30:05)</title>
   </programme>
   <programme start="20261001172000 +0000" stop="20261001212000 +0000" channel="Peacock_013">
     <title>IMSA Carrera Cup Road Atlanta 1 (2026-10-01 17:20:00)</title>
   </programme>
   <programme start="20261001172000 +0000" stop="20261001220500 +0000" channel="Peacock_013">
     <title>IMSA Carrera Cup Road Atlanta 1 (2026-10-01 17:20:00)</title>
+  </programme>
+  <programme start="20261001220000 +0000" stop="20261002020000 +0000" channel="Peacock_013">
+    <title>Game 3 (If Nec.): Cubs at Padres (2026-10-01 22:00:00)</title>
+  </programme>
+  <programme start="20261001220000 +0000" stop="20261002053000 +0000" channel="Peacock_013">
+    <title>Game 3 (If Nec.): Cubs at Padres (2026-10-01 22:00:00)</title>
   </programme>
   <programme start="20261001170000 +0000" stop="20261001210000 +0000" channel="Peacock_014">
     <title>Game 3 (if Nec.): White Sox at Astros (2026-10-01 17:00:00)</title>
@@ -228,12 +213,6 @@
   <programme start="20261002141500 +0000" stop="20261002193500 +0000" channel="Peacock_017">
     <title>IMSA Road Atlanta Qualifying (2026-10-02 14:15:00)</title>
   </programme>
-  <programme start="20261001090000 +0000" stop="20261001130000 +0000" channel="Peacock_018">
-    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
-  </programme>
-  <programme start="20261001090000 +0000" stop="20261001170000 +0000" channel="Peacock_018">
-    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
-  </programme>
   <programme start="20261002082500 +0000" stop="20261002122500 +0000" channel="Peacock_018">
     <title>IMSA VPRC Road Atlanta</title>
   </programme>
@@ -251,12 +230,6 @@
   </programme>
   <programme start="20261002155000 +0000" stop="20261002203500 +0000" channel="Peacock_018">
     <title>IMSA Carrera Cup Road Atlanta 2 (2026-10-02 15:50:00)</title>
-  </programme>
-  <programme start="20261001110000 +0000" stop="20261001150000 +0000" channel="Peacock_019">
-    <title>Swimming WC: Baku Day 1 (2026-10-01 11:00:00)</title>
-  </programme>
-  <programme start="20261001110000 +0000" stop="20261001164000 +0000" channel="Peacock_019">
-    <title>Swimming WC: Baku Day 1 (2026-10-01 11:00:00)</title>
   </programme>
   <programme start="20261002100000 +0000" stop="20261002140000 +0000" channel="Peacock_019">
     <title>Swimming WC: Baku Day 2 (2026-10-02 10:00:00)</title>
@@ -276,12 +249,6 @@
   <programme start="20261002190000 +0000" stop="20261003010000 +0000" channel="Peacock_019">
     <title>Brooklyn FC v. FTL United (2026-10-02 19:00:00)</title>
   </programme>
-  <programme start="20261001130500 +0000" stop="20261001170500 +0000" channel="Peacock_020">
-    <title>IMSA VPRC Road Atlanta</title>
-  </programme>
-  <programme start="20261001130500 +0000" stop="20261001175500 +0000" channel="Peacock_020">
-    <title>IMSA VPRC Road Atlanta</title>
-  </programme>
   <programme start="20261002113500 +0000" stop="20261002153500 +0000" channel="Peacock_020">
     <title>IMSA MPC at Road Atlanta (2026-10-02 11:35:00)</title>
   </programme>
@@ -299,15 +266,6 @@
   </programme>
   <programme start="20261003100000 +0000" stop="20261003152500 +0000" channel="Peacock_020">
     <title>Swimming WC: Baku Day 3 (2026-10-03 10:00:00)</title>
-  </programme>
-  <programme start="20261001090000 +0000" stop="20261001130000 +0000" channel="Peacock_021">
-    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
-  </programme>
-  <programme start="20261001090000 +0000" stop="20261001170000 +0000" channel="Peacock_021">
-    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
-  </programme>
-  <programme start="20261001133000 +0000" stop="20261001173000 +0000" channel="Peacock_021">
-    <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
   </programme>
   <programme start="20261001133000 +0000" stop="20261001210000 +0000" channel="Peacock_021">
     <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
@@ -330,12 +288,6 @@
   <programme start="20261003120000 +0000" stop="20261003190000 +0000" channel="Peacock_021">
     <title>IMSA Motul Petit Le Mans</title>
   </programme>
-  <programme start="20261001110000 +0000" stop="20261001150000 +0000" channel="Peacock_022">
-    <title>Swimming WC: Baku Day 1 (2026-10-01 11:00:00)</title>
-  </programme>
-  <programme start="20261001110000 +0000" stop="20261001164000 +0000" channel="Peacock_022">
-    <title>Swimming WC: Baku Day 1 (2026-10-01 11:00:00)</title>
-  </programme>
   <programme start="20261001172000 +0000" stop="20261001212000 +0000" channel="Peacock_022">
     <title>IMSA Carrera Cup Road Atlanta 1 (2026-10-01 17:20:00)</title>
   </programme>
@@ -353,18 +305,6 @@
   </programme>
   <programme start="20261003120000 +0000" stop="20261003190000 +0000" channel="Peacock_022">
     <title>IMSA Motul Petit Le Mans</title>
-  </programme>
-  <programme start="20261001090000 +0000" stop="20261001130000 +0000" channel="Peacock_023">
-    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
-  </programme>
-  <programme start="20261001090000 +0000" stop="20261001170000 +0000" channel="Peacock_023">
-    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
-  </programme>
-  <programme start="20261001130500 +0000" stop="20261001170500 +0000" channel="Peacock_023">
-    <title>IMSA VPRC Road Atlanta</title>
-  </programme>
-  <programme start="20261001130500 +0000" stop="20261001175500 +0000" channel="Peacock_023">
-    <title>IMSA VPRC Road Atlanta</title>
   </programme>
   <programme start="20261002082500 +0000" stop="20261002122500 +0000" channel="Peacock_023">
     <title>IMSA VPRC Road Atlanta</title>
@@ -389,15 +329,6 @@
   </programme>
   <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_023">
     <title>Washington vs. USC (2026-10-03 19:00:00)</title>
-  </programme>
-  <programme start="20261001110000 +0000" stop="20261001150000 +0000" channel="Peacock_024">
-    <title>Swimming WC: Baku Day 1 (2026-10-01 11:00:00)</title>
-  </programme>
-  <programme start="20261001110000 +0000" stop="20261001164000 +0000" channel="Peacock_024">
-    <title>Swimming WC: Baku Day 1 (2026-10-01 11:00:00)</title>
-  </programme>
-  <programme start="20261001133000 +0000" stop="20261001173000 +0000" channel="Peacock_024">
-    <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
   </programme>
   <programme start="20261001133000 +0000" stop="20261001210000 +0000" channel="Peacock_024">
     <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
@@ -426,15 +357,6 @@
   <programme start="20261004170000 +0000" stop="20261004230000 +0000" channel="Peacock_024">
     <title>Sun FC v. Lexington SC (2026-10-04 17:00:00)</title>
   </programme>
-  <programme start="20261001090000 +0000" stop="20261001130000 +0000" channel="Peacock_025">
-    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
-  </programme>
-  <programme start="20261001090000 +0000" stop="20261001170000 +0000" channel="Peacock_025">
-    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
-  </programme>
-  <programme start="20261001133000 +0000" stop="20261001173000 +0000" channel="Peacock_025">
-    <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
-  </programme>
   <programme start="20261001133000 +0000" stop="20261001210000 +0000" channel="Peacock_025">
     <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
   </programme>
@@ -461,18 +383,6 @@
   </programme>
   <programme start="20261004170000 +0000" stop="20261004230000 +0000" channel="Peacock_025">
     <title>Sun FC v. Lexington SC (2026-10-04 17:00:00)</title>
-  </programme>
-  <programme start="20261001090000 +0000" stop="20261001130000 +0000" channel="Peacock_026">
-    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
-  </programme>
-  <programme start="20261001090000 +0000" stop="20261001170000 +0000" channel="Peacock_026">
-    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
-  </programme>
-  <programme start="20261001110000 +0000" stop="20261001150000 +0000" channel="Peacock_026">
-    <title>Swimming WC: Baku Day 1 (2026-10-01 11:00:00)</title>
-  </programme>
-  <programme start="20261001110000 +0000" stop="20261001164000 +0000" channel="Peacock_026">
-    <title>Swimming WC: Baku Day 1 (2026-10-01 11:00:00)</title>
   </programme>
   <programme start="20261002082500 +0000" stop="20261002122500 +0000" channel="Peacock_026">
     <title>IMSA VPRC Road Atlanta</title>
@@ -504,20 +414,8 @@
   <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_026">
     <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
   </programme>
-  <programme start="20261001090000 +0000" stop="20261001130000 +0000" channel="Peacock_027">
-    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
-  </programme>
-  <programme start="20261001090000 +0000" stop="20261001170000 +0000" channel="Peacock_027">
-    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
-  </programme>
-  <programme start="20261001095200 +0000" stop="20261001135200 +0000" channel="Peacock_027">
-    <title>Swimming WC: Baku Day 1 (2026-10-01 09:52:00)</title>
-  </programme>
-  <programme start="20261001095200 +0000" stop="20261001153500 +0000" channel="Peacock_027">
-    <title>Swimming WC: Baku Day 1 (2026-10-01 09:52:00)</title>
-  </programme>
-  <programme start="20261001133000 +0000" stop="20261001173000 +0000" channel="Peacock_027">
-    <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
+  <programme start="20261004233000 +0000" stop="20261005033000 +0000" channel="Peacock_026">
+    <title>Sunday Night Football Final (2026-10-04 23:30:00)</title>
   </programme>
   <programme start="20261001133000 +0000" stop="20261001210000 +0000" channel="Peacock_027">
     <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
@@ -545,15 +443,6 @@
   </programme>
   <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_027">
     <title>Washington vs. USC (2026-10-03 19:00:00)</title>
-  </programme>
-  <programme start="20261001095200 +0000" stop="20261001135200 +0000" channel="Peacock_028">
-    <title>Swimming WC: Baku Day 1 (2026-10-01 09:52:00)</title>
-  </programme>
-  <programme start="20261001095200 +0000" stop="20261001153500 +0000" channel="Peacock_028">
-    <title>Swimming WC: Baku Day 1 (2026-10-01 09:52:00)</title>
-  </programme>
-  <programme start="20261001133000 +0000" stop="20261001173000 +0000" channel="Peacock_028">
-    <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
   </programme>
   <programme start="20261001133000 +0000" stop="20261001210000 +0000" channel="Peacock_028">
     <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
@@ -587,9 +476,6 @@
   </programme>
   <programme start="20261004170000 +0000" stop="20261004230000 +0000" channel="Peacock_028">
     <title>Sun FC v. Lexington SC (2026-10-04 17:00:00)</title>
-  </programme>
-  <programme start="20261001133000 +0000" stop="20261001173000 +0000" channel="Peacock_029">
-    <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
   </programme>
   <programme start="20261001133000 +0000" stop="20261001210000 +0000" channel="Peacock_029">
     <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
@@ -753,44 +639,11 @@
   <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_037">
     <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
   </programme>
-  <programme start="20261001090000 +0000" stop="20261001130000 +0000" channel="Peacock_049">
-    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
-  </programme>
-  <programme start="20261001090000 +0000" stop="20261001170000 +0000" channel="Peacock_049">
-    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
-  </programme>
-  <programme start="20261001090000 +0000" stop="20261001130000 +0000" channel="Peacock_050">
-    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
-  </programme>
-  <programme start="20261001090000 +0000" stop="20261001170000 +0000" channel="Peacock_050">
-    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
-  </programme>
-  <programme start="20261001095200 +0000" stop="20261001135200 +0000" channel="Peacock_050">
-    <title>Swimming WC: Baku Day 1 (2026-10-01 09:52:00)</title>
-  </programme>
-  <programme start="20261001095200 +0000" stop="20261001153500 +0000" channel="Peacock_050">
-    <title>Swimming WC: Baku Day 1 (2026-10-01 09:52:00)</title>
-  </programme>
-  <programme start="20261001095200 +0000" stop="20261001135200 +0000" channel="Peacock_051">
-    <title>Swimming WC: Baku Day 1 (2026-10-01 09:52:00)</title>
-  </programme>
-  <programme start="20261001095200 +0000" stop="20261001153500 +0000" channel="Peacock_051">
-    <title>Swimming WC: Baku Day 1 (2026-10-01 09:52:00)</title>
-  </programme>
-  <programme start="20261001113000 +0000" stop="20261001153000 +0000" channel="Peacock_051">
-    <title>MLB Wild Card Round (2026-10-01 11:30:00)</title>
-  </programme>
   <programme start="20261001113000 +0000" stop="20261001190000 +0000" channel="Peacock_051">
     <title>MLB Wild Card Round (2026-10-01 11:30:00)</title>
   </programme>
-  <programme start="20261001133000 +0000" stop="20261001173000 +0000" channel="Peacock_052">
-    <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
-  </programme>
   <programme start="20261001133000 +0000" stop="20261001210000 +0000" channel="Peacock_052">
     <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
-  </programme>
-  <programme start="20261001140000 +0000" stop="20261001180000 +0000" channel="Peacock_053">
-    <title>MLB Wild Card Round (2026-10-01 14:00:00)</title>
   </programme>
   <programme start="20261001140000 +0000" stop="20261001210000 +0000" channel="Peacock_053">
     <title>MLB Wild Card Round (2026-10-01 14:00:00)</title>
@@ -840,32 +693,17 @@
   <programme start="20261003095200 +0000" stop="20261003152500 +0000" channel="Peacock_057">
     <title>Swimming WC: Baku Day 3 (2026-10-03 09:52:00)</title>
   </programme>
-  <programme start="20261001090000 +0000" stop="20261001130000 +0000" channel="Peacock_058">
-    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
-  </programme>
-  <programme start="20261001090000 +0000" stop="20261001170000 +0000" channel="Peacock_058">
-    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
-  </programme>
   <programme start="20261003190000 +0000" stop="20261003230000 +0000" channel="Peacock_058">
     <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
   <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_058">
     <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
-  <programme start="20261001095200 +0000" stop="20261001135200 +0000" channel="Peacock_059">
-    <title>Swimming WC: Baku Day 1 (2026-10-01 09:52:00)</title>
-  </programme>
-  <programme start="20261001095200 +0000" stop="20261001153500 +0000" channel="Peacock_059">
-    <title>Swimming WC: Baku Day 1 (2026-10-01 09:52:00)</title>
-  </programme>
   <programme start="20261004190000 +0000" stop="20261004230000 +0000" channel="Peacock_059">
     <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
   </programme>
   <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_059">
     <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
-  </programme>
-  <programme start="20261001133000 +0000" stop="20261001173000 +0000" channel="Peacock_060">
-    <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
   </programme>
   <programme start="20261001133000 +0000" stop="20261001210000 +0000" channel="Peacock_060">
     <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
@@ -882,32 +720,17 @@
   <programme start="20261003095200 +0000" stop="20261003152500 +0000" channel="Peacock_062">
     <title>Swimming WC: Baku Day 3 (2026-10-03 09:52:00)</title>
   </programme>
-  <programme start="20261001090000 +0000" stop="20261001130000 +0000" channel="Peacock_063">
-    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
-  </programme>
-  <programme start="20261001090000 +0000" stop="20261001170000 +0000" channel="Peacock_063">
-    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
-  </programme>
   <programme start="20261003190000 +0000" stop="20261003230000 +0000" channel="Peacock_063">
     <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
   <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_063">
     <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
-  <programme start="20261001095200 +0000" stop="20261001135200 +0000" channel="Peacock_064">
-    <title>Swimming WC: Baku Day 1 (2026-10-01 09:52:00)</title>
-  </programme>
-  <programme start="20261001095200 +0000" stop="20261001153500 +0000" channel="Peacock_064">
-    <title>Swimming WC: Baku Day 1 (2026-10-01 09:52:00)</title>
-  </programme>
   <programme start="20261004190000 +0000" stop="20261004230000 +0000" channel="Peacock_064">
     <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
   </programme>
   <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_064">
     <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
-  </programme>
-  <programme start="20261001133000 +0000" stop="20261001173000 +0000" channel="Peacock_065">
-    <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
   </programme>
   <programme start="20261001133000 +0000" stop="20261001210000 +0000" channel="Peacock_065">
     <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
@@ -927,47 +750,14 @@
   <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_069">
     <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
   </programme>
-  <programme start="20261001090000 +0000" stop="20261001130000 +0000" channel="Peacock_072">
-    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
-  </programme>
-  <programme start="20261001090000 +0000" stop="20261001170000 +0000" channel="Peacock_072">
-    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
-  </programme>
-  <programme start="20261001095200 +0000" stop="20261001135200 +0000" channel="Peacock_073">
-    <title>Swimming WC: Baku Day 1 (2026-10-01 09:52:00)</title>
-  </programme>
-  <programme start="20261001095200 +0000" stop="20261001153500 +0000" channel="Peacock_073">
-    <title>Swimming WC: Baku Day 1 (2026-10-01 09:52:00)</title>
-  </programme>
-  <programme start="20261001090000 +0000" stop="20261001130000 +0000" channel="Peacock_074">
-    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
-  </programme>
-  <programme start="20261001090000 +0000" stop="20261001170000 +0000" channel="Peacock_074">
-    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
-  </programme>
-  <programme start="20261001133000 +0000" stop="20261001173000 +0000" channel="Peacock_074">
-    <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
-  </programme>
   <programme start="20261001133000 +0000" stop="20261001210000 +0000" channel="Peacock_074">
     <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
-  </programme>
-  <programme start="20261001095200 +0000" stop="20261001135200 +0000" channel="Peacock_075">
-    <title>Swimming WC: Baku Day 1 (2026-10-01 09:52:00)</title>
-  </programme>
-  <programme start="20261001095200 +0000" stop="20261001153500 +0000" channel="Peacock_075">
-    <title>Swimming WC: Baku Day 1 (2026-10-01 09:52:00)</title>
   </programme>
   <programme start="20261002095200 +0000" stop="20261002135200 +0000" channel="Peacock_075">
     <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
   </programme>
   <programme start="20261002095200 +0000" stop="20261002151500 +0000" channel="Peacock_075">
     <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
-  </programme>
-  <programme start="20261001090000 +0000" stop="20261001170000 +0000" channel="Peacock_076">
-    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
-  </programme>
-  <programme start="20261001113000 +0000" stop="20261001153000 +0000" channel="Peacock_076">
-    <title>MLB Wild Card Round (2026-10-01 11:30:00)</title>
   </programme>
   <programme start="20261001113000 +0000" stop="20261001190000 +0000" channel="Peacock_076">
     <title>MLB Wild Card Round (2026-10-01 11:30:00)</title>
@@ -977,15 +767,6 @@
   </programme>
   <programme start="20261003095200 +0000" stop="20261003152500 +0000" channel="Peacock_076">
     <title>Swimming WC: Baku Day 3 (2026-10-03 09:52:00)</title>
-  </programme>
-  <programme start="20261001090000 +0000" stop="20261001170000 +0000" channel="Peacock_077">
-    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
-  </programme>
-  <programme start="20261001095200 +0000" stop="20261001153500 +0000" channel="Peacock_077">
-    <title>Swimming WC: Baku Day 1 (2026-10-01 09:52:00)</title>
-  </programme>
-  <programme start="20261001133000 +0000" stop="20261001173000 +0000" channel="Peacock_077">
-    <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
   </programme>
   <programme start="20261001133000 +0000" stop="20261001210000 +0000" channel="Peacock_077">
     <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
@@ -998,9 +779,6 @@
   </programme>
   <programme start="20261001133000 +0000" stop="20261001210000 +0000" channel="Peacock_078">
     <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
-  </programme>
-  <programme start="20261001140000 +0000" stop="20261001180000 +0000" channel="Peacock_078">
-    <title>MLB Wild Card Round (2026-10-01 14:00:00)</title>
   </programme>
   <programme start="20261004190000 +0000" stop="20261004230000 +0000" channel="Peacock_078">
     <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
@@ -1023,12 +801,6 @@
   <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_079">
     <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
   </programme>
-  <programme start="20261001090000 +0000" stop="20261001130000 +0000" channel="Peacock_080">
-    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
-  </programme>
-  <programme start="20261001090000 +0000" stop="20261001170000 +0000" channel="Peacock_080">
-    <title>Big East Men`s Media Day (2026-10-01 09:00:00)</title>
-  </programme>
   <programme start="20261001200000 +0000" stop="20261002000000 +0000" channel="Peacock_080">
     <title>MLB Wild Card Round (2026-10-01 20:00:00)</title>
   </programme>
@@ -1038,12 +810,6 @@
   <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_080">
     <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
   </programme>
-  <programme start="20261001095200 +0000" stop="20261001135200 +0000" channel="Peacock_081">
-    <title>Swimming WC: Baku Day 1 (2026-10-01 09:52:00)</title>
-  </programme>
-  <programme start="20261001095200 +0000" stop="20261001153500 +0000" channel="Peacock_081">
-    <title>Swimming WC: Baku Day 1 (2026-10-01 09:52:00)</title>
-  </programme>
   <programme start="20261002095200 +0000" stop="20261002135200 +0000" channel="Peacock_081">
     <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
   </programme>
@@ -1052,9 +818,6 @@
   </programme>
   <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_081">
     <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
-  </programme>
-  <programme start="20261001133000 +0000" stop="20261001173000 +0000" channel="Peacock_082">
-    <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
   </programme>
   <programme start="20261001133000 +0000" stop="20261001210000 +0000" channel="Peacock_082">
     <title>Big East Women`s Media Day (2026-10-01 13:30:00)</title>
