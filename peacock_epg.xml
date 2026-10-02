@@ -99,41 +99,47 @@
   <channel id="Peacock_098"><display-name>Peacock 098</display-name></channel>
   <channel id="Peacock_099"><display-name>Peacock 099</display-name></channel>
   <channel id="Peacock_100"><display-name>Peacock 100</display-name></channel>
-  <programme start="20261002082500 +0000" stop="20261002122500 +0000" channel="Peacock_014">
-    <title>IMSA VPRC Road Atlanta</title>
+  <programme start="20261002141500 +0000" stop="20261002181500 +0000" channel="Peacock_010">
+    <title>IMSA Road Atlanta Qualifying (2026-10-02 14:15:00)</title>
   </programme>
-  <programme start="20261002082500 +0000" stop="20261002131500 +0000" channel="Peacock_014">
-    <title>IMSA VPRC Road Atlanta</title>
+  <programme start="20261002141500 +0000" stop="20261002193500 +0000" channel="Peacock_010">
+    <title>IMSA Road Atlanta Qualifying (2026-10-02 14:15:00)</title>
   </programme>
-  <programme start="20261002082500 +0000" stop="20261002122500 +0000" channel="Peacock_015">
-    <title>IMSA VPRC Road Atlanta</title>
+  <programme start="20261002155000 +0000" stop="20261002195000 +0000" channel="Peacock_011">
+    <title>IMSA Carrera Cup Road Atlanta 2 (2026-10-02 15:50:00)</title>
   </programme>
-  <programme start="20261002082500 +0000" stop="20261002131500 +0000" channel="Peacock_015">
-    <title>IMSA VPRC Road Atlanta</title>
+  <programme start="20261002155000 +0000" stop="20261002203500 +0000" channel="Peacock_011">
+    <title>IMSA Carrera Cup Road Atlanta 2 (2026-10-02 15:50:00)</title>
   </programme>
-  <programme start="20261002100000 +0000" stop="20261002140000 +0000" channel="Peacock_015">
-    <title>Swimming WC: Baku Day 2 (2026-10-02 10:00:00)</title>
+  <programme start="20261002160000 +0000" stop="20261002200000 +0000" channel="Peacock_012">
+    <title>Breeders’ Cup Challenge: Keeneland Day 1 (2026-10-02 16:00:00)</title>
   </programme>
-  <programme start="20261002100000 +0000" stop="20261002152500 +0000" channel="Peacock_015">
-    <title>Swimming WC: Baku Day 2 (2026-10-02 10:00:00)</title>
+  <programme start="20261002160000 +0000" stop="20261002220000 +0000" channel="Peacock_012">
+    <title>Breeders’ Cup Challenge: Keeneland Day 1 (2026-10-02 16:00:00)</title>
   </programme>
-  <programme start="20261002100000 +0000" stop="20261002140000 +0000" channel="Peacock_016">
-    <title>Swimming WC: Baku Day 2 (2026-10-02 10:00:00)</title>
+  <programme start="20261002190000 +0000" stop="20261002230000 +0000" channel="Peacock_013">
+    <title>Brooklyn FC v. FTL United (2026-10-02 19:00:00)</title>
   </programme>
-  <programme start="20261002100000 +0000" stop="20261002152500 +0000" channel="Peacock_016">
-    <title>Swimming WC: Baku Day 2 (2026-10-02 10:00:00)</title>
+  <programme start="20261002190000 +0000" stop="20261003010000 +0000" channel="Peacock_013">
+    <title>Brooklyn FC v. FTL United (2026-10-02 19:00:00)</title>
   </programme>
-  <programme start="20261002113500 +0000" stop="20261002153500 +0000" channel="Peacock_016">
-    <title>IMSA MPC at Road Atlanta (2026-10-02 11:35:00)</title>
+  <programme start="20261003100000 +0000" stop="20261003140000 +0000" channel="Peacock_014">
+    <title>Swimming WC: Baku Day 3 (2026-10-03 10:00:00)</title>
   </programme>
-  <programme start="20261002113500 +0000" stop="20261002174000 +0000" channel="Peacock_016">
-    <title>IMSA MPC at Road Atlanta (2026-10-02 11:35:00)</title>
+  <programme start="20261003100000 +0000" stop="20261003152500 +0000" channel="Peacock_014">
+    <title>Swimming WC: Baku Day 3 (2026-10-03 10:00:00)</title>
   </programme>
-  <programme start="20261002113500 +0000" stop="20261002153500 +0000" channel="Peacock_017">
-    <title>IMSA MPC at Road Atlanta (2026-10-02 11:35:00)</title>
+  <programme start="20261003120000 +0000" stop="20261003160000 +0000" channel="Peacock_015">
+    <title>IMSA Motul Petit Le Mans</title>
   </programme>
-  <programme start="20261002113500 +0000" stop="20261002174000 +0000" channel="Peacock_017">
-    <title>IMSA MPC at Road Atlanta (2026-10-02 11:35:00)</title>
+  <programme start="20261003120000 +0000" stop="20261003190000 +0000" channel="Peacock_015">
+    <title>IMSA Motul Petit Le Mans</title>
+  </programme>
+  <programme start="20261003150000 +0000" stop="20261003190000 +0000" channel="Peacock_016">
+    <title>Breeders’ Cup Challenge: Keeneland Day 2 (2026-10-03 15:00:00)</title>
+  </programme>
+  <programme start="20261003150000 +0000" stop="20261003220000 +0000" channel="Peacock_016">
+    <title>Breeders’ Cup Challenge: Keeneland Day 2 (2026-10-03 15:00:00)</title>
   </programme>
   <programme start="20261002141500 +0000" stop="20261002181500 +0000" channel="Peacock_017">
     <title>IMSA Road Atlanta Qualifying (2026-10-02 14:15:00)</title>
@@ -141,11 +147,11 @@
   <programme start="20261002141500 +0000" stop="20261002193500 +0000" channel="Peacock_017">
     <title>IMSA Road Atlanta Qualifying (2026-10-02 14:15:00)</title>
   </programme>
-  <programme start="20261002082500 +0000" stop="20261002122500 +0000" channel="Peacock_018">
-    <title>IMSA VPRC Road Atlanta</title>
+  <programme start="20261003150005 +0000" stop="20261003190005 +0000" channel="Peacock_017">
+    <title>IMSA Motul Petit Le Mans</title>
   </programme>
-  <programme start="20261002082500 +0000" stop="20261002131500 +0000" channel="Peacock_018">
-    <title>IMSA VPRC Road Atlanta</title>
+  <programme start="20261003150005 +0000" stop="20261004023000 +0000" channel="Peacock_017">
+    <title>IMSA Motul Petit Le Mans</title>
   </programme>
   <programme start="20261002141500 +0000" stop="20261002181500 +0000" channel="Peacock_018">
     <title>IMSA Road Atlanta Qualifying (2026-10-02 14:15:00)</title>
@@ -159,11 +165,11 @@
   <programme start="20261002155000 +0000" stop="20261002203500 +0000" channel="Peacock_018">
     <title>IMSA Carrera Cup Road Atlanta 2 (2026-10-02 15:50:00)</title>
   </programme>
-  <programme start="20261002100000 +0000" stop="20261002140000 +0000" channel="Peacock_019">
-    <title>Swimming WC: Baku Day 2 (2026-10-02 10:00:00)</title>
+  <programme start="20261003190000 +0000" stop="20261003230000 +0000" channel="Peacock_018">
+    <title>Washington vs. USC (2026-10-03 19:00:00)</title>
   </programme>
-  <programme start="20261002100000 +0000" stop="20261002152500 +0000" channel="Peacock_019">
-    <title>Swimming WC: Baku Day 2 (2026-10-02 10:00:00)</title>
+  <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_018">
+    <title>Washington vs. USC (2026-10-03 19:00:00)</title>
   </programme>
   <programme start="20261002155000 +0000" stop="20261002195000 +0000" channel="Peacock_019">
     <title>IMSA Carrera Cup Road Atlanta 2 (2026-10-02 15:50:00)</title>
@@ -177,11 +183,11 @@
   <programme start="20261002190000 +0000" stop="20261003010000 +0000" channel="Peacock_019">
     <title>Brooklyn FC v. FTL United (2026-10-02 19:00:00)</title>
   </programme>
-  <programme start="20261002113500 +0000" stop="20261002153500 +0000" channel="Peacock_020">
-    <title>IMSA MPC at Road Atlanta (2026-10-02 11:35:00)</title>
+  <programme start="20261004143000 +0000" stop="20261004183000 +0000" channel="Peacock_019">
+    <title>SuperMX Recap Show (2026-10-04 14:30:00)</title>
   </programme>
-  <programme start="20261002113500 +0000" stop="20261002174000 +0000" channel="Peacock_020">
-    <title>IMSA MPC at Road Atlanta (2026-10-02 11:35:00)</title>
+  <programme start="20261004143000 +0000" stop="20261004193000 +0000" channel="Peacock_019">
+    <title>SuperMX Recap Show (2026-10-04 14:30:00)</title>
   </programme>
   <programme start="20261002190000 +0000" stop="20261002230000 +0000" channel="Peacock_020">
     <title>Brooklyn FC v. FTL United (2026-10-02 19:00:00)</title>
@@ -194,6 +200,12 @@
   </programme>
   <programme start="20261003100000 +0000" stop="20261003152500 +0000" channel="Peacock_020">
     <title>Swimming WC: Baku Day 3 (2026-10-03 10:00:00)</title>
+  </programme>
+  <programme start="20261004153000 +0000" stop="20261004193000 +0000" channel="Peacock_020">
+    <title>WNBA Playoffs: SF Game 1 (2026-10-04 15:30:00)</title>
+  </programme>
+  <programme start="20261004153000 +0000" stop="20261004223000 +0000" channel="Peacock_020">
+    <title>WNBA Playoffs: SF Game 1 (2026-10-04 15:30:00)</title>
   </programme>
   <programme start="20261002141500 +0000" stop="20261002181500 +0000" channel="Peacock_021">
     <title>IMSA Road Atlanta Qualifying (2026-10-02 14:15:00)</title>
@@ -213,6 +225,12 @@
   <programme start="20261003120000 +0000" stop="20261003190000 +0000" channel="Peacock_021">
     <title>IMSA Motul Petit Le Mans</title>
   </programme>
+  <programme start="20261004170000 +0000" stop="20261004210000 +0000" channel="Peacock_021">
+    <title>Breeders’ Cup Challenge: Keeneland Day 3 (2026-10-04 17:00:00)</title>
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004223000 +0000" channel="Peacock_021">
+    <title>Breeders’ Cup Challenge: Keeneland Day 3 (2026-10-04 17:00:00)</title>
+  </programme>
   <programme start="20261002155000 +0000" stop="20261002195000 +0000" channel="Peacock_022">
     <title>IMSA Carrera Cup Road Atlanta 2 (2026-10-02 15:50:00)</title>
   </programme>
@@ -225,11 +243,11 @@
   <programme start="20261003120000 +0000" stop="20261003190000 +0000" channel="Peacock_022">
     <title>IMSA Motul Petit Le Mans</title>
   </programme>
-  <programme start="20261002082500 +0000" stop="20261002122500 +0000" channel="Peacock_023">
-    <title>IMSA VPRC Road Atlanta</title>
+  <programme start="20261004170005 +0000" stop="20261004210005 +0000" channel="Peacock_022">
+    <title>Sun FC v. Lexington SC (2026-10-04 17:00:05)</title>
   </programme>
-  <programme start="20261002082500 +0000" stop="20261002131500 +0000" channel="Peacock_023">
-    <title>IMSA VPRC Road Atlanta</title>
+  <programme start="20261004170005 +0000" stop="20261004230000 +0000" channel="Peacock_022">
+    <title>Sun FC v. Lexington SC (2026-10-04 17:00:05)</title>
   </programme>
   <programme start="20261002190000 +0000" stop="20261002230000 +0000" channel="Peacock_023">
     <title>Brooklyn FC v. FTL United (2026-10-02 19:00:00)</title>
@@ -249,11 +267,11 @@
   <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_023">
     <title>Washington vs. USC (2026-10-03 19:00:00)</title>
   </programme>
-  <programme start="20261002100000 +0000" stop="20261002140000 +0000" channel="Peacock_024">
-    <title>Swimming WC: Baku Day 2 (2026-10-02 10:00:00)</title>
+  <programme start="20261004190000 +0000" stop="20261004230000 +0000" channel="Peacock_023">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
   </programme>
-  <programme start="20261002100000 +0000" stop="20261002152500 +0000" channel="Peacock_024">
-    <title>Swimming WC: Baku Day 2 (2026-10-02 10:00:00)</title>
+  <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_023">
+    <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
   </programme>
   <programme start="20261003100000 +0000" stop="20261003140000 +0000" channel="Peacock_024">
     <title>Swimming WC: Baku Day 3 (2026-10-03 10:00:00)</title>
@@ -273,11 +291,11 @@
   <programme start="20261004170000 +0000" stop="20261004230000 +0000" channel="Peacock_024">
     <title>Sun FC v. Lexington SC (2026-10-04 17:00:00)</title>
   </programme>
-  <programme start="20261002113500 +0000" stop="20261002153500 +0000" channel="Peacock_025">
-    <title>IMSA MPC at Road Atlanta (2026-10-02 11:35:00)</title>
+  <programme start="20261004233000 +0000" stop="20261005033000 +0000" channel="Peacock_024">
+    <title>Sunday Night Football Final (2026-10-04 23:30:00)</title>
   </programme>
-  <programme start="20261002113500 +0000" stop="20261002174000 +0000" channel="Peacock_025">
-    <title>IMSA MPC at Road Atlanta (2026-10-02 11:35:00)</title>
+  <programme start="20261004233000 +0000" stop="20261005043000 +0000" channel="Peacock_024">
+    <title>Sunday Night Football Final (2026-10-04 23:30:00)</title>
   </programme>
   <programme start="20261003120000 +0000" stop="20261003160000 +0000" channel="Peacock_025">
     <title>IMSA Motul Petit Le Mans</title>
@@ -291,17 +309,11 @@
   <programme start="20261004170000 +0000" stop="20261004230000 +0000" channel="Peacock_025">
     <title>Sun FC v. Lexington SC (2026-10-04 17:00:00)</title>
   </programme>
-  <programme start="20261002082500 +0000" stop="20261002122500 +0000" channel="Peacock_026">
-    <title>IMSA VPRC Road Atlanta</title>
+  <programme start="20261008090000 +0000" stop="20261008130000 +0000" channel="Peacock_025">
+    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
   </programme>
-  <programme start="20261002082500 +0000" stop="20261002131500 +0000" channel="Peacock_026">
-    <title>IMSA VPRC Road Atlanta</title>
-  </programme>
-  <programme start="20261002100000 +0000" stop="20261002140000 +0000" channel="Peacock_026">
-    <title>Swimming WC: Baku Day 2 (2026-10-02 10:00:00)</title>
-  </programme>
-  <programme start="20261002100000 +0000" stop="20261002152500 +0000" channel="Peacock_026">
-    <title>Swimming WC: Baku Day 2 (2026-10-02 10:00:00)</title>
+  <programme start="20261008090000 +0000" stop="20261008144000 +0000" channel="Peacock_025">
+    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
   </programme>
   <programme start="20261002141500 +0000" stop="20261002181500 +0000" channel="Peacock_026">
     <title>IMSA Road Atlanta Qualifying (2026-10-02 14:15:00)</title>
@@ -324,11 +336,11 @@
   <programme start="20261004233000 +0000" stop="20261005033000 +0000" channel="Peacock_026">
     <title>Sunday Night Football Final (2026-10-04 23:30:00)</title>
   </programme>
-  <programme start="20261002100000 +0000" stop="20261002140000 +0000" channel="Peacock_027">
-    <title>Swimming WC: Baku Day 2 (2026-10-02 10:00:00)</title>
+  <programme start="20261008090000 +0000" stop="20261008130000 +0000" channel="Peacock_026">
+    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
   </programme>
-  <programme start="20261002100000 +0000" stop="20261002152500 +0000" channel="Peacock_027">
-    <title>Swimming WC: Baku Day 2 (2026-10-02 10:00:00)</title>
+  <programme start="20261008090000 +0000" stop="20261008144000 +0000" channel="Peacock_026">
+    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
   </programme>
   <programme start="20261002155000 +0000" stop="20261002195000 +0000" channel="Peacock_027">
     <title>IMSA Carrera Cup Road Atlanta 2 (2026-10-02 15:50:00)</title>
@@ -348,17 +360,11 @@
   <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_027">
     <title>Washington vs. USC (2026-10-03 19:00:00)</title>
   </programme>
-  <programme start="20261002100000 +0000" stop="20261002140000 +0000" channel="Peacock_028">
-    <title>Swimming WC: Baku Day 2 (2026-10-02 10:00:00)</title>
+  <programme start="20261008090000 +0000" stop="20261008130000 +0000" channel="Peacock_027">
+    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
   </programme>
-  <programme start="20261002100000 +0000" stop="20261002152500 +0000" channel="Peacock_028">
-    <title>Swimming WC: Baku Day 2 (2026-10-02 10:00:00)</title>
-  </programme>
-  <programme start="20261002113500 +0000" stop="20261002153500 +0000" channel="Peacock_028">
-    <title>IMSA MPC at Road Atlanta (2026-10-02 11:35:00)</title>
-  </programme>
-  <programme start="20261002113500 +0000" stop="20261002174000 +0000" channel="Peacock_028">
-    <title>IMSA MPC at Road Atlanta (2026-10-02 11:35:00)</title>
+  <programme start="20261008090000 +0000" stop="20261008144000 +0000" channel="Peacock_027">
+    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
   </programme>
   <programme start="20261002190000 +0000" stop="20261002230000 +0000" channel="Peacock_028">
     <title>Brooklyn FC v. FTL United (2026-10-02 19:00:00)</title>
@@ -377,12 +383,6 @@
   </programme>
   <programme start="20261004170000 +0000" stop="20261004230000 +0000" channel="Peacock_028">
     <title>Sun FC v. Lexington SC (2026-10-04 17:00:00)</title>
-  </programme>
-  <programme start="20261002095200 +0000" stop="20261002135200 +0000" channel="Peacock_029">
-    <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
-  </programme>
-  <programme start="20261002095200 +0000" stop="20261002151500 +0000" channel="Peacock_029">
-    <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
   </programme>
   <programme start="20261002141500 +0000" stop="20261002181500 +0000" channel="Peacock_029">
     <title>IMSA Road Atlanta Qualifying (2026-10-02 14:15:00)</title>
@@ -407,12 +407,6 @@
   </programme>
   <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_029">
     <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
-  </programme>
-  <programme start="20261002095200 +0000" stop="20261002135200 +0000" channel="Peacock_030">
-    <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
-  </programme>
-  <programme start="20261002095200 +0000" stop="20261002151500 +0000" channel="Peacock_030">
-    <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
   </programme>
   <programme start="20261002155000 +0000" stop="20261002195000 +0000" channel="Peacock_030">
     <title>IMSA Carrera Cup Road Atlanta 2 (2026-10-02 15:50:00)</title>
@@ -443,6 +437,12 @@
   </programme>
   <programme start="20261004170000 +0000" stop="20261004230000 +0000" channel="Peacock_030">
     <title>Sun FC v. Lexington SC (2026-10-04 17:00:00)</title>
+  </programme>
+  <programme start="20261008090000 +0000" stop="20261008130000 +0000" channel="Peacock_030">
+    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
+  </programme>
+  <programme start="20261008090000 +0000" stop="20261008144000 +0000" channel="Peacock_030">
+    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
   </programme>
   <programme start="20261002190000 +0000" stop="20261002230000 +0000" channel="Peacock_031">
     <title>Brooklyn FC v. FTL United (2026-10-02 19:00:00)</title>
@@ -492,6 +492,12 @@
   <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_032">
     <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
   </programme>
+  <programme start="20261008090000 +0000" stop="20261008130000 +0000" channel="Peacock_032">
+    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
+  </programme>
+  <programme start="20261008090000 +0000" stop="20261008144000 +0000" channel="Peacock_032">
+    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
+  </programme>
   <programme start="20261003120000 +0000" stop="20261003160000 +0000" channel="Peacock_033">
     <title>IMSA Motul Petit Le Mans</title>
   </programme>
@@ -507,6 +513,12 @@
   <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_033">
     <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
   </programme>
+  <programme start="20261008085200 +0000" stop="20261008125200 +0000" channel="Peacock_033">
+    <title>Swimming WC: Tashkent Day 1 (2026-10-08 08:52:00)</title>
+  </programme>
+  <programme start="20261008085200 +0000" stop="20261008143500 +0000" channel="Peacock_033">
+    <title>Swimming WC: Tashkent Day 1 (2026-10-08 08:52:00)</title>
+  </programme>
   <programme start="20261003150000 +0000" stop="20261003190000 +0000" channel="Peacock_034">
     <title>IMSA Motul Petit Le Mans</title>
   </programme>
@@ -519,11 +531,23 @@
   <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_034">
     <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
   </programme>
+  <programme start="20261008085200 +0000" stop="20261008125200 +0000" channel="Peacock_034">
+    <title>Swimming WC: Tashkent Day 1 (2026-10-08 08:52:00)</title>
+  </programme>
+  <programme start="20261008085200 +0000" stop="20261008143500 +0000" channel="Peacock_034">
+    <title>Swimming WC: Tashkent Day 1 (2026-10-08 08:52:00)</title>
+  </programme>
   <programme start="20261003190000 +0000" stop="20261003230000 +0000" channel="Peacock_035">
     <title>Washington vs. USC (2026-10-03 19:00:00)</title>
   </programme>
   <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_035">
     <title>Washington vs. USC (2026-10-03 19:00:00)</title>
+  </programme>
+  <programme start="20261008090000 +0000" stop="20261008130000 +0000" channel="Peacock_035">
+    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
+  </programme>
+  <programme start="20261008090000 +0000" stop="20261008144000 +0000" channel="Peacock_035">
+    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
   </programme>
   <programme start="20261004170000 +0000" stop="20261004210000 +0000" channel="Peacock_036">
     <title>Sun FC v. Lexington SC (2026-10-04 17:00:00)</title>
@@ -537,11 +561,11 @@
   <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_037">
     <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
   </programme>
-  <programme start="20261002095200 +0000" stop="20261002135200 +0000" channel="Peacock_053">
-    <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
+  <programme start="20261008090000 +0000" stop="20261008130000 +0000" channel="Peacock_038">
+    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
   </programme>
-  <programme start="20261002095200 +0000" stop="20261002151500 +0000" channel="Peacock_053">
-    <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
+  <programme start="20261008090000 +0000" stop="20261008144000 +0000" channel="Peacock_038">
+    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
   </programme>
   <programme start="20261003095200 +0000" stop="20261003135200 +0000" channel="Peacock_054">
     <title>Swimming WC: Baku Day 3 (2026-10-03 09:52:00)</title>
@@ -555,12 +579,6 @@
   <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_055">
     <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
-  <programme start="20261002095200 +0000" stop="20261002135200 +0000" channel="Peacock_056">
-    <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
-  </programme>
-  <programme start="20261002095200 +0000" stop="20261002151500 +0000" channel="Peacock_056">
-    <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
-  </programme>
   <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_056">
     <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
   </programme>
@@ -569,6 +587,9 @@
   </programme>
   <programme start="20261003095200 +0000" stop="20261003152500 +0000" channel="Peacock_057">
     <title>Swimming WC: Baku Day 3 (2026-10-03 09:52:00)</title>
+  </programme>
+  <programme start="20261008085200 +0000" stop="20261008143500 +0000" channel="Peacock_057">
+    <title>Swimming WC: Tashkent Day 1 (2026-10-08 08:52:00)</title>
   </programme>
   <programme start="20261003190000 +0000" stop="20261003230000 +0000" channel="Peacock_058">
     <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
@@ -582,11 +603,11 @@
   <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_059">
     <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
   </programme>
-  <programme start="20261002095200 +0000" stop="20261002135200 +0000" channel="Peacock_061">
-    <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
+  <programme start="20261008085200 +0000" stop="20261008125200 +0000" channel="Peacock_060">
+    <title>Swimming WC: Tashkent Day 1 (2026-10-08 08:52:00)</title>
   </programme>
-  <programme start="20261002095200 +0000" stop="20261002151500 +0000" channel="Peacock_061">
-    <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
+  <programme start="20261008085200 +0000" stop="20261008143500 +0000" channel="Peacock_060">
+    <title>Swimming WC: Tashkent Day 1 (2026-10-08 08:52:00)</title>
   </programme>
   <programme start="20261003095200 +0000" stop="20261003135200 +0000" channel="Peacock_062">
     <title>Swimming WC: Baku Day 3 (2026-10-03 09:52:00)</title>
@@ -606,11 +627,8 @@
   <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_064">
     <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
   </programme>
-  <programme start="20261002095200 +0000" stop="20261002135200 +0000" channel="Peacock_066">
-    <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
-  </programme>
-  <programme start="20261002095200 +0000" stop="20261002151500 +0000" channel="Peacock_066">
-    <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
+  <programme start="20261008085200 +0000" stop="20261008143500 +0000" channel="Peacock_065">
+    <title>Swimming WC: Tashkent Day 1 (2026-10-08 08:52:00)</title>
   </programme>
   <programme start="20261003095200 +0000" stop="20261003152500 +0000" channel="Peacock_067">
     <title>Swimming WC: Baku Day 3 (2026-10-03 09:52:00)</title>
@@ -621,11 +639,8 @@
   <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_069">
     <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
   </programme>
-  <programme start="20261002095200 +0000" stop="20261002135200 +0000" channel="Peacock_075">
-    <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
-  </programme>
-  <programme start="20261002095200 +0000" stop="20261002151500 +0000" channel="Peacock_075">
-    <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
+  <programme start="20261008085200 +0000" stop="20261008143500 +0000" channel="Peacock_070">
+    <title>Swimming WC: Tashkent Day 1 (2026-10-08 08:52:00)</title>
   </programme>
   <programme start="20261003095200 +0000" stop="20261003135200 +0000" channel="Peacock_076">
     <title>Swimming WC: Baku Day 3 (2026-10-03 09:52:00)</title>
@@ -645,26 +660,20 @@
   <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_078">
     <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
   </programme>
-  <programme start="20261002095200 +0000" stop="20261002151500 +0000" channel="Peacock_079">
-    <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
-  </programme>
   <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_079">
     <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
   <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_079">
     <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
   </programme>
+  <programme start="20261008085200 +0000" stop="20261008143500 +0000" channel="Peacock_079">
+    <title>Swimming WC: Tashkent Day 1 (2026-10-08 08:52:00)</title>
+  </programme>
   <programme start="20261003095200 +0000" stop="20261003152500 +0000" channel="Peacock_080">
     <title>Swimming WC: Baku Day 3 (2026-10-03 09:52:00)</title>
   </programme>
   <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_080">
     <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
-  </programme>
-  <programme start="20261002095200 +0000" stop="20261002135200 +0000" channel="Peacock_081">
-    <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
-  </programme>
-  <programme start="20261002095200 +0000" stop="20261002151500 +0000" channel="Peacock_081">
-    <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
   </programme>
   <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_081">
     <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
@@ -681,9 +690,6 @@
   <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_082">
     <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
   </programme>
-  <programme start="20261002095200 +0000" stop="20261002151500 +0000" channel="Peacock_083">
-    <title>Swimming WC: Baku Day 2 (2026-10-02 09:52:00)</title>
-  </programme>
   <programme start="20261003190000 +0000" stop="20261003230000 +0000" channel="Peacock_083">
     <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
   </programme>
@@ -692,6 +698,9 @@
   </programme>
   <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_083">
     <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
+  </programme>
+  <programme start="20261008085200 +0000" stop="20261008143500 +0000" channel="Peacock_083">
+    <title>Swimming WC: Tashkent Day 1 (2026-10-08 08:52:00)</title>
   </programme>
   <programme start="20261003095200 +0000" stop="20261003152500 +0000" channel="Peacock_084">
     <title>Swimming WC: Baku Day 3 (2026-10-03 09:52:00)</title>
@@ -711,8 +720,17 @@
   <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_085">
     <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
   </programme>
+  <programme start="20261008085200 +0000" stop="20261008125200 +0000" channel="Peacock_085">
+    <title>Swimming WC: Tashkent Day 1 (2026-10-08 08:52:00)</title>
+  </programme>
+  <programme start="20261008085200 +0000" stop="20261008143500 +0000" channel="Peacock_085">
+    <title>Swimming WC: Tashkent Day 1 (2026-10-08 08:52:00)</title>
+  </programme>
   <programme start="20261004190000 +0000" stop="20261005043000 +0000" channel="Peacock_086">
     <title>Lions vs. Panthers (2026-10-04 19:00:00)</title>
+  </programme>
+  <programme start="20261008085200 +0000" stop="20261008143500 +0000" channel="Peacock_087">
+    <title>Swimming WC: Tashkent Day 1 (2026-10-08 08:52:00)</title>
   </programme>
   <programme start="20261003190000 +0000" stop="20261004030000 +0000" channel="Peacock_088">
     <title>B1G Saturday Night: Week 5 (2026-10-03 19:00:00)</title>
