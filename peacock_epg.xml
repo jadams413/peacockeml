@@ -111,10 +111,22 @@
   <programme start="20261008090000 +0000" stop="20261008144000 +0000" channel="Peacock_002">
     <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
   </programme>
+  <programme start="20261008190000 +0000" stop="20261008230000 +0000" channel="Peacock_003">
+    <title>Niagara vs. Notre Dame (2026-10-08 19:00:00)</title>
+  </programme>
+  <programme start="20261008190000 +0000" stop="20261009010000 +0000" channel="Peacock_003">
+    <title>Niagara vs. Notre Dame (2026-10-08 19:00:00)</title>
+  </programme>
   <programme start="20261009090000 +0000" stop="20261009130000 +0000" channel="Peacock_003">
     <title>Swimming WC: Tashkent Day 2 (2026-10-09 09:00:00)</title>
   </programme>
   <programme start="20261009090000 +0000" stop="20261009143500 +0000" channel="Peacock_003">
+    <title>Swimming WC: Tashkent Day 2 (2026-10-09 09:00:00)</title>
+  </programme>
+  <programme start="20261009090000 +0000" stop="20261009130000 +0000" channel="Peacock_004">
+    <title>Swimming WC: Tashkent Day 2 (2026-10-09 09:00:00)</title>
+  </programme>
+  <programme start="20261009090000 +0000" stop="20261009143500 +0000" channel="Peacock_004">
     <title>Swimming WC: Tashkent Day 2 (2026-10-09 09:00:00)</title>
   </programme>
   <programme start="20261009190000 +0000" stop="20261009230000 +0000" channel="Peacock_004">
@@ -123,11 +135,20 @@
   <programme start="20261009190000 +0000" stop="20261010010000 +0000" channel="Peacock_004">
     <title>Sporting JAX v. Power FC (2026-10-09 19:00:00)</title>
   </programme>
+  <programme start="20261009190000 +0000" stop="20261009230000 +0000" channel="Peacock_005">
+    <title>Sporting JAX v. Power FC (2026-10-09 19:00:00)</title>
+  </programme>
   <programme start="20261009210000 +0000" stop="20261010010000 +0000" channel="Peacock_005">
     <title>Game 3: Valkyries vs. Aces (2026-10-09 21:00:00)</title>
   </programme>
   <programme start="20261009210000 +0000" stop="20261010040000 +0000" channel="Peacock_005">
     <title>Game 3: Valkyries vs. Aces (2026-10-09 21:00:00)</title>
+  </programme>
+  <programme start="20261009190005 +0000" stop="20261009230005 +0000" channel="Peacock_006">
+    <title>Niagara vs. Notre Dame (2026-10-09 19:00:05)</title>
+  </programme>
+  <programme start="20261009190005 +0000" stop="20261010010000 +0000" channel="Peacock_006">
+    <title>Niagara vs. Notre Dame (2026-10-09 19:00:05)</title>
   </programme>
   <programme start="20261010090000 +0000" stop="20261010130000 +0000" channel="Peacock_006">
     <title>Swimming WC: Tashkent Day 3 (2026-10-10 09:00:00)</title>
@@ -141,6 +162,12 @@
   <programme start="20261007210000 +0000" stop="20261008040000 +0000" channel="Peacock_007">
     <title>Game 2: Aces vs. Valkyries (2026-10-07 21:00:00)</title>
   </programme>
+  <programme start="20261009210000 +0000" stop="20261010010000 +0000" channel="Peacock_007">
+    <title>Game 3: Valkyries vs. Aces (2026-10-09 21:00:00)</title>
+  </programme>
+  <programme start="20261009210000 +0000" stop="20261010040000 +0000" channel="Peacock_007">
+    <title>Game 3: Valkyries vs. Aces (2026-10-09 21:00:00)</title>
+  </programme>
   <programme start="20261010095000 +0000" stop="20261010135000 +0000" channel="Peacock_007">
     <title>Goal Rush: Matchweek 6 (2026-10-10 09:50:00)</title>
   </programme>
@@ -152,6 +179,12 @@
   </programme>
   <programme start="20261008090000 +0000" stop="20261008144000 +0000" channel="Peacock_008">
     <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
+  </programme>
+  <programme start="20261010090000 +0000" stop="20261010130000 +0000" channel="Peacock_008">
+    <title>Swimming WC: Tashkent Day 3 (2026-10-10 09:00:00)</title>
+  </programme>
+  <programme start="20261010090000 +0000" stop="20261010143500 +0000" channel="Peacock_008">
+    <title>Swimming WC: Tashkent Day 3 (2026-10-10 09:00:00)</title>
   </programme>
   <programme start="20261010095005 +0000" stop="20261010135005 +0000" channel="Peacock_008">
     <title>Chelsea v. Bournemouth (2026-10-10 09:50:05)</title>
@@ -165,6 +198,9 @@
   <programme start="20261009090000 +0000" stop="20261009143500 +0000" channel="Peacock_009">
     <title>Swimming WC: Tashkent Day 2 (2026-10-09 09:00:00)</title>
   </programme>
+  <programme start="20261010095000 +0000" stop="20261010135000 +0000" channel="Peacock_009">
+    <title>Ipswich Town v. Fulham (2026-10-10 09:50:00)</title>
+  </programme>
   <programme start="20261010095010 +0000" stop="20261010135010 +0000" channel="Peacock_009">
     <title>Ipswich Town v. Fulham (2026-10-10 09:50:10)</title>
   </programme>
@@ -177,6 +213,9 @@
   <programme start="20261009190000 +0000" stop="20261010010000 +0000" channel="Peacock_010">
     <title>Sporting JAX v. Power FC (2026-10-09 19:00:00)</title>
   </programme>
+  <programme start="20261010095005 +0000" stop="20261010135005 +0000" channel="Peacock_010">
+    <title>Chelsea v. Bournemouth (2026-10-10 09:50:05)</title>
+  </programme>
   <programme start="20261010095015 +0000" stop="20261010135015 +0000" channel="Peacock_010">
     <title>Sunderland v. Brighton (2026-10-10 09:50:15)</title>
   </programme>
@@ -188,6 +227,12 @@
   </programme>
   <programme start="20261009210000 +0000" stop="20261010040000 +0000" channel="Peacock_011">
     <title>Game 3: Valkyries vs. Aces (2026-10-09 21:00:00)</title>
+  </programme>
+  <programme start="20261010095010 +0000" stop="20261010135010 +0000" channel="Peacock_011">
+    <title>Goal Rush: Matchweek 6 (2026-10-10 09:50:10)</title>
+  </programme>
+  <programme start="20261010095010 +0000" stop="20261010160000 +0000" channel="Peacock_011">
+    <title>Goal Rush: Matchweek 6 (2026-10-10 09:50:10)</title>
   </programme>
   <programme start="20261010123000 +0000" stop="20261010163000 +0000" channel="Peacock_011">
     <title>Man United v. Spurs (2026-10-10 12:30:00)</title>
@@ -207,6 +252,12 @@
   <programme start="20261010090000 +0000" stop="20261010143500 +0000" channel="Peacock_012">
     <title>Swimming WC: Tashkent Day 3 (2026-10-10 09:00:00)</title>
   </programme>
+  <programme start="20261010095015 +0000" stop="20261010135015 +0000" channel="Peacock_012">
+    <title>Sunderland v. Brighton (2026-10-10 09:50:15)</title>
+  </programme>
+  <programme start="20261010095015 +0000" stop="20261010160000 +0000" channel="Peacock_012">
+    <title>Sunderland v. Brighton (2026-10-10 09:50:15)</title>
+  </programme>
   <programme start="20261010150000 +0000" stop="20261010190000 +0000" channel="Peacock_012">
     <title>Stanford vs. Notre Dame (2026-10-10 15:00:00)</title>
   </programme>
@@ -224,6 +275,12 @@
   </programme>
   <programme start="20261010095000 +0000" stop="20261010160000 +0000" channel="Peacock_013">
     <title>Goal Rush: Matchweek 6 (2026-10-10 09:50:00)</title>
+  </programme>
+  <programme start="20261010123000 +0000" stop="20261010163000 +0000" channel="Peacock_013">
+    <title>Man United v. Spurs (2026-10-10 12:30:00)</title>
+  </programme>
+  <programme start="20261010123000 +0000" stop="20261010190000 +0000" channel="Peacock_013">
+    <title>Man United v. Spurs (2026-10-10 12:30:00)</title>
   </programme>
   <programme start="20261010160000 +0000" stop="20261010200000 +0000" channel="Peacock_013">
     <title>Brooklyn FC v. Trinity FC (2026-10-10 16:00:00)</title>
@@ -243,6 +300,12 @@
   <programme start="20261010095005 +0000" stop="20261010160000 +0000" channel="Peacock_014">
     <title>Chelsea v. Bournemouth (2026-10-10 09:50:05)</title>
   </programme>
+  <programme start="20261010150000 +0000" stop="20261010190000 +0000" channel="Peacock_014">
+    <title>Stanford vs. Notre Dame (2026-10-10 15:00:00)</title>
+  </programme>
+  <programme start="20261010150000 +0000" stop="20261010230000 +0000" channel="Peacock_014">
+    <title>Stanford vs. Notre Dame (2026-10-10 15:00:00)</title>
+  </programme>
   <programme start="20261010180000 +0000" stop="20261010220000 +0000" channel="Peacock_014">
     <title>Sun FC v. Ascent FC (2026-10-10 18:00:00)</title>
   </programme>
@@ -261,6 +324,12 @@
   <programme start="20261010095010 +0000" stop="20261010160000 +0000" channel="Peacock_015">
     <title>Ipswich Town v. Fulham (2026-10-10 09:50:10)</title>
   </programme>
+  <programme start="20261010160000 +0000" stop="20261010200000 +0000" channel="Peacock_015">
+    <title>Brooklyn FC v. Trinity FC (2026-10-10 16:00:00)</title>
+  </programme>
+  <programme start="20261010160000 +0000" stop="20261010220000 +0000" channel="Peacock_015">
+    <title>Brooklyn FC v. Trinity FC (2026-10-10 16:00:00)</title>
+  </programme>
   <programme start="20261010190000 +0000" stop="20261010230000 +0000" channel="Peacock_015">
     <title>USC vs. Penn State (2026-10-10 19:00:00)</title>
   </programme>
@@ -275,6 +344,12 @@
   </programme>
   <programme start="20261010095015 +0000" stop="20261010135015 +0000" channel="Peacock_016">
     <title>Sunderland v. Brighton (2026-10-10 09:50:15)</title>
+  </programme>
+  <programme start="20261010180000 +0000" stop="20261010220000 +0000" channel="Peacock_016">
+    <title>Sun FC v. Ascent FC (2026-10-10 18:00:00)</title>
+  </programme>
+  <programme start="20261010180000 +0000" stop="20261011000000 +0000" channel="Peacock_016">
+    <title>Sun FC v. Ascent FC (2026-10-10 18:00:00)</title>
   </programme>
   <programme start="20261011090000 +0000" stop="20261011130000 +0000" channel="Peacock_016">
     <title>Hull City v. Everton (2026-10-11 09:00:00)</title>
@@ -294,6 +369,12 @@
   <programme start="20261010123000 +0000" stop="20261010190000 +0000" channel="Peacock_017">
     <title>Man United v. Spurs (2026-10-10 12:30:00)</title>
   </programme>
+  <programme start="20261010190000 +0000" stop="20261010230000 +0000" channel="Peacock_017">
+    <title>USC vs. Penn State (2026-10-10 19:00:00)</title>
+  </programme>
+  <programme start="20261010190000 +0000" stop="20261011030000 +0000" channel="Peacock_017">
+    <title>USC vs. Penn State (2026-10-10 19:00:00)</title>
+  </programme>
   <programme start="20261011090005 +0000" stop="20261011130005 +0000" channel="Peacock_017">
     <title>2026 Paris_Tours (2026-10-11 09:00:05)</title>
   </programme>
@@ -311,6 +392,12 @@
   </programme>
   <programme start="20261010150000 +0000" stop="20261010230000 +0000" channel="Peacock_018">
     <title>Stanford vs. Notre Dame (2026-10-10 15:00:00)</title>
+  </programme>
+  <programme start="20261011090000 +0000" stop="20261011130000 +0000" channel="Peacock_018">
+    <title>2026 Paris_Tours (2026-10-11 09:00:00)</title>
+  </programme>
+  <programme start="20261011090000 +0000" stop="20261011151500 +0000" channel="Peacock_018">
+    <title>2026 Paris_Tours (2026-10-11 09:00:00)</title>
   </programme>
   <programme start="20261011113000 +0000" stop="20261011153000 +0000" channel="Peacock_018">
     <title>Liverpool v. Man City (2026-10-11 11:30:00)</title>
@@ -336,6 +423,12 @@
   <programme start="20261010160000 +0000" stop="20261010220000 +0000" channel="Peacock_019">
     <title>Brooklyn FC v. Trinity FC (2026-10-10 16:00:00)</title>
   </programme>
+  <programme start="20261011090005 +0000" stop="20261011130005 +0000" channel="Peacock_019">
+    <title>Hull City v. Everton (2026-10-11 09:00:05)</title>
+  </programme>
+  <programme start="20261011090005 +0000" stop="20261011150000 +0000" channel="Peacock_019">
+    <title>Hull City v. Everton (2026-10-11 09:00:05)</title>
+  </programme>
   <programme start="20261011153000 +0000" stop="20261011193000 +0000" channel="Peacock_019">
     <title>Game 4 (If Nec.): Valkyries vs. Aces (2026-10-11 15:30:00)</title>
   </programme>
@@ -360,6 +453,12 @@
   <programme start="20261010180000 +0000" stop="20261011000000 +0000" channel="Peacock_020">
     <title>Sun FC v. Ascent FC (2026-10-10 18:00:00)</title>
   </programme>
+  <programme start="20261011113000 +0000" stop="20261011153000 +0000" channel="Peacock_020">
+    <title>Liverpool v. Man City (2026-10-11 11:30:00)</title>
+  </programme>
+  <programme start="20261011113000 +0000" stop="20261011173000 +0000" channel="Peacock_020">
+    <title>Liverpool v. Man City (2026-10-11 11:30:00)</title>
+  </programme>
   <programme start="20261011190000 +0000" stop="20261011230000 +0000" channel="Peacock_020">
     <title>Ravens vs. Falcons (2026-10-11 19:00:00)</title>
   </programme>
@@ -377,6 +476,12 @@
   </programme>
   <programme start="20261010150000 +0000" stop="20261010230000 +0000" channel="Peacock_021">
     <title>Stanford vs. Notre Dame (2026-10-10 15:00:00)</title>
+  </programme>
+  <programme start="20261011153000 +0000" stop="20261011193000 +0000" channel="Peacock_021">
+    <title>Game 4 (If Nec.): Valkyries vs. Aces (2026-10-11 15:30:00)</title>
+  </programme>
+  <programme start="20261011153000 +0000" stop="20261011223000 +0000" channel="Peacock_021">
+    <title>Game 4 (If Nec.): Valkyries vs. Aces (2026-10-11 15:30:00)</title>
   </programme>
   <programme start="20261011190005 +0000" stop="20261011230005 +0000" channel="Peacock_021">
     <title>FTL United v. Lexington SC (2026-10-11 19:00:05)</title>
@@ -402,6 +507,12 @@
   <programme start="20261011090000 +0000" stop="20261011150000 +0000" channel="Peacock_022">
     <title>Hull City v. Everton (2026-10-11 09:00:00)</title>
   </programme>
+  <programme start="20261011190000 +0000" stop="20261011230000 +0000" channel="Peacock_022">
+    <title>FTL United v. Lexington SC (2026-10-11 19:00:00)</title>
+  </programme>
+  <programme start="20261011190000 +0000" stop="20261012010000 +0000" channel="Peacock_022">
+    <title>FTL United v. Lexington SC (2026-10-11 19:00:00)</title>
+  </programme>
   <programme start="20261011233000 +0000" stop="20261012033000 +0000" channel="Peacock_022">
     <title>Sunday Night Football Final (2026-10-11 23:30:00)</title>
   </programme>
@@ -426,6 +537,12 @@
   <programme start="20261011090005 +0000" stop="20261011151500 +0000" channel="Peacock_023">
     <title>2026 Paris_Tours (2026-10-11 09:00:05)</title>
   </programme>
+  <programme start="20261011190005 +0000" stop="20261011230005 +0000" channel="Peacock_023">
+    <title>Ravens vs. Falcons (2026-10-11 19:00:05)</title>
+  </programme>
+  <programme start="20261011190005 +0000" stop="20261012043000 +0000" channel="Peacock_023">
+    <title>Ravens vs. Falcons (2026-10-11 19:00:05)</title>
+  </programme>
   <programme start="20261010095005 +0000" stop="20261010135005 +0000" channel="Peacock_024">
     <title>Chelsea v. Bournemouth (2026-10-10 09:50:05)</title>
   </programme>
@@ -443,6 +560,12 @@
   </programme>
   <programme start="20261011113000 +0000" stop="20261011173000 +0000" channel="Peacock_024">
     <title>Liverpool v. Man City (2026-10-11 11:30:00)</title>
+  </programme>
+  <programme start="20261011233000 +0000" stop="20261012033000 +0000" channel="Peacock_024">
+    <title>Sunday Night Football Final (2026-10-11 23:30:00)</title>
+  </programme>
+  <programme start="20261011233000 +0000" stop="20261012043000 +0000" channel="Peacock_024">
+    <title>Sunday Night Football Final (2026-10-11 23:30:00)</title>
   </programme>
   <programme start="20261008090000 +0000" stop="20261008130000 +0000" channel="Peacock_025">
     <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
