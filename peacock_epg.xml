@@ -99,12 +99,6 @@
   <channel id="Peacock_098"><display-name>Peacock 098</display-name></channel>
   <channel id="Peacock_099"><display-name>Peacock 099</display-name></channel>
   <channel id="Peacock_100"><display-name>Peacock 100</display-name></channel>
-  <programme start="20261008090000 +0000" stop="20261008130000 +0000" channel="Peacock_002">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
-  </programme>
-  <programme start="20261008090000 +0000" stop="20261008144000 +0000" channel="Peacock_002">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
-  </programme>
   <programme start="20261008190000 +0000" stop="20261008230000 +0000" channel="Peacock_003">
     <title>Niagara vs. Notre Dame (2026-10-08 19:00:00)</title>
   </programme>
@@ -161,12 +155,6 @@
   </programme>
   <programme start="20261010095000 +0000" stop="20261010160000 +0000" channel="Peacock_007">
     <title>Goal Rush: Matchweek 6 (2026-10-10 09:50:00)</title>
-  </programme>
-  <programme start="20261008090000 +0000" stop="20261008130000 +0000" channel="Peacock_008">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
-  </programme>
-  <programme start="20261008090000 +0000" stop="20261008144000 +0000" channel="Peacock_008">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
   </programme>
   <programme start="20261010090000 +0000" stop="20261010130000 +0000" channel="Peacock_008">
     <title>Swimming WC: Tashkent Day 3 (2026-10-10 09:00:00)</title>
@@ -227,12 +215,6 @@
   </programme>
   <programme start="20261010123000 +0000" stop="20261010190000 +0000" channel="Peacock_011">
     <title>Man United v. Spurs (2026-10-10 12:30:00)</title>
-  </programme>
-  <programme start="20261008090000 +0000" stop="20261008130000 +0000" channel="Peacock_012">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
-  </programme>
-  <programme start="20261008090000 +0000" stop="20261008144000 +0000" channel="Peacock_012">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
   </programme>
   <programme start="20261010090000 +0000" stop="20261010130000 +0000" channel="Peacock_012">
     <title>Swimming WC: Tashkent Day 3 (2026-10-10 09:00:00)</title>
@@ -393,12 +375,6 @@
   <programme start="20261011113000 +0000" stop="20261011173000 +0000" channel="Peacock_018">
     <title>Liverpool v. Man City (2026-10-11 11:30:00)</title>
   </programme>
-  <programme start="20261008090000 +0000" stop="20261008130000 +0000" channel="Peacock_019">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
-  </programme>
-  <programme start="20261008090000 +0000" stop="20261008144000 +0000" channel="Peacock_019">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
-  </programme>
   <programme start="20261010095015 +0000" stop="20261010135015 +0000" channel="Peacock_019">
     <title>Sunderland v. Brighton (2026-10-10 09:50:15)</title>
   </programme>
@@ -465,6 +441,9 @@
   <programme start="20261010150000 +0000" stop="20261010230000 +0000" channel="Peacock_021">
     <title>Stanford vs. Notre Dame (2026-10-10 15:00:00)</title>
   </programme>
+  <programme start="20261011143000 +0000" stop="20261011183000 +0000" channel="Peacock_021">
+    <title>IMSA Season Review (2026-10-11 14:30:00)</title>
+  </programme>
   <programme start="20261011153000 +0000" stop="20261011193000 +0000" channel="Peacock_021">
     <title>Game 4 (If Nec.): Valkyries vs. Aces (2026-10-11 15:30:00)</title>
   </programme>
@@ -494,6 +473,12 @@
   </programme>
   <programme start="20261011090000 +0000" stop="20261011150000 +0000" channel="Peacock_022">
     <title>Hull City v. Everton (2026-10-11 09:00:00)</title>
+  </programme>
+  <programme start="20261011153000 +0000" stop="20261011193000 +0000" channel="Peacock_022">
+    <title>Game 4 (If Nec.): Valkyries vs. Aces (2026-10-11 15:30:00)</title>
+  </programme>
+  <programme start="20261011153000 +0000" stop="20261011223000 +0000" channel="Peacock_022">
+    <title>Game 4 (If Nec.): Valkyries vs. Aces (2026-10-11 15:30:00)</title>
   </programme>
   <programme start="20261011190000 +0000" stop="20261011230000 +0000" channel="Peacock_022">
     <title>FTL United v. Lexington SC (2026-10-11 19:00:00)</title>
@@ -525,6 +510,12 @@
   <programme start="20261011090005 +0000" stop="20261011151500 +0000" channel="Peacock_023">
     <title>2026 Paris_Tours (2026-10-11 09:00:05)</title>
   </programme>
+  <programme start="20261011190000 +0000" stop="20261011230000 +0000" channel="Peacock_023">
+    <title>FTL United v. Lexington SC (2026-10-11 19:00:00)</title>
+  </programme>
+  <programme start="20261011190000 +0000" stop="20261012010000 +0000" channel="Peacock_023">
+    <title>FTL United v. Lexington SC (2026-10-11 19:00:00)</title>
+  </programme>
   <programme start="20261011190005 +0000" stop="20261011230005 +0000" channel="Peacock_023">
     <title>Ravens vs. Falcons (2026-10-11 19:00:05)</title>
   </programme>
@@ -555,6 +546,9 @@
   <programme start="20261011113000 +0000" stop="20261011173000 +0000" channel="Peacock_024">
     <title>Liverpool v. Man City (2026-10-11 11:30:00)</title>
   </programme>
+  <programme start="20261011190005 +0000" stop="20261011230005 +0000" channel="Peacock_024">
+    <title>Ravens vs. Falcons (2026-10-11 19:00:05)</title>
+  </programme>
   <programme start="20261011233000 +0000" stop="20261012033000 +0000" channel="Peacock_024">
     <title>Sunday Night Football Final (2026-10-11 23:30:00)</title>
   </programme>
@@ -566,12 +560,6 @@
   </programme>
   <programme start="20261013183005 +0000" stop="20261014020000 +0000" channel="Peacock_024">
     <title>Performance View: CLE vs. ORL (2026-10-13 18:30:05)</title>
-  </programme>
-  <programme start="20261008090000 +0000" stop="20261008130000 +0000" channel="Peacock_025">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
-  </programme>
-  <programme start="20261008090000 +0000" stop="20261008144000 +0000" channel="Peacock_025">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
   </programme>
   <programme start="20261010095010 +0000" stop="20261010135010 +0000" channel="Peacock_025">
     <title>Ipswich Town v. Fulham (2026-10-10 09:50:10)</title>
@@ -591,17 +579,17 @@
   <programme start="20261011153000 +0000" stop="20261011223000 +0000" channel="Peacock_025">
     <title>Game 4 (If Nec.): Valkyries vs. Aces (2026-10-11 15:30:00)</title>
   </programme>
+  <programme start="20261011233000 +0000" stop="20261012033000 +0000" channel="Peacock_025">
+    <title>Sunday Night Football Final (2026-10-11 23:30:00)</title>
+  </programme>
+  <programme start="20261011233000 +0000" stop="20261012043000 +0000" channel="Peacock_025">
+    <title>Sunday Night Football Final (2026-10-11 23:30:00)</title>
+  </programme>
   <programme start="20261013183000 +0000" stop="20261013223000 +0000" channel="Peacock_025">
     <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:30:00)</title>
   </programme>
   <programme start="20261013183000 +0000" stop="20261014020000 +0000" channel="Peacock_025">
     <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:30:00)</title>
-  </programme>
-  <programme start="20261008090000 +0000" stop="20261008130000 +0000" channel="Peacock_026">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
-  </programme>
-  <programme start="20261008090000 +0000" stop="20261008144000 +0000" channel="Peacock_026">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
   </programme>
   <programme start="20261009090000 +0000" stop="20261009130000 +0000" channel="Peacock_026">
     <title>Swimming WC: Tashkent Day 2 (2026-10-09 09:00:00)</title>
@@ -627,17 +615,14 @@
   <programme start="20261011190000 +0000" stop="20261012010000 +0000" channel="Peacock_026">
     <title>FTL United v. Lexington SC (2026-10-11 19:00:00)</title>
   </programme>
+  <programme start="20261013183000 +0000" stop="20261013223000 +0000" channel="Peacock_026">
+    <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:30:00)</title>
+  </programme>
   <programme start="20261013183005 +0000" stop="20261013223005 +0000" channel="Peacock_026">
     <title>Performance View: CLE vs. ORL (2026-10-13 18:30:05)</title>
   </programme>
   <programme start="20261013183005 +0000" stop="20261014020000 +0000" channel="Peacock_026">
     <title>Performance View: CLE vs. ORL (2026-10-13 18:30:05)</title>
-  </programme>
-  <programme start="20261008090000 +0000" stop="20261008130000 +0000" channel="Peacock_027">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
-  </programme>
-  <programme start="20261008090000 +0000" stop="20261008144000 +0000" channel="Peacock_027">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
   </programme>
   <programme start="20261009090000 +0000" stop="20261009130000 +0000" channel="Peacock_027">
     <title>Swimming WC: Tashkent Day 2 (2026-10-09 09:00:00)</title>
@@ -668,6 +653,12 @@
   </programme>
   <programme start="20261011190005 +0000" stop="20261012043000 +0000" channel="Peacock_027">
     <title>Ravens vs. Falcons (2026-10-11 19:00:05)</title>
+  </programme>
+  <programme start="20261013183005 +0000" stop="20261013223005 +0000" channel="Peacock_027">
+    <title>Performance View: CLE vs. ORL (2026-10-13 18:30:05)</title>
+  </programme>
+  <programme start="20261013183005 +0000" stop="20261014020000 +0000" channel="Peacock_027">
+    <title>Performance View: CLE vs. ORL (2026-10-13 18:30:05)</title>
   </programme>
   <programme start="20261009090000 +0000" stop="20261009130000 +0000" channel="Peacock_028">
     <title>Swimming WC: Tashkent Day 2 (2026-10-09 09:00:00)</title>
@@ -738,12 +729,6 @@
   <programme start="20261013183000 +0000" stop="20261014020000 +0000" channel="Peacock_029">
     <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:30:00)</title>
   </programme>
-  <programme start="20261008090000 +0000" stop="20261008130000 +0000" channel="Peacock_030">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
-  </programme>
-  <programme start="20261008090000 +0000" stop="20261008144000 +0000" channel="Peacock_030">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
-  </programme>
   <programme start="20261010090000 +0000" stop="20261010130000 +0000" channel="Peacock_030">
     <title>Swimming WC: Tashkent Day 3 (2026-10-10 09:00:00)</title>
   </programme>
@@ -795,12 +780,6 @@
   <programme start="20261013183005 +0000" stop="20261014020000 +0000" channel="Peacock_031">
     <title>Performance View: CLE vs. ORL (2026-10-13 18:30:05)</title>
   </programme>
-  <programme start="20261008090000 +0000" stop="20261008130000 +0000" channel="Peacock_032">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
-  </programme>
-  <programme start="20261008090000 +0000" stop="20261008144000 +0000" channel="Peacock_032">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
-  </programme>
   <programme start="20261009190000 +0000" stop="20261009230000 +0000" channel="Peacock_032">
     <title>Sporting JAX v. Power FC (2026-10-09 19:00:00)</title>
   </programme>
@@ -824,12 +803,6 @@
   </programme>
   <programme start="20261011090000 +0000" stop="20261011150000 +0000" channel="Peacock_032">
     <title>Hull City v. Everton (2026-10-11 09:00:00)</title>
-  </programme>
-  <programme start="20261008085200 +0000" stop="20261008125200 +0000" channel="Peacock_033">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 08:52:00)</title>
-  </programme>
-  <programme start="20261008085200 +0000" stop="20261008143500 +0000" channel="Peacock_033">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 08:52:00)</title>
   </programme>
   <programme start="20261009090000 +0000" stop="20261009130000 +0000" channel="Peacock_033">
     <title>Swimming WC: Tashkent Day 2 (2026-10-09 09:00:00)</title>
@@ -867,12 +840,6 @@
   <programme start="20261011190000 +0000" stop="20261012010000 +0000" channel="Peacock_033">
     <title>FTL United v. Lexington SC (2026-10-11 19:00:00)</title>
   </programme>
-  <programme start="20261008085200 +0000" stop="20261008125200 +0000" channel="Peacock_034">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 08:52:00)</title>
-  </programme>
-  <programme start="20261008085200 +0000" stop="20261008143500 +0000" channel="Peacock_034">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 08:52:00)</title>
-  </programme>
   <programme start="20261009085200 +0000" stop="20261009125200 +0000" channel="Peacock_034">
     <title>Swimming WC: Tashkent Day 2 (2026-10-09 08:52:00)</title>
   </programme>
@@ -908,12 +875,6 @@
   </programme>
   <programme start="20261011190005 +0000" stop="20261011230005 +0000" channel="Peacock_034">
     <title>Ravens vs. Falcons (2026-10-11 19:00:05)</title>
-  </programme>
-  <programme start="20261008090000 +0000" stop="20261008130000 +0000" channel="Peacock_035">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
-  </programme>
-  <programme start="20261008090000 +0000" stop="20261008144000 +0000" channel="Peacock_035">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
   </programme>
   <programme start="20261009085200 +0000" stop="20261009125200 +0000" channel="Peacock_035">
     <title>Swimming WC: Tashkent Day 2 (2026-10-09 08:52:00)</title>
@@ -1037,12 +998,6 @@
   </programme>
   <programme start="20261013183005 +0000" stop="20261013223005 +0000" channel="Peacock_037">
     <title>Performance View: CLE vs. ORL (2026-10-13 18:30:05)</title>
-  </programme>
-  <programme start="20261008090000 +0000" stop="20261008130000 +0000" channel="Peacock_038">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
-  </programme>
-  <programme start="20261008090000 +0000" stop="20261008144000 +0000" channel="Peacock_038">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 09:00:00)</title>
   </programme>
   <programme start="20261010090000 +0000" stop="20261010130000 +0000" channel="Peacock_038">
     <title>Swimming WC: Tashkent Day 3 (2026-10-10 09:00:00)</title>
@@ -1218,20 +1173,11 @@
   <programme start="20261013183005 +0000" stop="20261014020000 +0000" channel="Peacock_049">
     <title>Performance View: CLE vs. ORL (2026-10-13 18:30:05)</title>
   </programme>
-  <programme start="20261008085200 +0000" stop="20261008143500 +0000" channel="Peacock_057">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 08:52:00)</title>
-  </programme>
   <programme start="20261009085200 +0000" stop="20261009141500 +0000" channel="Peacock_058">
     <title>Swimming WC: Tashkent Day 2 (2026-10-09 08:52:00)</title>
   </programme>
   <programme start="20261010085200 +0000" stop="20261010142500 +0000" channel="Peacock_059">
     <title>Swimming WC: Tashkent Day 3 (2026-10-10 08:52:00)</title>
-  </programme>
-  <programme start="20261008085200 +0000" stop="20261008125200 +0000" channel="Peacock_060">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 08:52:00)</title>
-  </programme>
-  <programme start="20261008085200 +0000" stop="20261008143500 +0000" channel="Peacock_060">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 08:52:00)</title>
   </programme>
   <programme start="20261010150000 +0000" stop="20261010230000 +0000" channel="Peacock_060">
     <title>Stanford vs. Notre Dame (2026-10-10 15:00:00)</title>
@@ -1263,9 +1209,6 @@
   <programme start="20261013180005 +0000" stop="20261014020000 +0000" channel="Peacock_064">
     <title>Performance View: CLE vs. ORL (2026-10-13 18:00:05)</title>
   </programme>
-  <programme start="20261008085200 +0000" stop="20261008143500 +0000" channel="Peacock_065">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 08:52:00)</title>
-  </programme>
   <programme start="20261011190000 +0000" stop="20261012043000 +0000" channel="Peacock_065">
     <title>Ravens vs. Falcons (2026-10-11 19:00:00)</title>
   </programme>
@@ -1286,9 +1229,6 @@
   </programme>
   <programme start="20261010190000 +0000" stop="20261011030000 +0000" channel="Peacock_069">
     <title>B1G Saturday Night: Week 6 (2026-10-10 19:00:00)</title>
-  </programme>
-  <programme start="20261008085200 +0000" stop="20261008143500 +0000" channel="Peacock_070">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 08:52:00)</title>
   </programme>
   <programme start="20261011190000 +0000" stop="20261012043000 +0000" channel="Peacock_070">
     <title>Ravens vs. Falcons (2026-10-11 19:00:00)</title>
@@ -1320,9 +1260,6 @@
   <programme start="20261013180005 +0000" stop="20261014020000 +0000" channel="Peacock_077">
     <title>Performance View: CLE vs. ORL (2026-10-13 18:00:05)</title>
   </programme>
-  <programme start="20261008085200 +0000" stop="20261008143500 +0000" channel="Peacock_079">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 08:52:00)</title>
-  </programme>
   <programme start="20261009085200 +0000" stop="20261009141500 +0000" channel="Peacock_080">
     <title>Swimming WC: Tashkent Day 2 (2026-10-09 08:52:00)</title>
   </programme>
@@ -1337,9 +1274,6 @@
   </programme>
   <programme start="20261010190000 +0000" stop="20261011030000 +0000" channel="Peacock_082">
     <title>B1G Saturday Night: Week 6 (2026-10-10 19:00:00)</title>
-  </programme>
-  <programme start="20261008085200 +0000" stop="20261008143500 +0000" channel="Peacock_083">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 08:52:00)</title>
   </programme>
   <programme start="20261010190000 +0000" stop="20261011030000 +0000" channel="Peacock_083">
     <title>B1G Saturday Night: Week 6 (2026-10-10 19:00:00)</title>
@@ -1361,12 +1295,6 @@
   </programme>
   <programme start="20261013180000 +0000" stop="20261014020000 +0000" channel="Peacock_084">
     <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:00:00)</title>
-  </programme>
-  <programme start="20261008085200 +0000" stop="20261008125200 +0000" channel="Peacock_085">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 08:52:00)</title>
-  </programme>
-  <programme start="20261008085200 +0000" stop="20261008143500 +0000" channel="Peacock_085">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 08:52:00)</title>
   </programme>
   <programme start="20261010085200 +0000" stop="20261010142500 +0000" channel="Peacock_085">
     <title>Swimming WC: Tashkent Day 3 (2026-10-10 08:52:00)</title>
@@ -1397,9 +1325,6 @@
   </programme>
   <programme start="20261013180000 +0000" stop="20261014020000 +0000" channel="Peacock_086">
     <title>Performance View: CLE vs. ORL (2026-10-13 18:00:00)</title>
-  </programme>
-  <programme start="20261008085200 +0000" stop="20261008143500 +0000" channel="Peacock_087">
-    <title>Swimming WC: Tashkent Day 1 (2026-10-08 08:52:00)</title>
   </programme>
   <programme start="20261010085200 +0000" stop="20261010142500 +0000" channel="Peacock_087">
     <title>Swimming WC: Tashkent Day 3 (2026-10-10 08:52:00)</title>
