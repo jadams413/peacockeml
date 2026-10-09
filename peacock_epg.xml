@@ -99,12 +99,6 @@
   <channel id="Peacock_098"><display-name>Peacock 098</display-name></channel>
   <channel id="Peacock_099"><display-name>Peacock 099</display-name></channel>
   <channel id="Peacock_100"><display-name>Peacock 100</display-name></channel>
-  <programme start="20261008190000 +0000" stop="20261008230000 +0000" channel="Peacock_003">
-    <title>Niagara vs. Notre Dame (2026-10-08 19:00:00)</title>
-  </programme>
-  <programme start="20261008190000 +0000" stop="20261009010000 +0000" channel="Peacock_003">
-    <title>Niagara vs. Notre Dame (2026-10-08 19:00:00)</title>
-  </programme>
   <programme start="20261009090000 +0000" stop="20261009130000 +0000" channel="Peacock_003">
     <title>Swimming WC: Tashkent Day 2 (2026-10-09 09:00:00)</title>
   </programme>
