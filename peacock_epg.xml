@@ -99,41 +99,11 @@
   <channel id="Peacock_098"><display-name>Peacock 098</display-name></channel>
   <channel id="Peacock_099"><display-name>Peacock 099</display-name></channel>
   <channel id="Peacock_100"><display-name>Peacock 100</display-name></channel>
-  <programme start="20261009190000 +0000" stop="20261009230000 +0000" channel="Peacock_004">
-    <title>Sporting JAX v. Power FC (2026-10-09 19:00:00)</title>
-  </programme>
-  <programme start="20261009190000 +0000" stop="20261010010000 +0000" channel="Peacock_004">
-    <title>Sporting JAX v. Power FC (2026-10-09 19:00:00)</title>
-  </programme>
-  <programme start="20261009190000 +0000" stop="20261009230000 +0000" channel="Peacock_005">
-    <title>Sporting JAX v. Power FC (2026-10-09 19:00:00)</title>
-  </programme>
-  <programme start="20261009190005 +0000" stop="20261009230005 +0000" channel="Peacock_005">
-    <title>Niagara vs. Notre Dame (2026-10-09 19:00:05)</title>
-  </programme>
-  <programme start="20261009210000 +0000" stop="20261010010000 +0000" channel="Peacock_005">
-    <title>Game 3: Valkyries vs. Aces (2026-10-09 21:00:00)</title>
-  </programme>
-  <programme start="20261009210000 +0000" stop="20261010040000 +0000" channel="Peacock_005">
-    <title>Game 3: Valkyries vs. Aces (2026-10-09 21:00:00)</title>
-  </programme>
-  <programme start="20261009190005 +0000" stop="20261009230005 +0000" channel="Peacock_006">
-    <title>Niagara vs. Notre Dame (2026-10-09 19:00:05)</title>
-  </programme>
-  <programme start="20261009190005 +0000" stop="20261010010000 +0000" channel="Peacock_006">
-    <title>Niagara vs. Notre Dame (2026-10-09 19:00:05)</title>
-  </programme>
   <programme start="20261010090000 +0000" stop="20261010130000 +0000" channel="Peacock_006">
     <title>Swimming WC: Tashkent Day 3 (2026-10-10 09:00:00)</title>
   </programme>
   <programme start="20261010090000 +0000" stop="20261010143500 +0000" channel="Peacock_006">
     <title>Swimming WC: Tashkent Day 3 (2026-10-10 09:00:00)</title>
-  </programme>
-  <programme start="20261009210000 +0000" stop="20261010010000 +0000" channel="Peacock_007">
-    <title>Game 3: Valkyries vs. Aces (2026-10-09 21:00:00)</title>
-  </programme>
-  <programme start="20261009210000 +0000" stop="20261010040000 +0000" channel="Peacock_007">
-    <title>Game 3: Valkyries vs. Aces (2026-10-09 21:00:00)</title>
   </programme>
   <programme start="20261010090000 +0000" stop="20261010130000 +0000" channel="Peacock_007">
     <title>Swimming WC: Tashkent Day 3 (2026-10-10 09:00:00)</title>
@@ -174,12 +144,6 @@
   <programme start="20261010095010 +0000" stop="20261010160000 +0000" channel="Peacock_009">
     <title>Ipswich Town v. Fulham (2026-10-10 09:50:10)</title>
   </programme>
-  <programme start="20261009190000 +0000" stop="20261009230000 +0000" channel="Peacock_010">
-    <title>Sporting JAX v. Power FC (2026-10-09 19:00:00)</title>
-  </programme>
-  <programme start="20261009190000 +0000" stop="20261010010000 +0000" channel="Peacock_010">
-    <title>Sporting JAX v. Power FC (2026-10-09 19:00:00)</title>
-  </programme>
   <programme start="20261010095005 +0000" stop="20261010135005 +0000" channel="Peacock_010">
     <title>Chelsea v. Bournemouth (2026-10-10 09:50:05)</title>
   </programme>
@@ -191,12 +155,6 @@
   </programme>
   <programme start="20261010095015 +0000" stop="20261010160000 +0000" channel="Peacock_010">
     <title>Sunderland v. Brighton (2026-10-10 09:50:15)</title>
-  </programme>
-  <programme start="20261009210000 +0000" stop="20261010010000 +0000" channel="Peacock_011">
-    <title>Game 3: Valkyries vs. Aces (2026-10-09 21:00:00)</title>
-  </programme>
-  <programme start="20261009210000 +0000" stop="20261010040000 +0000" channel="Peacock_011">
-    <title>Game 3: Valkyries vs. Aces (2026-10-09 21:00:00)</title>
   </programme>
   <programme start="20261010095010 +0000" stop="20261010135010 +0000" channel="Peacock_011">
     <title>Goal Rush: Matchweek 6 (2026-10-10 09:50:10)</title>
@@ -251,12 +209,6 @@
   </programme>
   <programme start="20261010160000 +0000" stop="20261010220000 +0000" channel="Peacock_013">
     <title>Brooklyn FC v. Trinity FC (2026-10-10 16:00:00)</title>
-  </programme>
-  <programme start="20261009190000 +0000" stop="20261009230000 +0000" channel="Peacock_014">
-    <title>Sporting JAX v. Power FC (2026-10-09 19:00:00)</title>
-  </programme>
-  <programme start="20261009190000 +0000" stop="20261010010000 +0000" channel="Peacock_014">
-    <title>Sporting JAX v. Power FC (2026-10-09 19:00:00)</title>
   </programme>
   <programme start="20261010095005 +0000" stop="20261010135005 +0000" channel="Peacock_014">
     <title>Chelsea v. Bournemouth (2026-10-10 09:50:05)</title>
@@ -443,12 +395,6 @@
   </programme>
   <programme start="20261011190000 +0000" stop="20261012043000 +0000" channel="Peacock_020">
     <title>Ravens vs. Falcons (2026-10-11 19:00:00)</title>
-  </programme>
-  <programme start="20261009190000 +0000" stop="20261009230000 +0000" channel="Peacock_021">
-    <title>Sporting JAX v. Power FC (2026-10-09 19:00:00)</title>
-  </programme>
-  <programme start="20261009190000 +0000" stop="20261010010000 +0000" channel="Peacock_021">
-    <title>Sporting JAX v. Power FC (2026-10-09 19:00:00)</title>
   </programme>
   <programme start="20261010150000 +0000" stop="20261010190000 +0000" channel="Peacock_021">
     <title>Stanford vs. Notre Dame (2026-10-10 15:00:00)</title>
@@ -639,11 +585,11 @@
   <programme start="20261013183005 +0000" stop="20261014020000 +0000" channel="Peacock_026">
     <title>Performance View: CLE vs. ORL (2026-10-13 18:30:05)</title>
   </programme>
-  <programme start="20261009190000 +0000" stop="20261009230000 +0000" channel="Peacock_027">
-    <title>Sporting JAX v. Power FC (2026-10-09 19:00:00)</title>
+  <programme start="20261015090000 +0000" stop="20261015130000 +0000" channel="Peacock_026">
+    <title>Swimming WC: Astana Day 1 (2026-10-15 09:00:00)</title>
   </programme>
-  <programme start="20261009190000 +0000" stop="20261010010000 +0000" channel="Peacock_027">
-    <title>Sporting JAX v. Power FC (2026-10-09 19:00:00)</title>
+  <programme start="20261015090000 +0000" stop="20261015142500 +0000" channel="Peacock_026">
+    <title>Swimming WC: Astana Day 1 (2026-10-15 09:00:00)</title>
   </programme>
   <programme start="20261010123000 +0000" stop="20261010163000 +0000" channel="Peacock_027">
     <title>Man United v. Spurs (2026-10-10 12:30:00)</title>
@@ -675,12 +621,6 @@
   <programme start="20261014210000 +0000" stop="20261015040000 +0000" channel="Peacock_027">
     <title>Game 5 (If Nec.): Aces vs. Valkyries (2026-10-14 21:00:00)</title>
   </programme>
-  <programme start="20261009190000 +0000" stop="20261009230000 +0000" channel="Peacock_028">
-    <title>Sporting JAX v. Power FC (2026-10-09 19:00:00)</title>
-  </programme>
-  <programme start="20261009190000 +0000" stop="20261010010000 +0000" channel="Peacock_028">
-    <title>Sporting JAX v. Power FC (2026-10-09 19:00:00)</title>
-  </programme>
   <programme start="20261010090000 +0000" stop="20261010130000 +0000" channel="Peacock_028">
     <title>Swimming WC: Tashkent Day 3 (2026-10-10 09:00:00)</title>
   </programme>
@@ -708,11 +648,11 @@
   <programme start="20261014210000 +0000" stop="20261015040000 +0000" channel="Peacock_028">
     <title>Game 5 (If Nec.): Aces vs. Valkyries (2026-10-14 21:00:00)</title>
   </programme>
-  <programme start="20261009190000 +0000" stop="20261009230000 +0000" channel="Peacock_029">
-    <title>Sporting JAX v. Power FC (2026-10-09 19:00:00)</title>
+  <programme start="20261015090000 +0000" stop="20261015130000 +0000" channel="Peacock_028">
+    <title>Swimming WC: Astana Day 1 (2026-10-15 09:00:00)</title>
   </programme>
-  <programme start="20261009190000 +0000" stop="20261010010000 +0000" channel="Peacock_029">
-    <title>Sporting JAX v. Power FC (2026-10-09 19:00:00)</title>
+  <programme start="20261015090000 +0000" stop="20261015142500 +0000" channel="Peacock_028">
+    <title>Swimming WC: Astana Day 1 (2026-10-15 09:00:00)</title>
   </programme>
   <programme start="20261010090000 +0000" stop="20261010130000 +0000" channel="Peacock_029">
     <title>Swimming WC: Tashkent Day 3 (2026-10-10 09:00:00)</title>
@@ -743,6 +683,12 @@
   </programme>
   <programme start="20261013183000 +0000" stop="20261014020000 +0000" channel="Peacock_029">
     <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:30:00)</title>
+  </programme>
+  <programme start="20261015090000 +0000" stop="20261015130000 +0000" channel="Peacock_029">
+    <title>Swimming WC: Astana Day 1 (2026-10-15 09:00:00)</title>
+  </programme>
+  <programme start="20261015090000 +0000" stop="20261015142500 +0000" channel="Peacock_029">
+    <title>Swimming WC: Astana Day 1 (2026-10-15 09:00:00)</title>
   </programme>
   <programme start="20261010090000 +0000" stop="20261010130000 +0000" channel="Peacock_030">
     <title>Swimming WC: Tashkent Day 3 (2026-10-10 09:00:00)</title>
@@ -795,12 +741,6 @@
   <programme start="20261014210000 +0000" stop="20261015040000 +0000" channel="Peacock_031">
     <title>Game 5 (If Nec.): Aces vs. Valkyries (2026-10-14 21:00:00)</title>
   </programme>
-  <programme start="20261009190000 +0000" stop="20261009230000 +0000" channel="Peacock_032">
-    <title>Sporting JAX v. Power FC (2026-10-09 19:00:00)</title>
-  </programme>
-  <programme start="20261009190000 +0000" stop="20261010010000 +0000" channel="Peacock_032">
-    <title>Sporting JAX v. Power FC (2026-10-09 19:00:00)</title>
-  </programme>
   <programme start="20261010160000 +0000" stop="20261010200000 +0000" channel="Peacock_032">
     <title>Brooklyn FC v. Trinity FC (2026-10-10 16:00:00)</title>
   </programme>
@@ -818,6 +758,12 @@
   </programme>
   <programme start="20261011090000 +0000" stop="20261011150000 +0000" channel="Peacock_032">
     <title>Hull City v. Everton (2026-10-11 09:00:00)</title>
+  </programme>
+  <programme start="20261015090000 +0000" stop="20261015130000 +0000" channel="Peacock_032">
+    <title>Swimming WC: Astana Day 1 (2026-10-15 09:00:00)</title>
+  </programme>
+  <programme start="20261015090000 +0000" stop="20261015142500 +0000" channel="Peacock_032">
+    <title>Swimming WC: Astana Day 1 (2026-10-15 09:00:00)</title>
   </programme>
   <programme start="20261010090000 +0000" stop="20261010130000 +0000" channel="Peacock_033">
     <title>Swimming WC: Tashkent Day 3 (2026-10-10 09:00:00)</title>
@@ -848,12 +794,6 @@
   </programme>
   <programme start="20261011190000 +0000" stop="20261012010000 +0000" channel="Peacock_033">
     <title>FTL United v. Lexington SC (2026-10-11 19:00:00)</title>
-  </programme>
-  <programme start="20261009190000 +0000" stop="20261009230000 +0000" channel="Peacock_034">
-    <title>Sporting JAX v. Power FC (2026-10-09 19:00:00)</title>
-  </programme>
-  <programme start="20261009190000 +0000" stop="20261010010000 +0000" channel="Peacock_034">
-    <title>Sporting JAX v. Power FC (2026-10-09 19:00:00)</title>
   </programme>
   <programme start="20261010090000 +0000" stop="20261010130000 +0000" channel="Peacock_034">
     <title>Swimming WC: Tashkent Day 3 (2026-10-10 09:00:00)</title>
@@ -954,12 +894,6 @@
   <programme start="20261013183000 +0000" stop="20261014020000 +0000" channel="Peacock_036">
     <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:30:00)</title>
   </programme>
-  <programme start="20261009190000 +0000" stop="20261009230000 +0000" channel="Peacock_037">
-    <title>Sporting JAX v. Power FC (2026-10-09 19:00:00)</title>
-  </programme>
-  <programme start="20261009190000 +0000" stop="20261010010000 +0000" channel="Peacock_037">
-    <title>Sporting JAX v. Power FC (2026-10-09 19:00:00)</title>
-  </programme>
   <programme start="20261010150000 +0000" stop="20261010190000 +0000" channel="Peacock_037">
     <title>Stanford vs. Notre Dame (2026-10-10 15:00:00)</title>
   </programme>
@@ -1020,6 +954,12 @@
   <programme start="20261013183005 +0000" stop="20261013223005 +0000" channel="Peacock_038">
     <title>Performance View: CLE vs. ORL (2026-10-13 18:30:05)</title>
   </programme>
+  <programme start="20261015090000 +0000" stop="20261015130000 +0000" channel="Peacock_038">
+    <title>Swimming WC: Astana Day 1 (2026-10-15 09:00:00)</title>
+  </programme>
+  <programme start="20261015090000 +0000" stop="20261015142500 +0000" channel="Peacock_038">
+    <title>Swimming WC: Astana Day 1 (2026-10-15 09:00:00)</title>
+  </programme>
   <programme start="20261010150000 +0000" stop="20261010190000 +0000" channel="Peacock_039">
     <title>Stanford vs. Notre Dame (2026-10-10 15:00:00)</title>
   </programme>
@@ -1041,11 +981,11 @@
   <programme start="20261013183000 +0000" stop="20261014020000 +0000" channel="Peacock_039">
     <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:30:00)</title>
   </programme>
-  <programme start="20261009190000 +0000" stop="20261009230000 +0000" channel="Peacock_040">
-    <title>Sporting JAX v. Power FC (2026-10-09 19:00:00)</title>
+  <programme start="20261015090000 +0000" stop="20261015130000 +0000" channel="Peacock_039">
+    <title>Swimming WC: Astana Day 1 (2026-10-15 09:00:00)</title>
   </programme>
-  <programme start="20261009190000 +0000" stop="20261010010000 +0000" channel="Peacock_040">
-    <title>Sporting JAX v. Power FC (2026-10-09 19:00:00)</title>
+  <programme start="20261015090000 +0000" stop="20261015142500 +0000" channel="Peacock_039">
+    <title>Swimming WC: Astana Day 1 (2026-10-15 09:00:00)</title>
   </programme>
   <programme start="20261010160000 +0000" stop="20261010200000 +0000" channel="Peacock_040">
     <title>Brooklyn FC v. Trinity FC (2026-10-10 16:00:00)</title>
@@ -1061,6 +1001,9 @@
   </programme>
   <programme start="20261013183000 +0000" stop="20261014020000 +0000" channel="Peacock_040">
     <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:30:00)</title>
+  </programme>
+  <programme start="20261015090000 +0000" stop="20261015142500 +0000" channel="Peacock_040">
+    <title>Swimming WC: Astana Day 1 (2026-10-15 09:00:00)</title>
   </programme>
   <programme start="20261010090000 +0000" stop="20261010130000 +0000" channel="Peacock_041">
     <title>Swimming WC: Tashkent Day 3 (2026-10-10 09:00:00)</title>
@@ -1080,6 +1023,9 @@
   <programme start="20261013183005 +0000" stop="20261014020000 +0000" channel="Peacock_041">
     <title>Performance View: CLE vs. ORL (2026-10-13 18:30:05)</title>
   </programme>
+  <programme start="20261015085200 +0000" stop="20261015142000 +0000" channel="Peacock_041">
+    <title>Swimming WC: Astana Day 1 (2026-10-15 08:52:00)</title>
+  </programme>
   <programme start="20261010150000 +0000" stop="20261010190000 +0000" channel="Peacock_042">
     <title>Stanford vs. Notre Dame (2026-10-10 15:00:00)</title>
   </programme>
@@ -1092,6 +1038,15 @@
   <programme start="20261013183005 +0000" stop="20261014020000 +0000" channel="Peacock_042">
     <title>Performance View: CLE vs. ORL (2026-10-13 18:30:05)</title>
   </programme>
+  <programme start="20261015085200 +0000" stop="20261015142000 +0000" channel="Peacock_042">
+    <title>Swimming WC: Astana Day 1 (2026-10-15 08:52:00)</title>
+  </programme>
+  <programme start="20261015090000 +0000" stop="20261015130000 +0000" channel="Peacock_042">
+    <title>Swimming WC: Astana Day 1 (2026-10-15 09:00:00)</title>
+  </programme>
+  <programme start="20261015090000 +0000" stop="20261015142500 +0000" channel="Peacock_042">
+    <title>Swimming WC: Astana Day 1 (2026-10-15 09:00:00)</title>
+  </programme>
   <programme start="20261010160000 +0000" stop="20261010200000 +0000" channel="Peacock_043">
     <title>Brooklyn FC v. Trinity FC (2026-10-10 16:00:00)</title>
   </programme>
@@ -1103,6 +1058,9 @@
   </programme>
   <programme start="20261011190000 +0000" stop="20261012043000 +0000" channel="Peacock_043">
     <title>Ravens vs. Falcons (2026-10-11 19:00:00)</title>
+  </programme>
+  <programme start="20261015090000 +0000" stop="20261015142500 +0000" channel="Peacock_043">
+    <title>Swimming WC: Astana Day 1 (2026-10-15 09:00:00)</title>
   </programme>
   <programme start="20261010180000 +0000" stop="20261010220000 +0000" channel="Peacock_044">
     <title>Sun FC v. Ascent FC (2026-10-10 18:00:00)</title>
@@ -1146,6 +1104,12 @@
   <programme start="20261011190005 +0000" stop="20261012010000 +0000" channel="Peacock_047">
     <title>FTL United v. Lexington SC (2026-10-11 19:00:05)</title>
   </programme>
+  <programme start="20261015090000 +0000" stop="20261015130000 +0000" channel="Peacock_047">
+    <title>Swimming WC: Astana Day 1 (2026-10-15 09:00:00)</title>
+  </programme>
+  <programme start="20261015090000 +0000" stop="20261015142500 +0000" channel="Peacock_047">
+    <title>Swimming WC: Astana Day 1 (2026-10-15 09:00:00)</title>
+  </programme>
   <programme start="20261013183000 +0000" stop="20261013223000 +0000" channel="Peacock_048">
     <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:30:00)</title>
   </programme>
@@ -1157,6 +1121,9 @@
   </programme>
   <programme start="20261013183005 +0000" stop="20261014020000 +0000" channel="Peacock_049">
     <title>Performance View: CLE vs. ORL (2026-10-13 18:30:05)</title>
+  </programme>
+  <programme start="20261015090000 +0000" stop="20261015142500 +0000" channel="Peacock_050">
+    <title>Swimming WC: Astana Day 1 (2026-10-15 09:00:00)</title>
   </programme>
   <programme start="20261010085200 +0000" stop="20261010142500 +0000" channel="Peacock_059">
     <title>Swimming WC: Tashkent Day 3 (2026-10-10 08:52:00)</title>
@@ -1188,6 +1155,9 @@
   <programme start="20261011190000 +0000" stop="20261012043000 +0000" channel="Peacock_065">
     <title>Ravens vs. Falcons (2026-10-11 19:00:00)</title>
   </programme>
+  <programme start="20261015085200 +0000" stop="20261015142000 +0000" channel="Peacock_065">
+    <title>Swimming WC: Astana Day 1 (2026-10-15 08:52:00)</title>
+  </programme>
   <programme start="20261013183000 +0000" stop="20261014020000 +0000" channel="Peacock_066">
     <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:30:00)</title>
   </programme>
@@ -1199,6 +1169,9 @@
   </programme>
   <programme start="20261010150000 +0000" stop="20261010230000 +0000" channel="Peacock_068">
     <title>Stanford vs. Notre Dame (2026-10-10 15:00:00)</title>
+  </programme>
+  <programme start="20261015085200 +0000" stop="20261015142000 +0000" channel="Peacock_068">
+    <title>Swimming WC: Astana Day 1 (2026-10-15 08:52:00)</title>
   </programme>
   <programme start="20261010190000 +0000" stop="20261011030000 +0000" channel="Peacock_069">
     <title>B1G Saturday Night: Week 6 (2026-10-10 19:00:00)</title>
@@ -1218,6 +1191,9 @@
   <programme start="20261010150000 +0000" stop="20261010230000 +0000" channel="Peacock_073">
     <title>Stanford vs. Notre Dame (2026-10-10 15:00:00)</title>
   </programme>
+  <programme start="20261015085200 +0000" stop="20261015142000 +0000" channel="Peacock_073">
+    <title>Swimming WC: Astana Day 1 (2026-10-15 08:52:00)</title>
+  </programme>
   <programme start="20261010190000 +0000" stop="20261011030000 +0000" channel="Peacock_074">
     <title>B1G Saturday Night: Week 6 (2026-10-10 19:00:00)</title>
   </programme>
@@ -1229,6 +1205,9 @@
   </programme>
   <programme start="20261013180005 +0000" stop="20261014020000 +0000" channel="Peacock_077">
     <title>Performance View: CLE vs. ORL (2026-10-13 18:00:05)</title>
+  </programme>
+  <programme start="20261015085200 +0000" stop="20261015142000 +0000" channel="Peacock_078">
+    <title>Swimming WC: Astana Day 1 (2026-10-15 08:52:00)</title>
   </programme>
   <programme start="20261011190000 +0000" stop="20261012043000 +0000" channel="Peacock_080">
     <title>Ravens vs. Falcons (2026-10-11 19:00:00)</title>
@@ -1296,6 +1275,9 @@
   <programme start="20261013180005 +0000" stop="20261014020000 +0000" channel="Peacock_087">
     <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:00:05)</title>
   </programme>
+  <programme start="20261015085200 +0000" stop="20261015142000 +0000" channel="Peacock_087">
+    <title>Swimming WC: Astana Day 1 (2026-10-15 08:52:00)</title>
+  </programme>
   <programme start="20261010190000 +0000" stop="20261011030000 +0000" channel="Peacock_088">
     <title>B1G Saturday Night: Week 6 (2026-10-10 19:00:00)</title>
   </programme>
@@ -1332,6 +1314,9 @@
   <programme start="20261013180005 +0000" stop="20261014020000 +0000" channel="Peacock_091">
     <title>Performance View: CLE vs. ORL (2026-10-13 18:00:05)</title>
   </programme>
+  <programme start="20261015085200 +0000" stop="20261015142000 +0000" channel="Peacock_091">
+    <title>Swimming WC: Astana Day 1 (2026-10-15 08:52:00)</title>
+  </programme>
   <programme start="20261010190000 +0000" stop="20261011030000 +0000" channel="Peacock_092">
     <title>B1G Saturday Night: Week 6 (2026-10-10 19:00:00)</title>
   </programme>
@@ -1349,6 +1334,9 @@
   </programme>
   <programme start="20261013180000 +0000" stop="20261014020000 +0000" channel="Peacock_093">
     <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:00:00)</title>
+  </programme>
+  <programme start="20261015085200 +0000" stop="20261015142000 +0000" channel="Peacock_093">
+    <title>Swimming WC: Astana Day 1 (2026-10-15 08:52:00)</title>
   </programme>
   <programme start="20261010190000 +0000" stop="20261011030000 +0000" channel="Peacock_094">
     <title>B1G Saturday Night: Week 6 (2026-10-10 19:00:00)</title>
@@ -1370,6 +1358,9 @@
   </programme>
   <programme start="20261013180005 +0000" stop="20261014020000 +0000" channel="Peacock_095">
     <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:00:05)</title>
+  </programme>
+  <programme start="20261015085200 +0000" stop="20261015142000 +0000" channel="Peacock_095">
+    <title>Swimming WC: Astana Day 1 (2026-10-15 08:52:00)</title>
   </programme>
   <programme start="20261010190000 +0000" stop="20261011030000 +0000" channel="Peacock_096">
     <title>B1G Saturday Night: Week 6 (2026-10-10 19:00:00)</title>
