@@ -99,59 +99,38 @@
   <channel id="Peacock_098"><display-name>Peacock 098</display-name></channel>
   <channel id="Peacock_099"><display-name>Peacock 099</display-name></channel>
   <channel id="Peacock_100"><display-name>Peacock 100</display-name></channel>
-  <programme start="20261011085000 +0000" stop="20261011125000 +0000" channel="Peacock_014">
-    <title>Hull City v. Everton (2026-10-11 08:50:00)</title>
-  </programme>
-  <programme start="20261011085000 +0000" stop="20261011150000 +0000" channel="Peacock_014">
-    <title>Hull City v. Everton (2026-10-11 08:50:00)</title>
-  </programme>
-  <programme start="20261011090000 +0000" stop="20261011130000 +0000" channel="Peacock_015">
-    <title>2026 Paris_Tours (2026-10-11 09:00:00)</title>
-  </programme>
-  <programme start="20261011090000 +0000" stop="20261011151500 +0000" channel="Peacock_015">
-    <title>2026 Paris_Tours (2026-10-11 09:00:00)</title>
-  </programme>
-  <programme start="20261011090000 +0000" stop="20261011130000 +0000" channel="Peacock_016">
-    <title>Hull City v. Everton (2026-10-11 09:00:00)</title>
-  </programme>
-  <programme start="20261011090000 +0000" stop="20261011150000 +0000" channel="Peacock_016">
-    <title>Hull City v. Everton (2026-10-11 09:00:00)</title>
-  </programme>
-  <programme start="20261011113000 +0000" stop="20261011153000 +0000" channel="Peacock_016">
+  <programme start="20261011113000 +0000" stop="20261011180000 +0000" channel="Peacock_013">
     <title>Liverpool v. Man City (2026-10-11 11:30:00)</title>
+  </programme>
+  <programme start="20261011140000 +0000" stop="20261011180000 +0000" channel="Peacock_014">
+    <title>World Championships Team Selection (2026-10-11 14:00:00)</title>
+  </programme>
+  <programme start="20261011140000 +0000" stop="20261011190000 +0000" channel="Peacock_014">
+    <title>World Championships Team Selection (2026-10-11 14:00:00)</title>
+  </programme>
+  <programme start="20261011150000 +0000" stop="20261011190000 +0000" channel="Peacock_015">
+    <title>IMSA Season Review (2026-10-11 15:00:00)</title>
+  </programme>
+  <programme start="20261011150000 +0000" stop="20261011200000 +0000" channel="Peacock_015">
+    <title>IMSA Season Review (2026-10-11 15:00:00)</title>
   </programme>
   <programme start="20261011113000 +0000" stop="20261011180000 +0000" channel="Peacock_016">
     <title>Liverpool v. Man City (2026-10-11 11:30:00)</title>
   </programme>
-  <programme start="20261011085000 +0000" stop="20261011125000 +0000" channel="Peacock_017">
-    <title>Hull City v. Everton (2026-10-11 08:50:00)</title>
+  <programme start="20261011190000 +0000" stop="20261011230000 +0000" channel="Peacock_016">
+    <title>FTL United v. Lexington SC (2026-10-11 19:00:00)</title>
   </programme>
-  <programme start="20261011085000 +0000" stop="20261011150000 +0000" channel="Peacock_017">
-    <title>Hull City v. Everton (2026-10-11 08:50:00)</title>
-  </programme>
-  <programme start="20261011090005 +0000" stop="20261011130005 +0000" channel="Peacock_017">
-    <title>2026 Paris_Tours (2026-10-11 09:00:05)</title>
-  </programme>
-  <programme start="20261011090005 +0000" stop="20261011151500 +0000" channel="Peacock_017">
-    <title>2026 Paris_Tours (2026-10-11 09:00:05)</title>
-  </programme>
-  <programme start="20261011133000 +0000" stop="20261011173000 +0000" channel="Peacock_017">
-    <title>World Championships Team Selection (2026-10-11 13:30:00)</title>
+  <programme start="20261011190000 +0000" stop="20261012010000 +0000" channel="Peacock_016">
+    <title>FTL United v. Lexington SC (2026-10-11 19:00:00)</title>
   </programme>
   <programme start="20261011133000 +0000" stop="20261011183000 +0000" channel="Peacock_017">
     <title>World Championships Team Selection (2026-10-11 13:30:00)</title>
   </programme>
-  <programme start="20261011090000 +0000" stop="20261011130000 +0000" channel="Peacock_018">
-    <title>2026 Paris_Tours (2026-10-11 09:00:00)</title>
+  <programme start="20261011190005 +0000" stop="20261011230005 +0000" channel="Peacock_017">
+    <title>Ravens vs. Falcons (2026-10-11 19:00:05)</title>
   </programme>
-  <programme start="20261011090000 +0000" stop="20261011151500 +0000" channel="Peacock_018">
-    <title>2026 Paris_Tours (2026-10-11 09:00:00)</title>
-  </programme>
-  <programme start="20261011113000 +0000" stop="20261011153000 +0000" channel="Peacock_018">
-    <title>Liverpool v. Man City (2026-10-11 11:30:00)</title>
-  </programme>
-  <programme start="20261011113000 +0000" stop="20261011173000 +0000" channel="Peacock_018">
-    <title>Liverpool v. Man City (2026-10-11 11:30:00)</title>
+  <programme start="20261011190005 +0000" stop="20261012043000 +0000" channel="Peacock_017">
+    <title>Ravens vs. Falcons (2026-10-11 19:00:05)</title>
   </programme>
   <programme start="20261011143000 +0000" stop="20261011183000 +0000" channel="Peacock_018">
     <title>IMSA Season Review (2026-10-11 14:30:00)</title>
@@ -159,14 +138,11 @@
   <programme start="20261011143000 +0000" stop="20261011193000 +0000" channel="Peacock_018">
     <title>IMSA Season Review (2026-10-11 14:30:00)</title>
   </programme>
-  <programme start="20261011090005 +0000" stop="20261011130005 +0000" channel="Peacock_019">
-    <title>Hull City v. Everton (2026-10-11 09:00:05)</title>
+  <programme start="20261011233000 +0000" stop="20261012033000 +0000" channel="Peacock_018">
+    <title>Sunday Night Football Final (2026-10-11 23:30:00)</title>
   </programme>
-  <programme start="20261011090005 +0000" stop="20261011150000 +0000" channel="Peacock_019">
-    <title>Hull City v. Everton (2026-10-11 09:00:05)</title>
-  </programme>
-  <programme start="20261011113000 +0000" stop="20261011153000 +0000" channel="Peacock_019">
-    <title>Liverpool v. Man City (2026-10-11 11:30:00)</title>
+  <programme start="20261011233000 +0000" stop="20261012043000 +0000" channel="Peacock_018">
+    <title>Sunday Night Football Final (2026-10-11 23:30:00)</title>
   </programme>
   <programme start="20261011113000 +0000" stop="20261011180000 +0000" channel="Peacock_019">
     <title>Liverpool v. Man City (2026-10-11 11:30:00)</title>
@@ -177,11 +153,11 @@
   <programme start="20261011153000 +0000" stop="20261011223000 +0000" channel="Peacock_019">
     <title>Game 4 (If Nec.): Valkyries vs. Aces (2026-10-11 15:30:00)</title>
   </programme>
-  <programme start="20261011113000 +0000" stop="20261011153000 +0000" channel="Peacock_020">
-    <title>Liverpool v. Man City (2026-10-11 11:30:00)</title>
+  <programme start="20261013183000 +0000" stop="20261013223000 +0000" channel="Peacock_019">
+    <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:30:00)</title>
   </programme>
-  <programme start="20261011113000 +0000" stop="20261011173000 +0000" channel="Peacock_020">
-    <title>Liverpool v. Man City (2026-10-11 11:30:00)</title>
+  <programme start="20261013183000 +0000" stop="20261014020000 +0000" channel="Peacock_019">
+    <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:30:00)</title>
   </programme>
   <programme start="20261011143000 +0000" stop="20261011183000 +0000" channel="Peacock_020">
     <title>IMSA Season Review (2026-10-11 14:30:00)</title>
@@ -194,6 +170,12 @@
   </programme>
   <programme start="20261011190000 +0000" stop="20261012043000 +0000" channel="Peacock_020">
     <title>Ravens vs. Falcons (2026-10-11 19:00:00)</title>
+  </programme>
+  <programme start="20261013183005 +0000" stop="20261013223005 +0000" channel="Peacock_020">
+    <title>Performance View: CLE vs. ORL (2026-10-13 18:30:05)</title>
+  </programme>
+  <programme start="20261013183005 +0000" stop="20261014020000 +0000" channel="Peacock_020">
+    <title>Performance View: CLE vs. ORL (2026-10-13 18:30:05)</title>
   </programme>
   <programme start="20261011143000 +0000" stop="20261011183000 +0000" channel="Peacock_021">
     <title>IMSA Season Review (2026-10-11 14:30:00)</title>
@@ -210,11 +192,11 @@
   <programme start="20261011190005 +0000" stop="20261012010000 +0000" channel="Peacock_021">
     <title>FTL United v. Lexington SC (2026-10-11 19:00:05)</title>
   </programme>
-  <programme start="20261011090000 +0000" stop="20261011130000 +0000" channel="Peacock_022">
-    <title>Hull City v. Everton (2026-10-11 09:00:00)</title>
+  <programme start="20261015090000 +0000" stop="20261015130000 +0000" channel="Peacock_021">
+    <title>Swimming WC: Astana Day 1 (2026-10-15 09:00:00)</title>
   </programme>
-  <programme start="20261011090000 +0000" stop="20261011150000 +0000" channel="Peacock_022">
-    <title>Hull City v. Everton (2026-10-11 09:00:00)</title>
+  <programme start="20261015090000 +0000" stop="20261015142500 +0000" channel="Peacock_021">
+    <title>Swimming WC: Astana Day 1 (2026-10-15 09:00:00)</title>
   </programme>
   <programme start="20261011153000 +0000" stop="20261011193000 +0000" channel="Peacock_022">
     <title>Game 4 (If Nec.): Valkyries vs. Aces (2026-10-11 15:30:00)</title>
@@ -234,11 +216,11 @@
   <programme start="20261011233000 +0000" stop="20261012043000 +0000" channel="Peacock_022">
     <title>Sunday Night Football Final (2026-10-11 23:30:00)</title>
   </programme>
-  <programme start="20261011090005 +0000" stop="20261011130005 +0000" channel="Peacock_023">
-    <title>2026 Paris_Tours (2026-10-11 09:00:05)</title>
+  <programme start="20261016090000 +0000" stop="20261016130000 +0000" channel="Peacock_022">
+    <title>Swimming WC: Astana Day 2 (2026-10-16 09:00:00)</title>
   </programme>
-  <programme start="20261011090005 +0000" stop="20261011151500 +0000" channel="Peacock_023">
-    <title>2026 Paris_Tours (2026-10-11 09:00:05)</title>
+  <programme start="20261016090000 +0000" stop="20261016144500 +0000" channel="Peacock_022">
+    <title>Swimming WC: Astana Day 2 (2026-10-16 09:00:00)</title>
   </programme>
   <programme start="20261011190000 +0000" stop="20261011230000 +0000" channel="Peacock_023">
     <title>FTL United v. Lexington SC (2026-10-11 19:00:00)</title>
@@ -258,11 +240,11 @@
   <programme start="20261013183000 +0000" stop="20261014020000 +0000" channel="Peacock_023">
     <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:30:00)</title>
   </programme>
-  <programme start="20261011113000 +0000" stop="20261011153000 +0000" channel="Peacock_024">
-    <title>Liverpool v. Man City (2026-10-11 11:30:00)</title>
+  <programme start="20261016193000 +0000" stop="20261016233000 +0000" channel="Peacock_023">
+    <title>Ascent FC v. Power FC (2026-10-16 19:30:00)</title>
   </programme>
-  <programme start="20261011113000 +0000" stop="20261011173000 +0000" channel="Peacock_024">
-    <title>Liverpool v. Man City (2026-10-11 11:30:00)</title>
+  <programme start="20261016193000 +0000" stop="20261017013000 +0000" channel="Peacock_023">
+    <title>Ascent FC v. Power FC (2026-10-16 19:30:00)</title>
   </programme>
   <programme start="20261011190005 +0000" stop="20261011230005 +0000" channel="Peacock_024">
     <title>Ravens vs. Falcons (2026-10-11 19:00:05)</title>
@@ -279,11 +261,11 @@
   <programme start="20261013183005 +0000" stop="20261014020000 +0000" channel="Peacock_024">
     <title>Performance View: CLE vs. ORL (2026-10-13 18:30:05)</title>
   </programme>
-  <programme start="20261011090000 +0000" stop="20261011130000 +0000" channel="Peacock_025">
-    <title>Hull City v. Everton (2026-10-11 09:00:00)</title>
+  <programme start="20261016193005 +0000" stop="20261016233005 +0000" channel="Peacock_024">
+    <title>Sporting JAX v. FTL United (2026-10-16 19:30:05)</title>
   </programme>
-  <programme start="20261011090000 +0000" stop="20261011150000 +0000" channel="Peacock_025">
-    <title>Hull City v. Everton (2026-10-11 09:00:00)</title>
+  <programme start="20261016193005 +0000" stop="20261017013000 +0000" channel="Peacock_024">
+    <title>Sporting JAX v. FTL United (2026-10-16 19:30:05)</title>
   </programme>
   <programme start="20261011153000 +0000" stop="20261011193000 +0000" channel="Peacock_025">
     <title>Game 4 (If Nec.): Valkyries vs. Aces (2026-10-11 15:30:00)</title>
@@ -308,12 +290,6 @@
   </programme>
   <programme start="20261014210000 +0000" stop="20261015040000 +0000" channel="Peacock_025">
     <title>Game 5 (If Nec.): Aces vs. Valkyries (2026-10-14 21:00:00)</title>
-  </programme>
-  <programme start="20261011113000 +0000" stop="20261011153000 +0000" channel="Peacock_026">
-    <title>Liverpool v. Man City (2026-10-11 11:30:00)</title>
-  </programme>
-  <programme start="20261011113000 +0000" stop="20261011173000 +0000" channel="Peacock_026">
-    <title>Liverpool v. Man City (2026-10-11 11:30:00)</title>
   </programme>
   <programme start="20261011190000 +0000" stop="20261011230000 +0000" channel="Peacock_026">
     <title>FTL United v. Lexington SC (2026-10-11 19:00:00)</title>
@@ -465,23 +441,11 @@
   <programme start="20261016193005 +0000" stop="20261016233005 +0000" channel="Peacock_031">
     <title>Sporting JAX v. FTL United (2026-10-16 19:30:05)</title>
   </programme>
-  <programme start="20261011090000 +0000" stop="20261011130000 +0000" channel="Peacock_032">
-    <title>Hull City v. Everton (2026-10-11 09:00:00)</title>
-  </programme>
-  <programme start="20261011090000 +0000" stop="20261011150000 +0000" channel="Peacock_032">
-    <title>Hull City v. Everton (2026-10-11 09:00:00)</title>
-  </programme>
   <programme start="20261015090000 +0000" stop="20261015130000 +0000" channel="Peacock_032">
     <title>Swimming WC: Astana Day 1 (2026-10-15 09:00:00)</title>
   </programme>
   <programme start="20261015090000 +0000" stop="20261015142500 +0000" channel="Peacock_032">
     <title>Swimming WC: Astana Day 1 (2026-10-15 09:00:00)</title>
-  </programme>
-  <programme start="20261011113000 +0000" stop="20261011153000 +0000" channel="Peacock_033">
-    <title>Liverpool v. Man City (2026-10-11 11:30:00)</title>
-  </programme>
-  <programme start="20261011113000 +0000" stop="20261011173000 +0000" channel="Peacock_033">
-    <title>Liverpool v. Man City (2026-10-11 11:30:00)</title>
   </programme>
   <programme start="20261011190000 +0000" stop="20261011230000 +0000" channel="Peacock_033">
     <title>FTL United v. Lexington SC (2026-10-11 19:00:00)</title>
