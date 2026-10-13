@@ -348,6 +348,12 @@
   <programme start="20261017180000 +0000" stop="20261018000000 +0000" channel="Peacock_028">
     <title>Western Michigan vs. Notre Dame (2026-10-17 18:00:00)</title>
   </programme>
+  <programme start="20261018113000 +0000" stop="20261018153000 +0000" channel="Peacock_028">
+    <title>Nott`m Forest v. Arsenal (2026-10-18 11:30:00)</title>
+  </programme>
+  <programme start="20261018113000 +0000" stop="20261018180000 +0000" channel="Peacock_028">
+    <title>Nott`m Forest v. Arsenal (2026-10-18 11:30:00)</title>
+  </programme>
   <programme start="20261013183000 +0000" stop="20261013223000 +0000" channel="Peacock_029">
     <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:30:00)</title>
   </programme>
@@ -383,6 +389,12 @@
   </programme>
   <programme start="20261017190000 +0000" stop="20261018030000 +0000" channel="Peacock_029">
     <title>B1G Saturday Night: Week 7 (2026-10-17 19:00:00)</title>
+  </programme>
+  <programme start="20261018190000 +0000" stop="20261018230000 +0000" channel="Peacock_029">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
+  </programme>
+  <programme start="20261018190000 +0000" stop="20261019043000 +0000" channel="Peacock_029">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
   </programme>
   <programme start="20261013183000 +0000" stop="20261013223000 +0000" channel="Peacock_030">
     <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:30:00)</title>
@@ -423,6 +435,12 @@
   <programme start="20261017190005 +0000" stop="20261018010000 +0000" channel="Peacock_030">
     <title>Lexington SC v. Sun FC (2026-10-17 19:00:05)</title>
   </programme>
+  <programme start="20261018233000 +0000" stop="20261019033000 +0000" channel="Peacock_030">
+    <title>Sunday Night Football Final (2026-10-18 23:30:00)</title>
+  </programme>
+  <programme start="20261018233000 +0000" stop="20261019043000 +0000" channel="Peacock_030">
+    <title>Sunday Night Football Final (2026-10-18 23:30:00)</title>
+  </programme>
   <programme start="20261013183005 +0000" stop="20261013223005 +0000" channel="Peacock_031">
     <title>Performance View: CLE vs. ORL (2026-10-13 18:30:05)</title>
   </programme>
@@ -462,6 +480,12 @@
   <programme start="20261017190000 +0000" stop="20261018030000 +0000" channel="Peacock_031">
     <title>B1G Saturday Night: Week 7 (2026-10-17 19:00:00)</title>
   </programme>
+  <programme start="20261018190000 +0000" stop="20261018230000 +0000" channel="Peacock_031">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
+  </programme>
+  <programme start="20261018190000 +0000" stop="20261019043000 +0000" channel="Peacock_031">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
+  </programme>
   <programme start="20261015090000 +0000" stop="20261015130000 +0000" channel="Peacock_032">
     <title>Swimming WC: Astana Day 1 (2026-10-15 09:00:00)</title>
   </programme>
@@ -486,6 +510,15 @@
   <programme start="20261017180000 +0000" stop="20261018000000 +0000" channel="Peacock_032">
     <title>Western Michigan vs. Notre Dame (2026-10-17 18:00:00)</title>
   </programme>
+  <programme start="20261018190000 +0000" stop="20261018230000 +0000" channel="Peacock_032">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
+  </programme>
+  <programme start="20261018190000 +0000" stop="20261019043000 +0000" channel="Peacock_032">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
+  </programme>
+  <programme start="20261018233000 +0000" stop="20261019033000 +0000" channel="Peacock_032">
+    <title>Sunday Night Football Final (2026-10-18 23:30:00)</title>
+  </programme>
   <programme start="20261016090000 +0000" stop="20261016130000 +0000" channel="Peacock_033">
     <title>Swimming WC: Astana Day 2 (2026-10-16 09:00:00)</title>
   </programme>
@@ -503,6 +536,12 @@
   </programme>
   <programme start="20261017190000 +0000" stop="20261018030000 +0000" channel="Peacock_033">
     <title>B1G Saturday Night: Week 7 (2026-10-17 19:00:00)</title>
+  </programme>
+  <programme start="20261018233000 +0000" stop="20261019033000 +0000" channel="Peacock_033">
+    <title>Sunday Night Football Final (2026-10-18 23:30:00)</title>
+  </programme>
+  <programme start="20261018233000 +0000" stop="20261019043000 +0000" channel="Peacock_033">
+    <title>Sunday Night Football Final (2026-10-18 23:30:00)</title>
   </programme>
   <programme start="20261016193000 +0000" stop="20261016233000 +0000" channel="Peacock_034">
     <title>Ascent FC v. Power FC (2026-10-16 19:30:00)</title>
@@ -522,6 +561,12 @@
   <programme start="20261017190005 +0000" stop="20261018010000 +0000" channel="Peacock_034">
     <title>Lexington SC v. Sun FC (2026-10-17 19:00:05)</title>
   </programme>
+  <programme start="20261018190000 +0000" stop="20261018230000 +0000" channel="Peacock_034">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
+  </programme>
+  <programme start="20261018190000 +0000" stop="20261019043000 +0000" channel="Peacock_034">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
+  </programme>
   <programme start="20261017090000 +0000" stop="20261017130000 +0000" channel="Peacock_035">
     <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
   </programme>
@@ -533,6 +578,15 @@
   </programme>
   <programme start="20261017190000 +0000" stop="20261018030000 +0000" channel="Peacock_035">
     <title>B1G Saturday Night: Week 7 (2026-10-17 19:00:00)</title>
+  </programme>
+  <programme start="20261018190000 +0000" stop="20261018230000 +0000" channel="Peacock_035">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
+  </programme>
+  <programme start="20261018233000 +0000" stop="20261019033000 +0000" channel="Peacock_035">
+    <title>Sunday Night Football Final (2026-10-18 23:30:00)</title>
+  </programme>
+  <programme start="20261018233000 +0000" stop="20261019043000 +0000" channel="Peacock_035">
+    <title>Sunday Night Football Final (2026-10-18 23:30:00)</title>
   </programme>
   <programme start="20261013183000 +0000" stop="20261013223000 +0000" channel="Peacock_036">
     <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:30:00)</title>
@@ -552,6 +606,15 @@
   <programme start="20261017190005 +0000" stop="20261018010000 +0000" channel="Peacock_036">
     <title>Lexington SC v. Sun FC (2026-10-17 19:00:05)</title>
   </programme>
+  <programme start="20261018190000 +0000" stop="20261018230000 +0000" channel="Peacock_036">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
+  </programme>
+  <programme start="20261018190000 +0000" stop="20261019043000 +0000" channel="Peacock_036">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
+  </programme>
+  <programme start="20261018233000 +0000" stop="20261019033000 +0000" channel="Peacock_036">
+    <title>Sunday Night Football Final (2026-10-18 23:30:00)</title>
+  </programme>
   <programme start="20261013183000 +0000" stop="20261013223000 +0000" channel="Peacock_037">
     <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:30:00)</title>
   </programme>
@@ -567,6 +630,15 @@
   <programme start="20261017190000 +0000" stop="20261018030000 +0000" channel="Peacock_037">
     <title>B1G Saturday Night: Week 7 (2026-10-17 19:00:00)</title>
   </programme>
+  <programme start="20261018190000 +0000" stop="20261018230000 +0000" channel="Peacock_037">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
+  </programme>
+  <programme start="20261018233000 +0000" stop="20261019033000 +0000" channel="Peacock_037">
+    <title>Sunday Night Football Final (2026-10-18 23:30:00)</title>
+  </programme>
+  <programme start="20261018233000 +0000" stop="20261019043000 +0000" channel="Peacock_037">
+    <title>Sunday Night Football Final (2026-10-18 23:30:00)</title>
+  </programme>
   <programme start="20261013183000 +0000" stop="20261014020000 +0000" channel="Peacock_038">
     <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:30:00)</title>
   </programme>
@@ -578,6 +650,15 @@
   </programme>
   <programme start="20261015090000 +0000" stop="20261015142500 +0000" channel="Peacock_038">
     <title>Swimming WC: Astana Day 1 (2026-10-15 09:00:00)</title>
+  </programme>
+  <programme start="20261018190000 +0000" stop="20261018230000 +0000" channel="Peacock_038">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
+  </programme>
+  <programme start="20261018190000 +0000" stop="20261019043000 +0000" channel="Peacock_038">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
+  </programme>
+  <programme start="20261018233000 +0000" stop="20261019033000 +0000" channel="Peacock_038">
+    <title>Sunday Night Football Final (2026-10-18 23:30:00)</title>
   </programme>
   <programme start="20261013183000 +0000" stop="20261014020000 +0000" channel="Peacock_039">
     <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:30:00)</title>
@@ -593,6 +674,12 @@
   </programme>
   <programme start="20261016090000 +0000" stop="20261016144500 +0000" channel="Peacock_039">
     <title>Swimming WC: Astana Day 2 (2026-10-16 09:00:00)</title>
+  </programme>
+  <programme start="20261018233000 +0000" stop="20261019033000 +0000" channel="Peacock_039">
+    <title>Sunday Night Football Final (2026-10-18 23:30:00)</title>
+  </programme>
+  <programme start="20261018233000 +0000" stop="20261019043000 +0000" channel="Peacock_039">
+    <title>Sunday Night Football Final (2026-10-18 23:30:00)</title>
   </programme>
   <programme start="20261013183000 +0000" stop="20261014020000 +0000" channel="Peacock_040">
     <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:30:00)</title>
@@ -708,6 +795,9 @@
   <programme start="20261017190000 +0000" stop="20261018030000 +0000" channel="Peacock_044">
     <title>B1G Saturday Night: Week 7 (2026-10-17 19:00:00)</title>
   </programme>
+  <programme start="20261018190000 +0000" stop="20261019043000 +0000" channel="Peacock_044">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
+  </programme>
   <programme start="20261013183000 +0000" stop="20261013223000 +0000" channel="Peacock_045">
     <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:30:00)</title>
   </programme>
@@ -723,6 +813,12 @@
   <programme start="20261017190000 +0000" stop="20261018030000 +0000" channel="Peacock_045">
     <title>B1G Saturday Night: Week 7 (2026-10-17 19:00:00)</title>
   </programme>
+  <programme start="20261018190000 +0000" stop="20261019043000 +0000" channel="Peacock_045">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
+  </programme>
+  <programme start="20261018233000 +0000" stop="20261019033000 +0000" channel="Peacock_045">
+    <title>Sunday Night Football Final (2026-10-18 23:30:00)</title>
+  </programme>
   <programme start="20261013183005 +0000" stop="20261013223005 +0000" channel="Peacock_046">
     <title>Performance View: CLE vs. ORL (2026-10-13 18:30:05)</title>
   </programme>
@@ -735,6 +831,12 @@
   <programme start="20261017190000 +0000" stop="20261018030000 +0000" channel="Peacock_046">
     <title>B1G Saturday Night: Week 7 (2026-10-17 19:00:00)</title>
   </programme>
+  <programme start="20261018190000 +0000" stop="20261019043000 +0000" channel="Peacock_046">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
+  </programme>
+  <programme start="20261018233000 +0000" stop="20261019033000 +0000" channel="Peacock_046">
+    <title>Sunday Night Football Final (2026-10-18 23:30:00)</title>
+  </programme>
   <programme start="20261015090000 +0000" stop="20261015130000 +0000" channel="Peacock_047">
     <title>Swimming WC: Astana Day 1 (2026-10-15 09:00:00)</title>
   </programme>
@@ -743,6 +845,9 @@
   </programme>
   <programme start="20261017190000 +0000" stop="20261018030000 +0000" channel="Peacock_047">
     <title>B1G Saturday Night: Week 7 (2026-10-17 19:00:00)</title>
+  </programme>
+  <programme start="20261018190000 +0000" stop="20261019043000 +0000" channel="Peacock_047">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
   </programme>
   <programme start="20261013183000 +0000" stop="20261013223000 +0000" channel="Peacock_048">
     <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:30:00)</title>
@@ -755,6 +860,9 @@
   </programme>
   <programme start="20261016090000 +0000" stop="20261016144500 +0000" channel="Peacock_048">
     <title>Swimming WC: Astana Day 2 (2026-10-16 09:00:00)</title>
+  </programme>
+  <programme start="20261018190000 +0000" stop="20261019043000 +0000" channel="Peacock_048">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
   </programme>
   <programme start="20261013183005 +0000" stop="20261013223005 +0000" channel="Peacock_049">
     <title>Performance View: CLE vs. ORL (2026-10-13 18:30:05)</title>
@@ -780,11 +888,17 @@
   <programme start="20261017090000 +0000" stop="20261017150000 +0000" channel="Peacock_052">
     <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
   </programme>
+  <programme start="20261018190000 +0000" stop="20261019043000 +0000" channel="Peacock_052">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
+  </programme>
   <programme start="20261017113000 +0000" stop="20261017193000 +0000" channel="Peacock_053">
     <title>B1G Saturday: Week 7 (2026-10-17 11:30:00)</title>
   </programme>
   <programme start="20261017190000 +0000" stop="20261018030000 +0000" channel="Peacock_054">
     <title>B1G Saturday Night: Week 7 (2026-10-17 19:00:00)</title>
+  </programme>
+  <programme start="20261018190000 +0000" stop="20261019043000 +0000" channel="Peacock_055">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
   </programme>
   <programme start="20261013180000 +0000" stop="20261014020000 +0000" channel="Peacock_063">
     <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:00:00)</title>
@@ -822,6 +936,9 @@
   <programme start="20261017085200 +0000" stop="20261017145500 +0000" channel="Peacock_070">
     <title>Swimming WC: Astana Day 3 (2026-10-17 08:52:00)</title>
   </programme>
+  <programme start="20261018190000 +0000" stop="20261019043000 +0000" channel="Peacock_070">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
+  </programme>
   <programme start="20261013180000 +0000" stop="20261014020000 +0000" channel="Peacock_071">
     <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:00:00)</title>
   </programme>
@@ -836,6 +953,9 @@
   </programme>
   <programme start="20261015085200 +0000" stop="20261015142000 +0000" channel="Peacock_073">
     <title>Swimming WC: Astana Day 1 (2026-10-15 08:52:00)</title>
+  </programme>
+  <programme start="20261018190000 +0000" stop="20261019043000 +0000" channel="Peacock_073">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
   </programme>
   <programme start="20261016085200 +0000" stop="20261016144000 +0000" channel="Peacock_074">
     <title>Swimming WC: Astana Day 2 (2026-10-16 08:52:00)</title>
@@ -858,6 +978,9 @@
   <programme start="20261015085200 +0000" stop="20261015142000 +0000" channel="Peacock_078">
     <title>Swimming WC: Astana Day 1 (2026-10-15 08:52:00)</title>
   </programme>
+  <programme start="20261018190000 +0000" stop="20261019043000 +0000" channel="Peacock_078">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
+  </programme>
   <programme start="20261016085200 +0000" stop="20261016144000 +0000" channel="Peacock_079">
     <title>Swimming WC: Astana Day 2 (2026-10-16 08:52:00)</title>
   </programme>
@@ -867,8 +990,14 @@
   <programme start="20261017113000 +0000" stop="20261017193000 +0000" channel="Peacock_081">
     <title>B1G Saturday: Week 7 (2026-10-17 11:30:00)</title>
   </programme>
+  <programme start="20261018190000 +0000" stop="20261019043000 +0000" channel="Peacock_081">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
+  </programme>
   <programme start="20261017190000 +0000" stop="20261018030000 +0000" channel="Peacock_082">
     <title>B1G Saturday Night: Week 7 (2026-10-17 19:00:00)</title>
+  </programme>
+  <programme start="20261018190000 +0000" stop="20261019043000 +0000" channel="Peacock_083">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
   </programme>
   <programme start="20261013180000 +0000" stop="20261014020000 +0000" channel="Peacock_084">
     <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:00:00)</title>
@@ -900,6 +1029,9 @@
   <programme start="20261017113000 +0000" stop="20261017193000 +0000" channel="Peacock_088">
     <title>B1G Saturday: Week 7 (2026-10-17 11:30:00)</title>
   </programme>
+  <programme start="20261018190000 +0000" stop="20261019043000 +0000" channel="Peacock_088">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
+  </programme>
   <programme start="20261013180005 +0000" stop="20261014020000 +0000" channel="Peacock_089">
     <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:00:05)</title>
   </programme>
@@ -921,6 +1053,9 @@
   <programme start="20261017190000 +0000" stop="20261018030000 +0000" channel="Peacock_090">
     <title>B1G Saturday Night: Week 7 (2026-10-17 19:00:00)</title>
   </programme>
+  <programme start="20261018190000 +0000" stop="20261019043000 +0000" channel="Peacock_090">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
+  </programme>
   <programme start="20261013180005 +0000" stop="20261014020000 +0000" channel="Peacock_091">
     <title>Performance View: CLE vs. ORL (2026-10-13 18:00:05)</title>
   </programme>
@@ -930,6 +1065,9 @@
   <programme start="20261017190000 +0000" stop="20261018030000 +0000" channel="Peacock_091">
     <title>B1G Saturday Night: Week 7 (2026-10-17 19:00:00)</title>
   </programme>
+  <programme start="20261018190000 +0000" stop="20261019043000 +0000" channel="Peacock_091">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
+  </programme>
   <programme start="20261013183005 +0000" stop="20261014020000 +0000" channel="Peacock_092">
     <title>Performance View: CLE vs. ORL (2026-10-13 18:30:05)</title>
   </programme>
@@ -938,6 +1076,9 @@
   </programme>
   <programme start="20261017113000 +0000" stop="20261017193000 +0000" channel="Peacock_092">
     <title>B1G Saturday: Week 7 (2026-10-17 11:30:00)</title>
+  </programme>
+  <programme start="20261018190000 +0000" stop="20261019043000 +0000" channel="Peacock_092">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
   </programme>
   <programme start="20261013180000 +0000" stop="20261014020000 +0000" channel="Peacock_093">
     <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:00:00)</title>
@@ -951,6 +1092,9 @@
   <programme start="20261017190000 +0000" stop="20261018030000 +0000" channel="Peacock_093">
     <title>B1G Saturday Night: Week 7 (2026-10-17 19:00:00)</title>
   </programme>
+  <programme start="20261018190000 +0000" stop="20261019043000 +0000" channel="Peacock_093">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
+  </programme>
   <programme start="20261013180000 +0000" stop="20261014020000 +0000" channel="Peacock_094">
     <title>Performance View: CLE vs. ORL (2026-10-13 18:00:00)</title>
   </programme>
@@ -959,6 +1103,9 @@
   </programme>
   <programme start="20261017113000 +0000" stop="20261017193000 +0000" channel="Peacock_094">
     <title>B1G Saturday: Week 7 (2026-10-17 11:30:00)</title>
+  </programme>
+  <programme start="20261018190000 +0000" stop="20261019043000 +0000" channel="Peacock_094">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
   </programme>
   <programme start="20261013180005 +0000" stop="20261014020000 +0000" channel="Peacock_095">
     <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:00:05)</title>
@@ -975,6 +1122,9 @@
   <programme start="20261017190000 +0000" stop="20261018030000 +0000" channel="Peacock_095">
     <title>B1G Saturday Night: Week 7 (2026-10-17 19:00:00)</title>
   </programme>
+  <programme start="20261018190000 +0000" stop="20261019043000 +0000" channel="Peacock_095">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
+  </programme>
   <programme start="20261013180000 +0000" stop="20261014020000 +0000" channel="Peacock_096">
     <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:00:00)</title>
   </programme>
@@ -987,6 +1137,12 @@
   <programme start="20261017190000 +0000" stop="20261018030000 +0000" channel="Peacock_096">
     <title>B1G Saturday Night: Week 7 (2026-10-17 19:00:00)</title>
   </programme>
+  <programme start="20261018190000 +0000" stop="20261019043000 +0000" channel="Peacock_096">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
+  </programme>
+  <programme start="20261018200000 +0000" stop="20261019033000 +0000" channel="Peacock_096">
+    <title>Cowboys vs. Packers (Español) (2026-10-18 20:00:00)</title>
+  </programme>
   <programme start="20261013180005 +0000" stop="20261014020000 +0000" channel="Peacock_097">
     <title>Performance View: CLE vs. ORL (2026-10-13 18:00:05)</title>
   </programme>
@@ -996,11 +1152,17 @@
   <programme start="20261017190000 +0000" stop="20261018030000 +0000" channel="Peacock_097">
     <title>B1G Saturday Night: Week 7 (2026-10-17 19:00:00)</title>
   </programme>
+  <programme start="20261018190000 +0000" stop="20261019043000 +0000" channel="Peacock_097">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
+  </programme>
   <programme start="20261013180000 +0000" stop="20261014020000 +0000" channel="Peacock_098">
     <title>Performance View: CLE vs. ORL (2026-10-13 18:00:00)</title>
   </programme>
   <programme start="20261017113000 +0000" stop="20261017193000 +0000" channel="Peacock_098">
     <title>B1G Saturday: Week 7 (2026-10-17 11:30:00)</title>
+  </programme>
+  <programme start="20261018190000 +0000" stop="20261019043000 +0000" channel="Peacock_098">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
   </programme>
   <programme start="20261013180005 +0000" stop="20261014020000 +0000" channel="Peacock_099">
     <title>Preseason: Cavaliers vs. Magic (2026-10-13 18:00:05)</title>
@@ -1016,5 +1178,8 @@
   </programme>
   <programme start="20261017190000 +0000" stop="20261018030000 +0000" channel="Peacock_100">
     <title>B1G Saturday Night: Week 7 (2026-10-17 19:00:00)</title>
+  </programme>
+  <programme start="20261018190000 +0000" stop="20261019043000 +0000" channel="Peacock_100">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
   </programme>
 </tv>
