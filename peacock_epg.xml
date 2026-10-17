@@ -99,35 +99,11 @@
   <channel id="Peacock_098"><display-name>Peacock 098</display-name></channel>
   <channel id="Peacock_099"><display-name>Peacock 099</display-name></channel>
   <channel id="Peacock_100"><display-name>Peacock 100</display-name></channel>
-  <programme start="20261016193000 +0000" stop="20261016233000 +0000" channel="Peacock_003">
-    <title>Ascent FC v. Power FC (2026-10-16 19:30:00)</title>
-  </programme>
-  <programme start="20261016193000 +0000" stop="20261017013000 +0000" channel="Peacock_003">
-    <title>Ascent FC v. Power FC (2026-10-16 19:30:00)</title>
-  </programme>
-  <programme start="20261016193005 +0000" stop="20261016233005 +0000" channel="Peacock_004">
-    <title>Sporting JAX v. FTL United (2026-10-16 19:30:05)</title>
-  </programme>
-  <programme start="20261016193005 +0000" stop="20261017013000 +0000" channel="Peacock_004">
-    <title>Sporting JAX v. FTL United (2026-10-16 19:30:05)</title>
-  </programme>
-  <programme start="20261016193000 +0000" stop="20261016233000 +0000" channel="Peacock_005">
-    <title>Ascent FC v. Power FC (2026-10-16 19:30:00)</title>
-  </programme>
-  <programme start="20261016193000 +0000" stop="20261017013000 +0000" channel="Peacock_005">
-    <title>Ascent FC v. Power FC (2026-10-16 19:30:00)</title>
-  </programme>
   <programme start="20261017090000 +0000" stop="20261017130000 +0000" channel="Peacock_005">
     <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
   </programme>
   <programme start="20261017090000 +0000" stop="20261017150000 +0000" channel="Peacock_005">
     <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
-  </programme>
-  <programme start="20261016193005 +0000" stop="20261016233005 +0000" channel="Peacock_006">
-    <title>Sporting JAX v. FTL United (2026-10-16 19:30:05)</title>
-  </programme>
-  <programme start="20261016193005 +0000" stop="20261017013000 +0000" channel="Peacock_006">
-    <title>Sporting JAX v. FTL United (2026-10-16 19:30:05)</title>
   </programme>
   <programme start="20261017095000 +0000" stop="20261017135000 +0000" channel="Peacock_006">
     <title>Goal Rush: Matchweek 7 (2026-10-17 09:50:00)</title>
@@ -204,12 +180,6 @@
   <programme start="20261017180000 +0000" stop="20261018000000 +0000" channel="Peacock_012">
     <title>Western Michigan vs. Notre Dame (2026-10-17 18:00:00)</title>
   </programme>
-  <programme start="20261016193000 +0000" stop="20261016233000 +0000" channel="Peacock_013">
-    <title>Ascent FC v. Power FC (2026-10-16 19:30:00)</title>
-  </programme>
-  <programme start="20261016193000 +0000" stop="20261017013000 +0000" channel="Peacock_013">
-    <title>Ascent FC v. Power FC (2026-10-16 19:30:00)</title>
-  </programme>
   <programme start="20261017150000 +0000" stop="20261017190000 +0000" channel="Peacock_013">
     <title>Game 1: Dream vs. Valkyries (2026-10-17 15:00:00)</title>
   </programme>
@@ -221,12 +191,6 @@
   </programme>
   <programme start="20261017190000 +0000" stop="20261018010000 +0000" channel="Peacock_013">
     <title>Lexington SC v. Sun FC (2026-10-17 19:00:00)</title>
-  </programme>
-  <programme start="20261016193005 +0000" stop="20261016233005 +0000" channel="Peacock_014">
-    <title>Sporting JAX v. FTL United (2026-10-16 19:30:05)</title>
-  </programme>
-  <programme start="20261016193005 +0000" stop="20261017013000 +0000" channel="Peacock_014">
-    <title>Sporting JAX v. FTL United (2026-10-16 19:30:05)</title>
   </programme>
   <programme start="20261017180000 +0000" stop="20261017220000 +0000" channel="Peacock_014">
     <title>Western Michigan vs. Notre Dame (2026-10-17 18:00:00)</title>
@@ -411,12 +375,6 @@
   <programme start="20261020133000 +0000" stop="20261020203000 +0000" channel="Peacock_022">
     <title>Men`s Team Finals (2026-10-20 13:30:00)</title>
   </programme>
-  <programme start="20261016193000 +0000" stop="20261016233000 +0000" channel="Peacock_023">
-    <title>Ascent FC v. Power FC (2026-10-16 19:30:00)</title>
-  </programme>
-  <programme start="20261016193000 +0000" stop="20261017013000 +0000" channel="Peacock_023">
-    <title>Ascent FC v. Power FC (2026-10-16 19:30:00)</title>
-  </programme>
   <programme start="20261017190000 +0000" stop="20261017230000 +0000" channel="Peacock_023">
     <title>B1G Saturday Night: Week 7 (2026-10-17 19:00:00)</title>
   </programme>
@@ -446,12 +404,6 @@
   </programme>
   <programme start="20261020145000 +0000" stop="20261020223000 +0000" channel="Peacock_023">
     <title>Performance View: BOS vs. DET (2026-10-20 14:50:00)</title>
-  </programme>
-  <programme start="20261016193005 +0000" stop="20261016233005 +0000" channel="Peacock_024">
-    <title>Sporting JAX v. FTL United (2026-10-16 19:30:05)</title>
-  </programme>
-  <programme start="20261016193005 +0000" stop="20261017013000 +0000" channel="Peacock_024">
-    <title>Sporting JAX v. FTL United (2026-10-16 19:30:05)</title>
   </programme>
   <programme start="20261017190005 +0000" stop="20261017230005 +0000" channel="Peacock_024">
     <title>Lexington SC v. Sun FC (2026-10-17 19:00:05)</title>
@@ -540,12 +492,6 @@
   <programme start="20261020183005 +0000" stop="20261021013000 +0000" channel="Peacock_027">
     <title>76ers vs. Knicks (2026-10-20 18:30:05)</title>
   </programme>
-  <programme start="20261016193000 +0000" stop="20261016233000 +0000" channel="Peacock_028">
-    <title>Ascent FC v. Power FC (2026-10-16 19:30:00)</title>
-  </programme>
-  <programme start="20261016193000 +0000" stop="20261017013000 +0000" channel="Peacock_028">
-    <title>Ascent FC v. Power FC (2026-10-16 19:30:00)</title>
-  </programme>
   <programme start="20261017180000 +0000" stop="20261017220000 +0000" channel="Peacock_028">
     <title>Western Michigan vs. Notre Dame (2026-10-17 18:00:00)</title>
   </programme>
@@ -569,12 +515,6 @@
   </programme>
   <programme start="20261020213005 +0000" stop="20261021013005 +0000" channel="Peacock_028">
     <title>Thunder vs. Spurs (2026-10-20 21:30:05)</title>
-  </programme>
-  <programme start="20261016193005 +0000" stop="20261016233005 +0000" channel="Peacock_029">
-    <title>Sporting JAX v. FTL United (2026-10-16 19:30:05)</title>
-  </programme>
-  <programme start="20261016193005 +0000" stop="20261017013000 +0000" channel="Peacock_029">
-    <title>Sporting JAX v. FTL United (2026-10-16 19:30:05)</title>
   </programme>
   <programme start="20261017090000 +0000" stop="20261017130000 +0000" channel="Peacock_029">
     <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
@@ -608,12 +548,6 @@
   </programme>
   <programme start="20261021190000 +0000" stop="20261022030000 +0000" channel="Peacock_029">
     <title>Game 3: Valkyries vs. Dream (2026-10-21 19:00:00)</title>
-  </programme>
-  <programme start="20261016193000 +0000" stop="20261016233000 +0000" channel="Peacock_030">
-    <title>Ascent FC v. Power FC (2026-10-16 19:30:00)</title>
-  </programme>
-  <programme start="20261016193000 +0000" stop="20261017013000 +0000" channel="Peacock_030">
-    <title>Ascent FC v. Power FC (2026-10-16 19:30:00)</title>
   </programme>
   <programme start="20261017090000 +0000" stop="20261017130000 +0000" channel="Peacock_030">
     <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
@@ -651,14 +585,17 @@
   <programme start="20261021190000 +0000" stop="20261022030000 +0000" channel="Peacock_030">
     <title>Game 3: Valkyries vs. Dream (2026-10-21 19:00:00)</title>
   </programme>
-  <programme start="20261016193000 +0000" stop="20261016233000 +0000" channel="Peacock_031">
-    <title>Ascent FC v. Power FC (2026-10-16 19:30:00)</title>
+  <programme start="20261022190000 +0000" stop="20261022230000 +0000" channel="Peacock_030">
+    <title>Game 3: Valkyries vs. Dream (2026-10-22 19:00:00)</title>
   </programme>
-  <programme start="20261016193000 +0000" stop="20261017013000 +0000" channel="Peacock_031">
-    <title>Ascent FC v. Power FC (2026-10-16 19:30:00)</title>
+  <programme start="20261022190000 +0000" stop="20261023030000 +0000" channel="Peacock_030">
+    <title>Game 3: Valkyries vs. Dream (2026-10-22 19:00:00)</title>
   </programme>
-  <programme start="20261016193005 +0000" stop="20261016233005 +0000" channel="Peacock_031">
-    <title>Sporting JAX v. FTL United (2026-10-16 19:30:05)</title>
+  <programme start="20261022193000 +0000" stop="20261022233000 +0000" channel="Peacock_030">
+    <title>FTL United v. Ascent FC (2026-10-22 19:30:00)</title>
+  </programme>
+  <programme start="20261022193000 +0000" stop="20261023013000 +0000" channel="Peacock_030">
+    <title>FTL United v. Ascent FC (2026-10-22 19:30:00)</title>
   </programme>
   <programme start="20261017090000 +0000" stop="20261017130000 +0000" channel="Peacock_031">
     <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
@@ -689,6 +626,18 @@
   </programme>
   <programme start="20261019190000 +0000" stop="20261020030000 +0000" channel="Peacock_031">
     <title>Game 2: Dream vs. Valkyries (2026-10-19 19:00:00)</title>
+  </programme>
+  <programme start="20261022190000 +0000" stop="20261022230000 +0000" channel="Peacock_031">
+    <title>Game 3: Valkyries vs. Dream (2026-10-22 19:00:00)</title>
+  </programme>
+  <programme start="20261022190000 +0000" stop="20261023030000 +0000" channel="Peacock_031">
+    <title>Game 3: Valkyries vs. Dream (2026-10-22 19:00:00)</title>
+  </programme>
+  <programme start="20261022193000 +0000" stop="20261022233000 +0000" channel="Peacock_031">
+    <title>FTL United v. Ascent FC (2026-10-22 19:30:00)</title>
+  </programme>
+  <programme start="20261022193000 +0000" stop="20261023013000 +0000" channel="Peacock_031">
+    <title>FTL United v. Ascent FC (2026-10-22 19:30:00)</title>
   </programme>
   <programme start="20261017090000 +0000" stop="20261017130000 +0000" channel="Peacock_032">
     <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
@@ -723,6 +672,12 @@
   <programme start="20261020145000 +0000" stop="20261020223000 +0000" channel="Peacock_032">
     <title>Celtics vs. Pistons (2026-10-20 14:50:00)</title>
   </programme>
+  <programme start="20261022193000 +0000" stop="20261022233000 +0000" channel="Peacock_032">
+    <title>FTL United v. Ascent FC (2026-10-22 19:30:00)</title>
+  </programme>
+  <programme start="20261022193000 +0000" stop="20261023013000 +0000" channel="Peacock_032">
+    <title>FTL United v. Ascent FC (2026-10-22 19:30:00)</title>
+  </programme>
   <programme start="20261017113000 +0000" stop="20261017153000 +0000" channel="Peacock_033">
     <title>Northwestern vs. Michigan State (2026-10-17 11:30:00)</title>
   </programme>
@@ -752,12 +707,6 @@
   </programme>
   <programme start="20261020145005 +0000" stop="20261020223000 +0000" channel="Peacock_033">
     <title>Performance View: BOS vs. DET (2026-10-20 14:50:05)</title>
-  </programme>
-  <programme start="20261016193000 +0000" stop="20261016233000 +0000" channel="Peacock_034">
-    <title>Ascent FC v. Power FC (2026-10-16 19:30:00)</title>
-  </programme>
-  <programme start="20261016193000 +0000" stop="20261017013000 +0000" channel="Peacock_034">
-    <title>Ascent FC v. Power FC (2026-10-16 19:30:00)</title>
   </programme>
   <programme start="20261017180000 +0000" stop="20261017220000 +0000" channel="Peacock_034">
     <title>Western Michigan vs. Notre Dame (2026-10-17 18:00:00)</title>
@@ -906,6 +855,12 @@
   <programme start="20261020213000 +0000" stop="20261021040000 +0000" channel="Peacock_038">
     <title>Thunder vs. Spurs (2026-10-20 21:30:00)</title>
   </programme>
+  <programme start="20261022190000 +0000" stop="20261022230000 +0000" channel="Peacock_038">
+    <title>Game 3: Valkyries vs. Dream (2026-10-22 19:00:00)</title>
+  </programme>
+  <programme start="20261022190000 +0000" stop="20261023030000 +0000" channel="Peacock_038">
+    <title>Game 3: Valkyries vs. Dream (2026-10-22 19:00:00)</title>
+  </programme>
   <programme start="20261018233000 +0000" stop="20261019033000 +0000" channel="Peacock_039">
     <title>Sunday Night Football Final (2026-10-18 23:30:00)</title>
   </programme>
@@ -933,11 +888,11 @@
   <programme start="20261020213005 +0000" stop="20261021043000 +0000" channel="Peacock_039">
     <title>Performance View: OKC vs. SAS (2026-10-20 21:30:05)</title>
   </programme>
-  <programme start="20261016193000 +0000" stop="20261016233000 +0000" channel="Peacock_040">
-    <title>Ascent FC v. Power FC (2026-10-16 19:30:00)</title>
+  <programme start="20261022193000 +0000" stop="20261022233000 +0000" channel="Peacock_039">
+    <title>FTL United v. Ascent FC (2026-10-22 19:30:00)</title>
   </programme>
-  <programme start="20261016193000 +0000" stop="20261017013000 +0000" channel="Peacock_040">
-    <title>Ascent FC v. Power FC (2026-10-16 19:30:00)</title>
+  <programme start="20261022193000 +0000" stop="20261023013000 +0000" channel="Peacock_039">
+    <title>FTL United v. Ascent FC (2026-10-22 19:30:00)</title>
   </programme>
   <programme start="20261020145000 +0000" stop="20261020185000 +0000" channel="Peacock_040">
     <title>Performance View: BOS vs. DET (2026-10-20 14:50:00)</title>
@@ -957,11 +912,11 @@
   <programme start="20261020213000 +0000" stop="20261021040000 +0000" channel="Peacock_040">
     <title>Thunder vs. Spurs (2026-10-20 21:30:00)</title>
   </programme>
-  <programme start="20261016193000 +0000" stop="20261016233000 +0000" channel="Peacock_041">
-    <title>Ascent FC v. Power FC (2026-10-16 19:30:00)</title>
+  <programme start="20261022190000 +0000" stop="20261022230000 +0000" channel="Peacock_040">
+    <title>WNBA Finals: Game 3 (2026-10-22 19:00:00)</title>
   </programme>
-  <programme start="20261016193000 +0000" stop="20261017013000 +0000" channel="Peacock_041">
-    <title>Ascent FC v. Power FC (2026-10-16 19:30:00)</title>
+  <programme start="20261022190000 +0000" stop="20261023030000 +0000" channel="Peacock_040">
+    <title>WNBA Finals: Game 3 (2026-10-22 19:00:00)</title>
   </programme>
   <programme start="20261017090000 +0000" stop="20261017150000 +0000" channel="Peacock_041">
     <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
@@ -984,11 +939,11 @@
   <programme start="20261020213005 +0000" stop="20261021043000 +0000" channel="Peacock_041">
     <title>Performance View: OKC vs. SAS (2026-10-20 21:30:05)</title>
   </programme>
-  <programme start="20261016193000 +0000" stop="20261016233000 +0000" channel="Peacock_042">
-    <title>Ascent FC v. Power FC (2026-10-16 19:30:00)</title>
+  <programme start="20261022193000 +0000" stop="20261022233000 +0000" channel="Peacock_041">
+    <title>FTL United v. Ascent FC (2026-10-22 19:30:00)</title>
   </programme>
-  <programme start="20261016193000 +0000" stop="20261017013000 +0000" channel="Peacock_042">
-    <title>Ascent FC v. Power FC (2026-10-16 19:30:00)</title>
+  <programme start="20261022193000 +0000" stop="20261023013000 +0000" channel="Peacock_041">
+    <title>FTL United v. Ascent FC (2026-10-22 19:30:00)</title>
   </programme>
   <programme start="20261017090000 +0000" stop="20261017150000 +0000" channel="Peacock_042">
     <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
@@ -1038,11 +993,11 @@
   <programme start="20261020213005 +0000" stop="20261021043000 +0000" channel="Peacock_043">
     <title>Performance View: OKC vs. SAS (2026-10-20 21:30:05)</title>
   </programme>
-  <programme start="20261016193000 +0000" stop="20261016233000 +0000" channel="Peacock_044">
-    <title>Ascent FC v. Power FC (2026-10-16 19:30:00)</title>
+  <programme start="20261022193000 +0000" stop="20261022233000 +0000" channel="Peacock_043">
+    <title>FTL United v. Ascent FC (2026-10-22 19:30:00)</title>
   </programme>
-  <programme start="20261016193000 +0000" stop="20261017013000 +0000" channel="Peacock_044">
-    <title>Ascent FC v. Power FC (2026-10-16 19:30:00)</title>
+  <programme start="20261022193000 +0000" stop="20261023013000 +0000" channel="Peacock_043">
+    <title>FTL United v. Ascent FC (2026-10-22 19:30:00)</title>
   </programme>
   <programme start="20261017085200 +0000" stop="20261017145500 +0000" channel="Peacock_044">
     <title>Swimming WC: Astana Day 3 (2026-10-17 08:52:00)</title>
@@ -1088,6 +1043,12 @@
   </programme>
   <programme start="20261020213005 +0000" stop="20261021040000 +0000" channel="Peacock_045">
     <title>Thunder vs. Spurs (2026-10-20 21:30:05)</title>
+  </programme>
+  <programme start="20261022193000 +0000" stop="20261022233000 +0000" channel="Peacock_045">
+    <title>FTL United v. Ascent FC (2026-10-22 19:30:00)</title>
+  </programme>
+  <programme start="20261022193000 +0000" stop="20261023013000 +0000" channel="Peacock_045">
+    <title>FTL United v. Ascent FC (2026-10-22 19:30:00)</title>
   </programme>
   <programme start="20261017113000 +0000" stop="20261017193000 +0000" channel="Peacock_046">
     <title>B1G Saturday: Week 7 (2026-10-17 11:30:00)</title>
