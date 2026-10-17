@@ -99,53 +99,32 @@
   <channel id="Peacock_098"><display-name>Peacock 098</display-name></channel>
   <channel id="Peacock_099"><display-name>Peacock 099</display-name></channel>
   <channel id="Peacock_100"><display-name>Peacock 100</display-name></channel>
-  <programme start="20261017090000 +0000" stop="20261017130000 +0000" channel="Peacock_005">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
-  </programme>
-  <programme start="20261017090000 +0000" stop="20261017150000 +0000" channel="Peacock_005">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
-  </programme>
-  <programme start="20261017095000 +0000" stop="20261017135000 +0000" channel="Peacock_006">
+  <programme start="20261017095000 +0000" stop="20261017160000 +0000" channel="Peacock_005">
     <title>Goal Rush: Matchweek 7 (2026-10-17 09:50:00)</title>
   </programme>
   <programme start="20261017095000 +0000" stop="20261017160000 +0000" channel="Peacock_006">
     <title>Goal Rush: Matchweek 7 (2026-10-17 09:50:00)</title>
   </programme>
-  <programme start="20261017090000 +0000" stop="20261017130000 +0000" channel="Peacock_007">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
-  </programme>
-  <programme start="20261017090000 +0000" stop="20261017150000 +0000" channel="Peacock_007">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
-  </programme>
-  <programme start="20261017095005 +0000" stop="20261017135005 +0000" channel="Peacock_007">
-    <title>Brentford v. Liverpool (2026-10-17 09:50:05)</title>
-  </programme>
   <programme start="20261017095005 +0000" stop="20261017160000 +0000" channel="Peacock_007">
     <title>Brentford v. Liverpool (2026-10-17 09:50:05)</title>
-  </programme>
-  <programme start="20261017095000 +0000" stop="20261017135000 +0000" channel="Peacock_008">
-    <title>Fulham v. Hull City (2026-10-17 09:50:00)</title>
   </programme>
   <programme start="20261017095000 +0000" stop="20261017160000 +0000" channel="Peacock_008">
     <title>Fulham v. Hull City (2026-10-17 09:50:00)</title>
   </programme>
-  <programme start="20261017095010 +0000" stop="20261017135010 +0000" channel="Peacock_008">
-    <title>Fulham v. Hull City (2026-10-17 09:50:10)</title>
-  </programme>
-  <programme start="20261017095005 +0000" stop="20261017135005 +0000" channel="Peacock_009">
-    <title>Goal Rush: Matchweek 7 (2026-10-17 09:50:05)</title>
+  <programme start="20261017113000 +0000" stop="20261017193000 +0000" channel="Peacock_008">
+    <title>Northwestern vs. Michigan State (2026-10-17 11:30:00)</title>
   </programme>
   <programme start="20261017095005 +0000" stop="20261017160000 +0000" channel="Peacock_009">
     <title>Goal Rush: Matchweek 7 (2026-10-17 09:50:05)</title>
   </programme>
-  <programme start="20261017113000 +0000" stop="20261017153000 +0000" channel="Peacock_009">
-    <title>Northwestern vs. Michigan State (2026-10-17 11:30:00)</title>
-  </programme>
   <programme start="20261017113000 +0000" stop="20261017193000 +0000" channel="Peacock_009">
     <title>Northwestern vs. Michigan State (2026-10-17 11:30:00)</title>
   </programme>
-  <programme start="20261017095010 +0000" stop="20261017135010 +0000" channel="Peacock_010">
-    <title>Brentford v. Liverpool (2026-10-17 09:50:10)</title>
+  <programme start="20261017123000 +0000" stop="20261017163000 +0000" channel="Peacock_009">
+    <title>Newcastle v. Aston Villa (2026-10-17 12:30:00)</title>
+  </programme>
+  <programme start="20261017123000 +0000" stop="20261017190000 +0000" channel="Peacock_009">
+    <title>Newcastle v. Aston Villa (2026-10-17 12:30:00)</title>
   </programme>
   <programme start="20261017095010 +0000" stop="20261017160000 +0000" channel="Peacock_010">
     <title>Brentford v. Liverpool (2026-10-17 09:50:10)</title>
@@ -156,9 +135,6 @@
   <programme start="20261017123000 +0000" stop="20261017190000 +0000" channel="Peacock_010">
     <title>Newcastle v. Aston Villa (2026-10-17 12:30:00)</title>
   </programme>
-  <programme start="20261017113000 +0000" stop="20261017153000 +0000" channel="Peacock_011">
-    <title>Northwestern vs. Michigan State (2026-10-17 11:30:00)</title>
-  </programme>
   <programme start="20261017113000 +0000" stop="20261017193000 +0000" channel="Peacock_011">
     <title>Northwestern vs. Michigan State (2026-10-17 11:30:00)</title>
   </programme>
@@ -167,6 +143,12 @@
   </programme>
   <programme start="20261017150000 +0000" stop="20261017223000 +0000" channel="Peacock_011">
     <title>Game 1: Dream vs. Valkyries (2026-10-17 15:00:00)</title>
+  </programme>
+  <programme start="20261017180000 +0000" stop="20261017220000 +0000" channel="Peacock_011">
+    <title>Western Michigan vs. Notre Dame (2026-10-17 18:00:00)</title>
+  </programme>
+  <programme start="20261017180000 +0000" stop="20261018000000 +0000" channel="Peacock_011">
+    <title>Western Michigan vs. Notre Dame (2026-10-17 18:00:00)</title>
   </programme>
   <programme start="20261017123000 +0000" stop="20261017163000 +0000" channel="Peacock_012">
     <title>Newcastle v. Aston Villa (2026-10-17 12:30:00)</title>
@@ -180,6 +162,12 @@
   <programme start="20261017180000 +0000" stop="20261018000000 +0000" channel="Peacock_012">
     <title>Western Michigan vs. Notre Dame (2026-10-17 18:00:00)</title>
   </programme>
+  <programme start="20261017190000 +0000" stop="20261017230000 +0000" channel="Peacock_012">
+    <title>Lexington SC v. Sun FC (2026-10-17 19:00:00)</title>
+  </programme>
+  <programme start="20261017190000 +0000" stop="20261018010000 +0000" channel="Peacock_012">
+    <title>Lexington SC v. Sun FC (2026-10-17 19:00:00)</title>
+  </programme>
   <programme start="20261017150000 +0000" stop="20261017190000 +0000" channel="Peacock_013">
     <title>Game 1: Dream vs. Valkyries (2026-10-17 15:00:00)</title>
   </programme>
@@ -191,6 +179,12 @@
   </programme>
   <programme start="20261017190000 +0000" stop="20261018010000 +0000" channel="Peacock_013">
     <title>Lexington SC v. Sun FC (2026-10-17 19:00:00)</title>
+  </programme>
+  <programme start="20261017190005 +0000" stop="20261017230005 +0000" channel="Peacock_013">
+    <title>Wisconsin vs. UCLA (2026-10-17 19:00:05)</title>
+  </programme>
+  <programme start="20261017190005 +0000" stop="20261018030000 +0000" channel="Peacock_013">
+    <title>Wisconsin vs. UCLA (2026-10-17 19:00:05)</title>
   </programme>
   <programme start="20261017180000 +0000" stop="20261017220000 +0000" channel="Peacock_014">
     <title>Western Michigan vs. Notre Dame (2026-10-17 18:00:00)</title>
@@ -204,11 +198,11 @@
   <programme start="20261017190005 +0000" stop="20261018030000 +0000" channel="Peacock_014">
     <title>Wisconsin vs. UCLA (2026-10-17 19:00:05)</title>
   </programme>
-  <programme start="20261017090000 +0000" stop="20261017130000 +0000" channel="Peacock_015">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
+  <programme start="20261018085000 +0000" stop="20261018125000 +0000" channel="Peacock_014">
+    <title>Goal Rush: Matchweek 7 (2026-10-18 08:50:00)</title>
   </programme>
-  <programme start="20261017090000 +0000" stop="20261017150000 +0000" channel="Peacock_015">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
+  <programme start="20261018085000 +0000" stop="20261018150000 +0000" channel="Peacock_014">
+    <title>Goal Rush: Matchweek 7 (2026-10-18 08:50:00)</title>
   </programme>
   <programme start="20261017190000 +0000" stop="20261017230000 +0000" channel="Peacock_015">
     <title>B1G Saturday Night: Week 7 (2026-10-17 19:00:00)</title>
@@ -222,8 +216,8 @@
   <programme start="20261018085000 +0000" stop="20261018150000 +0000" channel="Peacock_015">
     <title>Goal Rush: Matchweek 7 (2026-10-18 08:50:00)</title>
   </programme>
-  <programme start="20261017095000 +0000" stop="20261017135000 +0000" channel="Peacock_016">
-    <title>Fulham v. Hull City (2026-10-17 09:50:00)</title>
+  <programme start="20261018085005 +0000" stop="20261018125005 +0000" channel="Peacock_015">
+    <title>Brighton v. Crystal Palace (2026-10-18 08:50:05)</title>
   </programme>
   <programme start="20261017095000 +0000" stop="20261017160000 +0000" channel="Peacock_016">
     <title>Fulham v. Hull City (2026-10-17 09:50:00)</title>
@@ -240,8 +234,8 @@
   <programme start="20261018085005 +0000" stop="20261018150000 +0000" channel="Peacock_016">
     <title>Brighton v. Crystal Palace (2026-10-18 08:50:05)</title>
   </programme>
-  <programme start="20261017095005 +0000" stop="20261017135005 +0000" channel="Peacock_017">
-    <title>Goal Rush: Matchweek 7 (2026-10-17 09:50:05)</title>
+  <programme start="20261018085010 +0000" stop="20261018125010 +0000" channel="Peacock_016">
+    <title>Bournemouth v. Sunderland (2026-10-18 08:50:10)</title>
   </programme>
   <programme start="20261017095005 +0000" stop="20261017160000 +0000" channel="Peacock_017">
     <title>Goal Rush: Matchweek 7 (2026-10-17 09:50:05)</title>
@@ -255,8 +249,11 @@
   <programme start="20261018085010 +0000" stop="20261018125010 +0000" channel="Peacock_017">
     <title>Bournemouth v. Sunderland (2026-10-18 08:50:10)</title>
   </programme>
-  <programme start="20261017095010 +0000" stop="20261017135010 +0000" channel="Peacock_018">
-    <title>Brentford v. Liverpool (2026-10-17 09:50:10)</title>
+  <programme start="20261018113000 +0000" stop="20261018153000 +0000" channel="Peacock_017">
+    <title>Nott`m Forest v. Arsenal (2026-10-18 11:30:00)</title>
+  </programme>
+  <programme start="20261018113000 +0000" stop="20261018180000 +0000" channel="Peacock_017">
+    <title>Nott`m Forest v. Arsenal (2026-10-18 11:30:00)</title>
   </programme>
   <programme start="20261017095010 +0000" stop="20261017160000 +0000" channel="Peacock_018">
     <title>Brentford v. Liverpool (2026-10-17 09:50:10)</title>
@@ -273,8 +270,11 @@
   <programme start="20261018092500 +0000" stop="20261018153000 +0000" channel="Peacock_018">
     <title>Bayer Leverkusen v. Freiburg (Español) (2026-10-18 09:25:00)</title>
   </programme>
-  <programme start="20261017113000 +0000" stop="20261017153000 +0000" channel="Peacock_019">
-    <title>Northwestern vs. Michigan State (2026-10-17 11:30:00)</title>
+  <programme start="20261018190000 +0000" stop="20261018230000 +0000" channel="Peacock_018">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
+  </programme>
+  <programme start="20261018190000 +0000" stop="20261019043000 +0000" channel="Peacock_018">
+    <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
   </programme>
   <programme start="20261017113000 +0000" stop="20261017193000 +0000" channel="Peacock_019">
     <title>Northwestern vs. Michigan State (2026-10-17 11:30:00)</title>
@@ -296,6 +296,9 @@
   </programme>
   <programme start="20261018190000 +0000" stop="20261019043000 +0000" channel="Peacock_019">
     <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
+  </programme>
+  <programme start="20261018233000 +0000" stop="20261019033000 +0000" channel="Peacock_019">
+    <title>Sunday Night Football Final (2026-10-18 23:30:00)</title>
   </programme>
   <programme start="20261017123000 +0000" stop="20261017163000 +0000" channel="Peacock_020">
     <title>Newcastle v. Aston Villa (2026-10-17 12:30:00)</title>
@@ -320,6 +323,12 @@
   </programme>
   <programme start="20261018233000 +0000" stop="20261019033000 +0000" channel="Peacock_020">
     <title>Sunday Night Football Final (2026-10-18 23:30:00)</title>
+  </programme>
+  <programme start="20261019190000 +0000" stop="20261019230000 +0000" channel="Peacock_020">
+    <title>Game 2: Dream vs. Valkyries (2026-10-19 19:00:00)</title>
+  </programme>
+  <programme start="20261019190000 +0000" stop="20261020030000 +0000" channel="Peacock_020">
+    <title>Game 2: Dream vs. Valkyries (2026-10-19 19:00:00)</title>
   </programme>
   <programme start="20261017150000 +0000" stop="20261017190000 +0000" channel="Peacock_021">
     <title>Game 1: Dream vs. Valkyries (2026-10-17 15:00:00)</title>
@@ -348,6 +357,12 @@
   <programme start="20261019190000 +0000" stop="20261020030000 +0000" channel="Peacock_021">
     <title>Game 2: Dream vs. Valkyries (2026-10-19 19:00:00)</title>
   </programme>
+  <programme start="20261020133000 +0000" stop="20261020173000 +0000" channel="Peacock_021">
+    <title>Men`s Team Finals (2026-10-20 13:30:00)</title>
+  </programme>
+  <programme start="20261020133000 +0000" stop="20261020203000 +0000" channel="Peacock_021">
+    <title>Men`s Team Finals (2026-10-20 13:30:00)</title>
+  </programme>
   <programme start="20261017180000 +0000" stop="20261017220000 +0000" channel="Peacock_022">
     <title>Western Michigan vs. Notre Dame (2026-10-17 18:00:00)</title>
   </programme>
@@ -374,6 +389,12 @@
   </programme>
   <programme start="20261020133000 +0000" stop="20261020203000 +0000" channel="Peacock_022">
     <title>Men`s Team Finals (2026-10-20 13:30:00)</title>
+  </programme>
+  <programme start="20261020145000 +0000" stop="20261020185000 +0000" channel="Peacock_022">
+    <title>Performance View: BOS vs. DET (2026-10-20 14:50:00)</title>
+  </programme>
+  <programme start="20261020145000 +0000" stop="20261020223000 +0000" channel="Peacock_022">
+    <title>Performance View: BOS vs. DET (2026-10-20 14:50:00)</title>
   </programme>
   <programme start="20261017190000 +0000" stop="20261017230000 +0000" channel="Peacock_023">
     <title>B1G Saturday Night: Week 7 (2026-10-17 19:00:00)</title>
@@ -405,6 +426,9 @@
   <programme start="20261020145000 +0000" stop="20261020223000 +0000" channel="Peacock_023">
     <title>Performance View: BOS vs. DET (2026-10-20 14:50:00)</title>
   </programme>
+  <programme start="20261020145005 +0000" stop="20261020185005 +0000" channel="Peacock_023">
+    <title>Celtics vs. Pistons (2026-10-20 14:50:05)</title>
+  </programme>
   <programme start="20261017190005 +0000" stop="20261017230005 +0000" channel="Peacock_024">
     <title>Lexington SC v. Sun FC (2026-10-17 19:00:05)</title>
   </programme>
@@ -426,12 +450,6 @@
   <programme start="20261020145005 +0000" stop="20261020185005 +0000" channel="Peacock_024">
     <title>Celtics vs. Pistons (2026-10-20 14:50:05)</title>
   </programme>
-  <programme start="20261017090000 +0000" stop="20261017130000 +0000" channel="Peacock_025">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
-  </programme>
-  <programme start="20261017090000 +0000" stop="20261017150000 +0000" channel="Peacock_025">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
-  </programme>
   <programme start="20261018085000 +0000" stop="20261018125000 +0000" channel="Peacock_025">
     <title>Goal Rush: Matchweek 7 (2026-10-18 08:50:00)</title>
   </programme>
@@ -447,8 +465,11 @@
   <programme start="20261020145005 +0000" stop="20261020223000 +0000" channel="Peacock_025">
     <title>Performance View: BOS vs. DET (2026-10-20 14:50:05)</title>
   </programme>
-  <programme start="20261017113000 +0000" stop="20261017153000 +0000" channel="Peacock_026">
-    <title>Northwestern vs. Michigan State (2026-10-17 11:30:00)</title>
+  <programme start="20261020183005 +0000" stop="20261020223005 +0000" channel="Peacock_025">
+    <title>76ers vs. Knicks (2026-10-20 18:30:05)</title>
+  </programme>
+  <programme start="20261020183005 +0000" stop="20261021013000 +0000" channel="Peacock_025">
+    <title>76ers vs. Knicks (2026-10-20 18:30:05)</title>
   </programme>
   <programme start="20261017113000 +0000" stop="20261017193000 +0000" channel="Peacock_026">
     <title>Northwestern vs. Michigan State (2026-10-17 11:30:00)</title>
@@ -492,6 +513,12 @@
   <programme start="20261020183005 +0000" stop="20261021013000 +0000" channel="Peacock_027">
     <title>76ers vs. Knicks (2026-10-20 18:30:05)</title>
   </programme>
+  <programme start="20261020213005 +0000" stop="20261021013005 +0000" channel="Peacock_027">
+    <title>Thunder vs. Spurs (2026-10-20 21:30:05)</title>
+  </programme>
+  <programme start="20261020213005 +0000" stop="20261021040000 +0000" channel="Peacock_027">
+    <title>Thunder vs. Spurs (2026-10-20 21:30:05)</title>
+  </programme>
   <programme start="20261017180000 +0000" stop="20261017220000 +0000" channel="Peacock_028">
     <title>Western Michigan vs. Notre Dame (2026-10-17 18:00:00)</title>
   </programme>
@@ -516,11 +543,11 @@
   <programme start="20261020213005 +0000" stop="20261021013005 +0000" channel="Peacock_028">
     <title>Thunder vs. Spurs (2026-10-20 21:30:05)</title>
   </programme>
-  <programme start="20261017090000 +0000" stop="20261017130000 +0000" channel="Peacock_029">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
+  <programme start="20261021190000 +0000" stop="20261021230000 +0000" channel="Peacock_028">
+    <title>Game 3: Valkyries vs. Dream (2026-10-21 19:00:00)</title>
   </programme>
-  <programme start="20261017090000 +0000" stop="20261017150000 +0000" channel="Peacock_029">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
+  <programme start="20261021190000 +0000" stop="20261022030000 +0000" channel="Peacock_028">
+    <title>Game 3: Valkyries vs. Dream (2026-10-21 19:00:00)</title>
   </programme>
   <programme start="20261017190000 +0000" stop="20261017230000 +0000" channel="Peacock_029">
     <title>B1G Saturday Night: Week 7 (2026-10-17 19:00:00)</title>
@@ -549,14 +576,11 @@
   <programme start="20261021190000 +0000" stop="20261022030000 +0000" channel="Peacock_029">
     <title>Game 3: Valkyries vs. Dream (2026-10-21 19:00:00)</title>
   </programme>
-  <programme start="20261017090000 +0000" stop="20261017130000 +0000" channel="Peacock_030">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
+  <programme start="20261022193000 +0000" stop="20261022233000 +0000" channel="Peacock_029">
+    <title>FTL United v. Ascent FC (2026-10-22 19:30:00)</title>
   </programme>
-  <programme start="20261017090000 +0000" stop="20261017150000 +0000" channel="Peacock_030">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
-  </programme>
-  <programme start="20261017113000 +0000" stop="20261017153000 +0000" channel="Peacock_030">
-    <title>B1G Saturday: Week 7 (2026-10-17 11:30:00)</title>
+  <programme start="20261022193000 +0000" stop="20261023013000 +0000" channel="Peacock_029">
+    <title>FTL United v. Ascent FC (2026-10-22 19:30:00)</title>
   </programme>
   <programme start="20261017113000 +0000" stop="20261017193000 +0000" channel="Peacock_030">
     <title>B1G Saturday: Week 7 (2026-10-17 11:30:00)</title>
@@ -597,15 +621,6 @@
   <programme start="20261022193000 +0000" stop="20261023013000 +0000" channel="Peacock_030">
     <title>FTL United v. Ascent FC (2026-10-22 19:30:00)</title>
   </programme>
-  <programme start="20261017090000 +0000" stop="20261017130000 +0000" channel="Peacock_031">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
-  </programme>
-  <programme start="20261017090000 +0000" stop="20261017150000 +0000" channel="Peacock_031">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
-  </programme>
-  <programme start="20261017113000 +0000" stop="20261017153000 +0000" channel="Peacock_031">
-    <title>Northwestern vs. Michigan State (2026-10-17 11:30:00)</title>
-  </programme>
   <programme start="20261017113000 +0000" stop="20261017193000 +0000" channel="Peacock_031">
     <title>Northwestern vs. Michigan State (2026-10-17 11:30:00)</title>
   </programme>
@@ -639,15 +654,6 @@
   <programme start="20261022193000 +0000" stop="20261023013000 +0000" channel="Peacock_031">
     <title>FTL United v. Ascent FC (2026-10-22 19:30:00)</title>
   </programme>
-  <programme start="20261017090000 +0000" stop="20261017130000 +0000" channel="Peacock_032">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
-  </programme>
-  <programme start="20261017090000 +0000" stop="20261017150000 +0000" channel="Peacock_032">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
-  </programme>
-  <programme start="20261017113000 +0000" stop="20261017153000 +0000" channel="Peacock_032">
-    <title>Northwestern vs. Michigan State (2026-10-17 11:30:00)</title>
-  </programme>
   <programme start="20261017113000 +0000" stop="20261017193000 +0000" channel="Peacock_032">
     <title>Northwestern vs. Michigan State (2026-10-17 11:30:00)</title>
   </programme>
@@ -677,9 +683,6 @@
   </programme>
   <programme start="20261022193000 +0000" stop="20261023013000 +0000" channel="Peacock_032">
     <title>FTL United v. Ascent FC (2026-10-22 19:30:00)</title>
-  </programme>
-  <programme start="20261017113000 +0000" stop="20261017153000 +0000" channel="Peacock_033">
-    <title>Northwestern vs. Michigan State (2026-10-17 11:30:00)</title>
   </programme>
   <programme start="20261017113000 +0000" stop="20261017193000 +0000" channel="Peacock_033">
     <title>Northwestern vs. Michigan State (2026-10-17 11:30:00)</title>
@@ -732,12 +735,6 @@
   <programme start="20261020145000 +0000" stop="20261020223000 +0000" channel="Peacock_034">
     <title>Celtics vs. Pistons (2026-10-20 14:50:00)</title>
   </programme>
-  <programme start="20261017090000 +0000" stop="20261017130000 +0000" channel="Peacock_035">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
-  </programme>
-  <programme start="20261017090000 +0000" stop="20261017150000 +0000" channel="Peacock_035">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
-  </programme>
   <programme start="20261017190000 +0000" stop="20261017230000 +0000" channel="Peacock_035">
     <title>B1G Saturday Night: Week 7 (2026-10-17 19:00:00)</title>
   </programme>
@@ -764,9 +761,6 @@
   </programme>
   <programme start="20261020183005 +0000" stop="20261021013000 +0000" channel="Peacock_035">
     <title>76ers vs. Knicks (2026-10-20 18:30:05)</title>
-  </programme>
-  <programme start="20261017113000 +0000" stop="20261017153000 +0000" channel="Peacock_036">
-    <title>B1G Saturday: Week 7 (2026-10-17 11:30:00)</title>
   </programme>
   <programme start="20261017113000 +0000" stop="20261017193000 +0000" channel="Peacock_036">
     <title>B1G Saturday: Week 7 (2026-10-17 11:30:00)</title>
@@ -918,9 +912,6 @@
   <programme start="20261022190000 +0000" stop="20261023030000 +0000" channel="Peacock_040">
     <title>WNBA Finals: Game 3 (2026-10-22 19:00:00)</title>
   </programme>
-  <programme start="20261017090000 +0000" stop="20261017150000 +0000" channel="Peacock_041">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
-  </programme>
   <programme start="20261020145005 +0000" stop="20261020185005 +0000" channel="Peacock_041">
     <title>Celtics vs. Pistons (2026-10-20 14:50:05)</title>
   </programme>
@@ -945,9 +936,6 @@
   <programme start="20261022193000 +0000" stop="20261023013000 +0000" channel="Peacock_041">
     <title>FTL United v. Ascent FC (2026-10-22 19:30:00)</title>
   </programme>
-  <programme start="20261017090000 +0000" stop="20261017150000 +0000" channel="Peacock_042">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
-  </programme>
   <programme start="20261017113000 +0000" stop="20261017193000 +0000" channel="Peacock_042">
     <title>B1G Saturday: Week 7 (2026-10-17 11:30:00)</title>
   </programme>
@@ -965,15 +953,6 @@
   </programme>
   <programme start="20261020213005 +0000" stop="20261021043000 +0000" channel="Peacock_042">
     <title>Performance View: OKC vs. SAS (2026-10-20 21:30:05)</title>
-  </programme>
-  <programme start="20261017085200 +0000" stop="20261017145500 +0000" channel="Peacock_043">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 08:52:00)</title>
-  </programme>
-  <programme start="20261017090000 +0000" stop="20261017130000 +0000" channel="Peacock_043">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
-  </programme>
-  <programme start="20261017090000 +0000" stop="20261017150000 +0000" channel="Peacock_043">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
   </programme>
   <programme start="20261017113000 +0000" stop="20261017193000 +0000" channel="Peacock_043">
     <title>B1G Saturday: Week 7 (2026-10-17 11:30:00)</title>
@@ -999,9 +978,6 @@
   <programme start="20261022193000 +0000" stop="20261023013000 +0000" channel="Peacock_043">
     <title>FTL United v. Ascent FC (2026-10-22 19:30:00)</title>
   </programme>
-  <programme start="20261017085200 +0000" stop="20261017145500 +0000" channel="Peacock_044">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 08:52:00)</title>
-  </programme>
   <programme start="20261017113000 +0000" stop="20261017193000 +0000" channel="Peacock_044">
     <title>B1G Saturday: Week 7 (2026-10-17 11:30:00)</title>
   </programme>
@@ -1019,9 +995,6 @@
   </programme>
   <programme start="20261020213005 +0000" stop="20261021013005 +0000" channel="Peacock_044">
     <title>Performance View: OKC vs. SAS (2026-10-20 21:30:05)</title>
-  </programme>
-  <programme start="20261017090000 +0000" stop="20261017150000 +0000" channel="Peacock_045">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
   </programme>
   <programme start="20261017113000 +0000" stop="20261017193000 +0000" channel="Peacock_045">
     <title>B1G Saturday: Week 7 (2026-10-17 11:30:00)</title>
@@ -1083,9 +1056,6 @@
   <programme start="20261020183005 +0000" stop="20261021013000 +0000" channel="Peacock_048">
     <title>Performance View: PHI vs. NYK (2026-10-20 18:30:05)</title>
   </programme>
-  <programme start="20261017090000 +0000" stop="20261017150000 +0000" channel="Peacock_049">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
-  </programme>
   <programme start="20261020145005 +0000" stop="20261020223000 +0000" channel="Peacock_049">
     <title>Celtics vs. Pistons (2026-10-20 14:50:05)</title>
   </programme>
@@ -1109,9 +1079,6 @@
   </programme>
   <programme start="20261020213005 +0000" stop="20261021043000 +0000" channel="Peacock_051">
     <title>Performance View: OKC vs. SAS (2026-10-20 21:30:05)</title>
-  </programme>
-  <programme start="20261017090000 +0000" stop="20261017150000 +0000" channel="Peacock_052">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 09:00:00)</title>
   </programme>
   <programme start="20261018190000 +0000" stop="20261019043000 +0000" channel="Peacock_052">
     <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
@@ -1176,17 +1143,11 @@
   <programme start="20261020213005 +0000" stop="20261021043000 +0000" channel="Peacock_061">
     <title>Performance View: OKC vs. SAS (2026-10-20 21:30:05)</title>
   </programme>
-  <programme start="20261017085200 +0000" stop="20261017145500 +0000" channel="Peacock_067">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 08:52:00)</title>
-  </programme>
   <programme start="20261017113000 +0000" stop="20261017193000 +0000" channel="Peacock_068">
     <title>B1G Saturday: Week 7 (2026-10-17 11:30:00)</title>
   </programme>
   <programme start="20261017190000 +0000" stop="20261018030000 +0000" channel="Peacock_069">
     <title>B1G Saturday Night: Week 7 (2026-10-17 19:00:00)</title>
-  </programme>
-  <programme start="20261017085200 +0000" stop="20261017145500 +0000" channel="Peacock_070">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 08:52:00)</title>
   </programme>
   <programme start="20261018190000 +0000" stop="20261019043000 +0000" channel="Peacock_070">
     <title>Cowboys vs. Packers (2026-10-18 19:00:00)</title>
@@ -1214,9 +1175,6 @@
   </programme>
   <programme start="20261020183005 +0000" stop="20261021013000 +0000" channel="Peacock_074">
     <title>Performance View: PHI vs. NYK (2026-10-20 18:30:05)</title>
-  </programme>
-  <programme start="20261017085200 +0000" stop="20261017145500 +0000" channel="Peacock_075">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 08:52:00)</title>
   </programme>
   <programme start="20261020145005 +0000" stop="20261020223000 +0000" channel="Peacock_075">
     <title>Celtics vs. Pistons (2026-10-20 14:50:05)</title>
@@ -1250,9 +1208,6 @@
   </programme>
   <programme start="20261020213005 +0000" stop="20261021043000 +0000" channel="Peacock_079">
     <title>Performance View: OKC vs. SAS (2026-10-20 21:30:05)</title>
-  </programme>
-  <programme start="20261017085200 +0000" stop="20261017145500 +0000" channel="Peacock_080">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 08:52:00)</title>
   </programme>
   <programme start="20261020145005 +0000" stop="20261020223000 +0000" channel="Peacock_080">
     <title>Performance View: BOS vs. DET (2026-10-20 14:50:05)</title>
@@ -1308,9 +1263,6 @@
   <programme start="20261020213000 +0000" stop="20261021043000 +0000" channel="Peacock_088">
     <title>Performance View: OKC vs. SAS (2026-10-20 21:30:00)</title>
   </programme>
-  <programme start="20261017085200 +0000" stop="20261017145500 +0000" channel="Peacock_089">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 08:52:00)</title>
-  </programme>
   <programme start="20261017113000 +0000" stop="20261017193000 +0000" channel="Peacock_089">
     <title>B1G Saturday: Week 7 (2026-10-17 11:30:00)</title>
   </programme>
@@ -1356,9 +1308,6 @@
   <programme start="20261020183000 +0000" stop="20261021013000 +0000" channel="Peacock_092">
     <title>76ers vs. Knicks (2026-10-20 18:30:00)</title>
   </programme>
-  <programme start="20261017085200 +0000" stop="20261017145500 +0000" channel="Peacock_093">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 08:52:00)</title>
-  </programme>
   <programme start="20261017190000 +0000" stop="20261018030000 +0000" channel="Peacock_093">
     <title>B1G Saturday Night: Week 7 (2026-10-17 19:00:00)</title>
   </programme>
@@ -1385,9 +1334,6 @@
   </programme>
   <programme start="20261020210000 +0000" stop="20261021040000 +0000" channel="Peacock_094">
     <title>Performance View: OKC vs. SAS (2026-10-20 21:00:00)</title>
-  </programme>
-  <programme start="20261017085200 +0000" stop="20261017145500 +0000" channel="Peacock_095">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 08:52:00)</title>
   </programme>
   <programme start="20261017113000 +0000" stop="20261017193000 +0000" channel="Peacock_095">
     <title>B1G Saturday: Week 7 (2026-10-17 11:30:00)</title>
@@ -1427,9 +1373,6 @@
   </programme>
   <programme start="20261020213000 +0000" stop="20261021043000 +0000" channel="Peacock_096">
     <title>Thunder vs. Spurs (2026-10-20 21:30:00)</title>
-  </programme>
-  <programme start="20261017085200 +0000" stop="20261017145500 +0000" channel="Peacock_097">
-    <title>Swimming WC: Astana Day 3 (2026-10-17 08:52:00)</title>
   </programme>
   <programme start="20261017190000 +0000" stop="20261018030000 +0000" channel="Peacock_097">
     <title>B1G Saturday Night: Week 7 (2026-10-17 19:00:00)</title>
