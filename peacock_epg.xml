@@ -99,11 +99,65 @@
   <channel id="Peacock_098"><display-name>Peacock 098</display-name></channel>
   <channel id="Peacock_099"><display-name>Peacock 099</display-name></channel>
   <channel id="Peacock_100"><display-name>Peacock 100</display-name></channel>
-  <programme start="20261019190000 +0000" stop="20261019230000 +0000" channel="Peacock_017">
-    <title>Game 2: Dream vs. Valkyries (2026-10-19 19:00:00)</title>
+  <programme start="20261020133000 +0000" stop="20261020173000 +0000" channel="Peacock_008">
+    <title>Men`s Team Finals (2026-10-20 13:30:00)</title>
   </programme>
-  <programme start="20261019190000 +0000" stop="20261020030000 +0000" channel="Peacock_017">
-    <title>Game 2: Dream vs. Valkyries (2026-10-19 19:00:00)</title>
+  <programme start="20261020133000 +0000" stop="20261020203000 +0000" channel="Peacock_008">
+    <title>Men`s Team Finals (2026-10-20 13:30:00)</title>
+  </programme>
+  <programme start="20261020145000 +0000" stop="20261020185000 +0000" channel="Peacock_009">
+    <title>Performance View: BOS vs. DET (2026-10-20 14:50:00)</title>
+  </programme>
+  <programme start="20261020145000 +0000" stop="20261020223000 +0000" channel="Peacock_009">
+    <title>Performance View: BOS vs. DET (2026-10-20 14:50:00)</title>
+  </programme>
+  <programme start="20261020145005 +0000" stop="20261020185005 +0000" channel="Peacock_010">
+    <title>Celtics vs. Pistons (2026-10-20 14:50:05)</title>
+  </programme>
+  <programme start="20261020145005 +0000" stop="20261020223000 +0000" channel="Peacock_010">
+    <title>Celtics vs. Pistons (2026-10-20 14:50:05)</title>
+  </programme>
+  <programme start="20261020183000 +0000" stop="20261020223000 +0000" channel="Peacock_011">
+    <title>Performance View: PHI vs. NYK (2026-10-20 18:30:00)</title>
+  </programme>
+  <programme start="20261020183000 +0000" stop="20261021013000 +0000" channel="Peacock_011">
+    <title>Performance View: PHI vs. NYK (2026-10-20 18:30:00)</title>
+  </programme>
+  <programme start="20261020183005 +0000" stop="20261020223005 +0000" channel="Peacock_012">
+    <title>76ers vs. Knicks (2026-10-20 18:30:05)</title>
+  </programme>
+  <programme start="20261020183005 +0000" stop="20261021013000 +0000" channel="Peacock_012">
+    <title>76ers vs. Knicks (2026-10-20 18:30:05)</title>
+  </programme>
+  <programme start="20261020213000 +0000" stop="20261021013000 +0000" channel="Peacock_013">
+    <title>Thunder vs. Spurs (2026-10-20 21:30:00)</title>
+  </programme>
+  <programme start="20261020213000 +0000" stop="20261021040000 +0000" channel="Peacock_013">
+    <title>Thunder vs. Spurs (2026-10-20 21:30:00)</title>
+  </programme>
+  <programme start="20261020213005 +0000" stop="20261021013005 +0000" channel="Peacock_014">
+    <title>Performance View: OKC vs. SAS (2026-10-20 21:30:05)</title>
+  </programme>
+  <programme start="20261020213005 +0000" stop="20261021043000 +0000" channel="Peacock_014">
+    <title>Performance View: OKC vs. SAS (2026-10-20 21:30:05)</title>
+  </programme>
+  <programme start="20261021190000 +0000" stop="20261021230000 +0000" channel="Peacock_015">
+    <title>Game 3: Valkyries vs. Dream (2026-10-21 19:00:00)</title>
+  </programme>
+  <programme start="20261021190000 +0000" stop="20261022030000 +0000" channel="Peacock_015">
+    <title>Game 3: Valkyries vs. Dream (2026-10-21 19:00:00)</title>
+  </programme>
+  <programme start="20261022050000 +0000" stop="20261022090000 +0000" channel="Peacock_016">
+    <title>Tour de France Route Presentation (2026-10-22 05:00:00)</title>
+  </programme>
+  <programme start="20261022050000 +0000" stop="20261022110000 +0000" channel="Peacock_016">
+    <title>Tour de France Route Presentation (2026-10-22 05:00:00)</title>
+  </programme>
+  <programme start="20261022193000 +0000" stop="20261022233000 +0000" channel="Peacock_017">
+    <title>FTL United v. Ascent FC (2026-10-22 19:30:00)</title>
+  </programme>
+  <programme start="20261022193000 +0000" stop="20261023013000 +0000" channel="Peacock_017">
+    <title>FTL United v. Ascent FC (2026-10-22 19:30:00)</title>
   </programme>
   <programme start="20261020133000 +0000" stop="20261020173000 +0000" channel="Peacock_018">
     <title>Men`s Team Finals (2026-10-20 13:30:00)</title>
@@ -111,17 +165,23 @@
   <programme start="20261020133000 +0000" stop="20261020203000 +0000" channel="Peacock_018">
     <title>Men`s Team Finals (2026-10-20 13:30:00)</title>
   </programme>
+  <programme start="20261023120000 +0000" stop="20261023160000 +0000" channel="Peacock_018">
+    <title>Rhythm Dance (2026-10-23 12:00:00)</title>
+  </programme>
+  <programme start="20261023120000 +0000" stop="20261023170000 +0000" channel="Peacock_018">
+    <title>Rhythm Dance (2026-10-23 12:00:00)</title>
+  </programme>
   <programme start="20261020145000 +0000" stop="20261020185000 +0000" channel="Peacock_019">
     <title>Performance View: BOS vs. DET (2026-10-20 14:50:00)</title>
   </programme>
   <programme start="20261020145000 +0000" stop="20261020223000 +0000" channel="Peacock_019">
     <title>Performance View: BOS vs. DET (2026-10-20 14:50:00)</title>
   </programme>
-  <programme start="20261019190000 +0000" stop="20261019230000 +0000" channel="Peacock_020">
-    <title>Game 2: Dream vs. Valkyries (2026-10-19 19:00:00)</title>
+  <programme start="20261023135000 +0000" stop="20261023175000 +0000" channel="Peacock_019">
+    <title>Women`s Short Program (2026-10-23 13:50:00)</title>
   </programme>
-  <programme start="20261019190000 +0000" stop="20261020030000 +0000" channel="Peacock_020">
-    <title>Game 2: Dream vs. Valkyries (2026-10-19 19:00:00)</title>
+  <programme start="20261023135000 +0000" stop="20261023192000 +0000" channel="Peacock_019">
+    <title>Women`s Short Program (2026-10-23 13:50:00)</title>
   </programme>
   <programme start="20261020145005 +0000" stop="20261020185005 +0000" channel="Peacock_020">
     <title>Celtics vs. Pistons (2026-10-20 14:50:05)</title>
@@ -129,11 +189,11 @@
   <programme start="20261020145005 +0000" stop="20261020223000 +0000" channel="Peacock_020">
     <title>Celtics vs. Pistons (2026-10-20 14:50:05)</title>
   </programme>
-  <programme start="20261019190000 +0000" stop="20261019230000 +0000" channel="Peacock_021">
-    <title>Game 2: Dream vs. Valkyries (2026-10-19 19:00:00)</title>
+  <programme start="20261023190000 +0000" stop="20261023230000 +0000" channel="Peacock_020">
+    <title>Merrimack vs. Notre Dame (2026-10-23 19:00:00)</title>
   </programme>
-  <programme start="20261019190000 +0000" stop="20261020030000 +0000" channel="Peacock_021">
-    <title>Game 2: Dream vs. Valkyries (2026-10-19 19:00:00)</title>
+  <programme start="20261023190000 +0000" stop="20261024010000 +0000" channel="Peacock_020">
+    <title>Merrimack vs. Notre Dame (2026-10-23 19:00:00)</title>
   </programme>
   <programme start="20261020133000 +0000" stop="20261020173000 +0000" channel="Peacock_021">
     <title>Men`s Team Finals (2026-10-20 13:30:00)</title>
@@ -147,11 +207,11 @@
   <programme start="20261020183000 +0000" stop="20261021013000 +0000" channel="Peacock_021">
     <title>Performance View: PHI vs. NYK (2026-10-20 18:30:00)</title>
   </programme>
-  <programme start="20261019190000 +0000" stop="20261019230000 +0000" channel="Peacock_022">
-    <title>Game 2: Dream vs. Valkyries (2026-10-19 19:00:00)</title>
+  <programme start="20261023193000 +0000" stop="20261023233000 +0000" channel="Peacock_021">
+    <title>Lexington SC v. Sporting JAX (2026-10-23 19:30:00)</title>
   </programme>
-  <programme start="20261019190000 +0000" stop="20261020030000 +0000" channel="Peacock_022">
-    <title>Game 2: Dream vs. Valkyries (2026-10-19 19:00:00)</title>
+  <programme start="20261023193000 +0000" stop="20261024013000 +0000" channel="Peacock_021">
+    <title>Lexington SC v. Sporting JAX (2026-10-23 19:30:00)</title>
   </programme>
   <programme start="20261020133000 +0000" stop="20261020173000 +0000" channel="Peacock_022">
     <title>Men`s Team Finals (2026-10-20 13:30:00)</title>
@@ -171,11 +231,11 @@
   <programme start="20261020183005 +0000" stop="20261021013000 +0000" channel="Peacock_022">
     <title>76ers vs. Knicks (2026-10-20 18:30:05)</title>
   </programme>
-  <programme start="20261019190000 +0000" stop="20261019230000 +0000" channel="Peacock_023">
-    <title>Game 2: Dream vs. Valkyries (2026-10-19 19:00:00)</title>
+  <programme start="20261024040000 +0000" stop="20261024080000 +0000" channel="Peacock_022">
+    <title>Women`s Giant Slalom Run 1 (2026-10-24 04:00:00)</title>
   </programme>
-  <programme start="20261019190000 +0000" stop="20261020030000 +0000" channel="Peacock_023">
-    <title>Game 2: Dream vs. Valkyries (2026-10-19 19:00:00)</title>
+  <programme start="20261024040000 +0000" stop="20261024093000 +0000" channel="Peacock_022">
+    <title>Women`s Giant Slalom Run 1 (2026-10-24 04:00:00)</title>
   </programme>
   <programme start="20261020133000 +0000" stop="20261020173000 +0000" channel="Peacock_023">
     <title>Men`s Team Finals (2026-10-20 13:30:00)</title>
@@ -198,11 +258,11 @@
   <programme start="20261020213000 +0000" stop="20261021040000 +0000" channel="Peacock_023">
     <title>Thunder vs. Spurs (2026-10-20 21:30:00)</title>
   </programme>
-  <programme start="20261019190000 +0000" stop="20261019230000 +0000" channel="Peacock_024">
-    <title>Game 2: Dream vs. Valkyries (2026-10-19 19:00:00)</title>
+  <programme start="20261024070000 +0000" stop="20261024110000 +0000" channel="Peacock_023">
+    <title>Women`s Giant Slalom Run 2 (2026-10-24 07:00:00)</title>
   </programme>
-  <programme start="20261019190000 +0000" stop="20261020030000 +0000" channel="Peacock_024">
-    <title>Game 2: Dream vs. Valkyries (2026-10-19 19:00:00)</title>
+  <programme start="20261024070000 +0000" stop="20261024123000 +0000" channel="Peacock_023">
+    <title>Women`s Giant Slalom Run 2 (2026-10-24 07:00:00)</title>
   </programme>
   <programme start="20261020145000 +0000" stop="20261020185000 +0000" channel="Peacock_024">
     <title>Celtics vs. Pistons (2026-10-20 14:50:00)</title>
@@ -218,6 +278,12 @@
   </programme>
   <programme start="20261020213005 +0000" stop="20261021043000 +0000" channel="Peacock_024">
     <title>Performance View: OKC vs. SAS (2026-10-20 21:30:05)</title>
+  </programme>
+  <programme start="20261024080000 +0000" stop="20261024120000 +0000" channel="Peacock_024">
+    <title>Individual Apparatus Finals: Day 5 (2026-10-24 08:00:00)</title>
+  </programme>
+  <programme start="20261024080000 +0000" stop="20261024160000 +0000" channel="Peacock_024">
+    <title>Individual Apparatus Finals: Day 5 (2026-10-24 08:00:00)</title>
   </programme>
   <programme start="20261020145000 +0000" stop="20261020185000 +0000" channel="Peacock_025">
     <title>Performance View: BOS vs. DET (2026-10-20 14:50:00)</title>
@@ -240,6 +306,12 @@
   <programme start="20261021190000 +0000" stop="20261022030000 +0000" channel="Peacock_025">
     <title>Game 3: Valkyries vs. Dream (2026-10-21 19:00:00)</title>
   </programme>
+  <programme start="20261024095000 +0000" stop="20261024135000 +0000" channel="Peacock_025">
+    <title>Coventry City v. Fulham (2026-10-24 09:50:00)</title>
+  </programme>
+  <programme start="20261024095000 +0000" stop="20261024160000 +0000" channel="Peacock_025">
+    <title>Coventry City v. Fulham (2026-10-24 09:50:00)</title>
+  </programme>
   <programme start="20261020145005 +0000" stop="20261020185005 +0000" channel="Peacock_026">
     <title>Celtics vs. Pistons (2026-10-20 14:50:05)</title>
   </programme>
@@ -257,6 +329,12 @@
   </programme>
   <programme start="20261022193000 +0000" stop="20261023013000 +0000" channel="Peacock_026">
     <title>FTL United v. Ascent FC (2026-10-22 19:30:00)</title>
+  </programme>
+  <programme start="20261024113000 +0000" stop="20261024153000 +0000" channel="Peacock_026">
+    <title>Rutgers vs. Northwestern (2026-10-24 11:30:00)</title>
+  </programme>
+  <programme start="20261024113000 +0000" stop="20261024193000 +0000" channel="Peacock_026">
+    <title>Rutgers vs. Northwestern (2026-10-24 11:30:00)</title>
   </programme>
   <programme start="20261020183000 +0000" stop="20261020223000 +0000" channel="Peacock_027">
     <title>Performance View: PHI vs. NYK (2026-10-20 18:30:00)</title>
@@ -278,6 +356,12 @@
   </programme>
   <programme start="20261023190000 +0000" stop="20261024010000 +0000" channel="Peacock_027">
     <title>Merrimack vs. Notre Dame (2026-10-23 19:00:00)</title>
+  </programme>
+  <programme start="20261024123000 +0000" stop="20261024163000 +0000" channel="Peacock_027">
+    <title>Chelsea v. Spurs (2026-10-24 12:30:00)</title>
+  </programme>
+  <programme start="20261024123000 +0000" stop="20261024190000 +0000" channel="Peacock_027">
+    <title>Chelsea v. Spurs (2026-10-24 12:30:00)</title>
   </programme>
   <programme start="20261020183005 +0000" stop="20261020223005 +0000" channel="Peacock_028">
     <title>76ers vs. Knicks (2026-10-20 18:30:05)</title>
@@ -302,6 +386,12 @@
   </programme>
   <programme start="20261023193000 +0000" stop="20261024013000 +0000" channel="Peacock_028">
     <title>Lexington SC v. Sporting JAX (2026-10-23 19:30:00)</title>
+  </programme>
+  <programme start="20261024123005 +0000" stop="20261024163005 +0000" channel="Peacock_028">
+    <title>Game 4: Valkyries vs. Dream (2026-10-24 12:30:05)</title>
+  </programme>
+  <programme start="20261024123005 +0000" stop="20261024200000 +0000" channel="Peacock_028">
+    <title>Game 4: Valkyries vs. Dream (2026-10-24 12:30:05)</title>
   </programme>
   <programme start="20261020213000 +0000" stop="20261021013000 +0000" channel="Peacock_029">
     <title>Performance View: OKC vs. SAS (2026-10-20 21:30:00)</title>
@@ -329,6 +419,12 @@
   </programme>
   <programme start="20261024040000 +0000" stop="20261024093000 +0000" channel="Peacock_029">
     <title>Women`s Giant Slalom Run 1 (2026-10-24 04:00:00)</title>
+  </programme>
+  <programme start="20261024160000 +0000" stop="20261024200000 +0000" channel="Peacock_029">
+    <title>Brooklyn FC v. Sun FC (2026-10-24 16:00:00)</title>
+  </programme>
+  <programme start="20261024160000 +0000" stop="20261024220000 +0000" channel="Peacock_029">
+    <title>Brooklyn FC v. Sun FC (2026-10-24 16:00:00)</title>
   </programme>
   <programme start="20261020213005 +0000" stop="20261021013005 +0000" channel="Peacock_030">
     <title>Thunder vs. Spurs (2026-10-20 21:30:05)</title>
@@ -366,11 +462,11 @@
   <programme start="20261024070000 +0000" stop="20261024123000 +0000" channel="Peacock_030">
     <title>Women`s Giant Slalom Run 2 (2026-10-24 07:00:00)</title>
   </programme>
-  <programme start="20261019190000 +0000" stop="20261019230000 +0000" channel="Peacock_031">
-    <title>Game 2: Dream vs. Valkyries (2026-10-19 19:00:00)</title>
+  <programme start="20261024170000 +0000" stop="20261024210000 +0000" channel="Peacock_030">
+    <title>Merrimack vs. Notre Dame (2026-10-24 17:00:00)</title>
   </programme>
-  <programme start="20261019190000 +0000" stop="20261020030000 +0000" channel="Peacock_031">
-    <title>Game 2: Dream vs. Valkyries (2026-10-19 19:00:00)</title>
+  <programme start="20261024170000 +0000" stop="20261024230000 +0000" channel="Peacock_030">
+    <title>Merrimack vs. Notre Dame (2026-10-24 17:00:00)</title>
   </programme>
   <programme start="20261022190000 +0000" stop="20261022230000 +0000" channel="Peacock_031">
     <title>Game 3: Valkyries vs. Dream (2026-10-22 19:00:00)</title>
@@ -401,6 +497,12 @@
   </programme>
   <programme start="20261024080000 +0000" stop="20261024160000 +0000" channel="Peacock_031">
     <title>Individual Apparatus Finals: Day 5 (2026-10-24 08:00:00)</title>
+  </programme>
+  <programme start="20261024183500 +0000" stop="20261024223500 +0000" channel="Peacock_031">
+    <title>IMSA Carrera Cup COTA 1 (2026-10-24 18:35:00)</title>
+  </programme>
+  <programme start="20261024183500 +0000" stop="20261024233500 +0000" channel="Peacock_031">
+    <title>IMSA Carrera Cup COTA 1 (2026-10-24 18:35:00)</title>
   </programme>
   <programme start="20261020145000 +0000" stop="20261020185000 +0000" channel="Peacock_032">
     <title>Celtics vs. Pistons (2026-10-20 14:50:00)</title>
@@ -438,11 +540,11 @@
   <programme start="20261024095000 +0000" stop="20261024160000 +0000" channel="Peacock_032">
     <title>Coventry City v. Fulham (2026-10-24 09:50:00)</title>
   </programme>
-  <programme start="20261019190000 +0000" stop="20261019230000 +0000" channel="Peacock_033">
-    <title>Game 2: Dream vs. Valkyries (2026-10-19 19:00:00)</title>
+  <programme start="20261024190000 +0000" stop="20261024230000 +0000" channel="Peacock_032">
+    <title>USC vs. Wisconsin (2026-10-24 19:00:00)</title>
   </programme>
-  <programme start="20261019190000 +0000" stop="20261020030000 +0000" channel="Peacock_033">
-    <title>Game 2: Dream vs. Valkyries (2026-10-19 19:00:00)</title>
+  <programme start="20261024190000 +0000" stop="20261025030000 +0000" channel="Peacock_032">
+    <title>USC vs. Wisconsin (2026-10-24 19:00:00)</title>
   </programme>
   <programme start="20261020145005 +0000" stop="20261020185005 +0000" channel="Peacock_033">
     <title>Performance View: BOS vs. DET (2026-10-20 14:50:05)</title>
@@ -480,6 +582,12 @@
   <programme start="20261024113000 +0000" stop="20261024193000 +0000" channel="Peacock_033">
     <title>Rutgers vs. Northwestern (2026-10-24 11:30:00)</title>
   </programme>
+  <programme start="20261025050000 +0000" stop="20261025090000 +0000" channel="Peacock_033">
+    <title>Men`s Giant Slalom Run 1 (2026-10-25 05:00:00)</title>
+  </programme>
+  <programme start="20261025050000 +0000" stop="20261025103000 +0000" channel="Peacock_033">
+    <title>Men`s Giant Slalom Run 1 (2026-10-25 05:00:00)</title>
+  </programme>
   <programme start="20261020145000 +0000" stop="20261020185000 +0000" channel="Peacock_034">
     <title>Celtics vs. Pistons (2026-10-20 14:50:00)</title>
   </programme>
@@ -515,6 +623,12 @@
   </programme>
   <programme start="20261024123000 +0000" stop="20261024190000 +0000" channel="Peacock_034">
     <title>Chelsea v. Spurs (2026-10-24 12:30:00)</title>
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025120000 +0000" channel="Peacock_034">
+    <title>Men`s Giant Slalom Run 2 (2026-10-25 08:00:00)</title>
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025133000 +0000" channel="Peacock_034">
+    <title>Men`s Giant Slalom Run 2 (2026-10-25 08:00:00)</title>
   </programme>
   <programme start="20261020145005 +0000" stop="20261020185005 +0000" channel="Peacock_035">
     <title>Performance View: BOS vs. DET (2026-10-20 14:50:05)</title>
@@ -554,6 +668,12 @@
   </programme>
   <programme start="20261024123005 +0000" stop="20261024200000 +0000" channel="Peacock_035">
     <title>Game 4: Valkyries vs. Dream (2026-10-24 12:30:05)</title>
+  </programme>
+  <programme start="20261025090000 +0000" stop="20261025130000 +0000" channel="Peacock_035">
+    <title>Individual Apparatus Finals: Day 6 (2026-10-25 09:00:00)</title>
+  </programme>
+  <programme start="20261025090000 +0000" stop="20261025160000 +0000" channel="Peacock_035">
+    <title>Individual Apparatus Finals: Day 6 (2026-10-25 09:00:00)</title>
   </programme>
   <programme start="20261020145000 +0000" stop="20261020185000 +0000" channel="Peacock_036">
     <title>Celtics vs. Pistons (2026-10-20 14:50:00)</title>
@@ -596,6 +716,12 @@
   </programme>
   <programme start="20261024160000 +0000" stop="20261024220000 +0000" channel="Peacock_036">
     <title>Brooklyn FC v. Sun FC (2026-10-24 16:00:00)</title>
+  </programme>
+  <programme start="20261025095000 +0000" stop="20261025135000 +0000" channel="Peacock_036">
+    <title>Liverpool v. Brighton (2026-10-25 09:50:00)</title>
+  </programme>
+  <programme start="20261025095000 +0000" stop="20261025160000 +0000" channel="Peacock_036">
+    <title>Liverpool v. Brighton (2026-10-25 09:50:00)</title>
   </programme>
   <programme start="20261020145000 +0000" stop="20261020185000 +0000" channel="Peacock_037">
     <title>Celtics vs. Pistons (2026-10-20 14:50:00)</title>
@@ -648,6 +774,12 @@
   <programme start="20261024170000 +0000" stop="20261024230000 +0000" channel="Peacock_037">
     <title>Merrimack vs. Notre Dame (2026-10-24 17:00:00)</title>
   </programme>
+  <programme start="20261025095005 +0000" stop="20261025135005 +0000" channel="Peacock_037">
+    <title>Man United v. Bournemouth (2026-10-25 09:50:05)</title>
+  </programme>
+  <programme start="20261025095005 +0000" stop="20261025160000 +0000" channel="Peacock_037">
+    <title>Man United v. Bournemouth (2026-10-25 09:50:05)</title>
+  </programme>
   <programme start="20261020145000 +0000" stop="20261020185000 +0000" channel="Peacock_038">
     <title>Celtics vs. Pistons (2026-10-20 14:50:00)</title>
   </programme>
@@ -699,6 +831,12 @@
   <programme start="20261024183500 +0000" stop="20261024233500 +0000" channel="Peacock_038">
     <title>IMSA Carrera Cup COTA 1 (2026-10-24 18:35:00)</title>
   </programme>
+  <programme start="20261025095010 +0000" stop="20261025135010 +0000" channel="Peacock_038">
+    <title>Hull City v. Brentford (2026-10-25 09:50:10)</title>
+  </programme>
+  <programme start="20261025095010 +0000" stop="20261025160000 +0000" channel="Peacock_038">
+    <title>Hull City v. Brentford (2026-10-25 09:50:10)</title>
+  </programme>
   <programme start="20261020145000 +0000" stop="20261020185000 +0000" channel="Peacock_039">
     <title>Performance View: BOS vs. DET (2026-10-20 14:50:00)</title>
   </programme>
@@ -746,6 +884,12 @@
   </programme>
   <programme start="20261024170000 +0000" stop="20261024230000 +0000" channel="Peacock_039">
     <title>Merrimack vs. Notre Dame (2026-10-24 17:00:00)</title>
+  </programme>
+  <programme start="20261025095015 +0000" stop="20261025135015 +0000" channel="Peacock_039">
+    <title>Goal Rush: Matchweek 8 (2026-10-25 09:50:15)</title>
+  </programme>
+  <programme start="20261025095015 +0000" stop="20261025160000 +0000" channel="Peacock_039">
+    <title>Goal Rush: Matchweek 8 (2026-10-25 09:50:15)</title>
   </programme>
   <programme start="20261020145000 +0000" stop="20261020185000 +0000" channel="Peacock_040">
     <title>Performance View: BOS vs. DET (2026-10-20 14:50:00)</title>
@@ -804,6 +948,18 @@
   <programme start="20261024190000 +0000" stop="20261025030000 +0000" channel="Peacock_040">
     <title>B1G Saturday Night: Week 8 (2026-10-24 19:00:00)</title>
   </programme>
+  <programme start="20261025050000 +0000" stop="20261025090000 +0000" channel="Peacock_040">
+    <title>Men`s Giant Slalom Run 1 (2026-10-25 05:00:00)</title>
+  </programme>
+  <programme start="20261025050000 +0000" stop="20261025103000 +0000" channel="Peacock_040">
+    <title>Men`s Giant Slalom Run 1 (2026-10-25 05:00:00)</title>
+  </programme>
+  <programme start="20261025123000 +0000" stop="20261025163000 +0000" channel="Peacock_040">
+    <title>IMSA Carrera Cup COTA 2 (2026-10-25 12:30:00)</title>
+  </programme>
+  <programme start="20261025123000 +0000" stop="20261025174000 +0000" channel="Peacock_040">
+    <title>IMSA Carrera Cup COTA 2 (2026-10-25 12:30:00)</title>
+  </programme>
   <programme start="20261020145005 +0000" stop="20261020185005 +0000" channel="Peacock_041">
     <title>Celtics vs. Pistons (2026-10-20 14:50:05)</title>
   </programme>
@@ -858,6 +1014,24 @@
   <programme start="20261024183500 +0000" stop="20261024233500 +0000" channel="Peacock_041">
     <title>IMSA Carrera Cup COTA 1 (2026-10-24 18:35:00)</title>
   </programme>
+  <programme start="20261025050000 +0000" stop="20261025090000 +0000" channel="Peacock_041">
+    <title>Men`s Giant Slalom Run 1 (2026-10-25 05:00:00)</title>
+  </programme>
+  <programme start="20261025050000 +0000" stop="20261025104500 +0000" channel="Peacock_041">
+    <title>Men`s Giant Slalom Run 1 (2026-10-25 05:00:00)</title>
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025120000 +0000" channel="Peacock_041">
+    <title>Men`s Giant Slalom Run 2 (2026-10-25 08:00:00)</title>
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025133000 +0000" channel="Peacock_041">
+    <title>Men`s Giant Slalom Run 2 (2026-10-25 08:00:00)</title>
+  </programme>
+  <programme start="20261025150000 +0000" stop="20261025190000 +0000" channel="Peacock_041">
+    <title>Power FC v. Trinity FC (2026-10-25 15:00:00)</title>
+  </programme>
+  <programme start="20261025150000 +0000" stop="20261025210000 +0000" channel="Peacock_041">
+    <title>Power FC v. Trinity FC (2026-10-25 15:00:00)</title>
+  </programme>
   <programme start="20261020183000 +0000" stop="20261020223000 +0000" channel="Peacock_042">
     <title>Performance View: PHI vs. NYK (2026-10-20 18:30:00)</title>
   </programme>
@@ -899,6 +1073,24 @@
   </programme>
   <programme start="20261024183500 +0000" stop="20261024233500 +0000" channel="Peacock_042">
     <title>IMSA Carrera Cup COTA 1 (2026-10-24 18:35:00)</title>
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025120000 +0000" channel="Peacock_042">
+    <title>Men`s Giant Slalom Run 2 (2026-10-25 08:00:00)</title>
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025133000 +0000" channel="Peacock_042">
+    <title>Men`s Giant Slalom Run 2 (2026-10-25 08:00:00)</title>
+  </programme>
+  <programme start="20261025090000 +0000" stop="20261025130000 +0000" channel="Peacock_042">
+    <title>Individual Apparatus Finals: Day 6 (2026-10-25 09:00:00)</title>
+  </programme>
+  <programme start="20261025090000 +0000" stop="20261025160000 +0000" channel="Peacock_042">
+    <title>Individual Apparatus Finals: Day 6 (2026-10-25 09:00:00)</title>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261025230000 +0000" channel="Peacock_042">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261026043000 +0000" channel="Peacock_042">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
   </programme>
   <programme start="20261020183005 +0000" stop="20261020223005 +0000" channel="Peacock_043">
     <title>76ers vs. Knicks (2026-10-20 18:30:05)</title>
@@ -942,6 +1134,30 @@
   <programme start="20261024190000 +0000" stop="20261025030000 +0000" channel="Peacock_043">
     <title>B1G Saturday Night: Week 8 (2026-10-24 19:00:00)</title>
   </programme>
+  <programme start="20261025050000 +0000" stop="20261025090000 +0000" channel="Peacock_043">
+    <title>Men`s Giant Slalom Run 1 (2026-10-25 05:00:00)</title>
+  </programme>
+  <programme start="20261025050000 +0000" stop="20261025104500 +0000" channel="Peacock_043">
+    <title>Men`s Giant Slalom Run 1 (2026-10-25 05:00:00)</title>
+  </programme>
+  <programme start="20261025095000 +0000" stop="20261025135000 +0000" channel="Peacock_043">
+    <title>Liverpool v. Brighton (2026-10-25 09:50:00)</title>
+  </programme>
+  <programme start="20261025095000 +0000" stop="20261025160000 +0000" channel="Peacock_043">
+    <title>Liverpool v. Brighton (2026-10-25 09:50:00)</title>
+  </programme>
+  <programme start="20261025150000 +0000" stop="20261025190000 +0000" channel="Peacock_043">
+    <title>Power FC v. Trinity FC (2026-10-25 15:00:00)</title>
+  </programme>
+  <programme start="20261025150000 +0000" stop="20261025210000 +0000" channel="Peacock_043">
+    <title>Power FC v. Trinity FC (2026-10-25 15:00:00)</title>
+  </programme>
+  <programme start="20261025233000 +0000" stop="20261026033000 +0000" channel="Peacock_043">
+    <title>Sunday Night Football Final (2026-10-25 23:30:00)</title>
+  </programme>
+  <programme start="20261025233000 +0000" stop="20261026043000 +0000" channel="Peacock_043">
+    <title>Sunday Night Football Final (2026-10-25 23:30:00)</title>
+  </programme>
   <programme start="20261020213000 +0000" stop="20261021013000 +0000" channel="Peacock_044">
     <title>Performance View: OKC vs. SAS (2026-10-20 21:30:00)</title>
   </programme>
@@ -968,6 +1184,30 @@
   </programme>
   <programme start="20261024150000 +0000" stop="20261024230000 +0000" channel="Peacock_044">
     <title>B1G Saturday: Week 8 (2026-10-24 15:00:00)</title>
+  </programme>
+  <programme start="20261025050000 +0000" stop="20261025090000 +0000" channel="Peacock_044">
+    <title>Men`s Giant Slalom Run 1 (2026-10-25 05:00:00)</title>
+  </programme>
+  <programme start="20261025050000 +0000" stop="20261025104500 +0000" channel="Peacock_044">
+    <title>Men`s Giant Slalom Run 1 (2026-10-25 05:00:00)</title>
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025120000 +0000" channel="Peacock_044">
+    <title>Men`s Giant Slalom Run 2 (2026-10-25 08:00:00)</title>
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025133000 +0000" channel="Peacock_044">
+    <title>Men`s Giant Slalom Run 2 (2026-10-25 08:00:00)</title>
+  </programme>
+  <programme start="20261025095005 +0000" stop="20261025135005 +0000" channel="Peacock_044">
+    <title>Man United v. Bournemouth (2026-10-25 09:50:05)</title>
+  </programme>
+  <programme start="20261025095005 +0000" stop="20261025160000 +0000" channel="Peacock_044">
+    <title>Man United v. Bournemouth (2026-10-25 09:50:05)</title>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261025230000 +0000" channel="Peacock_044">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261026043000 +0000" channel="Peacock_044">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
   </programme>
   <programme start="20261020145000 +0000" stop="20261020223000 +0000" channel="Peacock_045">
     <title>Performance View: BOS vs. DET (2026-10-20 14:50:00)</title>
@@ -1014,6 +1254,39 @@
   <programme start="20261024190000 +0000" stop="20261025030000 +0000" channel="Peacock_045">
     <title>B1G Saturday Night: Week 8 (2026-10-24 19:00:00)</title>
   </programme>
+  <programme start="20261025050000 +0000" stop="20261025090000 +0000" channel="Peacock_045">
+    <title>Men`s Giant Slalom Run 1 (2026-10-25 05:00:00)</title>
+  </programme>
+  <programme start="20261025050000 +0000" stop="20261025104500 +0000" channel="Peacock_045">
+    <title>Men`s Giant Slalom Run 1 (2026-10-25 05:00:00)</title>
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025120000 +0000" channel="Peacock_045">
+    <title>Men`s Giant Slalom Run 2 (2026-10-25 08:00:00)</title>
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025133000 +0000" channel="Peacock_045">
+    <title>Men`s Giant Slalom Run 2 (2026-10-25 08:00:00)</title>
+  </programme>
+  <programme start="20261025090000 +0000" stop="20261025130000 +0000" channel="Peacock_045">
+    <title>Individual Apparatus Finals: Day 6 (2026-10-25 09:00:00)</title>
+  </programme>
+  <programme start="20261025090000 +0000" stop="20261025160000 +0000" channel="Peacock_045">
+    <title>Individual Apparatus Finals: Day 6 (2026-10-25 09:00:00)</title>
+  </programme>
+  <programme start="20261025095010 +0000" stop="20261025135010 +0000" channel="Peacock_045">
+    <title>Hull City v. Brentford (2026-10-25 09:50:10)</title>
+  </programme>
+  <programme start="20261025123000 +0000" stop="20261025163000 +0000" channel="Peacock_045">
+    <title>IMSA Carrera Cup COTA 2 (2026-10-25 12:30:00)</title>
+  </programme>
+  <programme start="20261025123000 +0000" stop="20261025174000 +0000" channel="Peacock_045">
+    <title>IMSA Carrera Cup COTA 2 (2026-10-25 12:30:00)</title>
+  </programme>
+  <programme start="20261025233000 +0000" stop="20261026033000 +0000" channel="Peacock_045">
+    <title>Sunday Night Football Final (2026-10-25 23:30:00)</title>
+  </programme>
+  <programme start="20261025233000 +0000" stop="20261026043000 +0000" channel="Peacock_045">
+    <title>Sunday Night Football Final (2026-10-25 23:30:00)</title>
+  </programme>
   <programme start="20261020145000 +0000" stop="20261020223000 +0000" channel="Peacock_046">
     <title>Performance View: BOS vs. DET (2026-10-20 14:50:00)</title>
   </programme>
@@ -1044,6 +1317,39 @@
   <programme start="20261024160000 +0000" stop="20261024220000 +0000" channel="Peacock_046">
     <title>Brooklyn FC v. Sun FC (2026-10-24 16:00:00)</title>
   </programme>
+  <programme start="20261025050000 +0000" stop="20261025090000 +0000" channel="Peacock_046">
+    <title>Men`s Giant Slalom Run 1 (2026-10-25 05:00:00)</title>
+  </programme>
+  <programme start="20261025050000 +0000" stop="20261025104500 +0000" channel="Peacock_046">
+    <title>Men`s Giant Slalom Run 1 (2026-10-25 05:00:00)</title>
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025120000 +0000" channel="Peacock_046">
+    <title>Men`s Giant Slalom Run 2 (2026-10-25 08:00:00)</title>
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025133000 +0000" channel="Peacock_046">
+    <title>Men`s Giant Slalom Run 2 (2026-10-25 08:00:00)</title>
+  </programme>
+  <programme start="20261025090000 +0000" stop="20261025130000 +0000" channel="Peacock_046">
+    <title>Individual Apparatus Finals: Day 6 (2026-10-25 09:00:00)</title>
+  </programme>
+  <programme start="20261025090000 +0000" stop="20261025160000 +0000" channel="Peacock_046">
+    <title>Individual Apparatus Finals: Day 6 (2026-10-25 09:00:00)</title>
+  </programme>
+  <programme start="20261025095000 +0000" stop="20261025135000 +0000" channel="Peacock_046">
+    <title>Goal Rush: Matchweek 8 (2026-10-25 09:50:00)</title>
+  </programme>
+  <programme start="20261025095015 +0000" stop="20261025135015 +0000" channel="Peacock_046">
+    <title>Goal Rush: Matchweek 8 (2026-10-25 09:50:15)</title>
+  </programme>
+  <programme start="20261025150000 +0000" stop="20261025190000 +0000" channel="Peacock_046">
+    <title>Power FC v. Trinity FC (2026-10-25 15:00:00)</title>
+  </programme>
+  <programme start="20261025150000 +0000" stop="20261025210000 +0000" channel="Peacock_046">
+    <title>Power FC v. Trinity FC (2026-10-25 15:00:00)</title>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261026043000 +0000" channel="Peacock_046">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
+  </programme>
   <programme start="20261020145000 +0000" stop="20261020223000 +0000" channel="Peacock_047">
     <title>Performance View: BOS vs. DET (2026-10-20 14:50:00)</title>
   </programme>
@@ -1071,6 +1377,36 @@
   <programme start="20261024170000 +0000" stop="20261024210000 +0000" channel="Peacock_047">
     <title>Merrimack vs. Notre Dame (2026-10-24 17:00:00)</title>
   </programme>
+  <programme start="20261025080000 +0000" stop="20261025120000 +0000" channel="Peacock_047">
+    <title>Men`s Giant Slalom Run 2 (2026-10-25 08:00:00)</title>
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025133000 +0000" channel="Peacock_047">
+    <title>Men`s Giant Slalom Run 2 (2026-10-25 08:00:00)</title>
+  </programme>
+  <programme start="20261025090000 +0000" stop="20261025130000 +0000" channel="Peacock_047">
+    <title>Individual Apparatus Finals: Day 6 (2026-10-25 09:00:00)</title>
+  </programme>
+  <programme start="20261025090000 +0000" stop="20261025160000 +0000" channel="Peacock_047">
+    <title>Individual Apparatus Finals: Day 6 (2026-10-25 09:00:00)</title>
+  </programme>
+  <programme start="20261025095000 +0000" stop="20261025135000 +0000" channel="Peacock_047">
+    <title>Liverpool v. Brighton (2026-10-25 09:50:00)</title>
+  </programme>
+  <programme start="20261025095005 +0000" stop="20261025135005 +0000" channel="Peacock_047">
+    <title>Hull City v. Brentford (2026-10-25 09:50:05)</title>
+  </programme>
+  <programme start="20261025123000 +0000" stop="20261025163000 +0000" channel="Peacock_047">
+    <title>IMSA Carrera Cup COTA 2 (2026-10-25 12:30:00)</title>
+  </programme>
+  <programme start="20261025123000 +0000" stop="20261025174000 +0000" channel="Peacock_047">
+    <title>IMSA Carrera Cup COTA 2 (2026-10-25 12:30:00)</title>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261025230000 +0000" channel="Peacock_047">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
+  </programme>
+  <programme start="20261025233000 +0000" stop="20261026043000 +0000" channel="Peacock_047">
+    <title>Sunday Night Football Final (2026-10-25 23:30:00)</title>
+  </programme>
   <programme start="20261020145000 +0000" stop="20261020223000 +0000" channel="Peacock_048">
     <title>Performance View: BOS vs. DET (2026-10-20 14:50:00)</title>
   </programme>
@@ -1094,6 +1430,33 @@
   </programme>
   <programme start="20261024170000 +0000" stop="20261024210000 +0000" channel="Peacock_048">
     <title>Merrimack vs. Notre Dame (2026-10-24 17:00:00)</title>
+  </programme>
+  <programme start="20261025095000 +0000" stop="20261025135000 +0000" channel="Peacock_048">
+    <title>Liverpool v. Brighton (2026-10-25 09:50:00)</title>
+  </programme>
+  <programme start="20261025095000 +0000" stop="20261025160000 +0000" channel="Peacock_048">
+    <title>Liverpool v. Brighton (2026-10-25 09:50:00)</title>
+  </programme>
+  <programme start="20261025095005 +0000" stop="20261025135005 +0000" channel="Peacock_048">
+    <title>Hull City v. Brentford (2026-10-25 09:50:05)</title>
+  </programme>
+  <programme start="20261025095010 +0000" stop="20261025135010 +0000" channel="Peacock_048">
+    <title>Man United v. Bournemouth (2026-10-25 09:50:10)</title>
+  </programme>
+  <programme start="20261025150000 +0000" stop="20261025190000 +0000" channel="Peacock_048">
+    <title>Power FC v. Trinity FC (2026-10-25 15:00:00)</title>
+  </programme>
+  <programme start="20261025150000 +0000" stop="20261025210000 +0000" channel="Peacock_048">
+    <title>Power FC v. Trinity FC (2026-10-25 15:00:00)</title>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261025230000 +0000" channel="Peacock_048">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261026043000 +0000" channel="Peacock_048">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
+  </programme>
+  <programme start="20261025233000 +0000" stop="20261026033000 +0000" channel="Peacock_048">
+    <title>Sunday Night Football Final (2026-10-25 23:30:00)</title>
   </programme>
   <programme start="20261020145005 +0000" stop="20261020223000 +0000" channel="Peacock_049">
     <title>Celtics vs. Pistons (2026-10-20 14:50:05)</title>
@@ -1119,6 +1482,33 @@
   <programme start="20261024190000 +0000" stop="20261025030000 +0000" channel="Peacock_049">
     <title>B1G Saturday Night: Week 8 (2026-10-24 19:00:00)</title>
   </programme>
+  <programme start="20261025050000 +0000" stop="20261025090000 +0000" channel="Peacock_049">
+    <title>Men`s Giant Slalom Run 1 (2026-10-25 05:00:00)</title>
+  </programme>
+  <programme start="20261025050000 +0000" stop="20261025104500 +0000" channel="Peacock_049">
+    <title>Men`s Giant Slalom Run 1 (2026-10-25 05:00:00)</title>
+  </programme>
+  <programme start="20261025095005 +0000" stop="20261025135005 +0000" channel="Peacock_049">
+    <title>Hull City v. Brentford (2026-10-25 09:50:05)</title>
+  </programme>
+  <programme start="20261025095005 +0000" stop="20261025160000 +0000" channel="Peacock_049">
+    <title>Hull City v. Brentford (2026-10-25 09:50:05)</title>
+  </programme>
+  <programme start="20261025095010 +0000" stop="20261025135010 +0000" channel="Peacock_049">
+    <title>Man United v. Bournemouth (2026-10-25 09:50:10)</title>
+  </programme>
+  <programme start="20261025095015 +0000" stop="20261025135015 +0000" channel="Peacock_049">
+    <title>Liverpool v. Brighton (2026-10-25 09:50:15)</title>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261025230000 +0000" channel="Peacock_049">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
+  </programme>
+  <programme start="20261025233000 +0000" stop="20261026033000 +0000" channel="Peacock_049">
+    <title>Sunday Night Football Final (2026-10-25 23:30:00)</title>
+  </programme>
+  <programme start="20261025233000 +0000" stop="20261026043000 +0000" channel="Peacock_049">
+    <title>Sunday Night Football Final (2026-10-25 23:30:00)</title>
+  </programme>
   <programme start="20261020183000 +0000" stop="20261021013000 +0000" channel="Peacock_050">
     <title>76ers vs. Knicks (2026-10-20 18:30:00)</title>
   </programme>
@@ -1133,6 +1523,36 @@
   </programme>
   <programme start="20261024170000 +0000" stop="20261024210000 +0000" channel="Peacock_050">
     <title>Merrimack vs. Notre Dame (2026-10-24 17:00:00)</title>
+  </programme>
+  <programme start="20261025050000 +0000" stop="20261025104500 +0000" channel="Peacock_050">
+    <title>Men`s Giant Slalom Run 1 (2026-10-25 05:00:00)</title>
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025120000 +0000" channel="Peacock_050">
+    <title>Men`s Giant Slalom Run 2 (2026-10-25 08:00:00)</title>
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025133000 +0000" channel="Peacock_050">
+    <title>Men`s Giant Slalom Run 2 (2026-10-25 08:00:00)</title>
+  </programme>
+  <programme start="20261025095010 +0000" stop="20261025135010 +0000" channel="Peacock_050">
+    <title>Man United v. Bournemouth (2026-10-25 09:50:10)</title>
+  </programme>
+  <programme start="20261025095010 +0000" stop="20261025160000 +0000" channel="Peacock_050">
+    <title>Man United v. Bournemouth (2026-10-25 09:50:10)</title>
+  </programme>
+  <programme start="20261025095015 +0000" stop="20261025135015 +0000" channel="Peacock_050">
+    <title>Goal Rush: Matchweek 8 (2026-10-25 09:50:15)</title>
+  </programme>
+  <programme start="20261025123000 +0000" stop="20261025163000 +0000" channel="Peacock_050">
+    <title>IMSA Carrera Cup COTA 2 (2026-10-25 12:30:00)</title>
+  </programme>
+  <programme start="20261025123000 +0000" stop="20261025174000 +0000" channel="Peacock_050">
+    <title>IMSA Carrera Cup COTA 2 (2026-10-25 12:30:00)</title>
+  </programme>
+  <programme start="20261025233000 +0000" stop="20261026033000 +0000" channel="Peacock_050">
+    <title>Sunday Night Football Final (2026-10-25 23:30:00)</title>
+  </programme>
+  <programme start="20261025233000 +0000" stop="20261026043000 +0000" channel="Peacock_050">
+    <title>Sunday Night Football Final (2026-10-25 23:30:00)</title>
   </programme>
   <programme start="20261020183005 +0000" stop="20261021013000 +0000" channel="Peacock_051">
     <title>Performance View: PHI vs. NYK (2026-10-20 18:30:05)</title>
@@ -1155,6 +1575,33 @@
   <programme start="20261024190000 +0000" stop="20261025030000 +0000" channel="Peacock_051">
     <title>B1G Saturday Night: Week 8 (2026-10-24 19:00:00)</title>
   </programme>
+  <programme start="20261025050000 +0000" stop="20261025090000 +0000" channel="Peacock_051">
+    <title>Men`s Giant Slalom Run 1 (2026-10-25 05:00:00)</title>
+  </programme>
+  <programme start="20261025050000 +0000" stop="20261025104500 +0000" channel="Peacock_051">
+    <title>Men`s Giant Slalom Run 1 (2026-10-25 05:00:00)</title>
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025133000 +0000" channel="Peacock_051">
+    <title>Men`s Giant Slalom Run 2 (2026-10-25 08:00:00)</title>
+  </programme>
+  <programme start="20261025095015 +0000" stop="20261025135015 +0000" channel="Peacock_051">
+    <title>Goal Rush: Matchweek 8 (2026-10-25 09:50:15)</title>
+  </programme>
+  <programme start="20261025095015 +0000" stop="20261025160000 +0000" channel="Peacock_051">
+    <title>Goal Rush: Matchweek 8 (2026-10-25 09:50:15)</title>
+  </programme>
+  <programme start="20261025123000 +0000" stop="20261025163000 +0000" channel="Peacock_051">
+    <title>IMSA Carrera Cup COTA 2 (2026-10-25 12:30:00)</title>
+  </programme>
+  <programme start="20261025123000 +0000" stop="20261025174000 +0000" channel="Peacock_051">
+    <title>IMSA Carrera Cup COTA 2 (2026-10-25 12:30:00)</title>
+  </programme>
+  <programme start="20261025150000 +0000" stop="20261025190000 +0000" channel="Peacock_051">
+    <title>Power FC v. Trinity FC (2026-10-25 15:00:00)</title>
+  </programme>
+  <programme start="20261025150000 +0000" stop="20261025210000 +0000" channel="Peacock_051">
+    <title>Power FC v. Trinity FC (2026-10-25 15:00:00)</title>
+  </programme>
   <programme start="20261020213000 +0000" stop="20261021040000 +0000" channel="Peacock_052">
     <title>Thunder vs. Spurs (2026-10-20 21:30:00)</title>
   </programme>
@@ -1172,6 +1619,33 @@
   </programme>
   <programme start="20261024170000 +0000" stop="20261024230000 +0000" channel="Peacock_052">
     <title>Merrimack vs. Notre Dame (2026-10-24 17:00:00)</title>
+  </programme>
+  <programme start="20261025050000 +0000" stop="20261025090000 +0000" channel="Peacock_052">
+    <title>Men`s Giant Slalom Run 1 (2026-10-25 05:00:00)</title>
+  </programme>
+  <programme start="20261025050000 +0000" stop="20261025104500 +0000" channel="Peacock_052">
+    <title>Men`s Giant Slalom Run 1 (2026-10-25 05:00:00)</title>
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025120000 +0000" channel="Peacock_052">
+    <title>Men`s Giant Slalom Run 2 (2026-10-25 08:00:00)</title>
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025133000 +0000" channel="Peacock_052">
+    <title>Men`s Giant Slalom Run 2 (2026-10-25 08:00:00)</title>
+  </programme>
+  <programme start="20261025123000 +0000" stop="20261025163000 +0000" channel="Peacock_052">
+    <title>IMSA Carrera Cup COTA 2 (2026-10-25 12:30:00)</title>
+  </programme>
+  <programme start="20261025123000 +0000" stop="20261025174000 +0000" channel="Peacock_052">
+    <title>IMSA Carrera Cup COTA 2 (2026-10-25 12:30:00)</title>
+  </programme>
+  <programme start="20261025150000 +0000" stop="20261025190000 +0000" channel="Peacock_052">
+    <title>Power FC v. Trinity FC (2026-10-25 15:00:00)</title>
+  </programme>
+  <programme start="20261025150000 +0000" stop="20261025210000 +0000" channel="Peacock_052">
+    <title>Power FC v. Trinity FC (2026-10-25 15:00:00)</title>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261026043000 +0000" channel="Peacock_052">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
   </programme>
   <programme start="20261020145000 +0000" stop="20261020223000 +0000" channel="Peacock_053">
     <title>Performance View: BOS vs. DET (2026-10-20 14:50:00)</title>
@@ -1191,6 +1665,24 @@
   <programme start="20261024150000 +0000" stop="20261024230000 +0000" channel="Peacock_053">
     <title>B1G Saturday: Week 8 (2026-10-24 15:00:00)</title>
   </programme>
+  <programme start="20261025080000 +0000" stop="20261025120000 +0000" channel="Peacock_053">
+    <title>Men`s Giant Slalom Run 2 (2026-10-25 08:00:00)</title>
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025133000 +0000" channel="Peacock_053">
+    <title>Men`s Giant Slalom Run 2 (2026-10-25 08:00:00)</title>
+  </programme>
+  <programme start="20261025150000 +0000" stop="20261025190000 +0000" channel="Peacock_053">
+    <title>Power FC v. Trinity FC (2026-10-25 15:00:00)</title>
+  </programme>
+  <programme start="20261025150000 +0000" stop="20261025210000 +0000" channel="Peacock_053">
+    <title>Power FC v. Trinity FC (2026-10-25 15:00:00)</title>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261025230000 +0000" channel="Peacock_053">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
+  </programme>
+  <programme start="20261025233000 +0000" stop="20261026043000 +0000" channel="Peacock_053">
+    <title>Sunday Night Football Final (2026-10-25 23:30:00)</title>
+  </programme>
   <programme start="20261020145005 +0000" stop="20261020223000 +0000" channel="Peacock_054">
     <title>Celtics vs. Pistons (2026-10-20 14:50:05)</title>
   </programme>
@@ -1206,6 +1698,27 @@
   <programme start="20261024150000 +0000" stop="20261024230000 +0000" channel="Peacock_054">
     <title>B1G Saturday: Week 8 (2026-10-24 15:00:00)</title>
   </programme>
+  <programme start="20261025050000 +0000" stop="20261025090000 +0000" channel="Peacock_054">
+    <title>Men`s Giant Slalom Run 1 (2026-10-25 05:00:00)</title>
+  </programme>
+  <programme start="20261025050000 +0000" stop="20261025104500 +0000" channel="Peacock_054">
+    <title>Men`s Giant Slalom Run 1 (2026-10-25 05:00:00)</title>
+  </programme>
+  <programme start="20261025150000 +0000" stop="20261025190000 +0000" channel="Peacock_054">
+    <title>Power FC v. Trinity FC (2026-10-25 15:00:00)</title>
+  </programme>
+  <programme start="20261025150000 +0000" stop="20261025210000 +0000" channel="Peacock_054">
+    <title>Power FC v. Trinity FC (2026-10-25 15:00:00)</title>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261025230000 +0000" channel="Peacock_054">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261026043000 +0000" channel="Peacock_054">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
+  </programme>
+  <programme start="20261025233000 +0000" stop="20261026033000 +0000" channel="Peacock_054">
+    <title>Sunday Night Football Final (2026-10-25 23:30:00)</title>
+  </programme>
   <programme start="20261020183000 +0000" stop="20261021013000 +0000" channel="Peacock_055">
     <title>76ers vs. Knicks (2026-10-20 18:30:00)</title>
   </programme>
@@ -1217,6 +1730,24 @@
   </programme>
   <programme start="20261024150000 +0000" stop="20261024230000 +0000" channel="Peacock_055">
     <title>B1G Saturday: Week 8 (2026-10-24 15:00:00)</title>
+  </programme>
+  <programme start="20261025050000 +0000" stop="20261025104500 +0000" channel="Peacock_055">
+    <title>Men`s Giant Slalom Run 1 (2026-10-25 05:00:00)</title>
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025120000 +0000" channel="Peacock_055">
+    <title>Men`s Giant Slalom Run 2 (2026-10-25 08:00:00)</title>
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025133000 +0000" channel="Peacock_055">
+    <title>Men`s Giant Slalom Run 2 (2026-10-25 08:00:00)</title>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261025230000 +0000" channel="Peacock_055">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261026043000 +0000" channel="Peacock_055">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
+  </programme>
+  <programme start="20261025233000 +0000" stop="20261026033000 +0000" channel="Peacock_055">
+    <title>Sunday Night Football Final (2026-10-25 23:30:00)</title>
   </programme>
   <programme start="20261020145000 +0000" stop="20261020223000 +0000" channel="Peacock_056">
     <title>Performance View: BOS vs. DET (2026-10-20 14:50:00)</title>
@@ -1230,6 +1761,24 @@
   <programme start="20261024150000 +0000" stop="20261024230000 +0000" channel="Peacock_056">
     <title>B1G Saturday: Week 8 (2026-10-24 15:00:00)</title>
   </programme>
+  <programme start="20261025050000 +0000" stop="20261025104500 +0000" channel="Peacock_056">
+    <title>Men`s Giant Slalom Run 1 (2026-10-25 05:00:00)</title>
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025133000 +0000" channel="Peacock_056">
+    <title>Men`s Giant Slalom Run 2 (2026-10-25 08:00:00)</title>
+  </programme>
+  <programme start="20261025150000 +0000" stop="20261025190000 +0000" channel="Peacock_056">
+    <title>Power FC v. Trinity FC (2026-10-25 15:00:00)</title>
+  </programme>
+  <programme start="20261025150000 +0000" stop="20261025210000 +0000" channel="Peacock_056">
+    <title>Power FC v. Trinity FC (2026-10-25 15:00:00)</title>
+  </programme>
+  <programme start="20261025233000 +0000" stop="20261026033000 +0000" channel="Peacock_056">
+    <title>Sunday Night Football Final (2026-10-25 23:30:00)</title>
+  </programme>
+  <programme start="20261025233000 +0000" stop="20261026043000 +0000" channel="Peacock_056">
+    <title>Sunday Night Football Final (2026-10-25 23:30:00)</title>
+  </programme>
   <programme start="20261020145005 +0000" stop="20261020223000 +0000" channel="Peacock_057">
     <title>Celtics vs. Pistons (2026-10-20 14:50:05)</title>
   </programme>
@@ -1238,6 +1787,15 @@
   </programme>
   <programme start="20261024190000 +0000" stop="20261025030000 +0000" channel="Peacock_057">
     <title>B1G Saturday Night: Week 8 (2026-10-24 19:00:00)</title>
+  </programme>
+  <programme start="20261025050000 +0000" stop="20261025104500 +0000" channel="Peacock_057">
+    <title>Men`s Giant Slalom Run 1 (2026-10-25 05:00:00)</title>
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025133000 +0000" channel="Peacock_057">
+    <title>Men`s Giant Slalom Run 2 (2026-10-25 08:00:00)</title>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261026043000 +0000" channel="Peacock_057">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
   </programme>
   <programme start="20261020183000 +0000" stop="20261021013000 +0000" channel="Peacock_058">
     <title>76ers vs. Knicks (2026-10-20 18:30:00)</title>
@@ -1248,11 +1806,32 @@
   <programme start="20261024190000 +0000" stop="20261025030000 +0000" channel="Peacock_058">
     <title>B1G Saturday Night: Week 8 (2026-10-24 19:00:00)</title>
   </programme>
+  <programme start="20261025050000 +0000" stop="20261025104500 +0000" channel="Peacock_058">
+    <title>Men`s Giant Slalom Run 1 (2026-10-25 05:00:00)</title>
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025133000 +0000" channel="Peacock_058">
+    <title>Men`s Giant Slalom Run 2 (2026-10-25 08:00:00)</title>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261026043000 +0000" channel="Peacock_058">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
+  </programme>
+  <programme start="20261025233000 +0000" stop="20261026033000 +0000" channel="Peacock_058">
+    <title>Sunday Night Football Final (2026-10-25 23:30:00)</title>
+  </programme>
   <programme start="20261020183005 +0000" stop="20261021013000 +0000" channel="Peacock_059">
     <title>Performance View: PHI vs. NYK (2026-10-20 18:30:05)</title>
   </programme>
   <programme start="20261024040000 +0000" stop="20261024093000 +0000" channel="Peacock_059">
     <title>Women`s Giant Slalom Run 1 (2026-10-24 04:00:00)</title>
+  </programme>
+  <programme start="20261025050000 +0000" stop="20261025104500 +0000" channel="Peacock_059">
+    <title>Men`s Giant Slalom Run 1 (2026-10-25 05:00:00)</title>
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025133000 +0000" channel="Peacock_059">
+    <title>Men`s Giant Slalom Run 2 (2026-10-25 08:00:00)</title>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261026043000 +0000" channel="Peacock_059">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
   </programme>
   <programme start="20261020213000 +0000" stop="20261021040000 +0000" channel="Peacock_060">
     <title>Thunder vs. Spurs (2026-10-20 21:30:00)</title>
@@ -1260,11 +1839,20 @@
   <programme start="20261024070000 +0000" stop="20261024123000 +0000" channel="Peacock_060">
     <title>Women`s Giant Slalom Run 2 (2026-10-24 07:00:00)</title>
   </programme>
+  <programme start="20261025080000 +0000" stop="20261025133000 +0000" channel="Peacock_060">
+    <title>Men`s Giant Slalom Run 2 (2026-10-25 08:00:00)</title>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261026043000 +0000" channel="Peacock_060">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
+  </programme>
   <programme start="20261020213005 +0000" stop="20261021043000 +0000" channel="Peacock_061">
     <title>Performance View: OKC vs. SAS (2026-10-20 21:30:05)</title>
   </programme>
   <programme start="20261024150000 +0000" stop="20261024230000 +0000" channel="Peacock_061">
     <title>B1G Saturday: Week 8 (2026-10-24 15:00:00)</title>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261026043000 +0000" channel="Peacock_061">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
   </programme>
   <programme start="20261024040000 +0000" stop="20261024093000 +0000" channel="Peacock_062">
     <title>Women`s Giant Slalom Run 1 (2026-10-24 04:00:00)</title>
@@ -1275,11 +1863,29 @@
   <programme start="20261024070000 +0000" stop="20261024123000 +0000" channel="Peacock_063">
     <title>Women`s Giant Slalom Run 2 (2026-10-24 07:00:00)</title>
   </programme>
+  <programme start="20261025050000 +0000" stop="20261025104500 +0000" channel="Peacock_063">
+    <title>Men`s Giant Slalom Run 1 (2026-10-25 05:00:00)</title>
+  </programme>
   <programme start="20261024150000 +0000" stop="20261024230000 +0000" channel="Peacock_064">
     <title>B1G Saturday: Week 8 (2026-10-24 15:00:00)</title>
   </programme>
+  <programme start="20261025080000 +0000" stop="20261025133000 +0000" channel="Peacock_064">
+    <title>Men`s Giant Slalom Run 2 (2026-10-25 08:00:00)</title>
+  </programme>
   <programme start="20261024190000 +0000" stop="20261025030000 +0000" channel="Peacock_065">
     <title>B1G Saturday Night: Week 8 (2026-10-24 19:00:00)</title>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261026043000 +0000" channel="Peacock_065">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
+  </programme>
+  <programme start="20261025050000 +0000" stop="20261025104500 +0000" channel="Peacock_066">
+    <title>Men`s Giant Slalom Run 1 (2026-10-25 05:00:00)</title>
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025133000 +0000" channel="Peacock_067">
+    <title>Men`s Giant Slalom Run 2 (2026-10-25 08:00:00)</title>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261026043000 +0000" channel="Peacock_068">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
   </programme>
   <programme start="20261020145000 +0000" stop="20261020223000 +0000" channel="Peacock_071">
     <title>Celtics vs. Pistons (2026-10-20 14:50:00)</title>
@@ -1326,6 +1932,9 @@
   <programme start="20261020213005 +0000" stop="20261021043000 +0000" channel="Peacock_079">
     <title>Performance View: OKC vs. SAS (2026-10-20 21:30:05)</title>
   </programme>
+  <programme start="20261025190000 +0000" stop="20261026043000 +0000" channel="Peacock_079">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
+  </programme>
   <programme start="20261020145005 +0000" stop="20261020223000 +0000" channel="Peacock_080">
     <title>Performance View: BOS vs. DET (2026-10-20 14:50:05)</title>
   </programme>
@@ -1344,6 +1953,9 @@
   <programme start="20261024150000 +0000" stop="20261024230000 +0000" channel="Peacock_082">
     <title>B1G Saturday: Week 8 (2026-10-24 15:00:00)</title>
   </programme>
+  <programme start="20261025190000 +0000" stop="20261026043000 +0000" channel="Peacock_082">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
+  </programme>
   <programme start="20261020213000 +0000" stop="20261021043000 +0000" channel="Peacock_083">
     <title>Performance View: OKC vs. SAS (2026-10-20 21:30:00)</title>
   </programme>
@@ -1356,11 +1968,17 @@
   <programme start="20261020213005 +0000" stop="20261021040000 +0000" channel="Peacock_084">
     <title>Thunder vs. Spurs (2026-10-20 21:30:05)</title>
   </programme>
+  <programme start="20261025050000 +0000" stop="20261025104500 +0000" channel="Peacock_084">
+    <title>Men`s Giant Slalom Run 1 (2026-10-25 05:00:00)</title>
+  </programme>
   <programme start="20261020145005 +0000" stop="20261020223000 +0000" channel="Peacock_085">
     <title>Performance View: BOS vs. DET (2026-10-20 14:50:05)</title>
   </programme>
   <programme start="20261024150000 +0000" stop="20261024230000 +0000" channel="Peacock_085">
     <title>B1G Saturday: Week 8 (2026-10-24 15:00:00)</title>
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025133000 +0000" channel="Peacock_085">
+    <title>Men`s Giant Slalom Run 2 (2026-10-25 08:00:00)</title>
   </programme>
   <programme start="20261020183000 +0000" stop="20261021013000 +0000" channel="Peacock_086">
     <title>76ers vs. Knicks (2026-10-20 18:30:00)</title>
@@ -1368,8 +1986,14 @@
   <programme start="20261024190000 +0000" stop="20261025030000 +0000" channel="Peacock_086">
     <title>B1G Saturday Night: Week 8 (2026-10-24 19:00:00)</title>
   </programme>
+  <programme start="20261025190000 +0000" stop="20261026043000 +0000" channel="Peacock_086">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
+  </programme>
   <programme start="20261020183005 +0000" stop="20261021013000 +0000" channel="Peacock_087">
     <title>Performance View: PHI vs. NYK (2026-10-20 18:30:05)</title>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261026043000 +0000" channel="Peacock_087">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
   </programme>
   <programme start="20261020213000 +0000" stop="20261021043000 +0000" channel="Peacock_088">
     <title>Performance View: OKC vs. SAS (2026-10-20 21:30:00)</title>
@@ -1379,6 +2003,9 @@
   </programme>
   <programme start="20261020213005 +0000" stop="20261021040000 +0000" channel="Peacock_089">
     <title>Thunder vs. Spurs (2026-10-20 21:30:05)</title>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261026043000 +0000" channel="Peacock_089">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
   </programme>
   <programme start="20261020145005 +0000" stop="20261020223000 +0000" channel="Peacock_090">
     <title>Performance View: BOS vs. DET (2026-10-20 14:50:05)</title>
@@ -1398,6 +2025,9 @@
   <programme start="20261020183000 +0000" stop="20261021013000 +0000" channel="Peacock_092">
     <title>76ers vs. Knicks (2026-10-20 18:30:00)</title>
   </programme>
+  <programme start="20261025190000 +0000" stop="20261026043000 +0000" channel="Peacock_092">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
+  </programme>
   <programme start="20261020145000 +0000" stop="20261020223000 +0000" channel="Peacock_093">
     <title>Celtics vs. Pistons (2026-10-20 14:50:00)</title>
   </programme>
@@ -1413,6 +2043,9 @@
   <programme start="20261020210000 +0000" stop="20261021040000 +0000" channel="Peacock_094">
     <title>Performance View: OKC vs. SAS (2026-10-20 21:00:00)</title>
   </programme>
+  <programme start="20261025190000 +0000" stop="20261026043000 +0000" channel="Peacock_094">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
+  </programme>
   <programme start="20261020145000 +0000" stop="20261020223000 +0000" channel="Peacock_095">
     <title>Celtics vs. Pistons (2026-10-20 14:50:00)</title>
   </programme>
@@ -1424,6 +2057,9 @@
   </programme>
   <programme start="20261024150000 +0000" stop="20261024230000 +0000" channel="Peacock_095">
     <title>B1G Saturday: Week 8 (2026-10-24 15:00:00)</title>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261026043000 +0000" channel="Peacock_095">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
   </programme>
   <programme start="20261020145005 +0000" stop="20261020223000 +0000" channel="Peacock_096">
     <title>Performance View: BOS vs. DET (2026-10-20 14:50:05)</title>
@@ -1437,11 +2073,17 @@
   <programme start="20261024150000 +0000" stop="20261024230000 +0000" channel="Peacock_096">
     <title>B1G Saturday: Week 8 (2026-10-24 15:00:00)</title>
   </programme>
+  <programme start="20261025190000 +0000" stop="20261026043000 +0000" channel="Peacock_096">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
+  </programme>
   <programme start="20261020213000 +0000" stop="20261021043000 +0000" channel="Peacock_097">
     <title>Thunder vs. Spurs (2026-10-20 21:30:00)</title>
   </programme>
   <programme start="20261024190000 +0000" stop="20261025030000 +0000" channel="Peacock_097">
     <title>B1G Saturday Night: Week 8 (2026-10-24 19:00:00)</title>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261026043000 +0000" channel="Peacock_097">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
   </programme>
   <programme start="20261020145000 +0000" stop="20261020223000 +0000" channel="Peacock_098">
     <title>Celtics vs. Pistons (2026-10-20 14:50:00)</title>
@@ -1454,6 +2096,12 @@
   </programme>
   <programme start="20261024150000 +0000" stop="20261024230000 +0000" channel="Peacock_098">
     <title>B1G Saturday: Week 8 (2026-10-24 15:00:00)</title>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261026043000 +0000" channel="Peacock_098">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
+  </programme>
+  <programme start="20261025200000 +0000" stop="20261026033000 +0000" channel="Peacock_098">
+    <title>Chiefs vs. Seahawks (Español) (2026-10-25 20:00:00)</title>
   </programme>
   <programme start="20261020145000 +0000" stop="20261020223000 +0000" channel="Peacock_099">
     <title>Celtics vs. Pistons (2026-10-20 14:50:00)</title>
@@ -1475,5 +2123,8 @@
   </programme>
   <programme start="20261024190000 +0000" stop="20261025030000 +0000" channel="Peacock_100">
     <title>B1G Saturday Night: Week 8 (2026-10-24 19:00:00)</title>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261026043000 +0000" channel="Peacock_100">
+    <title>Chiefs vs. Seahawks (2026-10-25 19:00:00)</title>
   </programme>
 </tv>
